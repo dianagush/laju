@@ -19,7 +19,10 @@ function idBerita(tautan) {
 const hasilPerSumber = await Promise.all(
   config.sumber.map(async (s) => {
     try {
-      const item = await ambilFeed(s.url);
+      let item = await ambilFeed(s.url);
+      if (s.geserJam) {
+        item = item.map((i) => ({ ...i, terbit: new Date(Date.parse(i.terbit) + s.geserJam * 3600000).toISOString() }));
+      }
       return { sumber: s, item };
     } catch (err) {
       return { sumber: s, item: [], galat: err.message };

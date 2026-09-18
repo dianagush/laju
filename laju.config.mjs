@@ -23,14 +23,29 @@ export default {
     olahraga: { nama: 'Olahraga', nomor: 2, halaman: 'olahraga.html' },
   },
 
-  // Kanal RSS yang dipakai. Diuji aktif pada 18 September 2026.
+  // Kanal RSS yang dipakai. Semua diuji bisa dibaca dari server GitHub pada 18 September 2026
+  // (Actions → Uji sumber). Tidak dipakai karena memblokir server GitHub walau lancar dari komputer biasa:
+  // CNN Indonesia, CNBC Indonesia, dan detik (HTTP 403 / tidak merespons).
+  // geserJam: koreksi untuk feed yang menulis jam WIB tetapi memberi label GMT.
   sumber: [
-    { id: 'cnn-tekno', nama: 'CNN Indonesia', kanal: 'Teknologi', lajur: 'tekno', url: 'https://www.cnnindonesia.com/teknologi/rss' },
-    { id: 'cnbc-tech', nama: 'CNBC Indonesia', kanal: 'Tech', lajur: 'tekno', url: 'https://www.cnbcindonesia.com/tech/rss' },
+    { id: 'liputan6-tekno', nama: 'Liputan6', kanal: 'Tekno', lajur: 'tekno', url: 'https://feed.liputan6.com/rss/tekno' },
+    { id: 'viva-digital', nama: 'VIVA', kanal: 'Digital', lajur: 'tekno', url: 'https://www.viva.co.id/get/digital' },
+    { id: 'jawapos-tekno', nama: 'Jawa Pos', kanal: 'Teknologi', lajur: 'tekno', url: 'https://www.jawapos.com/rss/teknologi', geserJam: -7 },
+    { id: 'okezone-techno', nama: 'Okezone', kanal: 'Techno', lajur: 'tekno', url: 'https://sindikasi.okezone.com/index.php/rss/16/RSS2.0' },
+    { id: 'republika-tekno', nama: 'Republika', kanal: 'Tekno', lajur: 'tekno', url: 'https://www.republika.co.id/rss/tekno' },
     { id: 'antara-tekno', nama: 'ANTARA', kanal: 'Tekno', lajur: 'tekno', url: 'https://www.antaranews.com/rss/tekno.xml' },
-    { id: 'cnn-olahraga', nama: 'CNN Indonesia', kanal: 'Olahraga', lajur: 'olahraga', url: 'https://www.cnnindonesia.com/olahraga/rss' },
+
+    { id: 'liputan6-bola', nama: 'Liputan6', kanal: 'Bola', lajur: 'olahraga', url: 'https://feed.liputan6.com/rss/bola' },
+    { id: 'viva-bola', nama: 'VIVA', kanal: 'Bola', lajur: 'olahraga', url: 'https://www.viva.co.id/get/bola' },
+    { id: 'viva-sport', nama: 'VIVA', kanal: 'Sport', lajur: 'olahraga', url: 'https://www.viva.co.id/get/sport' },
+    { id: 'okezone-sports', nama: 'Okezone', kanal: 'Sports', lajur: 'olahraga', url: 'https://sindikasi.okezone.com/index.php/rss/2/RSS2.0' },
     { id: 'antara-bola', nama: 'ANTARA', kanal: 'Sepak Bola', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/sepakbola.xml' },
+    { id: 'antara-liga-indonesia', nama: 'ANTARA', kanal: 'Liga Indonesia', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/sepakbola-liga-indonesia.xml' },
+    { id: 'antara-bola-dunia', nama: 'ANTARA', kanal: 'Sepak Bola Internasional', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/sepakbola-internasional.xml' },
+    { id: 'antara-aneka', nama: 'ANTARA', kanal: 'Aneka Olahraga', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/olahraga-all-sport.xml' },
     { id: 'antara-bulutangkis', nama: 'ANTARA', kanal: 'Bulu Tangkis', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/olahraga-bulutangkis.xml' },
+    { id: 'antara-tenis', nama: 'ANTARA', kanal: 'Tenis', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/olahraga-tenis.xml' },
+    { id: 'antara-balap', nama: 'ANTARA', kanal: 'Balap', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/olahraga-balap.xml' },
   ],
 
   // Judul yang memuat kata ini dianggap di luar topik lajurnya lalu dibuang.
@@ -38,7 +53,7 @@ export default {
   saring: {
     tekno: [
       'bmkg', 'cuaca', 'hujan', 'gempa', 'kemarau', 'banjir', 'longsor', 'karhutla', 'el nino',
-      'kapal induk', 'ubur-ubur', 'badak', 'harimau', 'gajah', 'buaya', 'paus',
+      'kapal induk', 'ubur-ubur', 'badak', 'harimau', 'gajah', 'buaya', 'paus', 'kucing', 'spesies',
     ],
     olahraga: [],
   },

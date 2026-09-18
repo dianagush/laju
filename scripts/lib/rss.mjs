@@ -72,7 +72,8 @@ export function bacaFeed(xml) {
       judul,
       tautan,
       terbit: terbit.toISOString(),
-      cuplikan: potong(teksPolos(deskripsiMentah), 240),
+      // Buang dateline di awal cuplikan, mis. "REPUBLIKA.CO.ID, JAKARTA -- ".
+      cuplikan: potong(teksPolos(deskripsiMentah).replace(/^[A-Z0-9.,()' ]{3,60}\s(?:--|—|–|-)\s+/, ''), 240),
       gambar: cariGambar(potongan, deskripsiMentah),
     });
   }

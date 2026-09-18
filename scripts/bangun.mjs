@@ -102,9 +102,19 @@ const kotakTopik = topik.length
 </section>`
   : '';
 
+// Satu baris per media (bukan per kanal) supaya daftarnya ringkas.
+const perMedia = new Map();
+for (const s of status.sumber) {
+  const m = perMedia.get(s.nama) ?? { nama: s.nama, kanal: 0, gagal: 0, diterima: 0 };
+  m.kanal += 1;
+  m.diterima += s.diterima ?? 0;
+  if (!s.ok) m.gagal += 1;
+  perMedia.set(s.nama, m);
+}
 const kotakSumber = `<section class="kotak" aria-labelledby="judul-sumber">
 <h2 id="judul-sumber">Sumber hari ini</h2>
-<div class="daftar-sumber">${status.sumber.map((s) => `<div class="l-${s.lajur}"><span>${esc(s.nama)} · ${esc(s.kanal)}</span>${s.ok ? `<span class="data">${s.diterima} berita</span>` : '<span class="data galat">gagal diambil</span>'}</div>`).join('')}</div>
+<div class="daftar-sumber">${[...perMedia.values()].sort((a, b) => b.diterima - a.diterima).map((m) => `<div><span>${esc(m.nama)}${m.kanal > 1 ? ` <span class="data">· ${m.kanal} kanal</span>` : ''}</span>${m.gagal === m.kanal ? '<span class="data galat">gagal diambil</span>' : `<span class="data">${m.diterima} berita${m.gagal ? ` · ${m.gagal} kanal gagal` : ''}</span>`}</div>`).join('')}</div>
+<p><a href="tentang.html">Lihat status tiap kanal →</a></p>
 <p class="catatan">${esc(config.nama)} hanya menampilkan judul, cuplikan, dan gambar mini. Artikel lengkap selalu dibaca di situs aslinya.</p>
 </section>`;
 
