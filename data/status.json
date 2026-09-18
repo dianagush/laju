@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-18T08:17:33.341Z",
+  "diperbarui": "2026-09-18T08:23:20.761Z",
   "sumber": [
     {
       "id": "cnn-tekno",
@@ -7,7 +7,7 @@
       "kanal": "Teknologi",
       "lajur": "tekno",
       "ok": false,
-      "galat": "HTTP 403",
+      "galat": "HTTP 403 (akses ditolak media)",
       "jumlahFeed": 0,
       "diterima": 0,
       "dibuang": {
@@ -24,7 +24,7 @@
       "kanal": "Tech",
       "lajur": "tekno",
       "ok": false,
-      "galat": "HTTP 403",
+      "galat": "HTTP 403 (akses ditolak media)",
       "jumlahFeed": 0,
       "diterima": 0,
       "dibuang": {
@@ -58,7 +58,7 @@
       "kanal": "Olahraga",
       "lajur": "olahraga",
       "ok": false,
-      "galat": "HTTP 403",
+      "galat": "HTTP 403 (akses ditolak media)",
       "jumlahFeed": 0,
       "diterima": 0,
       "dibuang": {
