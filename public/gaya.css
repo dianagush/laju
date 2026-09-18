@@ -189,6 +189,7 @@ main { display: block; }
 .pil { padding: 3px 8px; background: var(--muda); color: var(--warna-tua); font-family: var(--f-data); font-size: 12px; }
 .terkait { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 6px; font-family: var(--f-data); font-size: 12px; color: var(--redup); }
 .terkait a { text-decoration: underline; text-underline-offset: 3px; color: var(--tinta-2); }
+.terkait-judul { color: var(--redup-2); }
 
 .tumpuk { display: flex; flex-direction: column; }
 .tumpuk-item { display: flex; gap: 18px; padding-block: 16px; border-top: 1px solid var(--garis); }

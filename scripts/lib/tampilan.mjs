@@ -113,14 +113,27 @@ ${isi}
 
 // ---------- Komponen berita ----------
 
+// Berita lain dalam cerita yang sama, media berbeda didahulukan.
+function beritaSerupa(k, maks) {
+  const media = new Set([k.utama.sumber]);
+  const dulu = [];
+  const nanti = [];
+  for (const x of k.lain) {
+    if (media.has(x.sumber)) nanti.push(x);
+    else {
+      media.add(x.sumber);
+      dulu.push(x);
+    }
+  }
+  return [...dulu, ...nanti].slice(0, maks);
+}
+
 export function kartuUtama(k, ctx) {
   const b = k.utama;
-  const pil = [];
-  if (k.jumlahSumber > 1) pil.push(`<span class="pil">+${k.jumlahSumber - 1} sumber</span>`);
-  if (k.lain.length) pil.push(`<span class="pil">${k.lain.length} berita terkait</span>`);
-  const terkait = k.lain.length
-    ? `<ul class="terkait">${k.lain
-        .slice(0, 3)
+  const pil = k.jumlahSumber > 1 ? `<span class="pil">Diberitakan ${k.jumlahSumber} media</span>` : '';
+  const serupa = beritaSerupa(k, 3);
+  const terkait = serupa.length
+    ? `<ul class="terkait"><li class="terkait-judul">Juga diberitakan:</li>${serupa
         .map((x) => `<li><a href="${esc(x.tautan)}" target="_blank" rel="noopener">${esc(x.judul)}</a> · ${esc(x.sumber)}</li>`)
         .join('')}</ul>`
     : '';
@@ -129,7 +142,7 @@ export function kartuUtama(k, ctx) {
 <div class="kicker"><b>${esc(kicker(b, ctx))}</b><span>${labelWaktu(b.terbit, ctx.hariIni)} WIB</span></div>
 <h3><a href="${esc(b.tautan)}" target="_blank" rel="noopener">${esc(b.judul)}</a></h3>
 ${b.cuplikan ? `<p class="dek">${esc(b.cuplikan)}</p>` : ''}
-<div class="asal"><strong>${esc(b.sumber)}</strong>${pil.join('')}</div>
+<div class="asal"><strong>${esc(b.sumber)}</strong>${pil}</div>
 ${terkait}
 </article>`;
 }
@@ -138,15 +151,22 @@ export function itemTumpuk(k, ctx) {
   const b = k.utama;
   return `<a class="tumpuk-item" href="${esc(b.tautan)}" target="_blank" rel="noopener">
 <span class="foto foto--kecil">${gambar(b.gambar)}</span>
-<span class="tumpuk-teks"><span class="label">${esc(kicker(b, ctx))}</span><span class="judul-kecil">${esc(b.judul)}</span><span class="data">${esc(b.sumber)} · ${labelWaktu(b.terbit, ctx.hariIni)}</span></span>
+<span class="tumpuk-teks"><span class="label">${esc(kicker(b, ctx))}</span><span class="judul-kecil">${esc(b.judul)}</span><span class="data">${asalCerita(k)} · ${labelWaktu(b.terbit, ctx.hariIni)}</span></span>
 </a>`;
 }
 
-export function barisBerita(b, ctx) {
+// "VIVA · juga di Liputan6, ANTARA"
+function asalCerita(k) {
+  return `${esc(k.utama.sumber)}${k.sumberLain.length ? ` · juga di ${esc(k.sumberLain.join(', '))}` : ''}`;
+}
+
+// Satu baris per cerita: berita yang sama dari media lain tidak ditampilkan lagi.
+export function barisCerita(k, ctx) {
+  const b = k.utama;
   return `<a class="baris l-${b.lajur}" data-lajur="${b.lajur}" href="${esc(b.tautan)}" target="_blank" rel="noopener">
 <span class="baris-waktu">${labelWaktu(b.terbit, ctx.hariIni)}</span>
 <span class="chip">${esc(ctx.config.lajur[b.lajur].nama)}</span>
-<span class="baris-teks"><span class="baris-judul">${esc(b.judul)}</span><span class="baris-asal">${esc(b.sumber)}</span></span>
+<span class="baris-teks"><span class="baris-judul">${esc(b.judul)}</span><span class="baris-asal">${asalCerita(k)}</span></span>
 </a>`;
 }
 

@@ -72,7 +72,7 @@
         wadah.textContent = '';
         if (!kata.length) { keterangan.textContent = 'Ketik kata kunci, misalnya nama tim, pemain, atau merek gawai.'; return; }
         var hasil = semua.filter(function (b) {
-          var t = normal(b.judul + ' ' + b.sumber);
+          var t = normal(b.judul + ' ' + b.sumber + ' ' + (b.juga || []).join(' '));
           return kata.every(function (k) { return t.indexOf(k) !== -1; });
         });
         keterangan.textContent = hasil.length
@@ -87,7 +87,7 @@
           a.appendChild(el('span', 'chip', b.lajur === 'tekno' ? 'Teknologi' : 'Olahraga'));
           var teks = el('span', 'baris-teks');
           teks.appendChild(el('span', 'baris-judul', b.judul));
-          teks.appendChild(el('span', 'baris-asal', b.sumber));
+          teks.appendChild(el('span', 'baris-asal', b.sumber + (b.juga && b.juga.length ? ' · juga di ' + b.juga.join(', ') : '')));
           a.appendChild(teks);
           wadah.appendChild(a);
         });

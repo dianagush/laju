@@ -42,33 +42,163 @@ export function terbitUlang(berita, batasHari) {
   return new Date(berita.terbit).getTime() - tanggalUrl > batasHari * 86400000;
 }
 
-function mirip(a, b) {
-  let sama = 0;
-  for (const t of a) if (b.has(t)) sama += 1;
-  return sama >= 3 && sama / Math.min(a.size, b.size) >= 0.5;
+// ---------- Menggabungkan berita yang sama dari sumber berbeda ----------
+//
+// Tiap berita diubah menjadi vektor TF-IDF dari judul (bobot 2) dan cuplikan (bobot 1).
+// Kata yang jarang muncul hari itu (nama pemain, skor, merek) berbobot besar; kata umum
+// ("Timnas", "Asian Games") berbobot kecil. Berita masuk ke sebuah cerita bila kemiripan
+// kosinusnya dengan pusat cerita ≥ AMBANG_SAMA, terbit dalam 48 jam, dan tidak bertentangan:
+// berita pra-laga (jadwal, live streaming) tidak digabung dengan hasil laga, dan
+// "Indonesia vs Nepal" tidak digabung dengan "Indonesia vs Jepang".
+// Ambang diuji pada 372 berita 17–18 September 2026.
+
+const AMBANG_SAMA = 0.5;
+const AMBANG_GABUNG = 0.5;
+const AMBANG_RATA = 0.4;
+const JENDELA_CERITA_JAM = 48;
+const PRA_LAGA = /\b(jadwal|link|live|streaming|siaran langsung|prediksi|jelang|sedang berlangsung)\b/i;
+const HASIL_LAGA = /\b(hasil|menang|kalah|gebuk|hajar|bungkam|lumat|libas|tekuk|tumbang|digebuk|hancurkan|bantai|klasemen|skor|lolos|tersingkir|perempat final|semifinal|usai)\b/i;
+
+// Pemotong imbuhan sederhana supaya "diblokir" dan "blokir" dianggap sama.
+function akarKata(w) {
+  if (w.length <= 5 || /\d/.test(w)) return w;
+  let s = w.replace(/(nya|lah|kah)$/, '');
+  if (s.length > 6) s = s.replace(/(kan|an)$/, '');
+  const p = s.match(/^(di|ter|ber|meng|meny|mem|men|me|peng|peny|pem|pen)(.{4,})$/);
+  return p ? p[2] : s;
 }
 
-// Kelompokkan berita yang membahas cerita yang sama (dalam satu lajur).
-// Tiap kelompok: { utama, lain, lajur, terbaru, jumlahSumber }. `utama` = laporan paling baru.
+function jenisLaga(judul) {
+  if (HASIL_LAGA.test(judul)) return 'hasil';
+  if (PRA_LAGA.test(judul)) return 'pra';
+  return null;
+}
+
+// Kata sesudah "vs" (lawan tanding), mis. "nepal" dari "Indonesia vs Nepal".
+function lawanTanding(judul) {
+  const m = judul.toLowerCase().match(/\bvs\.?\s+([\p{L}\d]+)/u);
+  return m ? m[1] : null;
+}
+
+function vektorTfIdf(berita) {
+  const mentah = berita.map((b) => {
+    const m = new Map();
+    for (const t of token(b.judul).map(akarKata)) m.set(t, (m.get(t) ?? 0) + 2);
+    for (const t of token(b.cuplikan ?? '').map(akarKata)) m.set(t, (m.get(t) ?? 0) + 1);
+    return m;
+  });
+  const df = new Map();
+  for (const v of mentah) for (const t of v.keys()) df.set(t, (df.get(t) ?? 0) + 1);
+  const n = berita.length;
+  return mentah.map((v) => {
+    const w = new Map();
+    let panjang = 0;
+    for (const [t, f] of v) {
+      const x = f * Math.log((n + 1) / (df.get(t) + 1));
+      w.set(t, x);
+      panjang += x * x;
+    }
+    panjang = Math.sqrt(panjang) || 1;
+    for (const [t, x] of w) w.set(t, x / panjang);
+    return w;
+  });
+}
+
+function kaliTitik(a, b) {
+  let s = 0;
+  for (const [t, x] of a) {
+    const y = b.get(t);
+    if (y) s += x * y;
+  }
+  return s;
+}
+
+function bertentangan(berita, cerita) {
+  const jenis = jenisLaga(berita.judul);
+  if (jenis && cerita.jenis && jenis !== cerita.jenis) return true;
+  const lawan = lawanTanding(berita.judul);
+  if (!lawan) return false;
+  return cerita.anggota.some((a) => {
+    const lawanA = lawanTanding(a.judul);
+    return lawanA && lawanA !== lawan && !a.judul.toLowerCase().includes(lawan) && !berita.judul.toLowerCase().includes(lawanA);
+  });
+}
+
+// Gabungkan berita yang membahas cerita yang sama (dalam satu lajur), dari sumber mana pun.
+// Tiap cerita: { lajur, utama, lain, terbaru, jumlahSumber, sumberLain }.
+// `utama` = berita yang paling mewakili cerita (paling dekat dengan pusatnya), diutamakan yang bergambar.
 export function kelompokkan(berita) {
   const urut = [...berita].sort((a, b) => a.terbit.localeCompare(b.terbit));
-  const tokenOf = new Map();
-  const kelompok = [];
-  for (const b of urut) {
-    const tb = new Set(token(b.judul));
-    tokenOf.set(b, tb);
-    const cocok = kelompok.find((k) => k.lajur === b.lajur && k.anggota.some((a) => mirip(tokenOf.get(a), tb)));
-    if (cocok) cocok.anggota.push(b);
-    else kelompok.push({ lajur: b.lajur, anggota: [b] });
+  const vektor = vektorTfIdf(urut);
+  const cerita = [];
+  urut.forEach((b, i) => {
+    const v = vektor[i];
+    const waktu = Date.parse(b.terbit);
+    let terbaik = null;
+    let skorTerbaik = 0;
+    for (const c of cerita) {
+      if (c.lajur !== b.lajur || waktu - c.terakhir > JENDELA_CERITA_JAM * 3600000) continue;
+      const skor = kaliTitik(v, c.pusat) / Math.sqrt(c.panjang2);
+      const rata = kaliTitik(v, c.pusat) / c.anggota.length;
+      if (skor > skorTerbaik && rata >= AMBANG_RATA && !bertentangan(b, c)) {
+        skorTerbaik = skor;
+        terbaik = c;
+      }
+    }
+    if (terbaik && skorTerbaik >= AMBANG_SAMA) {
+      terbaik.panjang2 += 2 * kaliTitik(v, terbaik.pusat) + 1;
+      for (const [t, x] of v) terbaik.pusat.set(t, (terbaik.pusat.get(t) ?? 0) + x);
+      terbaik.anggota.push(b);
+      terbaik.vektor.push(v);
+      terbaik.terakhir = waktu;
+      terbaik.jenis ??= jenisLaga(b.judul);
+    } else {
+      cerita.push({ lajur: b.lajur, anggota: [b], vektor: [v], pusat: new Map(v), panjang2: 1, awal: waktu, terakhir: waktu, jenis: jenisLaga(b.judul) });
+    }
+  });
+
+  // Tahap 2: urutan masuk kadang memecah satu cerita menjadi beberapa kelompok
+  // (mis. hasil laga yang sama dari CNN dan dari Liputan6). Gabungkan kelompok yang pusatnya mirip.
+  const jendela = JENDELA_CERITA_JAM * 3600000;
+  for (let ada = true; ada; ) {
+    ada = false;
+    for (let i = 0; i < cerita.length; i += 1) {
+      const a = cerita[i];
+      for (let j = i + 1; j < cerita.length; j += 1) {
+        const c = cerita[j];
+        if (c.lajur !== a.lajur || c.awal - a.terakhir > jendela || a.awal - c.terakhir > jendela) continue;
+        if (a.jenis && c.jenis && a.jenis !== c.jenis) continue;
+        const titik = kaliTitik(a.pusat, c.pusat);
+        if (titik / Math.sqrt(a.panjang2 * c.panjang2) < AMBANG_GABUNG) continue;
+        if (titik / (a.anggota.length * c.anggota.length) < AMBANG_RATA) continue;
+        if (c.anggota.some((b) => bertentangan(b, a))) continue;
+        a.panjang2 += c.panjang2 + 2 * titik;
+        for (const [t, x] of c.pusat) a.pusat.set(t, (a.pusat.get(t) ?? 0) + x);
+        a.anggota.push(...c.anggota);
+        a.vektor.push(...c.vektor);
+        a.awal = Math.min(a.awal, c.awal);
+        a.terakhir = Math.max(a.terakhir, c.terakhir);
+        a.jenis ??= c.jenis;
+        cerita.splice(j, 1);
+        j -= 1;
+        ada = true;
+      }
+    }
   }
-  return kelompok.map((k) => {
-    const baruDulu = [...k.anggota].reverse();
+
+  return cerita.map((c) => {
+    const skor = c.anggota.map((b, i) => kaliTitik(c.vektor[i], c.pusat) + (b.gambar ? 0.05 : 0));
+    const iUtama = skor.indexOf(Math.max(...skor));
+    const utama = c.anggota[iUtama];
+    const lain = c.anggota.filter((_, i) => i !== iUtama).sort((a, b) => b.terbit.localeCompare(a.terbit));
+    const sumberLain = [...new Set(lain.map((b) => b.sumber))].filter((s) => s !== utama.sumber);
     return {
-      lajur: k.lajur,
-      utama: baruDulu[0],
-      lain: baruDulu.slice(1),
-      terbaru: baruDulu[0].terbit,
-      jumlahSumber: new Set(k.anggota.map((a) => a.sumber)).size,
+      lajur: c.lajur,
+      utama,
+      lain,
+      terbaru: c.anggota.reduce((t, b) => (b.terbit > t ? b.terbit : t), ''),
+      jumlahSumber: sumberLain.length + 1,
+      sumberLain,
     };
   });
 }

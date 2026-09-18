@@ -96,6 +96,16 @@ data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
 .github/workflows/       jadwal otomatis GitHub Actions
 ```
 
+## Berita yang sama dari beberapa media
+
+Berita yang membahas kejadian yang sama digabung menjadi satu "cerita" di semua halaman: satu judul tampil, media lain dicantumkan sebagai "juga di VIVA, Liputan6". Caranya ada di `kelompokkan()` dalam `scripts/lib/olah.mjs`:
+
+- Judul dan cuplikan dibandingkan dengan bobot TF-IDF: kata yang jarang muncul (nama pemain, skor, merek) menentukan, kata umum ("Timnas", "Asian Games") hampir tidak berpengaruh.
+- Berita pra-laga (jadwal, live streaming) tidak digabung dengan hasil laga, dan "Indonesia vs Nepal" tidak digabung dengan "Indonesia vs Jepang".
+- Penggabungan dihitung sekali untuk 14 hari terakhir, jadi cerita yang melintasi tengah malam tidak muncul dua kali.
+
+Batasnya: cara ini membandingkan kata, bukan makna. Dua judul yang memakai kata yang sama sekali berbeda untuk kejadian yang sama (misalnya "cepirit" dan "buang air besar di celana") masih bisa tampil terpisah. Kalau terlalu longgar atau terlalu ketat, ubah `AMBANG_SAMA` (bawaan 0.5; lebih tinggi = lebih jarang menggabung).
+
 ## Catatan
 
 - Folder ini ada di OneDrive. Menjalankan `npm install` membuat folder `node_modules` berisi ratusan berkas yang ikut disinkronkan. Folder itu hanya dibutuhkan untuk Ringkasan Pagi di komputer sendiri. Di GitHub, pemasangan terjadi otomatis.
