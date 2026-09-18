@@ -44,20 +44,38 @@ export function terbitUlang(berita, batasHari) {
 
 // ---------- Menggabungkan berita yang sama dari sumber berbeda ----------
 //
-// Tiap berita diubah menjadi vektor TF-IDF dari judul (bobot 2) dan cuplikan (bobot 1).
-// Kata yang jarang muncul hari itu (nama pemain, skor, merek) berbobot besar; kata umum
-// ("Timnas", "Asian Games") berbobot kecil. Berita masuk ke sebuah cerita bila kemiripan
-// kosinusnya dengan pusat cerita ≥ AMBANG_SAMA, terbit dalam 48 jam, dan tidak bertentangan:
-// berita pra-laga (jadwal, live streaming) tidak digabung dengan hasil laga, dan
-// "Indonesia vs Nepal" tidak digabung dengan "Indonesia vs Jepang".
-// Ambang diuji pada 372 berita 17–18 September 2026.
+// Tiap berita diubah menjadi vektor TF-IDF dari judul dan cuplikan. Kata yang jarang muncul
+// (nama pemain, skor, merek) berbobot besar; kata umum ("Timnas", "Asian Games") berbobot kecil.
+// Berita masuk ke sebuah cerita bila kemiripan kosinusnya dengan pusat cerita ≥ ambang, terbit
+// berdekatan, dan tidak bertentangan (pra-laga vs hasil laga, lawan tanding berbeda).
+// Semua angka dan daftar kata diatur di laju.config.mjs bagian `duplikat`;
+// nilai di bawah hanya dipakai bila bagian itu tidak ada.
 
-const AMBANG_SAMA = 0.5;
-const AMBANG_GABUNG = 0.5;
-const AMBANG_RATA = 0.4;
-const JENDELA_CERITA_JAM = 48;
-const PRA_LAGA = /\b(jadwal|link|live|streaming|siaran langsung|prediksi|jelang|sedang berlangsung)\b/i;
-const HASIL_LAGA = /\b(hasil|menang|kalah|gebuk|hajar|bungkam|lumat|libas|tekuk|tumbang|digebuk|hancurkan|bantai|klasemen|skor|lolos|tersingkir|perempat final|semifinal|usai)\b/i;
+const DUPLIKAT_BAWAAN = {
+  aktif: true,
+  ambang: 0.5,
+  ambangRataRata: 0.4,
+  jendelaJam: 48,
+  bobotJudul: 2,
+  bobotCuplikan: 1,
+  pisahkanPraDanHasil: true,
+  kataPraLaga: [],
+  kataHasilLaga: [],
+  pisahkanLawanBerbeda: true,
+  sinonim: [],
+};
+
+function pengaturanDuplikat(pengaturan = {}) {
+  const p = { ...DUPLIKAT_BAWAAN, ...pengaturan };
+  // Tiap variasi sinonim diganti satu kata baku, mis. "man city" → "manchester_city".
+  p.aturanSinonim = p.sinonim
+    .flatMap((kelompok) => {
+      const baku = kelompok[0].toLowerCase().split(/\s+/).join('_');
+      return kelompok.map((v) => ({ kata: v.toLowerCase().split(/\s+/), baku }));
+    })
+    .sort((a, b) => b.kata.length - a.kata.length);
+  return p;
+}
 
 // Pemotong imbuhan sederhana supaya "diblokir" dan "blokir" dianggap sama.
 function akarKata(w) {
@@ -68,9 +86,27 @@ function akarKata(w) {
   return p ? p[2] : s;
 }
 
-function jenisLaga(judul) {
-  if (HASIL_LAGA.test(judul)) return 'hasil';
-  if (PRA_LAGA.test(judul)) return 'pra';
+// Kata-kata penting sebuah teks: sinonim diseragamkan, kata umum dibuang, imbuhan dipotong.
+function kataPenting(teks, p) {
+  const kata = pecah(teks).map((t) => t.kecil);
+  const hasil = [];
+  for (let i = 0; i < kata.length; ) {
+    const cocok = p.aturanSinonim.find((a) => a.kata.every((k, j) => kata[i + j] === k));
+    if (cocok) {
+      hasil.push(cocok.baku);
+      i += cocok.kata.length;
+    } else {
+      if (!KATA_UMUM.has(kata[i])) hasil.push(akarKata(kata[i]));
+      i += 1;
+    }
+  }
+  return hasil;
+}
+
+function jenisLaga(judul, p) {
+  if (!p.pisahkanPraDanHasil) return null;
+  if (memuatKata(judul, p.kataHasilLaga)) return 'hasil';
+  if (memuatKata(judul, p.kataPraLaga)) return 'pra';
   return null;
 }
 
@@ -80,11 +116,18 @@ function lawanTanding(judul) {
   return m ? m[1] : null;
 }
 
-function vektorTfIdf(berita) {
+function lawanBerbeda(a, b, p) {
+  if (!p.pisahkanLawanBerbeda) return false;
+  const la = lawanTanding(a.judul);
+  const lb = lawanTanding(b.judul);
+  return Boolean(la && lb && la !== lb && !a.judul.toLowerCase().includes(lb) && !b.judul.toLowerCase().includes(la));
+}
+
+function vektorTfIdf(berita, p) {
   const mentah = berita.map((b) => {
     const m = new Map();
-    for (const t of token(b.judul).map(akarKata)) m.set(t, (m.get(t) ?? 0) + 2);
-    for (const t of token(b.cuplikan ?? '').map(akarKata)) m.set(t, (m.get(t) ?? 0) + 1);
+    for (const t of kataPenting(b.judul, p)) m.set(t, (m.get(t) ?? 0) + p.bobotJudul);
+    for (const t of kataPenting(b.cuplikan ?? '', p)) m.set(t, (m.get(t) ?? 0) + p.bobotCuplikan);
     return m;
   });
   const df = new Map();
@@ -113,54 +156,50 @@ function kaliTitik(a, b) {
   return s;
 }
 
-function bertentangan(berita, cerita) {
-  const jenis = jenisLaga(berita.judul);
+function bertentangan(berita, cerita, p) {
+  const jenis = jenisLaga(berita.judul, p);
   if (jenis && cerita.jenis && jenis !== cerita.jenis) return true;
-  const lawan = lawanTanding(berita.judul);
-  if (!lawan) return false;
-  return cerita.anggota.some((a) => {
-    const lawanA = lawanTanding(a.judul);
-    return lawanA && lawanA !== lawan && !a.judul.toLowerCase().includes(lawan) && !berita.judul.toLowerCase().includes(lawanA);
-  });
+  return cerita.anggota.some((a) => lawanBerbeda(berita, a, p));
 }
 
-// Gabungkan berita yang membahas cerita yang sama (dalam satu lajur), dari sumber mana pun.
-// Tiap cerita: { lajur, utama, lain, terbaru, jumlahSumber, sumberLain }.
-// `utama` = berita yang paling mewakili cerita (paling dekat dengan pusatnya), diutamakan yang bergambar.
-export function kelompokkan(berita) {
+// Inti penggabungan; mengembalikan cerita beserta vektor tiap berita (dipakai juga oleh cek-duplikat).
+function susunCerita(berita, p) {
   const urut = [...berita].sort((a, b) => a.terbit.localeCompare(b.terbit));
-  const vektor = vektorTfIdf(urut);
+  const vektor = vektorTfIdf(urut, p);
+  const jendela = p.jendelaJam * 3600000;
   const cerita = [];
+
   urut.forEach((b, i) => {
     const v = vektor[i];
     const waktu = Date.parse(b.terbit);
     let terbaik = null;
     let skorTerbaik = 0;
-    for (const c of cerita) {
-      if (c.lajur !== b.lajur || waktu - c.terakhir > JENDELA_CERITA_JAM * 3600000) continue;
-      const skor = kaliTitik(v, c.pusat) / Math.sqrt(c.panjang2);
-      const rata = kaliTitik(v, c.pusat) / c.anggota.length;
-      if (skor > skorTerbaik && rata >= AMBANG_RATA && !bertentangan(b, c)) {
-        skorTerbaik = skor;
-        terbaik = c;
+    if (p.aktif) {
+      for (const c of cerita) {
+        if (c.lajur !== b.lajur || waktu - c.terakhir > jendela) continue;
+        const titik = kaliTitik(v, c.pusat);
+        const skor = titik / Math.sqrt(c.panjang2);
+        if (skor > skorTerbaik && titik / c.anggota.length >= p.ambangRataRata && !bertentangan(b, c, p)) {
+          skorTerbaik = skor;
+          terbaik = c;
+        }
       }
     }
-    if (terbaik && skorTerbaik >= AMBANG_SAMA) {
+    if (terbaik && skorTerbaik >= p.ambang) {
       terbaik.panjang2 += 2 * kaliTitik(v, terbaik.pusat) + 1;
       for (const [t, x] of v) terbaik.pusat.set(t, (terbaik.pusat.get(t) ?? 0) + x);
       terbaik.anggota.push(b);
       terbaik.vektor.push(v);
       terbaik.terakhir = waktu;
-      terbaik.jenis ??= jenisLaga(b.judul);
+      terbaik.jenis ??= jenisLaga(b.judul, p);
     } else {
-      cerita.push({ lajur: b.lajur, anggota: [b], vektor: [v], pusat: new Map(v), panjang2: 1, awal: waktu, terakhir: waktu, jenis: jenisLaga(b.judul) });
+      cerita.push({ lajur: b.lajur, anggota: [b], vektor: [v], pusat: new Map(v), panjang2: 1, awal: waktu, terakhir: waktu, jenis: jenisLaga(b.judul, p) });
     }
   });
 
   // Tahap 2: urutan masuk kadang memecah satu cerita menjadi beberapa kelompok
   // (mis. hasil laga yang sama dari CNN dan dari Liputan6). Gabungkan kelompok yang pusatnya mirip.
-  const jendela = JENDELA_CERITA_JAM * 3600000;
-  for (let ada = true; ada; ) {
+  for (let ada = p.aktif; ada; ) {
     ada = false;
     for (let i = 0; i < cerita.length; i += 1) {
       const a = cerita[i];
@@ -169,9 +208,9 @@ export function kelompokkan(berita) {
         if (c.lajur !== a.lajur || c.awal - a.terakhir > jendela || a.awal - c.terakhir > jendela) continue;
         if (a.jenis && c.jenis && a.jenis !== c.jenis) continue;
         const titik = kaliTitik(a.pusat, c.pusat);
-        if (titik / Math.sqrt(a.panjang2 * c.panjang2) < AMBANG_GABUNG) continue;
-        if (titik / (a.anggota.length * c.anggota.length) < AMBANG_RATA) continue;
-        if (c.anggota.some((b) => bertentangan(b, a))) continue;
+        if (titik / Math.sqrt(a.panjang2 * c.panjang2) < p.ambang) continue;
+        if (titik / (a.anggota.length * c.anggota.length) < p.ambangRataRata) continue;
+        if (c.anggota.some((b) => bertentangan(b, a, p))) continue;
         a.panjang2 += c.panjang2 + 2 * titik;
         for (const [t, x] of c.pusat) a.pusat.set(t, (a.pusat.get(t) ?? 0) + x);
         a.anggota.push(...c.anggota);
@@ -185,22 +224,63 @@ export function kelompokkan(berita) {
       }
     }
   }
+  return { cerita, urut, vektor };
+}
 
-  return cerita.map((c) => {
-    const skor = c.anggota.map((b, i) => kaliTitik(c.vektor[i], c.pusat) + (b.gambar ? 0.05 : 0));
-    const iUtama = skor.indexOf(Math.max(...skor));
-    const utama = c.anggota[iUtama];
-    const lain = c.anggota.filter((_, i) => i !== iUtama).sort((a, b) => b.terbit.localeCompare(a.terbit));
-    const sumberLain = [...new Set(lain.map((b) => b.sumber))].filter((s) => s !== utama.sumber);
-    return {
-      lajur: c.lajur,
-      utama,
-      lain,
-      terbaru: c.anggota.reduce((t, b) => (b.terbit > t ? b.terbit : t), ''),
-      jumlahSumber: sumberLain.length + 1,
-      sumberLain,
-    };
-  });
+function bentukCerita(c) {
+  const skor = c.anggota.map((b, i) => kaliTitik(c.vektor[i], c.pusat) + (b.gambar ? 0.05 : 0));
+  const iUtama = skor.indexOf(Math.max(...skor));
+  const utama = c.anggota[iUtama];
+  const lain = c.anggota.filter((_, i) => i !== iUtama).sort((a, b) => b.terbit.localeCompare(a.terbit));
+  const sumberLain = [...new Set(lain.map((b) => b.sumber))].filter((s) => s !== utama.sumber);
+  return {
+    lajur: c.lajur,
+    utama,
+    lain,
+    terbaru: c.anggota.reduce((t, b) => (b.terbit > t ? b.terbit : t), ''),
+    jumlahSumber: sumberLain.length + 1,
+    sumberLain,
+  };
+}
+
+// Gabungkan berita yang membahas cerita yang sama (dalam satu lajur), dari sumber mana pun.
+// Tiap cerita: { lajur, utama, lain, terbaru, jumlahSumber, sumberLain }.
+// `utama` = berita yang paling mewakili cerita (paling dekat dengan pusatnya), diutamakan yang bergambar.
+export function kelompokkan(berita, pengaturan) {
+  const p = pengaturanDuplikat(pengaturan);
+  return susunCerita(berita, p).cerita.map(bentukCerita);
+}
+
+// Untuk npm run cek-duplikat: cerita hasil gabungan, plus pasangan berita yang mirip
+// (kemiripan ≥ batasBawah) tetapi tidak digabung, beserta alasannya.
+export function periksaDuplikat(berita, pengaturan, { batasBawah = 0.35 } = {}) {
+  const p = pengaturanDuplikat(pengaturan);
+  const { cerita, urut, vektor } = susunCerita(berita, p);
+  const ceritaDari = new Map();
+  cerita.forEach((c, i) => c.anggota.forEach((b) => ceritaDari.set(b, i)));
+  const jendela = p.jendelaJam * 3600000;
+  const hampir = [];
+  for (let i = 0; i < urut.length; i += 1) {
+    for (let j = i + 1; j < urut.length; j += 1) {
+      const a = urut[i];
+      const b = urut[j];
+      if (a.lajur !== b.lajur || ceritaDari.get(a) === ceritaDari.get(b)) continue;
+      if (Date.parse(b.terbit) - Date.parse(a.terbit) > jendela) continue;
+      const skor = kaliTitik(vektor[i], vektor[j]);
+      if (skor < batasBawah) continue;
+      const ja = jenisLaga(a.judul, p);
+      const jb = jenisLaga(b.judul, p);
+      let alasan;
+      if (!p.aktif) alasan = 'penggabungan nonaktif';
+      else if (ja && jb && ja !== jb) alasan = 'pra-laga vs hasil';
+      else if (lawanBerbeda(a, b, p)) alasan = 'lawan tanding berbeda';
+      else if (skor < p.ambang) alasan = 'di bawah ambang';
+      else alasan = 'masuk cerita lain';
+      hampir.push({ skor, a, b, alasan });
+    }
+  }
+  hampir.sort((x, y) => y.skor - x.skor);
+  return { pengaturan: p, cerita: cerita.map(bentukCerita), hampir };
 }
 
 // Skor: makin banyak berita dan media yang meliput, makin penting; makin lama, makin turun.

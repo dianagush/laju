@@ -52,7 +52,7 @@ const berita24Jam = [hariIni, geserHari(hariIni, -1)]
 const kandidat = new Map();
 const blokTeks = {};
 for (const lajur of Object.keys(config.lajur)) {
-  const kelompok = urutPenting(kelompokkan(berita24Jam.filter((b) => b.lajur === lajur)), sekarang.getTime()).slice(0, KANDIDAT_PER_LAJUR);
+  const kelompok = urutPenting(kelompokkan(berita24Jam.filter((b) => b.lajur === lajur), config.duplikat), sekarang.getTime()).slice(0, KANDIDAT_PER_LAJUR);
   blokTeks[lajur] = kelompok
     .map((k, i) => {
       const kode = `${lajur === 'tekno' ? 't' : 'o'}${i + 1}`;

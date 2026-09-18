@@ -41,12 +41,12 @@ const ctx = { config, status, hariIni, topik };
 const urutWaktu = (a, b) => b.terbit.localeCompare(a.terbit);
 const urutCerita = (a, b) => b.utama.terbit.localeCompare(a.utama.terbit);
 // Cerita (berita sama dari media berbeda digabung) per lajur, terbaru dulu.
-const ceritaDari = (berita, lajur) => kelompokkan(berita.filter((b) => b.lajur === lajur)).sort(urutCerita);
+const ceritaDari = (berita, lajur) => kelompokkan(berita.filter((b) => b.lajur === lajur), config.duplikat).sort(urutCerita);
 
-// Penggabungan dilakukan sekali untuk 14 hari terakhir dan dipakai di semua halaman,
-// supaya cerita yang melintasi tengah malam tidak muncul dua kali.
+// Penggabungan dihitung sekali untuk beberapa hari terakhir (duplikat.hariDiperiksa di laju.config.mjs)
+// dan dipakai di semua halaman, supaya cerita yang melintasi tengah malam tidak muncul dua kali.
 // Tiap cerita ditampilkan pada hari terbit berita utamanya.
-const HARI_CERITA = 14;
+const HARI_CERITA = config.duplikat?.hariDiperiksa ?? 14;
 const tanggalTerkini = tanggalBerita.slice(0, HARI_CERITA);
 const ceritaTerkini = Object.fromEntries(LAJUR.map((l) => [l, ceritaDari(tanggalTerkini.flatMap(beritaHari), l)]));
 const hariCerita = (k) => tanggalWIB(k.utama.terbit);

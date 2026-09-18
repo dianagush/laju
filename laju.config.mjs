@@ -62,4 +62,52 @@ export default {
     tekno: ['teknologi', 'drone', 'satelit', 'robot', 'aplikasi', 'ai', 'chip', 'sensor', 'digital'],
     olahraga: [],
   },
+
+  // Pemeriksaan berita duplikat: berita yang sama dari media berbeda digabung menjadi satu
+  // cerita ("VIVA · juga di Liputan6, ANTARA"). Setelah mengubah bagian ini, lihat efeknya
+  // dengan `npm run cek-duplikat` sebelum di-push.
+  duplikat: {
+    // false = semua berita tampil apa adanya, tanpa digabung.
+    aktif: true,
+
+    // Kemiripan minimum (0–1) agar dua berita dianggap sama. Lebih tinggi = lebih jarang menggabung.
+    // 0.5 diuji pada 372 berita 17–18 September 2026: di atasnya hampir selalu berita yang sama.
+    ambang: 0.5,
+    // Kemiripan rata-rata dengan semua anggota cerita. Mencegah satu cerita melebar menjadi
+    // topik umum (mis. semua berita Asian Games). Lebih tinggi = cerita lebih sempit.
+    ambangRataRata: 0.4,
+
+    // Hanya berita yang terbit berdekatan yang dibandingkan (jam).
+    jendelaJam: 48,
+    // Penggabungan dihitung untuk sekian hari terakhir (beranda, halaman lajur, arsip, cari).
+    hariDiperiksa: 14,
+
+    // Bobot judul dan cuplikan saat dibandingkan. Judul lebih menentukan.
+    bobotJudul: 2,
+    bobotCuplikan: 1,
+
+    // Jangan gabungkan berita pra-laga (jadwal, siaran langsung) dengan hasil laga,
+    // walau membahas pertandingan yang sama.
+    pisahkanPraDanHasil: true,
+    kataPraLaga: ['jadwal', 'link', 'live', 'streaming', 'siaran langsung', 'prediksi', 'jelang', 'sedang berlangsung'],
+    kataHasilLaga: [
+      'hasil', 'menang', 'kalah', 'gebuk', 'hajar', 'bungkam', 'lumat', 'libas', 'tekuk', 'tumbang', 'digebuk',
+      'hancurkan', 'bantai', 'klasemen', 'skor', 'lolos', 'tersingkir', 'perempat final', 'semifinal', 'usai',
+    ],
+
+    // Jangan gabungkan "Indonesia vs Nepal" dengan "Indonesia vs Jepang".
+    pisahkanLawanBerbeda: true,
+
+    // Kata atau frasa yang artinya sama; satu baris satu kelompok. Tambahkan di sini bila
+    // `npm run cek-duplikat` menunjukkan berita yang sama lolos karena media memakai istilah berbeda.
+    sinonim: [
+      ['buang air besar', 'cepirit'],
+      ['manchester city', 'man city'],
+      ['manchester united', 'man united', 'mu'],
+      ['kementerian komunikasi dan digital', 'komdigi'],
+      ['bulu tangkis', 'bulutangkis', 'badminton'],
+      ['sepak bola', 'sepakbola'],
+      ['kecerdasan buatan', 'ai'],
+    ],
+  },
 };

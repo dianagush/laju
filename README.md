@@ -25,6 +25,8 @@ Lalu buka http://localhost:4321.
 | `npm run bangun` | Bangun situs ke `dist/` |
 | `npm run perbarui` | Ketiganya sekaligus |
 | `npm run lihat` | Pratinjau `dist/` di browser |
+| `npm run cek-duplikat` | Laporan penggabungan berita duplikat (lihat di bawah) |
+| `npm run uji-sumber` | Uji apakah kanal RSS bisa dibaca dari komputer ini |
 
 ## Menayangkan online (gratis, diperbarui otomatis)
 
@@ -104,7 +106,34 @@ Berita yang membahas kejadian yang sama digabung menjadi satu "cerita" di semua 
 - Berita pra-laga (jadwal, live streaming) tidak digabung dengan hasil laga, dan "Indonesia vs Nepal" tidak digabung dengan "Indonesia vs Jepang".
 - Penggabungan dihitung sekali untuk 14 hari terakhir, jadi cerita yang melintasi tengah malam tidak muncul dua kali.
 
-Batasnya: cara ini membandingkan kata, bukan makna. Dua judul yang memakai kata yang sama sekali berbeda untuk kejadian yang sama (misalnya "cepirit" dan "buang air besar di celana") masih bisa tampil terpisah. Kalau terlalu longgar atau terlalu ketat, ubah `AMBANG_SAMA` (bawaan 0.5; lebih tinggi = lebih jarang menggabung).
+Batasnya: cara ini membandingkan kata, bukan makna. Dua judul yang memakai istilah berbeda untuk kejadian yang sama bisa lolos; untuk itu ada daftar sinonim.
+
+### Pengaturan
+
+Semua pengaturan ada di `laju.config.mjs` bagian `duplikat`:
+
+| Pengaturan | Bawaan | Fungsi |
+|---|---|---|
+| `aktif` | `true` | `false` = semua berita tampil apa adanya, tanpa digabung |
+| `ambang` | `0.5` | Kemiripan minimum (0–1). Lebih tinggi = lebih jarang menggabung |
+| `ambangRataRata` | `0.4` | Mencegah satu cerita melebar menjadi topik umum |
+| `jendelaJam` | `48` | Hanya berita yang terbit berdekatan yang dibandingkan |
+| `hariDiperiksa` | `14` | Rentang hari yang digabung untuk semua halaman |
+| `bobotJudul`, `bobotCuplikan` | `2`, `1` | Seberapa menentukan judul dibanding cuplikan |
+| `pisahkanPraDanHasil`, `kataPraLaga`, `kataHasilLaga` | aktif | Jadwal/siaran langsung tidak digabung dengan hasil laga |
+| `pisahkanLawanBerbeda` | `true` | "Indonesia vs Nepal" tidak digabung dengan "vs Jepang" |
+| `sinonim` | 7 kelompok | Istilah yang artinya sama, mis. `['buang air besar', 'cepirit']` |
+
+### Memeriksa hasilnya
+
+```bash
+npm run cek-duplikat
+```
+
+Laporan ini tidak mengubah apa pun. Isinya: jumlah berita yang digabung, cerita gabungan terbesar beserta anggotanya, dan pasangan berita yang mirip tetapi tidak digabung beserta alasannya ("di bawah ambang", "pra-laga vs hasil", "lawan tanding berbeda"). Tambahkan tanggal untuk memeriksa hari tertentu (`npm run cek-duplikat -- 2026-09-18`), atau `--semua` untuk daftar lengkap.
+
+- Cerita gabungan berisi berita yang ternyata berbeda: naikkan `ambang` atau `ambangRataRata`.
+- Berita yang sama muncul "di bawah ambang" karena beda istilah: tambahkan ke `sinonim`.
 
 ## Catatan
 
