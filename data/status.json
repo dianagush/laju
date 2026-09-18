@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-18T08:57:20.883Z",
+  "diperbarui": "2026-09-18T09:15:16.245Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -16,7 +16,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T07:37:42.000Z"
+      "terbaru": "2026-09-18T09:00:36.000Z"
     },
     {
       "id": "viva-digital",
@@ -60,11 +60,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 30,
-      "diterima": 5,
+      "diterima": 4,
       "dibuang": {
         "luarTopik": 1,
         "terbitUlang": 0,
-        "terlaluLama": 24,
+        "terlaluLama": 25,
         "masaDepan": 0
       },
       "terbaru": "2026-09-18T07:44:21.000Z"
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T08:51:39.000Z"
+      "terbaru": "2026-09-18T09:00:00.000Z"
     },
     {
       "id": "viva-sport",
@@ -179,14 +179,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 6,
+      "diterima": 7,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 14,
+        "terlaluLama": 13,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T08:56:45.000Z"
+      "terbaru": "2026-09-18T09:07:52.000Z"
     },
     {
       "id": "antara-liga-indonesia",
@@ -203,7 +203,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T08:56:45.000Z"
+      "terbaru": "2026-09-18T09:05:23.000Z"
     },
     {
       "id": "antara-bola-dunia",
@@ -213,14 +213,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 14,
+      "diterima": 15,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 6,
+        "terlaluLama": 5,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-17T23:07:35.000Z"
+      "terbaru": "2026-09-18T09:07:52.000Z"
     },
     {
       "id": "antara-aneka",
@@ -247,14 +247,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 9,
+      "diterima": 10,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 11,
+        "terlaluLama": 10,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-16T14:59:54.000Z"
+      "terbaru": "2026-09-18T09:12:54.000Z"
     },
     {
       "id": "antara-tenis",
