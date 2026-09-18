@@ -121,13 +121,13 @@ export function kartuUtama(k, ctx) {
   const terkait = k.lain.length
     ? `<ul class="terkait">${k.lain
         .slice(0, 3)
-        .map((x) => `<li><a href="${esc(x.tautan)}" rel="noopener">${esc(x.judul)}</a> · ${esc(x.sumber)}</li>`)
+        .map((x) => `<li><a href="${esc(x.tautan)}" target="_blank" rel="noopener">${esc(x.judul)}</a> · ${esc(x.sumber)}</li>`)
         .join('')}</ul>`
     : '';
   return `<article class="utama">
-<a class="foto foto--besar" href="${esc(b.tautan)}" rel="noopener" tabindex="-1" aria-hidden="true">${gambar(b.gambar, { segera: true })}</a>
+<a class="foto foto--besar" href="${esc(b.tautan)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">${gambar(b.gambar, { segera: true })}</a>
 <div class="kicker"><b>${esc(kicker(b, ctx))}</b><span>${labelWaktu(b.terbit, ctx.hariIni)} WIB</span></div>
-<h3><a href="${esc(b.tautan)}" rel="noopener">${esc(b.judul)}</a></h3>
+<h3><a href="${esc(b.tautan)}" target="_blank" rel="noopener">${esc(b.judul)}</a></h3>
 ${b.cuplikan ? `<p class="dek">${esc(b.cuplikan)}</p>` : ''}
 <div class="asal"><strong>${esc(b.sumber)}</strong>${pil.join('')}</div>
 ${terkait}
@@ -136,14 +136,14 @@ ${terkait}
 
 export function itemTumpuk(k, ctx) {
   const b = k.utama;
-  return `<a class="tumpuk-item" href="${esc(b.tautan)}" rel="noopener">
+  return `<a class="tumpuk-item" href="${esc(b.tautan)}" target="_blank" rel="noopener">
 <span class="foto foto--kecil">${gambar(b.gambar)}</span>
 <span class="tumpuk-teks"><span class="label">${esc(kicker(b, ctx))}</span><span class="judul-kecil">${esc(b.judul)}</span><span class="data">${esc(b.sumber)} · ${labelWaktu(b.terbit, ctx.hariIni)}</span></span>
 </a>`;
 }
 
 export function barisBerita(b, ctx) {
-  return `<a class="baris l-${b.lajur}" data-lajur="${b.lajur}" href="${esc(b.tautan)}" rel="noopener">
+  return `<a class="baris l-${b.lajur}" data-lajur="${b.lajur}" href="${esc(b.tautan)}" target="_blank" rel="noopener">
 <span class="baris-waktu">${labelWaktu(b.terbit, ctx.hariIni)}</span>
 <span class="chip">${esc(ctx.config.lajur[b.lajur].nama)}</span>
 <span class="baris-teks"><span class="baris-judul">${esc(b.judul)}</span><span class="baris-asal">${esc(b.sumber)}</span></span>
@@ -161,6 +161,6 @@ ${tautan ? `<a class="tautan-lajur" href="${akar}${l.halaman}">Semua ${esc(l.nam
 // Poin ringkasan: teks + tautan sumber.
 export function tautanSumberPoin(p, ctx) {
   return p.sumber
-    .map((s) => `<a href="${esc(s.tautan)}" rel="noopener">${esc(s.sumber)} · ${labelWaktu(s.terbit, ctx.hariIni)}</a>`)
+    .map((s) => `<a href="${esc(s.tautan)}" target="_blank" rel="noopener">${esc(s.sumber)} · ${labelWaktu(s.terbit, ctx.hariIni)}</a>`)
     .join('');
 }

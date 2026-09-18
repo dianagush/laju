@@ -55,7 +55,7 @@
   masukan.value = q;
 
   function normal(s) {
-    return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   }
   function el(tag, kelas, teks) {
     var e = document.createElement(tag);
@@ -81,6 +81,7 @@
         hasil.slice(0, 100).forEach(function (b) {
           var a = el('a', 'baris l-' + b.lajur);
           a.href = b.tautan;
+          a.target = '_blank';
           a.rel = 'noopener';
           a.appendChild(el('span', 'baris-waktu', b.waktu));
           a.appendChild(el('span', 'chip', b.lajur === 'tekno' ? 'Teknologi' : 'Olahraga'));

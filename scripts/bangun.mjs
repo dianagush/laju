@@ -74,7 +74,7 @@ ${tumpuk.length ? `<div class="tumpuk">${tumpuk.map((k) => itemTumpuk(k, ctx)).j
 function poinBeranda(r) {
   return LAJUR.map((l) => `<div class="kolom-poin l-${l}">
 <span class="kolom-poin-judul">${esc(config.lajur[l].nama)}</span>
-${(r[l] ?? []).slice(0, 3).map((p, i) => `<div class="poin"><span class="poin-no">${i + 1}</span><p>${r.ai ? esc(p.teks) : `<a href="${esc(p.sumber[0].tautan)}" rel="noopener">${esc(p.teks)}</a>`}</p></div>`).join('') || '<p class="kosong">Belum ada.</p>'}
+${(r[l] ?? []).slice(0, 3).map((p, i) => `<div class="poin"><span class="poin-no">${i + 1}</span><p>${r.ai ? esc(p.teks) : `<a href="${esc(p.sumber[0].tautan)}" target="_blank" rel="noopener">${esc(p.teks)}</a>`}</p></div>`).join('') || '<p class="kosong">Belum ada.</p>'}
 </div>`).join('\n');
 }
 
