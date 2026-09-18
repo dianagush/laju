@@ -1,0 +1,206 @@
+{
+  "diuji": "2026-09-18T08:24:03.492Z",
+  "dari": "server GitHub Actions",
+  "hasil": [
+    {
+      "url": "https://inet.detik.com/rss",
+      "ok": false,
+      "galat": "Koneksi gagal (UND_ERR_CONNECT_TIMEOUT)",
+      "ms": 10680
+    },
+    {
+      "url": "https://sport.detik.com/rss",
+      "ok": false,
+      "galat": "Koneksi gagal (UND_ERR_CONNECT_TIMEOUT)",
+      "ms": 10528
+    },
+    {
+      "url": "https://feed.liputan6.com/rss/tekno",
+      "ok": true,
+      "jumlah": 50,
+      "dalam24Jam": 13,
+      "terbaru": "2026-09-18T07:37:42.000Z",
+      "denganGambar": 50,
+      "contoh": "10 Tahun Kulkas LG InstaView, Tembus Penjualan 5,3 Juta Unit di Dunia",
+      "ms": 849
+    },
+    {
+      "url": "https://feed.liputan6.com/rss/bola",
+      "ok": true,
+      "jumlah": 50,
+      "dalam24Jam": 24,
+      "terbaru": "2026-09-18T08:00:55.000Z",
+      "denganGambar": 50,
+      "contoh": "Roberto De Zerbi Diberi Batas Waktu 10 Laga di Tottenham, Mantan Bek Beri Peringatan",
+      "ms": 858
+    },
+    {
+      "url": "https://www.viva.co.id/get/digital",
+      "ok": true,
+      "jumlah": 100,
+      "dalam24Jam": 8,
+      "terbaru": "2026-09-18T07:31:39.000Z",
+      "denganGambar": 100,
+      "contoh": "Teknologi Sepeda Makin Berkembang, Ini Fitur yang Mulai Ditawarkan",
+      "ms": 962
+    },
+    {
+      "url": "https://www.viva.co.id/get/bola",
+      "ok": true,
+      "jumlah": 100,
+      "dalam24Jam": 32,
+      "terbaru": "2026-09-18T08:16:35.000Z",
+      "denganGambar": 100,
+      "contoh": "Gagal Bela Timnas Indonesia di FIFA ASEAN Cup 2026 karena Cedera, Jay Idzes: Sungguh Menyakitkan",
+      "ms": 876
+    },
+    {
+      "url": "https://www.viva.co.id/get/sport",
+      "ok": true,
+      "jumlah": 100,
+      "dalam24Jam": 11,
+      "terbaru": "2026-09-18T03:05:33.000Z",
+      "denganGambar": 100,
+      "contoh": "'Cepirit' saat Pertandingan HYROX di China, Atlet Australia Ini Akhirnya Minta Maaf dan Mundur",
+      "ms": 950
+    },
+    {
+      "url": "https://sindikasi.okezone.com/index.php/rss/16/RSS2.0",
+      "ok": true,
+      "jumlah": 30,
+      "dalam24Jam": 1,
+      "terbaru": "2026-09-18T07:44:21.000Z",
+      "denganGambar": 30,
+      "contoh": "Ilmuwan Temukan Spesies Kucing Liar Baru di Bolivia, Pertama dalam Seabad",
+      "ms": 944
+    },
+    {
+      "url": "https://sindikasi.okezone.com/index.php/rss/2/RSS2.0",
+      "ok": true,
+      "jumlah": 30,
+      "dalam24Jam": 14,
+      "terbaru": "2026-09-18T08:06:00.000Z",
+      "denganGambar": 30,
+      "contoh": "Jajal Lapangan, Tim Bulu Tangkis Indonesia Adaptasi Suasana Jelang Asian Games 2026",
+      "ms": 937
+    },
+    {
+      "url": "https://www.jawapos.com/rss/teknologi",
+      "ok": true,
+      "jumlah": 50,
+      "dalam24Jam": 7,
+      "terbaru": "2026-09-18T11:36:48.000Z",
+      "denganGambar": 50,
+      "contoh": "Threads Mulai Awasi Akun Remaja, Orang Tua Kini Bisa Batasi Waktu dan Privasi",
+      "ms": 1135
+    },
+    {
+      "url": "https://www.jawapos.com/rss/sepak-bola",
+      "ok": true,
+      "jumlah": 50,
+      "dalam24Jam": 1,
+      "terbaru": "2026-09-17T12:21:07.000Z",
+      "denganGambar": 50,
+      "contoh": "Youri Tielemans Buka Suara, Kapten Manchester United Kecewa Kalah dari Brighton",
+      "ms": 1336
+    },
+    {
+      "url": "https://www.republika.co.id/rss/tekno",
+      "ok": true,
+      "jumlah": 15,
+      "dalam24Jam": 1,
+      "terbaru": "2026-09-18T04:43:39.000Z",
+      "denganGambar": 15,
+      "contoh": "Ponsel Penumpang KRL Berasap, Kenali 5 Tanda HP Overheat dan Berisiko Meledak",
+      "ms": 1876
+    },
+    {
+      "url": "https://www.antaranews.com/rss/olahraga-all-sport.xml",
+      "ok": true,
+      "jumlah": 20,
+      "dalam24Jam": 14,
+      "terbaru": "2026-09-18T06:49:22.000Z",
+      "denganGambar": 20,
+      "contoh": "Ryan Garcia minta Crawford akhiri pensiun, tantang duel panas",
+      "ms": 1458
+    },
+    {
+      "url": "https://www.antaranews.com/rss/sepakbola-liga-indonesia.xml",
+      "ok": true,
+      "jumlah": 20,
+      "dalam24Jam": 11,
+      "terbaru": "2026-09-18T03:30:18.000Z",
+      "denganGambar": 20,
+      "contoh": "RANS Nusantara antisipasi kecepatan pemain muda De Red FC",
+      "ms": 1476
+    },
+    {
+      "url": "https://www.antaranews.com/rss/sepakbola-internasional.xml",
+      "ok": true,
+      "jumlah": 20,
+      "dalam24Jam": 5,
+      "terbaru": "2026-09-17T23:07:35.000Z",
+      "denganGambar": 20,
+      "contoh": "Kylian Mbappe: Ballon d'Or harus kembali ke Real Madrid",
+      "ms": 1484
+    },
+    {
+      "url": "https://www.antaranews.com/rss/olahraga-tenis.xml",
+      "ok": true,
+      "jumlah": 20,
+      "dalam24Jam": 3,
+      "terbaru": "2026-09-18T01:40:32.000Z",
+      "denganGambar": 20,
+      "contoh": "Aldila siapkan duet bersama Christopher Rungkat untuk Asian Games",
+      "ms": 1574
+    },
+    {
+      "url": "https://www.antaranews.com/rss/olahraga-balap.xml",
+      "ok": true,
+      "jumlah": 20,
+      "dalam24Jam": 0,
+      "terbaru": "2026-09-16T15:28:07.000Z",
+      "denganGambar": 20,
+      "contoh": "Rifat Sungkar nilai FIA Rallycross World Cup potensi magnet baru",
+      "ms": 1572
+    },
+    {
+      "url": "https://www.antaranews.com/rss/olahraga-bola-basket.xml",
+      "ok": true,
+      "jumlah": 20,
+      "dalam24Jam": 1,
+      "terbaru": "2026-09-17T08:47:09.000Z",
+      "denganGambar": 20,
+      "contoh": "Timnas bola basket putri main lepas saat kalahkan Thailand",
+      "ms": 1582
+    },
+    {
+      "url": "https://www.antaranews.com/rss/tekno.xml",
+      "ok": true,
+      "jumlah": 20,
+      "dalam24Jam": 0,
+      "terbaru": "2026-09-15T09:10:31.000Z",
+      "denganGambar": 20,
+      "contoh": "Honor Magic9 resmi rilis: Kamera selfie 55 MP dan baterai 11.000 mAh",
+      "ms": 1580
+    },
+    {
+      "url": "https://www.cnnindonesia.com/teknologi/rss",
+      "ok": false,
+      "galat": "HTTP 403 (akses ditolak media)",
+      "ms": 994
+    },
+    {
+      "url": "https://www.cnbcindonesia.com/tech/rss",
+      "ok": false,
+      "galat": "HTTP 403 (akses ditolak media)",
+      "ms": 944
+    },
+    {
+      "url": "https://www.cnnindonesia.com/olahraga/rss",
+      "ok": false,
+      "galat": "HTTP 403 (akses ditolak media)",
+      "ms": 995
+    }
+  ]
+}
