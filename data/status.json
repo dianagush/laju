@@ -1,39 +1,39 @@
 {
-  "diperbarui": "2026-09-18T08:05:19.991Z",
+  "diperbarui": "2026-09-18T08:15:39.707Z",
   "sumber": [
     {
       "id": "cnn-tekno",
       "nama": "CNN Indonesia",
       "kanal": "Teknologi",
       "lajur": "tekno",
-      "ok": true,
-      "galat": null,
-      "jumlahFeed": 100,
-      "diterima": 61,
+      "ok": false,
+      "galat": "HTTP 403",
+      "jumlahFeed": 0,
+      "diterima": 0,
       "dibuang": {
-        "luarTopik": 19,
-        "terbitUlang": 6,
-        "terlaluLama": 14,
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T07:30:00.000Z"
+      "terbaru": null
     },
     {
       "id": "cnbc-tech",
       "nama": "CNBC Indonesia",
       "kanal": "Tech",
       "lajur": "tekno",
-      "ok": true,
-      "galat": null,
-      "jumlahFeed": 100,
-      "diterima": 97,
+      "ok": false,
+      "galat": "HTTP 403",
+      "jumlahFeed": 0,
+      "diterima": 0,
       "dibuang": {
-        "luarTopik": 3,
+        "luarTopik": 0,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T08:00:00.000Z"
+      "terbaru": null
     },
     {
       "id": "antara-tekno",
@@ -57,17 +57,17 @@
       "nama": "CNN Indonesia",
       "kanal": "Olahraga",
       "lajur": "olahraga",
-      "ok": true,
-      "galat": null,
-      "jumlahFeed": 100,
-      "diterima": 100,
+      "ok": false,
+      "galat": "HTTP 403",
+      "jumlahFeed": 0,
+      "diterima": 0,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T07:45:41.000Z"
+      "terbaru": null
     },
     {
       "id": "antara-bola",
