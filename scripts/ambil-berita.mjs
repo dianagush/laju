@@ -22,7 +22,7 @@ const hasilPerSumber = await Promise.all(
       const item = await ambilFeed(s.url);
       return { sumber: s, item };
     } catch (err) {
-      return { sumber: s, item: [], galat: err.name === 'TimeoutError' ? 'Tidak merespons (batas waktu habis)' : err.message };
+      return { sumber: s, item: [], galat: err.message };
     }
   }),
 );

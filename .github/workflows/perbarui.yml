@@ -55,6 +55,7 @@ jobs:
             echo "Tidak ada berita baru."
           else
             git commit -m "Berita $(TZ=Asia/Jakarta date +'%Y-%m-%d %H.%M') WIB"
+            git pull --rebase origin main
             git push
           fi
 

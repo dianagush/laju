@@ -1,0 +1,41 @@
+name: Uji sumber
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "URL RSS yang diuji, pisahkan dengan spasi. Kosongkan untuk menguji semua sumber di laju.config.mjs."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+# Satu antrean dengan "Perbarui berita" supaya keduanya tidak push bersamaan.
+concurrency:
+  group: perbarui-berita
+  cancel-in-progress: false
+
+jobs:
+  uji:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Uji kanal RSS dari server GitHub
+        run: node scripts/uji-sumber.mjs $URL_UJI
+        env:
+          URL_UJI: ${{ inputs.url }}
+
+      - name: Simpan hasil ke data/uji-sumber.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/uji-sumber.json
+          git commit -m "Uji sumber $(TZ=Asia/Jakarta date +'%Y-%m-%d %H.%M') WIB"
+          git pull --rebase origin main
+          git push

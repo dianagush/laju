@@ -87,14 +87,21 @@ function kenaliEncoding(contentType, awalBerkas) {
 }
 
 export async function ambilFeed(url, { batasWaktuMs = 20000 } = {}) {
-  const res = await fetch(url, {
-    headers: {
-      'user-agent': 'Mozilla/5.0 (compatible; LAJU-pembaca-RSS/1.0)',
-      accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.5',
-    },
-    redirect: 'follow',
-    signal: AbortSignal.timeout(batasWaktuMs),
-  });
+  let res;
+  try {
+    res = await fetch(url, {
+      headers: {
+        'user-agent': 'Mozilla/5.0 (compatible; LAJU-pembaca-RSS/1.0)',
+        accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.5',
+      },
+      redirect: 'follow',
+      signal: AbortSignal.timeout(batasWaktuMs),
+    });
+  } catch (err) {
+    if (err.name === 'TimeoutError') throw new Error('Tidak merespons (batas waktu habis)');
+    throw new Error(`Koneksi gagal${err.cause?.code ? ` (${err.cause.code})` : ''}`);
+  }
+  if (res.status === 403) throw new Error('HTTP 403 (akses ditolak media)');
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const buffer = Buffer.from(await res.arrayBuffer());
   const encoding = kenaliEncoding(res.headers.get('content-type') || '', buffer.subarray(0, 300).toString('latin1'));
