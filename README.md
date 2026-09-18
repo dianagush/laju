@@ -1,0 +1,103 @@
+# LAJU
+
+Portal berita teknologi dan olahraga yang memperbarui dirinya sendiri. LAJU membaca RSS resmi media Indonesia enam kali sehari, membuang berita yang di luar topik, mengelompokkan berita yang membahas cerita yang sama, lalu menerbitkan situs statis. Setiap pagi, AI bisa menulis **Ringkasan Pagi**: 5 poin per lajur, masing-masing dengan tautan ke sumbernya.
+
+LAJU hanya menampilkan judul, cuplikan, gambar mini, nama sumber, dan waktu. Artikel lengkap selalu dibaca di situs aslinya.
+
+## Menjalankan di komputer sendiri
+
+Butuh [Node.js](https://nodejs.org) versi 20 atau lebih baru. Tidak perlu `npm install` kecuali untuk Ringkasan Pagi.
+
+```bash
+npm run perbarui
+```
+
+```bash
+npm run lihat
+```
+
+Lalu buka http://localhost:4321.
+
+| Perintah | Fungsi |
+|---|---|
+| `npm run ambil` | Ambil berita dari semua sumber ke `data/berita/` |
+| `npm run ringkasan` | Tulis Ringkasan Pagi dengan AI (butuh kunci API, lihat di bawah) |
+| `npm run bangun` | Bangun situs ke `dist/` |
+| `npm run perbarui` | Ketiganya sekaligus |
+| `npm run lihat` | Pratinjau `dist/` di browser |
+
+## Menayangkan online (gratis, diperbarui otomatis)
+
+LAJU memakai GitHub Actions untuk jadwal otomatis dan GitHub Pages untuk hosting.
+
+1. Buat repositori **publik** baru di GitHub, misalnya `laju`.
+2. Unggah isi folder ini ke repositori tersebut:
+   ```bash
+   git init -b main
+   ```
+   ```bash
+   git add .
+   ```
+   ```bash
+   git commit -m "LAJU pertama"
+   ```
+   ```bash
+   git remote add origin https://github.com/NAMA-AKUNMU/laju.git
+   ```
+   ```bash
+   git push -u origin main
+   ```
+3. Di repositori: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+4. Buka tab **Actions → Perbarui berita → Run workflow** untuk menjalankan pertama kali.
+5. Situs tayang di `https://NAMA-AKUNMU.github.io/laju/`. Isi alamat ini ke `alamatSitus` di `laju.config.mjs` supaya feed RSS LAJU punya tautan yang benar.
+
+Setelah itu, situs diperbarui sendiri pukul 06.00, 09.00, 12.00, 15.00, 18.00, dan 21.00 WIB. Jadwal GitHub kadang terlambat beberapa menit saat server sedang ramai.
+
+Kalau langkah "Simpan data ke repositori" gagal karena izin, buka **Settings → Actions → General → Workflow permissions** dan pilih **Read and write permissions**.
+
+## Mengaktifkan Ringkasan Pagi (AI)
+
+Tanpa kunci API, situs tetap jalan dan menampilkan **Sorotan**, yaitu cerita yang paling banyak diliput. Untuk ringkasan tulisan AI:
+
+1. Buat kunci API di [console.anthropic.com](https://console.anthropic.com).
+2. Di repositori GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Nama: `ANTHROPIC_API_KEY`, isi: kuncimu.
+
+Ringkasan dibuat sekali sehari pada pembaruan pertama setelah pukul 06.00 WIB, memakai model Claude Opus 5. Satu ringkasan membaca sekitar 10 ribu token dan menulis beberapa ribu token. Perkiraan kasarnya US$0,10–0,20 per hari. Poin tanpa tautan sumber yang sah dibuang otomatis sebelum terbit.
+
+Untuk mencoba di komputer sendiri (PowerShell):
+
+```powershell
+npm install; $env:ANTHROPIC_API_KEY="kunci-kamu"; npm run ringkasan -- --paksa; npm run bangun
+```
+
+## Mengubah sumber, jadwal, dan saringan
+
+Semua pengaturan ada di `laju.config.mjs`:
+
+- `sumber`: daftar kanal RSS dan lajurnya (`tekno` atau `olahraga`).
+- `saring`: kata yang membuat berita dibuang dari lajurnya, misalnya berita cuaca BMKG yang ikut masuk kanal Teknologi CNN.
+- `tetapSimpan`: pengecualian dari `saring`, misalnya "drone untuk deteksi karhutla" tetap dianggap teknologi.
+- `jamPembaruan`: bila diubah, samakan juga jadwal `cron` di `.github/workflows/perbarui.yml`.
+
+Status tiap sumber (berapa berita diterima atau dibuang, dan apakah gagal diambil) tampil di halaman **Tentang & sumber** di situs.
+
+## Isi folder
+
+```
+laju.config.mjs          pengaturan
+scripts/ambil-berita.mjs langkah 1–3: ambil RSS, saring, simpan per hari
+scripts/ringkasan.mjs    langkah 5: Ringkasan Pagi dengan Claude API
+scripts/bangun.mjs       langkah 6: bangun situs statis ke dist/
+scripts/lihat.mjs        pratinjau lokal
+scripts/lib/             pembaca RSS, pengelompokan berita, waktu WIB, template HTML
+public/                  CSS, JavaScript, ikon
+data/berita/             arsip berita per hari (diisi otomatis)
+data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
+.github/workflows/       jadwal otomatis GitHub Actions
+```
+
+## Catatan
+
+- Folder ini ada di OneDrive. Menjalankan `npm install` membuat folder `node_modules` berisi ratusan berkas yang ikut disinkronkan. Folder itu hanya dibutuhkan untuk Ringkasan Pagi di komputer sendiri. Di GitHub, pemasangan terjadi otomatis.
+- Sumber yang diuji pada 18 September 2026 tetapi tidak dipakai: RSS Tempo dan ANTARA Olahraga (umum) jarang diperbarui, sedangkan detikInet dan detikSport tidak merespons.
+- Periksa ketentuan penggunaan tiap media sebelum situs dipromosikan untuk umum.

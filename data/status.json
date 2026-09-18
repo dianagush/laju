@@ -1,0 +1,107 @@
+{
+  "diperbarui": "2026-09-18T08:05:19.991Z",
+  "sumber": [
+    {
+      "id": "cnn-tekno",
+      "nama": "CNN Indonesia",
+      "kanal": "Teknologi",
+      "lajur": "tekno",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 100,
+      "diterima": 61,
+      "dibuang": {
+        "luarTopik": 19,
+        "terbitUlang": 6,
+        "terlaluLama": 14,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T07:30:00.000Z"
+    },
+    {
+      "id": "cnbc-tech",
+      "nama": "CNBC Indonesia",
+      "kanal": "Tech",
+      "lajur": "tekno",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 100,
+      "diterima": 97,
+      "dibuang": {
+        "luarTopik": 3,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T08:00:00.000Z"
+    },
+    {
+      "id": "antara-tekno",
+      "nama": "ANTARA",
+      "kanal": "Tekno",
+      "lajur": "tekno",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 16,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 4,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-15T09:10:31.000Z"
+    },
+    {
+      "id": "cnn-olahraga",
+      "nama": "CNN Indonesia",
+      "kanal": "Olahraga",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 100,
+      "diterima": 100,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T07:45:41.000Z"
+    },
+    {
+      "id": "antara-bola",
+      "nama": "ANTARA",
+      "kanal": "Sepak Bola",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 5,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 15,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-17T12:24:28.000Z"
+    },
+    {
+      "id": "antara-bulutangkis",
+      "nama": "ANTARA",
+      "kanal": "Bulu Tangkis",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 9,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 11,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-16T14:59:54.000Z"
+    }
+  ]
+}
