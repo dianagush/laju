@@ -61,6 +61,7 @@ export function halaman(ctx, { judul, deskripsi, aktif, isi, akar = '' }) {
 <meta property="og:title" content="${esc(judulPenuh)}">
 <meta property="og:description" content="${esc(deskripsi ?? config.slogan)}">
 <meta name="theme-color" content="#101318">
+<link rel="icon" href="${akar}ikon.ico" sizes="any">
 <link rel="icon" href="${akar}ikon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="${esc(config.nama)}" href="${akar}feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
