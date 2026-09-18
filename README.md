@@ -99,5 +99,7 @@ data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
 ## Catatan
 
 - Folder ini ada di OneDrive. Menjalankan `npm install` membuat folder `node_modules` berisi ratusan berkas yang ikut disinkronkan. Folder itu hanya dibutuhkan untuk Ringkasan Pagi di komputer sendiri. Di GitHub, pemasangan terjadi otomatis.
-- Sumber yang diuji pada 18 September 2026 tetapi tidak dipakai: RSS Tempo dan ANTARA Olahraga (umum) jarang diperbarui, sedangkan detikInet dan detikSport tidak merespons.
+- Sumber yang dipakai (18 September 2026): Liputan6, VIVA, Jawa Pos, Okezone, Republika, dan 8 kanal ANTARA, 17 kanal secara total.
+- Tidak dipakai: CNN Indonesia, CNBC Indonesia, dan detik memblokir server GitHub walau lancar dibuka dari komputer biasa. RSS Tempo dan ANTARA Olahraga (umum) jarang diperbarui.
+- Sebelum menambah sumber baru, uji dulu dari server GitHub: **Actions → Uji sumber → Run workflow**, isi URL RSS-nya (pisahkan dengan spasi). Hasilnya tersimpan di `data/uji-sumber.json`.
 - Periksa ketentuan penggunaan tiap media sebelum situs dipromosikan untuk umum.
