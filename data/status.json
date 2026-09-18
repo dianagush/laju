@@ -1,39 +1,90 @@
 {
-  "diperbarui": "2026-09-18T08:23:20.761Z",
+  "diperbarui": "2026-09-18T08:26:21.553Z",
   "sumber": [
     {
-      "id": "cnn-tekno",
-      "nama": "CNN Indonesia",
-      "kanal": "Teknologi",
+      "id": "liputan6-tekno",
+      "nama": "Liputan6",
+      "kanal": "Tekno",
       "lajur": "tekno",
-      "ok": false,
-      "galat": "HTTP 403 (akses ditolak media)",
-      "jumlahFeed": 0,
-      "diterima": 0,
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 50,
+      "diterima": 49,
       "dibuang": {
-        "luarTopik": 0,
+        "luarTopik": 1,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": null
+      "terbaru": "2026-09-18T07:37:42.000Z"
     },
     {
-      "id": "cnbc-tech",
-      "nama": "CNBC Indonesia",
-      "kanal": "Tech",
+      "id": "viva-digital",
+      "nama": "VIVA",
+      "kanal": "Digital",
       "lajur": "tekno",
-      "ok": false,
-      "galat": "HTTP 403 (akses ditolak media)",
-      "jumlahFeed": 0,
-      "diterima": 0,
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 100,
+      "diterima": 53,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 0,
+        "terlaluLama": 47,
         "masaDepan": 0
       },
-      "terbaru": null
+      "terbaru": "2026-09-18T07:31:39.000Z"
+    },
+    {
+      "id": "jawapos-tekno",
+      "nama": "Jawa Pos",
+      "kanal": "Teknologi",
+      "lajur": "tekno",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 50,
+      "diterima": 45,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 5,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T04:36:48.000Z"
+    },
+    {
+      "id": "okezone-techno",
+      "nama": "Okezone",
+      "kanal": "Techno",
+      "lajur": "tekno",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 30,
+      "diterima": 5,
+      "dibuang": {
+        "luarTopik": 1,
+        "terbitUlang": 0,
+        "terlaluLama": 24,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T07:44:21.000Z"
+    },
+    {
+      "id": "republika-tekno",
+      "nama": "Republika",
+      "kanal": "Tekno",
+      "lajur": "tekno",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 15,
+      "diterima": 8,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 7,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T04:43:39.000Z"
     },
     {
       "id": "antara-tekno",
@@ -53,21 +104,72 @@
       "terbaru": "2026-09-15T09:10:31.000Z"
     },
     {
-      "id": "cnn-olahraga",
-      "nama": "CNN Indonesia",
-      "kanal": "Olahraga",
+      "id": "liputan6-bola",
+      "nama": "Liputan6",
+      "kanal": "Bola",
       "lajur": "olahraga",
-      "ok": false,
-      "galat": "HTTP 403 (akses ditolak media)",
-      "jumlahFeed": 0,
-      "diterima": 0,
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 50,
+      "diterima": 50,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": null
+      "terbaru": "2026-09-18T08:00:55.000Z"
+    },
+    {
+      "id": "viva-bola",
+      "nama": "VIVA",
+      "kanal": "Bola",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 100,
+      "diterima": 100,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T08:16:35.000Z"
+    },
+    {
+      "id": "viva-sport",
+      "nama": "VIVA",
+      "kanal": "Sport",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 100,
+      "diterima": 66,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 34,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T03:05:33.000Z"
+    },
+    {
+      "id": "okezone-sports",
+      "nama": "Okezone",
+      "kanal": "Sports",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 30,
+      "diterima": 30,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T08:06:00.000Z"
     },
     {
       "id": "antara-bola",
@@ -87,6 +189,57 @@
       "terbaru": "2026-09-17T12:24:28.000Z"
     },
     {
+      "id": "antara-liga-indonesia",
+      "nama": "ANTARA",
+      "kanal": "Liga Indonesia",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 20,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T03:30:18.000Z"
+    },
+    {
+      "id": "antara-bola-dunia",
+      "nama": "ANTARA",
+      "kanal": "Sepak Bola Internasional",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 14,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 6,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-17T23:07:35.000Z"
+    },
+    {
+      "id": "antara-aneka",
+      "nama": "ANTARA",
+      "kanal": "Aneka Olahraga",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 20,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T06:49:22.000Z"
+    },
+    {
       "id": "antara-bulutangkis",
       "nama": "ANTARA",
       "kanal": "Bulu Tangkis",
@@ -102,6 +255,40 @@
         "masaDepan": 0
       },
       "terbaru": "2026-09-16T14:59:54.000Z"
+    },
+    {
+      "id": "antara-tenis",
+      "nama": "ANTARA",
+      "kanal": "Tenis",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 15,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 5,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T01:40:32.000Z"
+    },
+    {
+      "id": "antara-balap",
+      "nama": "ANTARA",
+      "kanal": "Balap",
+      "lajur": "olahraga",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 20,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-16T15:28:07.000Z"
     }
   ]
 }
