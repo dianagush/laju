@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-19T00:52:15.402Z",
+  "diperbarui": "2026-09-19T06:54:57.259Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -16,7 +16,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T23:23:18.000Z"
+      "terbaru": "2026-09-19T06:08:28.000Z"
     },
     {
       "id": "viva-digital",
@@ -26,14 +26,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 100,
-      "diterima": 57,
+      "diterima": 55,
       "dibuang": {
         "luarTopik": 1,
         "terbitUlang": 0,
-        "terlaluLama": 42,
+        "terlaluLama": 44,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T21:04:00.000Z"
+      "terbaru": "2026-09-19T02:59:00.000Z"
     },
     {
       "id": "jawapos-tekno",
@@ -43,11 +43,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 50,
-      "diterima": 48,
+      "diterima": 47,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 2,
+        "terlaluLama": 3,
         "masaDepan": 0
       },
       "terbaru": "2026-09-18T23:40:05.000Z"
@@ -94,14 +94,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 16,
+      "diterima": 17,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 4,
+        "terlaluLama": 3,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-15T09:10:31.000Z"
+      "terbaru": "2026-09-19T03:40:55.000Z"
     },
     {
       "id": "liputan6-bola",
@@ -118,7 +118,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-19T00:00:14.000Z"
+      "terbaru": "2026-09-19T06:12:10.000Z"
     },
     {
       "id": "viva-bola",
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-19T00:00:00.000Z"
+      "terbaru": "2026-09-19T06:26:00.000Z"
     },
     {
       "id": "viva-sport",
@@ -145,11 +145,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 100,
-      "diterima": 60,
+      "diterima": 59,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 40,
+        "terlaluLama": 41,
         "masaDepan": 0
       },
       "terbaru": "2026-09-18T16:29:25.000Z"
@@ -169,7 +169,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T21:30:56.000Z"
+      "terbaru": "2026-09-19T06:11:33.000Z"
     },
     {
       "id": "antara-bola",
@@ -179,14 +179,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 8,
+      "diterima": 9,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 12,
+        "terlaluLama": 11,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T09:27:11.000Z"
+      "terbaru": "2026-09-19T02:49:58.000Z"
     },
     {
       "id": "antara-liga-indonesia",
@@ -213,14 +213,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 19,
+      "diterima": 20,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 1,
+        "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T16:48:55.000Z"
+      "terbaru": "2026-09-19T01:26:09.000Z"
     },
     {
       "id": "antara-aneka",
@@ -237,7 +237,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-19T00:35:26.000Z"
+      "terbaru": "2026-09-19T05:52:05.000Z"
     },
     {
       "id": "antara-bulutangkis",
@@ -247,14 +247,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 9,
+      "diterima": 10,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 11,
+        "terlaluLama": 10,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T15:48:13.000Z"
+      "terbaru": "2026-09-19T05:00:00.000Z"
     },
     {
       "id": "antara-tenis",
@@ -264,11 +264,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 19,
+      "diterima": 17,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 1,
+        "terlaluLama": 3,
         "masaDepan": 0
       },
       "terbaru": "2026-09-18T14:52:24.000Z"
@@ -288,7 +288,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T14:34:15.000Z"
+      "terbaru": "2026-09-19T06:40:36.000Z"
     }
   ]
 }
