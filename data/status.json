@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-20T12:47:35.178Z",
+  "diperbarui": "2026-09-20T17:13:11.988Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -77,14 +77,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 15,
-      "diterima": 7,
+      "diterima": 8,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 8,
+        "terlaluLama": 7,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-18T04:43:39.000Z"
+      "terbaru": "2026-09-20T15:05:35.000Z"
     },
     {
       "id": "antara-tekno",
@@ -118,7 +118,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T12:00:24.000Z"
+      "terbaru": "2026-09-20T16:33:12.000Z"
     },
     {
       "id": "viva-bola",
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T12:17:40.000Z"
+      "terbaru": "2026-09-20T17:08:00.000Z"
     },
     {
       "id": "viva-sport",
@@ -145,14 +145,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 100,
-      "diterima": 62,
+      "diterima": 56,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 38,
+        "terlaluLama": 44,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T11:26:57.000Z"
+      "terbaru": "2026-09-20T12:48:10.000Z"
     },
     {
       "id": "okezone-sports",
@@ -169,7 +169,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T10:28:17.000Z"
+      "terbaru": "2026-09-20T13:04:55.000Z"
     },
     {
       "id": "antara-bola",
@@ -203,7 +203,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T12:28:47.000Z"
+      "terbaru": "2026-09-20T16:29:34.000Z"
     },
     {
       "id": "antara-bola-dunia",
@@ -237,7 +237,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T12:40:52.000Z"
+      "terbaru": "2026-09-20T16:45:40.000Z"
     },
     {
       "id": "antara-bulutangkis",
@@ -247,14 +247,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 7,
+      "diterima": 8,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 13,
+        "terlaluLama": 12,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-19T05:00:00.000Z"
+      "terbaru": "2026-09-20T13:28:39.000Z"
     },
     {
       "id": "antara-tenis",
@@ -264,11 +264,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 18,
+      "diterima": 17,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 2,
+        "terlaluLama": 3,
         "masaDepan": 0
       },
       "terbaru": "2026-09-20T05:29:32.000Z"
@@ -288,7 +288,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T12:22:11.000Z"
+      "terbaru": "2026-09-20T15:54:04.000Z"
     }
   ]
 }
