@@ -1,7 +1,18 @@
 // Potongan HTML untuk semua halaman LAJU.
 
+import crypto from 'node:crypto';
+import fs from 'node:fs';
+import path from 'node:path';
 import { labelWaktu, pembaruanBerikutnya, pukul, tanggalPanjang } from './waktu.mjs';
 import { topikUntuk } from './olah.mjs';
+import { AKAR } from './data.mjs';
+
+// Kode versi dari isi berkas, dipasang sebagai ?v=… supaya browser langsung memakai
+// CSS/JS terbaru setelah berubah, bukan salinan lama dari cache.
+function versi(berkas) {
+  return crypto.createHash('sha1').update(fs.readFileSync(path.join(AKAR, 'public', berkas))).digest('hex').slice(0, 8);
+}
+const VERSI = { css: versi('gaya.css'), js: versi('laju.js') };
 
 export function esc(s = '') {
   return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
@@ -67,7 +78,7 @@ export function halaman(ctx, { judul, deskripsi, aktif, isi, akar = '' }) {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400&display=swap">
-<link rel="stylesheet" href="${akar}gaya.css">
+<link rel="stylesheet" href="${akar}gaya.css?v=${VERSI.css}">
 <script>try{var t=localStorage.getItem('laju-tema');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}</script>
 </head>
 <body>
@@ -106,7 +117,7 @@ ${isi}
 <nav aria-label="Kaki halaman"><a href="${akar}tentang.html">Tentang &amp; sumber</a><a href="${akar}arsip.html">Arsip</a><a href="${akar}feed.xml">RSS ${esc(config.nama)}</a></nav>
 </div></footer>
 <nav class="nav-bawah" aria-label="Navigasi bawah">${navBawah.map(([id, href, teks, ikon]) => `<a href="${akar}${href}"${kini(id)}>${ikon}${esc(teks)}</a>`).join('')}</nav>
-<script src="${akar}laju.js" defer></script>
+<script src="${akar}laju.js?v=${VERSI.js}" defer></script>
 </body>
 </html>
 `;
