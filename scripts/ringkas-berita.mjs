@@ -36,7 +36,9 @@ if (!KUNCI) {
 const SISTEM = 'Kamu penulis ringkasan berita untuk LAJU, portal berita berbahasa Indonesia. Tulisanmu ringkas, netral, dan setia pada teks sumber.';
 
 let modelGemini = p.modelGemini;
+const tunggu = (ms) => new Promise((r) => setTimeout(r, ms));
 async function tulisDenganGemini(perintah) {
+  let sibuk = 0;
   for (;;) {
     const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${modelGemini}:generateContent`, {
       method: 'POST',
@@ -48,6 +50,24 @@ async function tulisDenganGemini(perintah) {
       }),
       signal: AbortSignal.timeout(90000),
     });
+    // Server Gemini sibuk (500/503): coba lagi dua kali dengan jeda, lalu pindah ke model cadangan.
+    if (res.status === 500 || res.status === 503) {
+      sibuk += 1;
+      if (sibuk <= 2) {
+        await tunggu(sibuk * 8000);
+        continue;
+      }
+      if (p.modelGeminiCadangan && modelGemini !== p.modelGeminiCadangan) {
+        peringatan(`Model ${modelGemini} sedang sibuk; berita ini dicoba dengan ${p.modelGeminiCadangan}.`);
+        const utama = modelGemini;
+        modelGemini = p.modelGeminiCadangan;
+        try {
+          return await tulisDenganGemini(perintah);
+        } finally {
+          modelGemini = utama;
+        }
+      }
+    }
     // Model tidak ada atau kuotanya habis: coba sekali dengan model cadangan.
     if ((res.status === 404 || res.status === 429) && p.modelGeminiCadangan && modelGemini !== p.modelGeminiCadangan) {
       peringatan(`Model ${modelGemini} ${res.status === 404 ? 'tidak tersedia' : 'kehabisan kuota'}; beralih ke ${p.modelGeminiCadangan}.`);
