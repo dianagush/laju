@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-19",
-  "diperbarui": "2026-09-21T03:21:18.847Z",
+  "diperbarui": "2026-09-21T03:32:39.162Z",
   "berita": [
     {
       "id": "706be380c9db",
@@ -22,7 +22,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T16:46:17.000Z",
       "cuplikan": "Niharika Yadav, Presiden Direktur AXA Financial Indonesia (kiri) bersama Theodores Tangke, Chief Marketing, Product amp;amp; Transformation Officer AXA Mandiri (kanan) mendampingi dua legenda Liverpool FC, Sami Hyypia (dua kanan) dan…",
-      "gambar": "https://a.okezone.com/okz/400/photos/2026/09/19/106149/464957_medium.jpg"
+      "gambar": "https://a.okezone.com/okz/400/photos/2026/09/19/106149/464957_medium.jpg",
+      "kategoriSumber": [
+        "Sports"
+      ]
     },
     {
       "id": "41233d94b210",
@@ -33,7 +36,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T16:40:53.000Z",
       "cuplikan": "Suporter Timnas Indonesia kini sudah bisa membeli tiket pertandingan FIFA ASEAN Cup 2026. Dari sejumlah laga yang digelar di Jakarta dan Bandung, pertandingan Indonesia m",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aacc218befe7-timnas-indonesia_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aacc218befe7-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "2a7c061dc28f",
@@ -44,7 +50,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T16:21:50.000Z",
       "cuplikan": "Brighton and Hove Albion kembali menunjukkan performa mengerikan di Liga Inggris. Setelah sebelumnya menghajar Manchester United, Brighton kini membantai Arsenal dengan s",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/02/69f5ac0042a8f-brighton-hove-albion_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/02/69f5ac0042a8f-brighton-hove-albion_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "424e20f8d885",
@@ -121,7 +130,19 @@
       "lajur": "global",
       "terbit": "2026-09-19T15:50:55.000Z",
       "cuplikan": "The Times columnist Kevin Roose sees reasons for optimism — and worry — as the world wakes up to what Silicon Valley has been talking about for years.",
-      "gambar": "https://static01.nyt.com/images/2026/09/21/business/00roose-future/00roose-future-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/21/business/00roose-future/00roose-future-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Regulation and Deregulation of Industry",
+        "Computers and the Internet",
+        "Computer Security",
+        "Anthropic AI LLC",
+        "OpenAI Labs",
+        "NVIDIA Corporation",
+        "Amodei, Dario",
+        "Coxon, Jacob",
+        "Huang, Jen-Hsun"
+      ]
     },
     {
       "id": "6112523acdaf",
@@ -198,7 +219,12 @@
       "lajur": "global",
       "terbit": "2026-09-19T15:00:00.000Z",
       "cuplikan": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Hardware",
+        "AI",
+        "pet tech"
+      ]
     },
     {
       "id": "fe6a92ce8180",
@@ -209,7 +235,14 @@
       "lajur": "global",
       "terbit": "2026-09-19T15:00:00.000Z",
       "cuplikan": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "TC",
+        "alignment",
+        "Anthropic",
+        "OpenAI"
+      ]
     },
     {
       "id": "beae4ead2d70",
@@ -264,7 +297,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T14:16:07.000Z",
       "cuplikan": "Jorge Martin menunjukkan comeback luar biasa untuk memenangkan sprint race MotoGP Austria 2026 di Sirkuit Red Bull Ring, Sabtu, 19 September 2026. Pembalap Aprilia terse",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae997bc2e0f-jorge-martin_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae997bc2e0f-jorge-martin_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "dbefcdeb4e8a",
@@ -275,7 +311,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T14:11:48.000Z",
       "cuplikan": "Persija Jakarta kembali harus menjalani laga kandang jauh dari Jakarta. Namun, kondisi tersebut tak menghalangi Macan Kemayoran untuk mempertahankan start sempurna di Sup",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae97d4649f4-persija-libas-java-united_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae97d4649f4-persija-libas-java-united_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "cfde0d3a8787",
@@ -297,7 +336,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T14:06:16.000Z",
       "cuplikan": "Bermain di hadapan pendukung sendiri, Madura United sukses bangkit dari ketertinggalan untuk mengalahkan PSIM Yogyakarta 2-1 pada pekan ketiga BRI Super League 2026/27, J",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae96a73e6cf-madura-united-vs-psim-yogyakarta_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae96a73e6cf-madura-united-vs-psim-yogyakarta_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "a31df41737b4",
@@ -319,7 +361,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T14:01:23.000Z",
       "cuplikan": "Simak klasemen sementara MotoGP 2026 usai Sprint Race seri Austria.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/38/3243082/simak_klasemen_sementara_motogp_2026_usai_sprint_race_seri_austria-qV5T_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/38/3243082/simak_klasemen_sementara_motogp_2026_usai_sprint_race_seri_austria-qV5T_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
     },
     {
       "id": "6975b93d21d4",
@@ -330,7 +375,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T14:01:06.000Z",
       "cuplikan": "Ketua Umum Komite Olahraga Nasional Indonesia (KONI) Pusat Letjen TNI Purn Marciano Norman resmi membuka Kejuaraan Nasional (Kejurnas) Berkuda Memanah III 2026 Road to PO",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae955bb6109-kejurnas-berkuda-memanah-iii-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae955bb6109-kejurnas-berkuda-memanah-iii-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "02e6f1c9b983",
@@ -363,7 +411,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T13:54:14.000Z",
       "cuplikan": "Aston Villa akhirnya meraih kemenangan perdana di Liga Inggris musim ini setelah menundukkan Tottenham Hotspur dengan skor 3-2 dalam duel di Tottenham Hotspur Stadium, Lo",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/31/6a94f210a70bc-totenham-hotspur-vs-newcastle-united_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/31/6a94f210a70bc-totenham-hotspur-vs-newcastle-united_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "9d6f52a5cab6",
@@ -484,7 +535,12 @@
       "lajur": "global",
       "terbit": "2026-09-19T13:00:00.000Z",
       "cuplikan": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Andreessen Horowitz",
+        "Startups"
+      ]
     },
     {
       "id": "083b4bb8dbfd",
@@ -539,7 +595,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T12:44:00.000Z",
       "cuplikan": "Timnas Indonesia resmi mengumumkan 23 pemain yang akan memperkuat skuad Garuda di FIFA ASEAN Cup 2026. Pelatih John Herdman membawa sejumlah pemain yang menjadi langganan",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/31/69cb8981aae6f-bek-kiri-timnas-indonesia-dony-tri-pamungkas_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/31/69cb8981aae6f-bek-kiri-timnas-indonesia-dony-tri-pamungkas_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "b72c423484b8",
@@ -594,7 +653,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T12:14:04.000Z",
       "cuplikan": "Pelatih Timnas Indonesia, John Herdman, telah menetapkan 23 pemain yang akan dibawa ke FIFA ASEAN Cup 2026. Sejumlah nama langganan skuad Garuda kali ini harus menepi kar",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/06/6a7486bbd4a4a-pelatih-timnas-indonesia-john-herdman_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/06/6a7486bbd4a4a-pelatih-timnas-indonesia-john-herdman_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "2a3d4bace891",
@@ -605,7 +667,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T12:04:00.000Z",
       "cuplikan": "RAM 6GB, 8GB, atau 12GB? Kenali perbedaan kapasitas RAM dan sesuaikan dengan kebutuhan, mulai dari penggunaan harian, multitasking, gaming, hingga pekerjaan berat.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae444d5655a-ilustrasi-ram-hp_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae444d5655a-ilustrasi-ram-hp_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "2a7561b76039",
@@ -682,7 +747,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T11:30:48.000Z",
       "cuplikan": "Sumaya mengusung ambisi meraih medali emas dari cabang olahraga (cabor) teqball di Asian Games 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/43/3243071/sumaya-snC7_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/43/3243071/sumaya-snC7_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "c7bb8bba305f",
@@ -737,7 +805,16 @@
       "lajur": "global",
       "terbit": "2026-09-19T11:10:43.000Z",
       "cuplikan": "Research suggests that bilingualism can offer cognitive benefits.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
+      "kategoriSumber": [
+        "Science",
+        "aging prevention",
+        "anti-aging",
+        "language",
+        "language learning",
+        "learning",
+        "syndication"
+      ]
     },
     {
       "id": "c2821d66b391",
@@ -748,7 +825,19 @@
       "lajur": "global",
       "terbit": "2026-09-19T11:00:45.000Z",
       "cuplikan": "Sensors that monitor vehicle volume are said to be ‘electronic assault weapons’ by the ‘Blade Runners’ group At the top of an extendable ladder on a quiet street of Ilfracombe, in Devon, an older woman dressed smartly in cropped trousers…",
-      "gambar": "https://i.guim.co.uk/img/media/45b26a26f9dbeb4d3b8c9e75556c5b8754fbbd65/1069_901_2141_1713/master/2141.jpg?width=140&quality=85&auto=format&fit=max&s=46bf547c3ea4eca2413798a673f2c693"
+      "gambar": "https://i.guim.co.uk/img/media/45b26a26f9dbeb4d3b8c9e75556c5b8754fbbd65/1069_901_2141_1713/master/2141.jpg?width=140&quality=85&auto=format&fit=max&s=46bf547c3ea4eca2413798a673f2c693",
+      "kategoriSumber": [
+        "Transport",
+        "Crime",
+        "UK news",
+        "Road safety",
+        "Technology",
+        "Motoring",
+        "Devon",
+        "London",
+        "Surveillance",
+        "Road transport"
+      ]
     },
     {
       "id": "0e6162939d74",
@@ -759,7 +848,11 @@
       "lajur": "global",
       "terbit": "2026-09-19T11:00:00.000Z",
       "cuplikan": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "gambar": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/master/pass/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg"
+      "gambar": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/master/pass/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg",
+      "kategoriSumber": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ]
     },
     {
       "id": "1ae8c451632f",
@@ -781,7 +874,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T10:45:02.000Z",
       "cuplikan": "Persebaya surabaya gagal meraih poin penuh saat menjamu garudayaksa pada laga lanjutan super league. Persebaya bermain imbang 1-1 di stadion Gelora bung tomo",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/13/6aa6b9d33039e-persebaya-tundukkan-10-pemain-psim-1-0_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/13/6aa6b9d33039e-persebaya-tundukkan-10-pemain-psim-1-0_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "fc8b66d7bf45",
@@ -792,7 +888,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T10:34:33.000Z",
       "cuplikan": "Persib masih punya ruang di bursa transfer Super League. Tiga nama berprofil kelas dunia, termasuk Karim Benzema dan eks MU, menarik dibahas jelang deadline.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae643392abe-karim-benzema_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae643392abe-karim-benzema_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "dbd1245b7b1a",
@@ -825,7 +924,11 @@
       "lajur": "global",
       "terbit": "2026-09-19T10:30:00.000Z",
       "cuplikan": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
-      "gambar": "https://media.wired.com/photos/6aacfa7099aa97f60264424c/master/pass/091826-Productivity%20Doc.jpg"
+      "gambar": "https://media.wired.com/photos/6aacfa7099aa97f60264424c/master/pass/091826-Productivity%20Doc.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / How To and Advice"
+      ]
     },
     {
       "id": "3042c788c7ae",
@@ -847,7 +950,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T10:25:29.000Z",
       "cuplikan": "Samuel Matulatuwa gagal ke final Asian Games 2026 setelah finis ke-10. Namun, atlet modern pentathlon Indonesia itu mencetak personal best di renang dan obstacle.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae62dda2eba-samuel-matulatuwa-gagal-ke-final-asian-games-2026-setelah-finis-ke-10_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae62dda2eba-samuel-matulatuwa-gagal-ke-final-asian-games-2026-setelah-finis-ke-10_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "249fab914960",
@@ -869,7 +975,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T10:11:29.000Z",
       "cuplikan": "Perkembangan ekonomi digital Indonesia yang pesat membuat data perusahaan semakin bernilai, sekaligus semakin rentan terhadap kebocoran data dan lainnya.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/NI07IKvKqzZ9LV-mCiWrE3yVwBE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352594/original/008273600_1789811202-2V1A4397.JPG.jpeg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/NI07IKvKqzZ9LV-mCiWrE3yVwBE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352594/original/008273600_1789811202-2V1A4397.JPG.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "41f10940a7b4",
@@ -880,7 +989,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T10:10:29.000Z",
       "cuplikan": "Kontingen Indonesia tampil elegan di Opening Ceremony Asian Games 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/43/3243062/kontingen_indonesia_tampil_elegan_di_opening_ceremony_asian_games_2026-uUIt_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/43/3243062/kontingen_indonesia_tampil_elegan_di_opening_ceremony_asian_games_2026-uUIt_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "be4330934d51",
@@ -891,7 +1003,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T10:08:00.000Z",
       "cuplikan": "Cari laptop bekas Rp2 jutaan untuk mahasiswa baru? Ini 10 pilihan yang masih layak dipakai kuliah pada 2026, lengkap dengan spesifikasi dan kisaran harga pasar Indonesia",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/30/6a43d2ab078bd-ilustrasi-laptop-guru_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/30/6a43d2ab078bd-ilustrasi-laptop-guru_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "b00e5960c84e",
@@ -902,7 +1017,13 @@
       "lajur": "global",
       "terbit": "2026-09-19T10:08:00.000Z",
       "cuplikan": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
-      "gambar": "https://media.wired.com/photos/6aadfb978ffbfab4b483f09a/master/pass/Review--Samsung-Galaxy-Watch9.jpg"
+      "gambar": "https://media.wired.com/photos/6aadfb978ffbfab4b483f09a/master/pass/Review--Samsung-Galaxy-Watch9.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Watches",
+        "Gear / Products / Health and Fitness"
+      ]
     },
     {
       "id": "fed5ba6c82b1",
@@ -957,7 +1078,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T10:01:01.000Z",
       "cuplikan": "Media Vietnam TheThao247 menyoroti Dion Markx dan Luke Vickery yang masuk skuad Timnas Indonesia untuk FIFA ASEAN Cup 2026 dan berpeluang mencatat debut.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae40a49d4fc-dion-markx-dan-luke-vickery-dipanggil-john-herdman-untuk-fifa-asean-cup-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae40a49d4fc-dion-markx-dan-luke-vickery-dipanggil-john-herdman-untuk-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "499a1df6c846",
@@ -968,7 +1092,19 @@
       "lajur": "global",
       "terbit": "2026-09-19T10:00:45.000Z",
       "cuplikan": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity Why China is pushing back on US warnings over rapid AI development When reporters…",
-      "gambar": "https://i.guim.co.uk/img/media/7fe76523483afb288dbc972157cf1bfb4dc91aa4/0_5_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d522513c02fa30cd250a9654140aaae2"
+      "gambar": "https://i.guim.co.uk/img/media/7fe76523483afb288dbc972157cf1bfb4dc91aa4/0_5_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d522513c02fa30cd250a9654140aaae2",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Anthropic",
+        "OpenAI",
+        "US foreign policy",
+        "Technology",
+        "Trump administration",
+        "China",
+        "DeepSeek",
+        "US news",
+        "US politics"
+      ]
     },
     {
       "id": "d1fc840dc520",
@@ -979,7 +1115,19 @@
       "lajur": "global",
       "terbit": "2026-09-19T10:00:44.000Z",
       "cuplikan": "Energy bills are scheduled to rise next month but there are innovative ways to heat your home and save money When Giles Gibson turns on the hot tap in his home, the water that comes out of it is not heated by gas but by the tiny datacentre…",
-      "gambar": "https://i.guim.co.uk/img/media/eb772dea3c90357aea977dfebea9a030029a2629/450_0_4258_3408/master/4258.jpg?width=140&quality=85&auto=format&fit=max&s=24bb434efd611bdf7b867bd51982f243"
+      "gambar": "https://i.guim.co.uk/img/media/eb772dea3c90357aea977dfebea9a030029a2629/450_0_4258_3408/master/4258.jpg?width=140&quality=85&auto=format&fit=max&s=24bb434efd611bdf7b867bd51982f243",
+      "kategoriSumber": [
+        "Energy bills",
+        "Home improvements",
+        "Saving money",
+        "Money",
+        "Consumer affairs",
+        "Household bills",
+        "UK news",
+        "Energy industry",
+        "Datacentres - UK",
+        "AI (artificial intelligence)"
+      ]
     },
     {
       "id": "274168859b9c",
@@ -990,7 +1138,16 @@
       "lajur": "global",
       "terbit": "2026-09-19T10:00:06.000Z",
       "cuplikan": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png",
+      "kategoriSumber": [
+        "Science",
+        "asteroids",
+        "astronomy",
+        "centaurs",
+        "Chariklo",
+        "JWST",
+        "rings"
+      ]
     },
     {
       "id": "1b241b8e7b5d",
@@ -1001,7 +1158,13 @@
       "lajur": "global",
       "terbit": "2026-09-19T10:00:00.000Z",
       "cuplikan": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
-      "gambar": "https://media.wired.com/photos/69f4325923bfb7bf0cbdff79/master/pass/The-Best-Gifts-for-Bird-Lovers.jpg"
+      "gambar": "https://media.wired.com/photos/69f4325923bfb7bf0cbdff79/master/pass/The-Best-Gifts-for-Bird-Lovers.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "Gear / Products / Outdoor"
+      ]
     },
     {
       "id": "111832ce11a9",
@@ -1012,7 +1175,11 @@
       "lajur": "global",
       "terbit": "2026-09-19T10:00:00.000Z",
       "cuplikan": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "gambar": "https://media.wired.com/photos/6aad73fd03ca378a32980599/master/pass/091826-Math%20Hate%20AI.jpg"
+      "gambar": "https://media.wired.com/photos/6aad73fd03ca378a32980599/master/pass/091826-Math%20Hate%20AI.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Science / Physics and Math"
+      ]
     },
     {
       "id": "2baa308e5a7e",
@@ -1034,7 +1201,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T09:37:39.000Z",
       "cuplikan": "Kiper Timnas Indonesia tidak tergantikan di klubnya rayo valecanno. Itu berkat penampilannya saat menghadapi real madrid. Dalam lag itu Emil tampil gemilang.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa973d079559-kiper-rayo-vallecano-emil-audero_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa973d079559-kiper-rayo-vallecano-emil-audero_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "f9506eaa538f",
@@ -1045,7 +1215,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T09:34:41.000Z",
       "cuplikan": "Soft tennis Indonesia mengalahkan India 2-0 di perempat final Asian Games 2026 dan mengunci medali. Indonesia selanjutnya menantang Jepang di semifinal.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae56d3653cb-soft-tennis-indonesia-mengalahkan-india-2-0-di-perempat-final-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae56d3653cb-soft-tennis-indonesia-mengalahkan-india-2-0-di-perempat-final-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "70c605a73f78",
@@ -1056,7 +1229,11 @@
       "lajur": "global",
       "terbit": "2026-09-19T09:30:00.000Z",
       "cuplikan": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
-      "gambar": "https://media.wired.com/photos/6aad6cbb8ffbfab4b483eaae/master/pass/IMG_2220.jpg"
+      "gambar": "https://media.wired.com/photos/6aad6cbb8ffbfab4b483eaae/master/pass/IMG_2220.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Science / Environment"
+      ]
     },
     {
       "id": "07a3129f9557",
@@ -1067,7 +1244,18 @@
       "lajur": "global",
       "terbit": "2026-09-19T09:22:45.000Z",
       "cuplikan": "With phone and computer prices soaring, it helps to know the true cost of owning electronics so you can bring those numbers down.",
-      "gambar": "https://static01.nyt.com/images/2026/09/19/business/17techfix/17techfix-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/19/business/17techfix/17techfix-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "iPhone",
+        "Computers and the Internet",
+        "Prices (Fares, Fees and Rates)",
+        "Personal Finances",
+        "Smartphones",
+        "Artificial Intelligence",
+        "Apple Inc",
+        "AT&T Inc",
+        "Shopping and Retail"
+      ]
     },
     {
       "id": "c7a0d86613df",
@@ -1078,7 +1266,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T09:02:00.000Z",
       "cuplikan": "Singapura datang ke FIFA ASEAN Cup 2026 dengan kepercayaan diri setelah menunjukkan perkembangan positif dalam beberapa bulan terakhir. Namun, pelatih Gavin Lee meminta a",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/01/6a6d9dffef2a3-pelatih-timnas-singapura-gavin-lee_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/01/6a6d9dffef2a3-pelatih-timnas-singapura-gavin-lee_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "d13cdbe6720a",
@@ -1100,7 +1291,13 @@
       "lajur": "global",
       "terbit": "2026-09-19T09:00:00.000Z",
       "cuplikan": "Every VPN says it’s the best, but only some of them are telling the truth.",
-      "gambar": "https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png"
+      "gambar": "https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Online Services",
+        "Security / Privacy"
+      ]
     },
     {
       "id": "b0725c2c8151",
@@ -1122,7 +1319,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T08:55:27.000Z",
       "cuplikan": "Nextgen Student League 2026 berkomitmen melahirkan talenta basket berbakat di Indonesia.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/36/3243056/nextgen_student_league_2026_digelar_di_5_kota-aLCj_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/36/3243056/nextgen_student_league_2026_digelar_di_5_kota-aLCj_large.jpg",
+      "kategoriSumber": [
+        "Basket"
+      ]
     },
     {
       "id": "ba58c01c80e4",
@@ -1133,7 +1333,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T08:50:54.000Z",
       "cuplikan": "Marc Marquez jadi pembalap tercepat di latihan bebas 2 MotoGP Austria 2026 jelang kualifikasi.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/38/3243050/marc_marquez_jadi_pembalap_tercepat_di_latihan_bebas_2_motogp_austria_2026_jelang_kualifikasi-B5HF_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/38/3243050/marc_marquez_jadi_pembalap_tercepat_di_latihan_bebas_2_motogp_austria_2026_jelang_kualifikasi-B5HF_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
     },
     {
       "id": "f3e4a3052d85",
@@ -1144,7 +1347,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T08:49:40.000Z",
       "cuplikan": "Kabar pemanggilan calon pemain naturalisasi ke Jerman U-21 membuka peluang nama lain. Sosok keturunan ini sudah berkarier di Indonesia dan siap dipantau Timnas.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae4abc23032-laurin-ulrich_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae4abc23032-laurin-ulrich_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "2d1641914f9b",
@@ -1155,7 +1361,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T08:36:17.000Z",
       "cuplikan": "Sedang berlangsung Persebaya vs Garudayaksa di Super League 2026/2027. Simak susunan pemain kedua tim, jadwal pertandingan, siaran Indosiar, dan link live streaming",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/01/6a6dfa47bf6bf-persebaya-surabaya_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/01/6a6dfa47bf6bf-persebaya-surabaya_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "88cb6beea206",
@@ -1166,7 +1375,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T08:36:00.000Z",
       "cuplikan": "Pelatih Timnas Indonesia, John Herdman memberikan kesempatan kepada dua pemain untuk tampil di level senior pada FIFA ASEAN Cup 2026. Mereka adalah Luke Vickery dan Dion",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/08/6a4dc2f7df8b4-calon-pemain-timnas-indonesia-luke-vickery_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/08/6a4dc2f7df8b4-calon-pemain-timnas-indonesia-luke-vickery_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "bfc3e6c339c2",
@@ -1232,7 +1444,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T08:06:46.000Z",
       "cuplikan": "Ide dasar LG InstaView lahir dari kebiasaan sederhana konsumen yang sering membuka-tutup pintu kulkas.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/gJVgaG15sBTcpfYESGAF4LPXXB4=/0x1064:5712x4283/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9352483/original/069456700_1789800523-IMG_6684.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/gJVgaG15sBTcpfYESGAF4LPXXB4=/0x1064:5712x4283/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9352483/original/069456700_1789800523-IMG_6684.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "0fd983f48d64",
@@ -1243,7 +1458,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T08:04:00.000Z",
       "cuplikan": "MacBook Neo hadir dengan harga terjangkau dan memicu persaingan baru. Dell, Asus, Acer, Lenovo, dan MSI menawarkan laptop tipis dengan spesifikasi modern yang menarik.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/05/19/682aab2635d1c-laptop-thinkpad-vs-macbook_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/05/19/682aab2635d1c-laptop-thinkpad-vs-macbook_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "e145e9c95f60",
@@ -1254,7 +1472,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T07:55:59.000Z",
       "cuplikan": "Dua pemain berpeluang debut bersama Timnas Indonesia di FIFA ASEAN Cup 2026. Dion Markx dan Luke Vickery masuk skuad resmi, sedangkan Eliano Reijnders absen.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae40a49d4fc-dion-markx-dan-luke-vickery-dipanggil-john-herdman-untuk-fifa-asean-cup-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae40a49d4fc-dion-markx-dan-luke-vickery-dipanggil-john-herdman-untuk-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "9793c6bd1183",
@@ -1276,7 +1497,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T07:32:42.000Z",
       "cuplikan": "Komposisi Timnas Indonesia mengalami perubahan cukup besar untuk menghadapi FIFA ASEAN Cup 2026. Dari 23 pemain yang diumumkan pada Jumat (18/9/2026), terdapat 14 nama ya",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/06/6a748394590a9-pelatih-timnas-indonesia-john-herdman_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/06/6a748394590a9-pelatih-timnas-indonesia-john-herdman_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "9b82a95c3523",
@@ -1298,7 +1522,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T07:30:00.000Z",
       "cuplikan": "Shin Tae-yong mengaku kecewa Persija Jakarta harus meninggalkan Jakarta untuk menjalani laga kandang pada pekan ketiga Super League 2026/2027. Persija dijadwalkan mengha",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/12/6aa53b0fe6f83-pelatih-persija-shin-tae-yong-tengah-dan-denis-kolinger-usai-laga-persija-vs-persib-di-sugbk_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/12/6aa53b0fe6f83-pelatih-persija-shin-tae-yong-tengah-dan-denis-kolinger-usai-laga-persija-vs-persib-di-sugbk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "db744ea37fb2",
@@ -1320,7 +1547,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T07:28:14.000Z",
       "cuplikan": "Sumaya membawa Indonesia ke final teqball Asian Games 2026 setelah mengalahkan wakil India. Dua tahun berlatih teqball, ia kini memburu medali emas teqball Asian Games",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aad19c1ca407-sumaya-bawa-teqball-indonesia-ke-semifinal-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aad19c1ca407-sumaya-bawa-teqball-indonesia-ke-semifinal-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "ffcf03e0abe2",
@@ -1342,7 +1572,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T07:18:25.000Z",
       "cuplikan": "Laurin Ulrich dipanggil Jerman U-21. Timnas Indonesia masih punya tiga pemain grade A berdarah Indonesia yang layak untuk dipantau dalam proyek naturalisasi.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae3668915cf-laurin-ulrich_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae3668915cf-laurin-ulrich_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "07a986cee930",
@@ -1375,7 +1608,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T07:11:02.000Z",
       "cuplikan": "Persija Jakarta membidik tiga kemenangan beruntun saat menghadapi Java United di BRI Super League. Shin Tae-yong meminta pemain tetap fokus dan waspada.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/11/677b80683e541-shin-tae-yong-sampaikan-pesan-terakhir-usai-dipecat-dari-timnas-indonesia_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/11/677b80683e541-shin-tae-yong-sampaikan-pesan-terakhir-usai-dipecat-dari-timnas-indonesia_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "74fe2379a563",
@@ -1430,7 +1666,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T06:26:00.000Z",
       "cuplikan": "Presiden FIFA Gianni Infantino menyampaikan ucapan selamat kepada Indonesia jelang bergulirnya FIFA ASEAN Cup 2026. Ia menyambut penyelenggaraan turnamen baru tersebut se",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/07/6a7539aed4eb5-presiden-fifa-gianni-infantino_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/07/6a7539aed4eb5-presiden-fifa-gianni-infantino_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "123e9c0d5bc5",
@@ -1452,7 +1691,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T06:11:33.000Z",
       "cuplikan": "Kabid Binpres PBSI, Eng Hian, merespons hasil drawing cabang olahraga (cabor) bulu tangkis Asian Games 2026 untuk nomor beregu.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/40/3243018/drawing_bulu_tangkis_asian_games_2026_nomor_beregu-B1EC_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/40/3243018/drawing_bulu_tangkis_asian_games_2026_nomor_beregu-B1EC_large.jpg",
+      "kategoriSumber": [
+        "Netting"
+      ]
     },
     {
       "id": "966ddac51d38",
@@ -1463,7 +1705,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T06:08:28.000Z",
       "cuplikan": "Inovasi QRIS Pocket dirancang untuk menjawab tantangan penerimaan pembayaran digital di area publik yang menuntut mobilitas tinggi.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/tab1awxJdnAFN3pvwwgcpkfH7LQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352416/original/097772800_1789794234-Netzme.jpeg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/tab1awxJdnAFN3pvwwgcpkfH7LQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352416/original/097772800_1789794234-Netzme.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "4caf8a6fcfc7",
@@ -1485,7 +1730,11 @@
       "lajur": "global",
       "terbit": "2026-09-19T06:00:00.000Z",
       "cuplikan": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
-      "gambar": "https://media.wired.com/photos/6aacf62f3ad4bc5bf850d26b/master/pass/8cd1c1fbdbb04c342381a7b512b285b2.png"
+      "gambar": "https://media.wired.com/photos/6aacf62f3ad4bc5bf850d26b/master/pass/8cd1c1fbdbb04c342381a7b512b285b2.png",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Gear News and Events"
+      ]
     },
     {
       "id": "4502375b06d4",
@@ -1518,7 +1767,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T05:00:00.000Z",
       "cuplikan": "Pengamat Bung Ropan menyoroti 12 pemain abroad dalam skuad Timnas Indonesia untuk FIFA ASEAN Cup 2026 yang dinilai menjadi pembeda di tengah banyaknya pemain absen.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/16/6a58a6d88a1c4-penyerang-baru-timnas-indonesia-luke-vickery_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/16/6a58a6d88a1c4-penyerang-baru-timnas-indonesia-luke-vickery_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "cbb59e88775f",
@@ -1617,7 +1869,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T04:04:12.000Z",
       "cuplikan": "Berikut jadwal pertandingan MPL ID S18 hari ini, Sabtu (19/9/2026). Ada Geek Fam ID vs NAVI hingga Bigetron by Vitality vs Team Liquid ID.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/Z4ilZ5NTQ2AU9sXNbf68fVImpZM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4620632/original/095028600_1698046474-20231023_140206.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Z4ilZ5NTQ2AU9sXNbf68fVImpZM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4620632/original/095028600_1698046474-20231023_140206.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "9f9606186161",
@@ -1628,7 +1883,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T04:00:00.000Z",
       "cuplikan": "PSIM Yogyakarta kalah 1-2 dari Madura United setelah sempat unggul. Jean-Paul van Gastel menyoroti peluang terbuang dan banyak kesalahan teknis timnya.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/28/692944dd82ccb-pelatih-psim-yogyakarta-jean-paul-van-gastel_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/28/692944dd82ccb-pelatih-psim-yogyakarta-jean-paul-van-gastel_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "41ac5a22abfd",
@@ -1672,7 +1930,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T03:09:15.000Z",
       "cuplikan": "Teqball Putri Indonesia berhasil melenggang ke final Asian Games 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/43/3242985/teqball_putri_indonesia_berhasil_melenggang_ke_final_asian_games_2026-Shfu_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/43/3242985/teqball_putri_indonesia_berhasil_melenggang_ke_final_asian_games_2026-Shfu_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "020dfa89d90a",
@@ -1683,7 +1944,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T03:00:00.000Z",
       "cuplikan": "Timnas Singapura resmi mengumumkan 23 pemain untuk FIFA ASEAN Cup 2026. The Lions akan menghadapi Indonesia pada laga perdana Grup A di SUGBK, Jakarta.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/24/6a637375c39c1-timnas-singapura_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/24/6a637375c39c1-timnas-singapura_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "0101c18483d3",
@@ -1694,7 +1958,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T02:59:00.000Z",
       "cuplikan": "Bayangkan ada penyusup yang berhasil masuk ke sebuah gedung tanpa membobol pintu, lalu bersembunyi di ruang mesin dan tetap berada di sana. Itulah spionase siber.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/05/15/609f2a0ab5b1e-ilustrasi-karyawan-diawasi-kecerdasan-buatan_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/05/15/609f2a0ab5b1e-ilustrasi-karyawan-diawasi-kecerdasan-buatan_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "1e75e2e3e855",
@@ -1716,7 +1983,13 @@
       "lajur": "global",
       "terbit": "2026-09-19T02:22:54.000Z",
       "cuplikan": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
-      "gambar": "https://media.wired.com/photos/6aade6510dbdc43ec89970ee/master/pass/2265184841"
+      "gambar": "https://media.wired.com/photos/6aade6510dbdc43ec89970ee/master/pass/2265184841",
+      "kategoriSumber": [
+        "Business",
+        "Business / Tech Culture",
+        "Security",
+        "Security / Privacy"
+      ]
     },
     {
       "id": "4991d6126b9b",
@@ -1727,7 +2000,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T02:11:26.000Z",
       "cuplikan": "Huawei MatePad Air 2026 resmi meluncur di Indonesia bersama fitur-fitur canggih pendukung aktivitas bekerja juga belajar. Apa saja?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/1KTUPjRQlzN8yTeAeRoqf45g9ys=/0x0:4000x3000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9352035/original/006150900_1789723907-20260918_113257.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/1KTUPjRQlzN8yTeAeRoqf45g9ys=/0x0:4000x3000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9352035/original/006150900_1789723907-20260918_113257.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "8f13b4966840",
@@ -1738,7 +2014,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T02:04:10.000Z",
       "cuplikan": "Bagi masyarakat Indonesia, smartphone menjadi tempat di mana kegiatan sehari-hari dilakukan. Mulai dari browsing, menonton video, bekerja, belanja, kehidupan digital.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/04/20/607eace376930-3-tips-saat-hendak-membeli-hape-baru_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/04/20/607eace376930-3-tips-saat-hendak-membeli-hape-baru_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "df859f1678cf",
@@ -1749,7 +2028,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T02:00:00.000Z",
       "cuplikan": "Ketua Umum PSSI Erick Thohir memberi pesan kepada 23 pemain Timnas Indonesia jelang FIFA ASEAN Cup 2026. Ia meminta skuad Garuda berani berjuang demi Merah Putih.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/06/690bf22664aa5-ketua-umum-pssi-erick-thohir_665_374.jpeg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/06/690bf22664aa5-ketua-umum-pssi-erick-thohir_665_374.jpeg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "9a179232a73a",
@@ -1793,7 +2075,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T01:00:00.000Z",
       "cuplikan": "Tanpa Bek Timnas Indonesia, Jay Idzes yang masih cedera, Sassuolo kalah 1-2 dari Monza di Serie A. Gustavo Varela mencetak dua gol untuk membawa Monza meraih kemenangan.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9d7d5a9db0b-bek-sassuolo-jay-idzes_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9d7d5a9db0b-bek-sassuolo-jay-idzes_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "3bbfaabc374e",
@@ -1815,7 +2100,14 @@
       "lajur": "global",
       "terbit": "2026-09-19T01:00:00.000Z",
       "cuplikan": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Government & Policy",
+        "robocalls",
+        "spam",
+        "Truecaller"
+      ]
     },
     {
       "id": "b27fb7cf6534",
@@ -1826,7 +2118,15 @@
       "lajur": "global",
       "terbit": "2026-09-19T00:53:20.000Z",
       "cuplikan": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in…",
-      "gambar": "https://i.guim.co.uk/img/media/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/master/3586.jpg?width=140&quality=85&auto=format&fit=max&s=5f60df9c0852bbd10181586d7c6d70d8"
+      "gambar": "https://i.guim.co.uk/img/media/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/master/3586.jpg?width=140&quality=85&auto=format&fit=max&s=5f60df9c0852bbd10181586d7c6d70d8",
+      "kategoriSumber": [
+        "Google",
+        "AI (artificial intelligence)",
+        "US news",
+        "World news",
+        "Technology",
+        "Alphabet"
+      ]
     },
     {
       "id": "fe0cf723db3f",
@@ -1848,7 +2148,17 @@
       "lajur": "global",
       "terbit": "2026-09-19T00:31:39.000Z",
       "cuplikan": "A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.",
-      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-google-zkmt/18biz-google-zkmt-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-google-zkmt/18biz-google-zkmt-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Google Inc",
+        "Computers and the Internet",
+        "Computer Security",
+        "Cyberattacks and Hackers",
+        "Irregular (AI Co)",
+        "Anthropic AI LLC",
+        "OpenAI Labs"
+      ]
     },
     {
       "id": "68b690d60109",
@@ -1859,7 +2169,16 @@
       "lajur": "global",
       "terbit": "2026-09-19T00:23:02.000Z",
       "cuplikan": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-anthropic-ipo-go-bzlw/18biz-anthropic-ipo-go-bzlw-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-anthropic-ipo-go-bzlw/18biz-anthropic-ipo-go-bzlw-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Initial Public Offerings",
+        "Anthropic AI LLC",
+        "Amodei, Dario",
+        "OpenAI Labs",
+        "Regulation and Deregulation of Industry",
+        "Computer Security"
+      ]
     },
     {
       "id": "f0cf279d8dbb",
@@ -1870,7 +2189,12 @@
       "lajur": "global",
       "terbit": "2026-09-19T00:12:07.000Z",
       "cuplikan": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Media & Entertainment",
+        "tilly norwood"
+      ]
     },
     {
       "id": "2f88c6251469",
@@ -1892,7 +2216,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T00:00:00.000Z",
       "cuplikan": "Chelsea kalah 0-3 dari Brentford di Premier League 2026/27. Sempat dominan pada babak pertama, The Blues justru kebobolan tiga gol setelah turun minum.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aadbc92bac52-para-pemain-brentford-merayakan-kemenangan-atas-chelsea_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aadbc92bac52-para-pemain-brentford-merayakan-kemenangan-atas-chelsea_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "57599f90337c",
@@ -1925,7 +2252,13 @@
       "lajur": "global",
       "terbit": "2026-09-18T23:25:01.000Z",
       "cuplikan": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "UpLabs"
+      ]
     },
     {
       "id": "e96f36f6ebfc",
@@ -1936,7 +2269,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-18T23:23:18.000Z",
       "cuplikan": "Penjualan Galaxy Z Fold8 disebut meningkat setelah Apple memperkenalkan iPhone Duo. Apa alasan konsumen memilih HP lipat Samsung?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/jq8CIj0ty9jT6yVlWz40pU05N7I=/0x0:4160x3120/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9311623/original/010434600_1785413082-Galaxy_Z_Fold8_1.jpeg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/jq8CIj0ty9jT6yVlWz40pU05N7I=/0x0:4160x3120/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9311623/original/010434600_1785413082-Galaxy_Z_Fold8_1.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "bdbf549155f5",
@@ -1969,7 +2305,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-18T23:00:00.000Z",
       "cuplikan": "Bayern Munich menghancurkan Union Berlin 7-0 pada pekan keempat Liga Jerman. Michael Olise mencetak hat-trick, sementara Harry Kane menyumbang dua gol.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aadb8563e42a-gelandang-bayern-munich-michael-olise_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aadb8563e42a-gelandang-bayern-munich-michael-olise_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "fb63beaf065a",
@@ -2013,7 +2352,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-18T21:30:56.000Z",
       "cuplikan": "Berikut jadwal MotoGP 2026 bertajuk MotoGP Austria 2026 yang dilangsungkan di Sirkuit Red Bull Ring pada Sabtu, 19 September 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242784/marc_marquez_berpeluang_juara_motogp_austria_2026_marcmarquez93_instagram-xX8o_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242784/marc_marquez_berpeluang_juara_motogp_austria_2026_marcmarquez93_instagram-xX8o_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
     },
     {
       "id": "3f34b2a2eb55",
@@ -2035,7 +2377,15 @@
       "lajur": "global",
       "terbit": "2026-09-18T20:26:33.000Z",
       "cuplikan": "But the military's overall use of AI seems to be accelerating.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "china",
+        "Department of Defense",
+        "DoD",
+        "hegseth",
+        "military AI"
+      ]
     },
     {
       "id": "570f3ae65c13",
@@ -2046,7 +2396,14 @@
       "lajur": "global",
       "terbit": "2026-09-18T19:36:48.000Z",
       "cuplikan": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
-      "gambar": "https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250"
+      "gambar": "https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Health and Fitness",
+        "Gear / Products / Outdoor",
+        "Gear / Products / Watches"
+      ]
     },
     {
       "id": "0f3cb72b85c7",
@@ -2057,7 +2414,11 @@
       "lajur": "global",
       "terbit": "2026-09-18T19:21:09.000Z",
       "cuplikan": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "gambar": "https://media.wired.com/photos/6aab266a1bcc9d144a552a68/master/pass/How-AI-Slow-Down-Would-Happen-Business-AB12706.jpg"
+      "gambar": "https://media.wired.com/photos/6aab266a1bcc9d144a552a68/master/pass/How-AI-Slow-Down-Would-Happen-Business-AB12706.jpg",
+      "kategoriSumber": [
+        "Business",
+        "Business / Artificial Intelligence"
+      ]
     },
     {
       "id": "8a86701f25e4",
@@ -2068,7 +2429,16 @@
       "lajur": "global",
       "terbit": "2026-09-18T19:20:50.000Z",
       "cuplikan": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "AI tools",
+        "air traffic control",
+        "air traffic controllers",
+        "airspace",
+        "FAA",
+        "Federal Aviation Administration"
+      ]
     },
     {
       "id": "684b971cc2b7",
@@ -2079,7 +2449,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-18T19:05:24.000Z",
       "cuplikan": "Valentino Rossi disinyalir lebih menjagokan Jorge Martin ketimbang Marc Marquez untuk juara MotoGP 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242798/jorge_martin_diduga_didukung_valentino_rossi_juara_motogp_2026_motogp_dan_jorgemartin89-xYd4_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242798/jorge_martin_diduga_didukung_valentino_rossi_juara_motogp_2026_motogp_dan_jorgemartin89-xYd4_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
     },
     {
       "id": "4ab5a3583f10",
@@ -2090,7 +2463,14 @@
       "lajur": "global",
       "terbit": "2026-09-18T18:37:36.000Z",
       "cuplikan": "Though Europe has measures that address how consumers might encounter AI, technology will impact them if the worst scenarios bear Europe’s dilemma over AI was rendered in stark terms this week. The head of the continent’s central bank…",
-      "gambar": "https://i.guim.co.uk/img/media/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=45a993c1b91cd2ca2442927d456c2750"
+      "gambar": "https://i.guim.co.uk/img/media/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=45a993c1b91cd2ca2442927d456c2750",
+      "kategoriSumber": [
+        "Technology",
+        "AI (artificial intelligence)",
+        "Europe",
+        "European Union",
+        "Christine Lagarde"
+      ]
     },
     {
       "id": "b0dc6c833b3e",
@@ -2112,7 +2492,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-18T18:05:33.000Z",
       "cuplikan": "Pembalap Ducati Lenovo Marc Marquez mulai menggeliat dan berpeluang keluar sebagai juara MotoGP 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242788/marc_marquez_bangkit_dan_kini_puncaki_klasemen_sementara_motogp_2026_marcmarquez93-Plfi_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242788/marc_marquez_bangkit_dan_kini_puncaki_klasemen_sementara_motogp_2026_marcmarquez93-Plfi_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
     },
     {
       "id": "2db62030b54c",
@@ -2123,7 +2506,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-18T18:02:00.000Z",
       "cuplikan": "Tak perlu flagship, 10 HP murah ini menawarkan spesifikasi seimbang untuk usia 40 tahun, mulai layar nyaman, baterai awet, kamera mumpuni hingga harga terjangkau.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/01/6a451b27720e2-ilustrasi-hp_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/01/6a451b27720e2-ilustrasi-hp_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "3f7ce9439ff7",
@@ -2156,7 +2542,13 @@
       "lajur": "global",
       "terbit": "2026-09-18T17:57:41.000Z",
       "cuplikan": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "CBS",
+        "Paramount Skydance",
+        "warner bros. discovery"
+      ]
     },
     {
       "id": "23fdcc677fd8",
@@ -2178,7 +2570,15 @@
       "lajur": "global",
       "terbit": "2026-09-18T17:49:50.000Z",
       "cuplikan": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-623682073-1152x648.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-623682073-1152x648.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Biology",
+        "brain",
+        "Cortex",
+        "neurobiology",
+        "sleep"
+      ]
     },
     {
       "id": "298a0aa5e38d",
@@ -2200,7 +2600,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-18T17:30:00.000Z",
       "cuplikan": "5 artikel Bola VIVA.co.id paling populer Jumat, 18 September 2026, membahas Timnas Indonesia, FIFA ASEAN Cup 2026, Persib, Persija, dan bursa transfer.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/11/6a524154da164-pelatih-persib-bandung-igor-tolic_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/11/6a524154da164-pelatih-persib-bandung-igor-tolic_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "8a4747f085b3",
@@ -2222,7 +2625,18 @@
       "lajur": "global",
       "terbit": "2026-09-18T17:28:50.000Z",
       "cuplikan": "The Federal Register website briefly used an open source Chinese AI search tool.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Policy",
+        "ai race",
+        "alibaba",
+        "Artificial Intelligence",
+        "fbi",
+        "Qwen",
+        "trump administration",
+        "US government"
+      ]
     },
     {
       "id": "050ae08acbe6",
@@ -2233,7 +2647,18 @@
       "lajur": "global",
       "terbit": "2026-09-18T17:27:15.000Z",
       "cuplikan": "Gov. Gavin Newsom ordered the state to develop recommendations on safety measures, including requiring companies to build a “kill switch,” amid mounting concerns.",
-      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-AI-safety-california-qpbt/18biz-AI-safety-california-qpbt-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-AI-safety-california-qpbt/18biz-AI-safety-california-qpbt-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "California",
+        "Artificial Intelligence",
+        "Regulation and Deregulation of Industry",
+        "State Legislatures",
+        "Newsom, Gavin",
+        "Executive Orders and Memorandums",
+        "Governors (US)",
+        "Politics and Government",
+        "Computer Security"
+      ]
     },
     {
       "id": "ea716245eaa0",
@@ -2255,7 +2680,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-18T17:05:38.000Z",
       "cuplikan": "Pembalap Indonesia Veda Ega Pratama siap menggila di seri ke-15 Moto3 2026 yang digelar di Sirkuit Red Bull Ring, Austria.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242776/veda_ega_pratama_berpeluang_naik_podium_di_moto3_austria_2026_veda54-m9p6_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242776/veda_ega_pratama_berpeluang_naik_podium_di_moto3_austria_2026_veda54-m9p6_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
     },
     {
       "id": "790d75832a6f",
@@ -2266,7 +2694,19 @@
       "lajur": "global",
       "terbit": "2026-09-18T17:00:23.000Z",
       "cuplikan": "Exclusive: Official UK security assessment found Microsoft cloud platform storing files was at potential risk from hostile hackers Vast troves of highly sensitive police data are lying on Microsoft cloud platforms which an oﬃcial UK…",
-      "gambar": "https://i.guim.co.uk/img/media/cac874b0d63d48e39cf43ea5a61612e0817abaf2/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=c490e0edab20299627db9b3dc5c42f39"
+      "gambar": "https://i.guim.co.uk/img/media/cac874b0d63d48e39cf43ea5a61612e0817abaf2/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=c490e0edab20299627db9b3dc5c42f39",
+      "kategoriSumber": [
+        "Police",
+        "Cloud computing",
+        "Microsoft",
+        "Computing",
+        "Internet",
+        "Technology",
+        "UK news",
+        "Data protection",
+        "Data and computer security",
+        "Privacy"
+      ]
     },
     {
       "id": "1e34ae15d84e",
@@ -2277,7 +2717,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-18T17:00:00.000Z",
       "cuplikan": "Persib Bandung dikabarkan belum tuntas dalam berburu pemain di bursa transfer musim 2026/2027. Maung Bandung disebut bakal mendatangkan dua pemain baru dalam waktu dekat",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaaa71d422e4-persib-bandung-vs-fc-seoul-di-acl-2_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaaa71d422e4-persib-bandung-vs-fc-seoul-di-acl-2_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     }
   ]
 }

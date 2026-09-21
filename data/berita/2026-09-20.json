@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-20",
-  "diperbarui": "2026-09-21T03:21:18.847Z",
+  "diperbarui": "2026-09-21T03:32:39.162Z",
   "berita": [
     {
       "id": "ac606a27e6e9",
@@ -22,7 +22,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T16:36:53.000Z",
       "cuplikan": "Persija menyumbang lima pemain ke Timnas Indonesia untuk FIFA ASEAN Cup 2026. Jordi Amat tak sabar bertemu Malaysia, Garuda satu grup dengan Bangladesh dan Sing",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/uveQeFDdAEejprt8JuH1Kp2EpqY=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5457738/original/029233400_1767024543-20251229IQ_Persija_vs_Bhayankara_FC-10.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/uveQeFDdAEejprt8JuH1Kp2EpqY=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5457738/original/029233400_1767024543-20251229IQ_Persija_vs_Bhayankara_FC-10.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "c182ba7eecce",
@@ -33,7 +36,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T16:33:12.000Z",
       "cuplikan": "Persib Bandung menaklukkan Persijap di Gelora Bumi Kartini pada pekan ketiga BRI Super League.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/bHdSHx_TdmY-GAcNvPBH0EgJVhc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350260/original/075923800_1789605853-persib_1.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/bHdSHx_TdmY-GAcNvPBH0EgJVhc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350260/original/075923800_1789605853-persib_1.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "f002f9c12ba1",
@@ -44,7 +50,10 @@
       "lajur": "global",
       "terbit": "2026-09-20T16:32:47.000Z",
       "cuplikan": "The startup is looking to expand beyond electric air taxi rides in major cities.",
-      "gambar": "https://www.engadget.com/img/gallery/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/l-intro-1789921812.jpg"
+      "gambar": "https://www.engadget.com/img/gallery/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/l-intro-1789921812.jpg",
+      "kategoriSumber": [
+        "EVs and Transportation"
+      ]
     },
     {
       "id": "f3225fded9fe",
@@ -55,7 +64,13 @@
       "lajur": "global",
       "terbit": "2026-09-20T16:30:00.000Z",
       "cuplikan": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Social",
+        "Gavin Newsom"
+      ]
     },
     {
       "id": "026cf174eb86",
@@ -66,7 +81,10 @@
       "lajur": "global",
       "terbit": "2026-09-20T16:30:00.000Z",
       "cuplikan": "The Society of Motion Picture and Television Engineers has a simple method for calculating the ideal viewing distance based on your TV size.",
-      "gambar": "https://www.engadget.com/img/gallery/whats-the-30-degree-rule-for-tvs/l-intro-1788889428.jpg"
+      "gambar": "https://www.engadget.com/img/gallery/whats-the-30-degree-rule-for-tvs/l-intro-1788889428.jpg",
+      "kategoriSumber": [
+        "TV & Movies"
+      ]
     },
     {
       "id": "3b33db4c6b4d",
@@ -88,7 +106,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T16:23:53.000Z",
       "cuplikan": "Kabar dari Liga Spanyol, Asian Games 2026, dan Moto3 memicu keingintahuan pembaca hingga masuk top 3 Kanal Bola Liputan6.com.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/ZSTUFpSiqUO6x3ys3Y6M9dM4XTA=/0x194:2384x1537/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353190/original/082032300_1789919091-000_C8U83MV.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/ZSTUFpSiqUO6x3ys3Y6M9dM4XTA=/0x194:2384x1537/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353190/original/082032300_1789919091-000_C8U83MV.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "5cb12dec13bc",
@@ -99,7 +120,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T16:16:19.000Z",
       "cuplikan": "Real Madrid bermain 10 orang melawan Atletico Madrid setelah Dean Huijsen diusir wasit.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/PcrOFeE82TTqMlnPBsxadeo_kZ4=/0x266:3341x2149/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353192/original/024407400_1789919271-AP26263561567362.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/PcrOFeE82TTqMlnPBsxadeo_kZ4=/0x266:3341x2149/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353192/original/024407400_1789919271-AP26263561567362.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "3bc28fe3cf43",
@@ -132,7 +156,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T16:05:15.000Z",
       "cuplikan": "Baihakki Khaizan dan Safiq Rahim menilai kans Timnas Indonesia di FIFA ASEAN Cup 2026.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/MctVIOE3EWnzS7cdzr77vwGO6aI=/0x183:1280x904/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9353182/original/067922300_1789917675-WhatsApp_Image_2026-09-20_at_21.48.22.jpeg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/MctVIOE3EWnzS7cdzr77vwGO6aI=/0x183:1280x904/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9353182/original/067922300_1789917675-WhatsApp_Image_2026-09-20_at_21.48.22.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "937d15f6067f",
@@ -154,7 +181,13 @@
       "lajur": "global",
       "terbit": "2026-09-20T16:02:00.000Z",
       "cuplikan": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Transportation",
+        "avs",
+        "May Mobility",
+        "techcrunch mobility"
+      ]
     },
     {
       "id": "777023a0cbfd",
@@ -165,7 +198,12 @@
       "lajur": "global",
       "terbit": "2026-09-20T16:00:00.000Z",
       "cuplikan": "Some phones have IR blasters to enable remote functions, but even if yours doesn't, you can do quite a lot over Bluetooth and Wi-Fi.",
-      "gambar": "https://www.engadget.com/img/gallery/how-to-use-your-phone-as-a-remote-for-any-smart-tv/l-intro-1789502055.jpg"
+      "gambar": "https://www.engadget.com/img/gallery/how-to-use-your-phone-as-a-remote-for-any-smart-tv/l-intro-1789502055.jpg",
+      "kategoriSumber": [
+        "Apps",
+        "Smartphones",
+        "Streaming"
+      ]
     },
     {
       "id": "477544c80d29",
@@ -220,7 +258,13 @@
       "lajur": "global",
       "terbit": "2026-09-20T15:39:22.000Z",
       "cuplikan": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "News",
+        "Policy",
+        "Politics"
+      ]
     },
     {
       "id": "835d77437d3f",
@@ -253,7 +297,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T15:31:53.000Z",
       "cuplikan": "Manchester City harus bekerja keras untuk mengamankan tiga poin saat menjamu Sunderland pada lanjutan Liga Inggris 2026-2027. Duel di Etihad Stadium, Minggu 20 September",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa6df41e22d3-pemain-manchester-city-erling-haaland_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa6df41e22d3-pemain-manchester-city-erling-haaland_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "424480c326e0",
@@ -264,7 +311,12 @@
       "lajur": "global",
       "terbit": "2026-09-20T15:30:00.000Z",
       "cuplikan": "Whether you just got a Sonos speaker or you're adding one to your current setup, you'll need to use the app.",
-      "gambar": "https://www.engadget.com/img/gallery/how-to-set-up-your-sonos-speakers-using-the-app/l-intro-1789153054.jpg"
+      "gambar": "https://www.engadget.com/img/gallery/how-to-set-up-your-sonos-speakers-using-the-app/l-intro-1789153054.jpg",
+      "kategoriSumber": [
+        "Apps",
+        "TV & Movies",
+        "Streaming"
+      ]
     },
     {
       "id": "ca1db3bcaa35",
@@ -275,7 +327,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T15:29:25.000Z",
       "cuplikan": "Laga pekan kelima Liga Inggris Fulham vs Manchester United hadir di Craven Cottage, Minggu (20/9/2026) pukul 22.30 WIB.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/8gwg6bla0b4oYxoPeErSaCiIQIs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9343506/original/075156500_1788859166-cunha.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/8gwg6bla0b4oYxoPeErSaCiIQIs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9343506/original/075156500_1788859166-cunha.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "7a7a57680dc3",
@@ -286,7 +341,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T15:24:33.000Z",
       "cuplikan": "Kabar dari Liga Inggris, BRI Super League, hingga persaingan MotoGP masuk daftar top 3 Kanal Bola Liputan6.com.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/9PuADZUMGlpai_IjTH4qo_X1AqE=/0x256:3244x2085/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352681/original/013168400_1789831400-AP26262537223865.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/9PuADZUMGlpai_IjTH4qo_X1AqE=/0x256:3244x2085/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352681/original/013168400_1789831400-AP26262537223865.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "28810120bcab",
@@ -319,7 +377,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T15:15:05.000Z",
       "cuplikan": "Liverpool menang 1-0 di markas Bournemouth berkat gol Alexander Isak pada menit ke-57. Man City menaklukkan Sunderland 5-3 dan memuncaki klasemen.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/Ei2nIw3Jk0zvgHEmnHc-ENHF7WU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353174/original/049737600_1789916911-000_C8U329X-isak.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Ei2nIw3Jk0zvgHEmnHc-ENHF7WU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353174/original/049737600_1789916911-000_C8U329X-isak.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "529703318432",
@@ -352,7 +413,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-20T15:05:35.000Z",
       "cuplikan": "Perkembangan teknologi finansial dinilai tidak hanya mengubah lanskap bisnis dan perbankan, tetapi juga mentransformasi cara masyarakat dalam berbagikan kebaikan. Di tengah pesatnya digitalisasi gaya hidup modern,...",
-      "gambar": "https://static.republika.co.id/uploads/images/detailnews/ayobantu-com-mengumumkan-regenerasi-kepemimpinan-oscar-darmawan-resmi-ditunjuk-sebagai_260920215856-993.jpeg"
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/ayobantu-com-mengumumkan-regenerasi-kepemimpinan-oscar-darmawan-resmi-ditunjuk-sebagai_260920215856-993.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "2cd6175ff9fe",
@@ -363,7 +427,13 @@
       "lajur": "global",
       "terbit": "2026-09-20T15:00:00.000Z",
       "cuplikan": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Startups",
+        "board",
+        "Brynn Putnam",
+        "Tristan Walker"
+      ]
     },
     {
       "id": "6c14fb355180",
@@ -374,7 +444,10 @@
       "lajur": "global",
       "terbit": "2026-09-20T15:00:00.000Z",
       "cuplikan": "Giving away or recycling your old laptop is great, but you need to make sure all your data is fully removed before it finds a new home.",
-      "gambar": "https://www.engadget.com/img/gallery/before-you-throw-out-your-old-laptop-do-this-first/l-intro-1789494765.jpg"
+      "gambar": "https://www.engadget.com/img/gallery/before-you-throw-out-your-old-laptop-do-this-first/l-intro-1789494765.jpg",
+      "kategoriSumber": [
+        "Computing"
+      ]
     },
     {
       "id": "dca317c037ee",
@@ -385,7 +458,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T14:52:00.000Z",
       "cuplikan": "Bali United kalah 0-1 di markas Borneo FC. Tiga kartu merah mewarnai laga.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/bRKz48XJNSorwP-uhkQUYQDn5gM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5668870/original/065238100_1778407733-IMG_1393.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/bRKz48XJNSorwP-uhkQUYQDn5gM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5668870/original/065238100_1778407733-IMG_1393.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "23aa8089eae4",
@@ -407,7 +483,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T14:45:39.000Z",
       "cuplikan": "Persib Bandung naik ke posisi keempat klasemen sementara Super League 2026/2027 setelah menumbangkan Persijap Jepara pada pekan ketiga. Persib meraih kemenangan 2-1 atas",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/07/6a9e7e22d495d-skuad-persib-bandung-20262027_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/07/6a9e7e22d495d-skuad-persib-bandung-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "17dc7ea5e070",
@@ -429,7 +508,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T14:36:58.000Z",
       "cuplikan": "Indonesia mengirim 430 atlet untuk mengikuti 35 cabor Asian Games 2026.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/-7GW6wInlLcNKXqqsiQcEfd_3i0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9345252/original/099771300_1789027117-WhatsApp_Image_2026-09-10_at_2.34.26_PM.jpeg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/-7GW6wInlLcNKXqqsiQcEfd_3i0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9345252/original/099771300_1789027117-WhatsApp_Image_2026-09-10_at_2.34.26_PM.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "9d1ca4a80ee4",
@@ -440,7 +522,10 @@
       "lajur": "global",
       "terbit": "2026-09-20T14:30:00.000Z",
       "cuplikan": "If you've just set up your speakers wherever they fit, you're probably not getting the best sound from your surround system.",
-      "gambar": "https://www.engadget.com/img/gallery/these-small-changes-can-improve-your-home-surround-sound-in-a-big-way/l-intro-1789492006.jpg"
+      "gambar": "https://www.engadget.com/img/gallery/these-small-changes-can-improve-your-home-surround-sound-in-a-big-way/l-intro-1789492006.jpg",
+      "kategoriSumber": [
+        "Streaming"
+      ]
     },
     {
       "id": "3846351d813c",
@@ -451,7 +536,18 @@
       "lajur": "global",
       "terbit": "2026-09-20T14:29:31.000Z",
       "cuplikan": "Emily Normandin-Parker, 23, was struck and killed on a California freeway after an Uber driver ordered her and a friend out of his car in August 2023.",
-      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18xp-uber-pcqf/18xp-uber-pcqf-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18xp-uber-pcqf/18xp-uber-pcqf-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Uber Technologies Inc",
+        "Compensation for Damages (Law)",
+        "Traffic Accidents and Safety",
+        "Deaths (Fatalities)",
+        "Arbitration, Conciliation and Mediation",
+        "Car Services and Livery Cabs",
+        "California",
+        "Orange County (Calif)",
+        "Decisions and Verdicts"
+      ]
     },
     {
       "id": "8627e55d3cde",
@@ -462,7 +558,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T14:15:24.000Z",
       "cuplikan": "Partai Liga Spanyol 2026/2027 Atletico Madrid vs Real Madrid berlangsung di Metropolitano, Minggu (20/9/2026) pukul 21.15 WIB.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/zq9TtOC6028b17K1FLG6x1w8Jrs=/0x682:8640x5552/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349306/original/073308600_1789518733-Real_Madrid_s_Kylian_Mbappe.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/zq9TtOC6028b17K1FLG6x1w8Jrs=/0x682:8640x5552/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349306/original/073308600_1789518733-Real_Madrid_s_Kylian_Mbappe.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "01ce390e7595",
@@ -473,7 +572,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T14:15:03.000Z",
       "cuplikan": "Pedro Acosta menempati podium tertinggi MotoGP Austria 2026.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/55VHVOhG9Rt2xhRhnNxHhKxfwsM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5486865/original/041747900_1769618995-G_qnMPsWYAAYzwo.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/55VHVOhG9Rt2xhRhnNxHhKxfwsM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5486865/original/041747900_1769618995-G_qnMPsWYAAYzwo.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "b4b9533001a7",
@@ -484,7 +586,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T14:08:53.000Z",
       "cuplikan": "Persib Bandung menang 2-1 atas Persijap di Stadion GBK Jepara. Sempat tertinggal karena gol penalti, Pangeran Biru berbalik lewat Thom Haye dan Uilliam Barros.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/xG5V2AZqoVanpJKWNtHc0SK6Szg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352626/original/071461500_1789815720-8b1d7275-439f-4f55-8063-77d71ef62e8e.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/xG5V2AZqoVanpJKWNtHc0SK6Szg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352626/original/071461500_1789815720-8b1d7275-439f-4f55-8063-77d71ef62e8e.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "303f5526de46",
@@ -495,7 +600,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T14:01:50.000Z",
       "cuplikan": "Persib Bandung meraih kemenangan 2-1 atas Persijap Jepara dalam lanjutan Super League 2026/2027. Sempat tertinggal lebih dulu, Maung Bandung mampu membalikkan keadaan lew",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa918b34c021-pemain-persib-bandung-thom-haye_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa918b34c021-pemain-persib-bandung-thom-haye_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "ff3e91e6d1b1",
@@ -506,7 +614,10 @@
       "lajur": "global",
       "terbit": "2026-09-20T14:00:00.000Z",
       "cuplikan": "Buying Nintendo's older console used makes plenty of sense, but a one new is much harder to justify.",
-      "gambar": "https://www.engadget.com/img/gallery/is-the-original-nintendo-switch-still-worth-buying-in-2026/l-intro-1789315359.jpg"
+      "gambar": "https://www.engadget.com/img/gallery/is-the-original-nintendo-switch-still-worth-buying-in-2026/l-intro-1789315359.jpg",
+      "kategoriSumber": [
+        "Nintendo"
+      ]
     },
     {
       "id": "8bb2148ce907",
@@ -517,7 +628,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T13:55:04.000Z",
       "cuplikan": "Lomba lari 5K hingga lari dengan anjing jadi sorotan utama. Selain itu ada Funhyrox dan juga bola basket 3x3 selama dua hari di GBK.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/lIK7hbkKhhxE8SjGb2JLFu6CTZg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353156/original/088118800_1789912458-WhatsApp_Image_2026-09-20_at_20.02.12.jpeg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/lIK7hbkKhhxE8SjGb2JLFu6CTZg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353156/original/088118800_1789912458-WhatsApp_Image_2026-09-20_at_20.02.12.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "1819be919fdb",
@@ -528,7 +642,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T13:44:58.000Z",
       "cuplikan": "Timnas Indonesia membawa komposisi berbeda di lini depan untuk menghadapi FIFA ASEAN Cup 2026. Pelatih John Herdman tidak memasukkan sejumlah penyerang lokal yang sebelum",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/14/6a2df6ce5f60c-selebrasi-pemain-timnas-indonesia-ole-romeny-dan-rizky-ridho_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/14/6a2df6ce5f60c-selebrasi-pemain-timnas-indonesia-ole-romeny-dan-rizky-ridho_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "5464dc346edd",
@@ -539,7 +656,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T13:34:57.000Z",
       "cuplikan": "Laurin Ulrich dipanggil Timnas Jerman U-21, tetapi peluang membela Indonesia belum tertutup. Stafsus Menkum Noor Korompot menjelaskan aturan FIFA yang berlaku.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafdfc39b7d1-laurin-ulrich_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafdfc39b7d1-laurin-ulrich_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "9b9b0d5faa1f",
@@ -550,7 +670,10 @@
       "lajur": "global",
       "terbit": "2026-09-20T13:30:00.000Z",
       "cuplikan": "It's coming back with a monthly subscription.",
-      "gambar": "https://www.engadget.com/img/gallery/winamp-will-be-reborn-in-2027-to-take-on-streaming/l-intro-1789154575.jpg"
+      "gambar": "https://www.engadget.com/img/gallery/winamp-will-be-reborn-in-2027-to-take-on-streaming/l-intro-1789154575.jpg",
+      "kategoriSumber": [
+        "Streaming"
+      ]
     },
     {
       "id": "cf8390ebc52d",
@@ -572,7 +695,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T13:26:40.000Z",
       "cuplikan": "Elkan Baggott disorot setelah Millwall gagal mempertahankan keunggulan 2-0 atas West Ham. Sejumlah warga Inggris menyebutnya pemain kutukan di media sosial.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafde72eb8b0-elkan-baggott_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafde72eb8b0-elkan-baggott_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "416ff26254c2",
@@ -583,7 +709,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T13:20:34.000Z",
       "cuplikan": "Shayne Pattynama secara mendadak mendapat panggilan untuk memperkuat Timnas Indonesia di FIFA ASEAN Cup 2026. Bek sayap Persija Jakarta itu akan bergabung dengan skuad Ga",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/09/6aa0af9989b20-pemain-persija-jakarta-shayne-pattynama_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/09/6aa0af9989b20-pemain-persija-jakarta-shayne-pattynama_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "4f30eda1f12f",
@@ -594,7 +723,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T13:04:55.000Z",
       "cuplikan": "Jorge Martin kini menduduki posisi teratas dengan 306 poin.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/38/3243220/pembalap_aprilia_racing_jorge_martin-tbZ2_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/38/3243220/pembalap_aprilia_racing_jorge_martin-tbZ2_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
     },
     {
       "id": "bee2ff3ea895",
@@ -616,7 +748,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T12:59:46.000Z",
       "cuplikan": "Jorge Martin sempat disalip Marc Marquez pada klasemen MotoGP 2026. Namun semua berubah usai MotoGP Austria 2026.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/NXs4HIcW1RzN0oZZsh34DHND4KY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5663980/original/094696200_1778333330-000_A8ZN23W.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/NXs4HIcW1RzN0oZZsh34DHND4KY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5663980/original/094696200_1778333330-000_A8ZN23W.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "b80728fd8fa2",
@@ -638,7 +773,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T12:48:10.000Z",
       "cuplikan": "Pertamina Mandalika Racing Series (MRS) tak sekadar menjadi ajang perebutan podium bagi pembalap nasional. Kompetisi yang digelar di Pertamina Mandalika International Cir",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafd5d2a6eca-pertamina-mandalika-racing-series-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafd5d2a6eca-pertamina-mandalika-racing-series-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "336a67b1c3c1",
@@ -649,7 +787,14 @@
       "lajur": "global",
       "terbit": "2026-09-20T12:45:48.000Z",
       "cuplikan": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Culture",
+        "Entertainment",
+        "Film",
+        "Internet Culture",
+        "Report"
+      ]
     },
     {
       "id": "72273e5eb930",
@@ -704,7 +849,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T12:17:40.000Z",
       "cuplikan": "Persikotas Tasikmalaya Nusantara FC resmi menjadikan Stadion Galuh Ciamis sebagai home base untuk mengarungi kompetisi Liga 3 musim 2026/2027. Kepastian tersebut didapat",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafcd3dbaeff-ceo-persikotas-kota-tasikmalaya-h-ecep-suwardaniyasa-dan-ceo-psgc-ciamis-yang-juga-bupati-ciamis-herdiat-sunarya_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafcd3dbaeff-ceo-persikotas-kota-tasikmalaya-h-ecep-suwardaniyasa-dan-ceo-psgc-ciamis-yang-juga-bupati-ciamis-herdiat-sunarya_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "aa95acc74ddb",
@@ -715,7 +863,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T12:10:48.000Z",
       "cuplikan": "PSGC Ciamis dan Persikotas Kota Tasikmalaya sepakat membangun kolaborasi untuk mengembangkan sepakbola di wilayah Priangan Timur. Salah satu bentuk kerja sama tersebut ad",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafccd08b344-psgc-dan-persikotas-resmikan-kolaborasi-historis_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafccd08b344-psgc-dan-persikotas-resmikan-kolaborasi-historis_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "319bc1f5abfc",
@@ -737,7 +888,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T12:00:24.000Z",
       "cuplikan": "Duel pekan ketiga BRI Super League 2026/2027 Persijap Jepara vs Persib Bandung berlangsung di Gelora Bumi Kartini, Minggu (20/9/2026) pukul 19.00 WIB.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/bHdSHx_TdmY-GAcNvPBH0EgJVhc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350260/original/075923800_1789605853-persib_1.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/bHdSHx_TdmY-GAcNvPBH0EgJVhc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350260/original/075923800_1789605853-persib_1.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "3168d688c958",
@@ -748,7 +902,11 @@
       "lajur": "global",
       "terbit": "2026-09-20T12:00:00.000Z",
       "cuplikan": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Installer",
+        "Tech"
+      ]
     },
     {
       "id": "e3983d4eedb9",
@@ -759,7 +917,11 @@
       "lajur": "global",
       "terbit": "2026-09-20T12:00:00.000Z",
       "cuplikan": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Podcasts",
+        "Version History"
+      ]
     },
     {
       "id": "d11b689309b4",
@@ -770,7 +932,13 @@
       "lajur": "global",
       "terbit": "2026-09-20T12:00:00.000Z",
       "cuplikan": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Energy",
+        "Policy",
+        "Science"
+      ]
     },
     {
       "id": "8a86a8f17e6f",
@@ -781,7 +949,12 @@
       "lajur": "global",
       "terbit": "2026-09-20T12:00:00.000Z",
       "cuplikan": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Column",
+        "Streaming",
+        "The Stepback"
+      ]
     },
     {
       "id": "a017391abd86",
@@ -792,7 +965,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T11:44:00.000Z",
       "cuplikan": "Persijap Jepara akan menjamu Persib Bandung pada pekan ketiga Super League 2026/27. Pertandingan ini digelar di Stadion Gelora Bumi Kartini, Jepara, Minggu, 20 September",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aacc6745847d-persib-saat-lawan-fc-seoul_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aacc6745847d-persib-saat-lawan-fc-seoul_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "17c9b01895ed",
@@ -814,7 +990,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T11:37:44.000Z",
       "cuplikan": "UEFA menolak memisahkan Irlandia dan Israel dalam undian mendatang. Kedua negara tetap bertemu di Nations League 2026/27 dengan laga digelar di venue netral",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/20/69bc90e7174cd-timnas-israel_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/20/69bc90e7174cd-timnas-israel_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "2c3e9eba4ee4",
@@ -825,7 +1004,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T11:30:14.000Z",
       "cuplikan": "Laga Liga Inggris Fulham vs Manchester United bisa disaksikan melalui Vidio.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/xjllDjKKyKwEUELvKF-3EDCXW00=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336095/original/051698700_1788111482-mu.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/xjllDjKKyKwEUELvKF-3EDCXW00=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336095/original/051698700_1788111482-mu.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "dd6ee716c35c",
@@ -836,7 +1018,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T11:26:57.000Z",
       "cuplikan": "Leica Al Humaira Lubis menyumbang medali perunggu untuk Indonesia di Asian Games 2026 setelah menang 6-1 atas karateka Kyrgyzstan di nomor kumite +68kg.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafc2e0d9cc5-debut-di-asian-games-2026-leica-al-humaira-langsung-sabet-medali_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafc2e0d9cc5-debut-di-asian-games-2026-leica-al-humaira-langsung-sabet-medali_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "b28f539fb283",
@@ -858,7 +1043,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T11:22:08.000Z",
       "cuplikan": "Emile Heskey meminta Alexis Mac Allister membuktikan kualitasnya di Liverpool sebelum mendapat kontrak baru lewat performa dan statistik yang kuat.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/pdnskkS3VYXjLAWBTkx-yYQf2ss=/0x247:3196x2048/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349300/original/025452600_1789518198-Liverpool_s_Alexis_Mac_Allister.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/pdnskkS3VYXjLAWBTkx-yYQf2ss=/0x247:3196x2048/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349300/original/025452600_1789518198-Liverpool_s_Alexis_Mac_Allister.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "d1ee3d847f11",
@@ -880,7 +1068,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T11:12:16.000Z",
       "cuplikan": "Hansi Flick memuji Raphinha usai Barcelona menang 3-1 atas Sevilla. Sang pelatih menilai keputusan memainkan bintang Brasil sebagai penyerang tengah sangat tepat.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf4816dfde8-penyerang-barcelona-raphinha-merayakan-gol_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf4816dfde8-penyerang-barcelona-raphinha-merayakan-gol_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "fc6c3426dbb7",
@@ -902,7 +1093,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-20T11:09:43.000Z",
       "cuplikan": "GTA 6 dijadwalkan meluncur pada 2026, sementara mode multiplayer disebut menyusul setahun kemudian. Benarkah?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/wROJpud1CBR_iI1oyEm6GWgeXcQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5921591/original/055595600_1778819739-grand-theft-auto-6.jpeg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/wROJpud1CBR_iI1oyEm6GWgeXcQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5921591/original/055595600_1778819739-grand-theft-auto-6.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "d99d51d785ea",
@@ -913,7 +1107,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T11:09:28.000Z",
       "cuplikan": "Borneo FC mengamankan kemenangan 1-0 atas Bali United dalam pertandingan pekan ketiga Super League 2026/2027 yang berlangsung panas di Stadion Segiri, Samarinda, Minggu,",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafbec554576-pemain-borneo-fc-merayakan-gol_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafbec554576-pemain-borneo-fc-merayakan-gol_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "2fab1312f6e2",
@@ -924,7 +1121,17 @@
       "lajur": "global",
       "terbit": "2026-09-20T11:07:00.000Z",
       "cuplikan": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg",
+      "kategoriSumber": [
+        "Biz & IT",
+        "Google",
+        "Security",
+        "Mole",
+        "supply chain attack",
+        "supply chain hacking",
+        "syndication",
+        "teampcp"
+      ]
     },
     {
       "id": "25ceb7335b61",
@@ -935,7 +1142,13 @@
       "lajur": "global",
       "terbit": "2026-09-20T11:07:00.000Z",
       "cuplikan": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
-      "gambar": "https://media.wired.com/photos/6aae0145c68108fad4b9bc12/master/pass/Review--Thermacell-LIV-Smart-Mosquito-Repellent-System-2.0.jpg"
+      "gambar": "https://media.wired.com/photos/6aae0145c68108fad4b9bc12/master/pass/Review--Thermacell-LIV-Smart-Mosquito-Repellent-System-2.0.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Outdoor",
+        "Gear / Products / Home"
+      ]
     },
     {
       "id": "10c551a0641d",
@@ -946,7 +1159,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T11:06:00.000Z",
       "cuplikan": "Persija Jakarta mengawali Super League 2026/2027 dengan catatan sempurna. Namun, pelatih Shin Tae-yong meminta skuad Macan Kemayoran tidak cepat puas setelah menyapu bers",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9caa8912630-pelatih-persija-jakarta-shin-tae-yong_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9caa8912630-pelatih-persija-jakarta-shin-tae-yong_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "4cde42eef671",
@@ -968,7 +1184,11 @@
       "lajur": "global",
       "terbit": "2026-09-20T11:00:00.000Z",
       "cuplikan": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”",
-      "gambar": "https://media.wired.com/photos/6aa8645f9bc29761b67d49dc/master/pass/Inside-Support-Group-Bad-Dogs-Culture.jpg"
+      "gambar": "https://media.wired.com/photos/6aa8645f9bc29761b67d49dc/master/pass/Inside-Support-Group-Bad-Dogs-Culture.jpg",
+      "kategoriSumber": [
+        "Culture",
+        "Culture / Digital Culture"
+      ]
     },
     {
       "id": "68e7e46c93f2",
@@ -990,7 +1210,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T10:53:24.000Z",
       "cuplikan": "Borneo FC menekuk Bali United 1-0 lewat penalti Juan Villa di Samarinda. Dewa United menang 2-1 atas PSS dan memimpin klasemen BRI Super League.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/_I-BC5QjkacICMmHDGBUMqpTD8M=/0x0:4096x2308/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5400184/original/044015200_1762068222-InShot_20251102_134540718.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/_I-BC5QjkacICMmHDGBUMqpTD8M=/0x0:4096x2308/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5400184/original/044015200_1762068222-InShot_20251102_134540718.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "72833114a28a",
@@ -1012,7 +1235,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T10:47:49.000Z",
       "cuplikan": "Timnas basket putri Indonesia lolos ke delapan besar Asian Games 2026 setelah Thailand kalah dari China. Indonesia selanjutnya menghadapi China di laga terakhir grup.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafb99ed4acd-timnas-basket-putri-indonesia-tembus-8-besar-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafb99ed4acd-timnas-basket-putri-indonesia-tembus-8-besar-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "face1be544bd",
@@ -1034,7 +1260,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T10:34:03.000Z",
       "cuplikan": "Pascal Struijk tak masuk skuad Belanda terbaru. Bek Brighton berdarah Indonesia ini masih punya peluang membela Timnas Indonesia jika terbuka dan memenuhi syarat.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/28/6a17e451dd583-bek-leeds-united-pascal-struijk_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/28/6a17e451dd583-bek-leeds-united-pascal-struijk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "483526a617fd",
@@ -1045,7 +1274,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T10:30:00.000Z",
       "cuplikan": "Timnas Indonesia akan segera memulai perjuangan di FIFA ASEAN Cup 2026. Skuad Garuda yang ditangani John Herdman tergabung di Grup A bersama Singapura, Malaysia, dan Bang",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf7cfed0291-timnas-indonesia_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf7cfed0291-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "9696363add08",
@@ -1067,7 +1299,12 @@
       "lajur": "global",
       "terbit": "2026-09-20T10:30:00.000Z",
       "cuplikan": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-      "gambar": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/master/pass/091626-Meta%20Muse.jpg"
+      "gambar": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/master/pass/091626-Meta%20Muse.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "Gear / Products / Apps"
+      ]
     },
     {
       "id": "a8e1d08f5ea2",
@@ -1078,7 +1315,11 @@
       "lajur": "global",
       "terbit": "2026-09-20T10:30:00.000Z",
       "cuplikan": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
-      "gambar": "https://media.wired.com/photos/6aad9a65289841154fbf8f24/master/pass/Trump-MAGA-Data-Centers-Column-Science.jpg"
+      "gambar": "https://media.wired.com/photos/6aad9a65289841154fbf8f24/master/pass/Trump-MAGA-Data-Centers-Column-Science.jpg",
+      "kategoriSumber": [
+        "Politics",
+        "Politics / Politics News"
+      ]
     },
     {
       "id": "d469240c7c42",
@@ -1089,7 +1330,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T10:28:17.000Z",
       "cuplikan": "Veda Ega Pratama kini menempati peringkat 8 klasemen sementara Moto3 2026 dengan 100 poin.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/38/3243206/veda_ega_pratama-T9HM_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/38/3243206/veda_ega_pratama-T9HM_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
     },
     {
       "id": "e70e433ebb7d",
@@ -1122,7 +1366,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T10:15:24.000Z",
       "cuplikan": "Atletico Madrid vs Real Madrid memanaskan pekan ketujuh Liga Spanyol 2026/2027.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/4r9HwxkN-NMwy9xlrqjA8UM2NNc=/0x262:3784x2395/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5266265/original/010205200_1750994107-000_63YN3QC.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/4r9HwxkN-NMwy9xlrqjA8UM2NNc=/0x262:3784x2395/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5266265/original/010205200_1750994107-000_63YN3QC.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "7baaf34f8455",
@@ -1133,7 +1380,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T10:05:27.000Z",
       "cuplikan": "Yann Bisseck menilai Inter Milan selalu mampu bangkit setelah tertinggal. Namun, bek Jerman itu meminta Nerazzurri memperbaiki performa sejak awal laga.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/-CiYqKRXgWOSJQmj2O3Ihd9olqM=/0x0:5642x3180/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353077/original/099403000_1789898579-AP26262599804216.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/-CiYqKRXgWOSJQmj2O3Ihd9olqM=/0x0:5642x3180/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353077/original/099403000_1789898579-AP26262599804216.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "0a88da317199",
@@ -1155,7 +1405,12 @@
       "lajur": "global",
       "terbit": "2026-09-20T10:00:02.000Z",
       "cuplikan": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
+      "kategoriSumber": [
+        "Cars",
+        "car review",
+        "Ferrari Purosangue"
+      ]
     },
     {
       "id": "7679e73da3ac",
@@ -1166,7 +1421,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T10:00:00.000Z",
       "cuplikan": "Raphinha tampil luar biasa bersama Barcelona pada awal musim La Liga 2026/2027. Penyerang asal Brasil itu bahkan berhasil melewati catatan Lionel Messi dalam tujuh pertan",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf4816dfde8-penyerang-barcelona-raphinha-merayakan-gol_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf4816dfde8-penyerang-barcelona-raphinha-merayakan-gol_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "972197e5da50",
@@ -1177,7 +1435,11 @@
       "lajur": "global",
       "terbit": "2026-09-20T10:00:00.000Z",
       "cuplikan": "“You know ‘Bang Bus’? We don’t want that.”",
-      "gambar": "https://media.wired.com/photos/6aad1f8e3467874a950d97a5/master/pass/091826-Robotaxi%20No%20Sex.jpg"
+      "gambar": "https://media.wired.com/photos/6aad1f8e3467874a950d97a5/master/pass/091826-Robotaxi%20No%20Sex.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Gear News and Events"
+      ]
     },
     {
       "id": "38bfa9d6ec2b",
@@ -1188,7 +1450,13 @@
       "lajur": "global",
       "terbit": "2026-09-20T10:00:00.000Z",
       "cuplikan": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
-      "gambar": "https://media.wired.com/photos/69c2c874bebdcbc5795fe12e/master/pass/US-Foreign-Made-Router-Ban-Gear-2222209888.jpg"
+      "gambar": "https://media.wired.com/photos/69c2c874bebdcbc5795fe12e/master/pass/US-Foreign-Made-Router-Ban-Gear-2222209888.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "Gear / How To and Advice",
+        "Gear / Products / Computers"
+      ]
     },
     {
       "id": "b8a50fef3a18",
@@ -1199,7 +1467,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T09:57:10.000Z",
       "cuplikan": "Posisi Veda Ega Pratama pada klasemen Moto3 2026 melorot usai seri Austria.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/dE4eQvjI8M273pbCdx_hCDtboFU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8263397/original/064463500_1781925105-50cd30ae-87f2-4c65-785f-1c59517a6ed3.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dE4eQvjI8M273pbCdx_hCDtboFU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8263397/original/064463500_1781925105-50cd30ae-87f2-4c65-785f-1c59517a6ed3.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "7693ade29889",
@@ -1210,7 +1481,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T09:55:24.000Z",
       "cuplikan": "Veda Ega Pratama memulai Moto3 Austria 2026 dari posisi 19.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/FptqLm-csvCNjU2yj5X8-NI1_8E=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/6188645/original/062265200_1779068676-75816100-ec60-37e8-1538-1163ddb6d984.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/FptqLm-csvCNjU2yj5X8-NI1_8E=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/6188645/original/062265200_1779068676-75816100-ec60-37e8-1538-1163ddb6d984.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "0e08ee925754",
@@ -1221,7 +1495,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T09:44:00.000Z",
       "cuplikan": "Pelatih Timnas Malaysia, Tan Cheng Hoe, mengakui Timnas Indonesia menjadi salah satu tim yang paling diunggulkan di Grup A FIFA ASEAN Cup 2026. Tan Cheng Hoe",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/30/6a6b0fd7f05ee-pelatih-timnas-malaysia-tan-cheng-hoe_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/30/6a6b0fd7f05ee-pelatih-timnas-malaysia-tan-cheng-hoe_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "9710dfd32b4e",
@@ -1232,7 +1509,12 @@
       "lajur": "global",
       "terbit": "2026-09-20T09:38:00.000Z",
       "cuplikan": "Amazon is a murky mess of ads, unknown sellers, misleading sales, and specious information. Stay safe while shopping on Prime Big Deal Days and beyond with these tips and tricks.",
-      "gambar": "https://media.wired.com/photos/6849b140ab7f5079900d4624/master/pass/How%20to%20Avoid%20Scams%20and%20Shoddy%20Wares%20on%20Amazon.png"
+      "gambar": "https://media.wired.com/photos/6849b140ab7f5079900d4624/master/pass/How%20to%20Avoid%20Scams%20and%20Shoddy%20Wares%20on%20Amazon.png",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / How To and Advice",
+        "Gear / Buying Guides"
+      ]
     },
     {
       "id": "9e934e365163",
@@ -1243,7 +1525,11 @@
       "lajur": "global",
       "terbit": "2026-09-20T09:30:00.000Z",
       "cuplikan": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
-      "gambar": "https://media.wired.com/photos/6aad0d966fc219f441397668/master/pass/091826-What%20Chat%20GOT%20Remember.jpg"
+      "gambar": "https://media.wired.com/photos/6aad0d966fc219f441397668/master/pass/091826-What%20Chat%20GOT%20Remember.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / How To and Advice"
+      ]
     },
     {
       "id": "805c9cc95a8f",
@@ -1254,7 +1540,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T09:21:40.000Z",
       "cuplikan": "Ia mendapatkan medali perunggu setelah mengalahkan wakil Kyrgyzstan Begimai Orozalieva.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243194/karateka_putri_indonesia_leica_al_humaira_lubis-K2rZ_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243194/karateka_putri_indonesia_leica_al_humaira_lubis-K2rZ_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "93132986947f",
@@ -1265,7 +1554,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T09:20:38.000Z",
       "cuplikan": "Jose Mourinho menghadapi dua dilema besar jelang derby Atletico Madrid vs Real Madrid. Ia harus memilih antara Arda Guler dan Yan Diomande serta menentukan komp",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/7U_FyoviAqRhpgYPvwF-otes-G4=/0x131:1280x852/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9330775/original/091597700_1787444524-Jose-Mourinho.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/7U_FyoviAqRhpgYPvwF-otes-G4=/0x131:1280x852/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9330775/original/091597700_1787444524-Jose-Mourinho.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "ea55bb5c4ea1",
@@ -1287,7 +1579,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T09:11:49.000Z",
       "cuplikan": "Penyerang Macarthur FC, Luke Vickery, antusias menyambut kesempatan memperkuat Timnas Indonesia di FIFA ASEAN Cup 2026. Vickery masuk dalam daftar 23 pemain yang dipilih",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae40a49d4fc-dion-markx-dan-luke-vickery-dipanggil-john-herdman-untuk-fifa-asean-cup-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae40a49d4fc-dion-markx-dan-luke-vickery-dipanggil-john-herdman-untuk-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "9fe001756ca5",
@@ -1309,7 +1604,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-20T09:07:49.000Z",
       "cuplikan": "LG CNS membangun Coretax melalui konsorsium bersama perusahaan IT asal Austria, Qualysoft GmbH.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/X1DJOEJ_cfezzkZ6RSfDsTUqwmI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352633/original/076421900_1789819007-LG_CNS.jpeg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/X1DJOEJ_cfezzkZ6RSfDsTUqwmI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352633/original/076421900_1789819007-LG_CNS.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "4d5762c09308",
@@ -1320,7 +1618,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T09:01:59.000Z",
       "cuplikan": "Bintang Barcelona Lamine Yamal memecahkan rekor Vinicius Junior sebagai pemain termuda yang mencapai 50 assist di Liga Spanyol.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/PTqRo-GFMqcdUW1uerqzGYpq_O4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336917/original/082496300_1788219186-000_C6XZ88K.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/PTqRo-GFMqcdUW1uerqzGYpq_O4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336917/original/082496300_1788219186-000_C6XZ88K.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "93b65b76c0e7",
@@ -1331,7 +1632,14 @@
       "lajur": "global",
       "terbit": "2026-09-20T09:01:40.000Z",
       "cuplikan": "As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.",
-      "gambar": "https://static01.nyt.com/images/2026/09/19/business/00-newworld-ai/00-newworld-ai-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/19/business/00-newworld-ai/00-newworld-ai-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "International Relations",
+        "Economic Conditions and Trends",
+        "Xi Jinping",
+        "China"
+      ]
     },
     {
       "id": "130f9eb67838",
@@ -1342,7 +1650,15 @@
       "lajur": "global",
       "terbit": "2026-09-20T09:00:11.000Z",
       "cuplikan": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
-      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg"
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Biology",
+        "dinosaurs",
+        "paleontology",
+        "phsiology",
+        "warm blooded"
+      ]
     },
     {
       "id": "8c4242fe75b7",
@@ -1353,7 +1669,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T09:00:00.000Z",
       "cuplikan": "Soft tenis beregu putra Indonesia meraih perunggu Asian Games 2026 setelah kalah 0-2 dari Jepang di semifinal. Ini menjadi medali ketiga Merah Putih di Asian Games 2026",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae56d3653cb-soft-tennis-indonesia-mengalahkan-india-2-0-di-perempat-final-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae56d3653cb-soft-tennis-indonesia-mengalahkan-india-2-0-di-perempat-final-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "0d691aab9004",
@@ -1364,7 +1683,11 @@
       "lajur": "global",
       "terbit": "2026-09-20T09:00:00.000Z",
       "cuplikan": "Several new studies have uncovered this long overlooked aspect of coral physiology that could be the key to the animals’ fate in a changing climate.",
-      "gambar": "https://media.wired.com/clips/6aac22cde42f8093b632ba5e/master/pass/CoralCilia-crCesarPacharres-Lede.mp4"
+      "gambar": "https://media.wired.com/clips/6aac22cde42f8093b632ba5e/master/pass/CoralCilia-crCesarPacharres-Lede.mp4",
+      "kategoriSumber": [
+        "Science",
+        "Science / Environment"
+      ]
     },
     {
       "id": "fce2fb2d0d36",
@@ -1375,7 +1698,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-20T08:58:47.000Z",
       "cuplikan": "Trump telah menolak seruan para pelaku industri untuk memperlambat perkembangan AI serta pengawasan yang lebih ketat.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/16/3243190/presiden_as_donald_trump-GQ4U_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/16/3243190/presiden_as_donald_trump-GQ4U_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
     },
     {
       "id": "ad962107de4b",
@@ -1397,7 +1723,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T08:36:25.000Z",
       "cuplikan": "Teqball mencatat sejarah baru di Asian Games 2026. Cabang olahraga yang memadukan sepak bola dan tenis meja tersebut berhasil menyumbangkan medali untuk kontingen Indones",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf9ac835bc3-yoga-ardika-putra_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf9ac835bc3-yoga-ardika-putra_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "5a19c839e00b",
@@ -1408,7 +1737,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T08:35:26.000Z",
       "cuplikan": "Sumaya meraih medali perak tunggal putri, sementara Yoga Ardika Putra menyumbang perunggu. Teqball Indonesia menutup Asian Games 2026 dengan dua medali.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf9a60703eb-atlet-teqball-indonesia-sumaya-sumbang-perak-di-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf9a60703eb-atlet-teqball-indonesia-sumaya-sumbang-perak-di-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "a340f74c87da",
@@ -1430,7 +1762,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T08:26:36.000Z",
       "cuplikan": "Kompetisi basket pelajar di Indonesia terus menunjukkan perkembangan yang menjanjikan. Dari yang semula hanya digelar di Surabaya, kini Nextgen Student League (NSL) menje",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf9885a50f0-liga-basket-pelajar-nsl-hadir-di-5-kota-buka-jalan-menuju-panggung-dunia_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf9885a50f0-liga-basket-pelajar-nsl-hadir-di-5-kota-buka-jalan-menuju-panggung-dunia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "ed5f8672597f",
@@ -1452,7 +1787,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T08:12:04.000Z",
       "cuplikan": "Mikel Arteta menyoroti lini serang Arsenal setelah dibantai Brighton 0-3. The Gunners gagal memanfaatkan peluang dan menelan kekalahan pertama musim ini.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/16/69e08ba8945b8-manajer-arsenal-mikel-arteta_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/16/69e08ba8945b8-manajer-arsenal-mikel-arteta_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "163c735b2077",
@@ -1463,7 +1801,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T08:09:23.000Z",
       "cuplikan": "Kai Havertz masih menjadi pilihan utama Arsenal di bawah Mikel Arteta. Kekalahan dari Brighton kembali memunculkan perdebatan soal Viktor Gyokeres.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/Ky7WFiZmDpGd5lEobjkBEHzsFBQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/7272048/original/027820900_1780057489-kai.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Ky7WFiZmDpGd5lEobjkBEHzsFBQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/7272048/original/027820900_1780057489-kai.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "7c823cae7883",
@@ -1507,7 +1848,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T07:29:24.000Z",
       "cuplikan": "Duel Persijap Jepara vs Persib Bandung memanaskan pekan ketiga BRI Super League 2026/2027.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/6VYQYIQxwPCXDkxZ7rlEwDbykc0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350601/original/058057700_1789623654-persib.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/6VYQYIQxwPCXDkxZ7rlEwDbykc0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350601/original/058057700_1789623654-persib.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "ade555fa2405",
@@ -1518,7 +1862,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-20T07:13:30.000Z",
       "cuplikan": "AI Gemini milik Google menandai kasus pertama dalam membobol sistem tiga perusahaan sekaligus. Benarkah?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/fYsZVMlIgRJ2zMjMEdwFJgjXxUo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9117596/original/021899700_1783066841-Screenshot-2026-07-01-at-10.00.27-AM.webp"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/fYsZVMlIgRJ2zMjMEdwFJgjXxUo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9117596/original/021899700_1783066841-Screenshot-2026-07-01-at-10.00.27-AM.webp",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "f671dd3414ff",
@@ -1562,7 +1909,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T06:53:28.000Z",
       "cuplikan": "Persembahkan Medali Perdana Indonesia di Asian Games 2026, Seraf Naro Akui Sangat Bangga!",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243165/seraf_naro_siregar-itoj_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243165/seraf_naro_siregar-itoj_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "e8e1ea960bd9",
@@ -1606,7 +1956,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T06:36:56.000Z",
       "cuplikan": "John Herdman mencoret empat pemain Persib dari skuad Timnas Indonesia untuk FIFA ASEAN Cup 2026. Marc Klok, Beckham, Eliano, dan Sandy Walsh tersisih.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf7cfed0291-timnas-indonesia_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf7cfed0291-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "1da528c1019b",
@@ -1617,7 +1970,15 @@
       "lajur": "global",
       "terbit": "2026-09-20T06:00:07.000Z",
       "cuplikan": "Scam emails are increasingly using psychological tricks, such as using near-identical URLs like miсrosoft.com You’ve read the email carefully and it looks legitimate. The link it asks you to click on has none of the usual red flags: there…",
-      "gambar": "https://i.guim.co.uk/img/media/6ea18000def5307701747c9991197d5dc4f95259/458_0_4576_3661/master/4576.jpg?width=140&quality=85&auto=format&fit=max&s=5d3490660d54c1cd578ac9a4a42578ba"
+      "gambar": "https://i.guim.co.uk/img/media/6ea18000def5307701747c9991197d5dc4f95259/458_0_4576_3661/master/4576.jpg?width=140&quality=85&auto=format&fit=max&s=5d3490660d54c1cd578ac9a4a42578ba",
+      "kategoriSumber": [
+        "Scams",
+        "Cybercrime",
+        "UK news",
+        "Consumer affairs",
+        "Money",
+        "Technology"
+      ]
     },
     {
       "id": "6fe45336f91d",
@@ -1628,7 +1989,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T06:00:00.000Z",
       "cuplikan": "Planet Football merilis 5 rekrutan terbaik Real Madrid. Cristiano Ronaldo memimpin, disusul empat nama lain.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/OZJeI_ej3Us8lOZDs8k6E9VfCs0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3922561/original/087157100_1643860424-000_J86V0.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/OZJeI_ej3Us8lOZDs8k6E9VfCs0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3922561/original/087157100_1643860424-000_J86V0.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "a2c66280952f",
@@ -1650,7 +2014,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T05:46:41.000Z",
       "cuplikan": "Persija Jakarta menyiapkan banding atas sanksi Komdis PSSI berupa denda Rp180 juta dan dua laga kandang usiran setelah pertandingan kontra Persib Bandung.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa949fb86891-skuad-persija-jakarta-20252026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa949fb86891-skuad-persija-jakarta-20252026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "4283c33e8b93",
@@ -1694,7 +2061,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T05:21:07.000Z",
       "cuplikan": "Asian Games 2026, Padel Pro Indonesia Bicara Masa Depan Atlet Nasional",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243153/padel_pro_indonesia-CEi9_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243153/padel_pro_indonesia-CEi9_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "bf71cf9f661c",
@@ -1705,7 +2075,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T05:16:12.000Z",
       "cuplikan": "Yoga Ardika Putra meraih perunggu Men's Singles Teqball Asian Games 2026 di Nagoya, jadi medali teqball pertama Indonesia dan kedua kontingen. Ia sampaikan harapan.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/H4SR-Tx4tDl3aEid__v8JCpVpm4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352898/original/052939900_1789878622-20260920_-_NOC_-_AG26_-_NMA_-_Teqball__2._Men_s_Doubles_Bronze_Medal_Match_-_Husni_Uba-La_Ode_Mardan_M__INA__1-2_Basel_Ahmad-Abdulwahab-AlQattan__KUW__-_01.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/H4SR-Tx4tDl3aEid__v8JCpVpm4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352898/original/052939900_1789878622-20260920_-_NOC_-_AG26_-_NMA_-_Teqball__2._Men_s_Doubles_Bronze_Medal_Match_-_Husni_Uba-La_Ode_Mardan_M__INA__1-2_Basel_Ahmad-Abdulwahab-AlQattan__KUW__-_01.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "8414d48ac785",
@@ -1716,7 +2089,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T05:12:52.000Z",
       "cuplikan": "Takluk dari Thailand, Timnas Voli Putri Indonesia Terhenti di Perempatfinal Asian Games 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243151/timnas_voli_putri_indonesia-eSIB_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243151/timnas_voli_putri_indonesia-eSIB_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "56b276501bb9",
@@ -1727,7 +2103,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-20T05:09:20.000Z",
       "cuplikan": "LG mengajak konsumen yang menggunakan LG InstaView lebih dari 5 tahun untuk membagikan pengalaman melalui akun Instagram resmi LG Indonesia.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/mPJikWEnp0tpuvFEpSSFE-R04W4=/0x0:4000x3000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9352581/original/066066300_1789808987-20260918_135408.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/mPJikWEnp0tpuvFEpSSFE-R04W4=/0x0:4000x3000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9352581/original/066066300_1789808987-20260918_135408.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "8e1bf5a21ff1",
@@ -1749,7 +2128,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T04:57:43.000Z",
       "cuplikan": "Tim beregu putri Indonesia menang 3-0 atas Mongolia di Asian Games 2026. Thalita Ramadhani menjadi penentu dan membawa Indonesia ke perempat final Asian Games",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf67a2b1fe4-tim-beregu-putri-indonesia-hajar-mongolia-3-0-di-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf67a2b1fe4-tim-beregu-putri-indonesia-hajar-mongolia-3-0-di-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "8acdbe5c3f9f",
@@ -1826,7 +2208,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T04:35:31.000Z",
       "cuplikan": "Berikut Klasemen Sementara Perolehan Medali Asian Games 2026, Minggu 20 September 2026 Pukul 11.00 WIB.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243144/seraf_naro_siregar-AdlH_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243144/seraf_naro_siregar-AdlH_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "23dacb3b4aa3",
@@ -1837,7 +2222,13 @@
       "lajur": "global",
       "terbit": "2026-09-20T04:32:26.000Z",
       "cuplikan": "Treasury’s latest intergenerational report projects life expectancy at birth will reach 89 for women and 86 for men by 2066 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast…",
-      "gambar": "https://i.guim.co.uk/img/media/cf4ce384e9c39f9a9e0ba72b49a3916086f9f5f8/491_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=84f2506dcb1debb2ade706ff55fd71cd"
+      "gambar": "https://i.guim.co.uk/img/media/cf4ce384e9c39f9a9e0ba72b49a3916086f9f5f8/491_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=84f2506dcb1debb2ade706ff55fd71cd",
+      "kategoriSumber": [
+        "Australia news",
+        "Australian politics",
+        "Health",
+        "AI (artificial intelligence)"
+      ]
     },
     {
       "id": "3158367c2bae",
@@ -1859,7 +2250,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T04:30:00.000Z",
       "cuplikan": "Timnas Indonesia menatap FIFA ASEAN Cup 2026; lima penyerang disiapkan.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/Djv03mtGo4gA6uWbfGmFXM8RvrQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9325169/original/049690900_1786840854-ole_1.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Djv03mtGo4gA6uWbfGmFXM8RvrQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9325169/original/049690900_1786840854-ole_1.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "6c7cb002cfe9",
@@ -1881,7 +2275,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T04:07:08.000Z",
       "cuplikan": "Prediksi starting XI dan formasi Timnas Indonesia di FIFA ASEAN Cup 2026. John Herdman punya 23 pemain, tetapi harus meracik skuad tanpa Jay Idzes karena cedera",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/14/6a2df6ce5f60c-selebrasi-pemain-timnas-indonesia-ole-romeny-dan-rizky-ridho_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/14/6a2df6ce5f60c-selebrasi-pemain-timnas-indonesia-ole-romeny-dan-rizky-ridho_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "903bffbddb65",
@@ -1914,7 +2311,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T03:34:35.000Z",
       "cuplikan": "Seraf Naro Siregar meraih perunggu wushu Changquan di Nagoya, menjadi medali pertama Indonesia pada Asian Games 2026.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/WLBCi6m-RN-AoPZX_pZ-ME4KB0M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352839/original/081364700_1789874763-naro_2.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/WLBCi6m-RN-AoPZX_pZ-ME4KB0M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352839/original/081364700_1789874763-naro_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "cf78fa2c794e",
@@ -1925,7 +2325,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T03:25:11.000Z",
       "cuplikan": "Seraf Naro Siregar meraih perunggu Changquan dan mempersembahkan medali pertama Indonesia di Asian Games 2026 Aichi-Nagoya setelah tampil di tengah cedera.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf51eba64ef-seraf-naro-siregar-sumbang-medali-pertama-indonesia-di-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf51eba64ef-seraf-naro-siregar-sumbang-medali-pertama-indonesia-di-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "458fe5debd2c",
@@ -1936,7 +2339,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T03:10:00.000Z",
       "cuplikan": "Tiga pemain Indonesia tampil sebagai starter saat Fortuna Sittard menang 1-0 atas Willem II. Justin Hubner dan Ole Romeny meraih tiga poin, Nathan Tjoe-A-On kalah.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/09/6a77d175c6424-ole-romeny-melakukan-selebrasi-setelah-mencetak-gol-pembuka-fortuna-sittard-lawan-psv-dalam-laga-pembuka-liga-belanda_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/09/6a77d175c6424-ole-romeny-melakukan-selebrasi-setelah-mencetak-gol-pembuka-fortuna-sittard-lawan-psv-dalam-laga-pembuka-liga-belanda_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "a70133885986",
@@ -1947,7 +2353,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T03:05:50.000Z",
       "cuplikan": "Indonesia melaju ke perempat final bulutangkis beregu putri Asian Games 2026 usai menang 3-0 atas Mongolia di Ichinomiya, Minggu pagi ini.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/vtkzwZFPM-3W_cF2JhBmfD4m80Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352805/original/095219400_1789872571-HSfGVPwa0AANRJP.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/vtkzwZFPM-3W_cF2JhBmfD4m80Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352805/original/095219400_1789872571-HSfGVPwa0AANRJP.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "bee7f499750e",
@@ -1958,7 +2367,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T02:58:27.000Z",
       "cuplikan": "Hasil Bulu Tangkis Asian Games 2026: Tim Putri Indonesia Amankan Tiket Perempatfinal!",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/40/3243125/tim_bulu_tangkis_indonesia-svdI_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/40/3243125/tim_bulu_tangkis_indonesia-svdI_large.jpg",
+      "kategoriSumber": [
+        "Netting"
+      ]
     },
     {
       "id": "1308e728bb86",
@@ -1969,7 +2381,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T02:46:48.000Z",
       "cuplikan": "Indonesia kalah 0-3 dari Thailand di perempat final voli putri Asian Games 2026 di Okazaki, Minggu pagi ini.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/S_y7hkBIuQVjY6wMN5Pd3OJvvC8=/0x100:1072x704/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352801/original/013054000_1789871752-Japan______Indonesia_match_photos._____AINAGOC_asiangames2026__aichinagoya2026.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/S_y7hkBIuQVjY6wMN5Pd3OJvvC8=/0x100:1072x704/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352801/original/013054000_1789871752-Japan______Indonesia_match_photos._____AINAGOC_asiangames2026__aichinagoya2026.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "faf7ab048994",
@@ -1980,7 +2395,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T02:44:35.000Z",
       "cuplikan": "Raphinha mencetak hattrick saat Barcelona bangkit dan menang 3-1 atas Sevilla. Blaugrana menjaga rekor sempurna dengan tujuh kemenangan di Liga Spanyol musim ini.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf4816dfde8-penyerang-barcelona-raphinha-merayakan-gol_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf4816dfde8-penyerang-barcelona-raphinha-merayakan-gol_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "1cbd1222c936",
@@ -2002,7 +2420,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T02:05:04.000Z",
       "cuplikan": "Raphinha mencetak hattrick sehingga Barcelona menang 1-3 di kandang Sevilla.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/jQ6_VzQ5Wa9q4q0VyIhQ40TsqBE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352734/original/023808400_1789852612-BARCELONA.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/jQ6_VzQ5Wa9q4q0VyIhQ40TsqBE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352734/original/023808400_1789852612-BARCELONA.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "1ef34c819081",
@@ -2013,7 +2434,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T02:03:18.000Z",
       "cuplikan": "AS Roma dan Inter Milan bermain imbang 2-2 di Olimpico dalam Serie A. Manu Kone mencetak dua gol, tetapi Lautaro Martinez membawa Inter bangkit lewat brace.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf3eb97fba1-bek-as-roma-leonardo-balerdi-dan-penyerang-inter-milan-lautaro-martinez-di-laga-as-roma-dan-inter-milan_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf3eb97fba1-bek-as-roma-leonardo-balerdi-dan-penyerang-inter-milan-lautaro-martinez-di-laga-as-roma-dan-inter-milan_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "04c4847aec4f",
@@ -2024,7 +2448,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-20T02:03:15.000Z",
       "cuplikan": "Berikut adalah jadwal lengkap pertandingan MPL ID S18 hari ini, Minggu 20 September 2026.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/QmEYAAnRIbvfPJ8G1ovNKatoTdw=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/4598231/original/081128000_1696406073-Genshin_Impact_di_Xiaomi_13T.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/QmEYAAnRIbvfPJ8G1ovNKatoTdw=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/4598231/original/081128000_1696406073-Genshin_Impact_di_Xiaomi_13T.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "eedb39f4746f",
@@ -2035,7 +2462,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T01:51:16.000Z",
       "cuplikan": "AS Roma sempat unggul 2-0 melawan Inter Milan, namun tim tamu mampu menyamakan kedudukan menjadi 2-2 di akhir laga.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/iPzplCPn7QGPmvUhjMXCr8fZvPU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352771/original/062320800_1789869076-Roma-1.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/iPzplCPn7QGPmvUhjMXCr8fZvPU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352771/original/062320800_1789869076-Roma-1.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "f3a2076f69bf",
@@ -2046,7 +2476,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T01:49:33.000Z",
       "cuplikan": "Tim Indonesia Raih Perunggu Perdana di Asian Games 2026 Lewat Cabor Wushu",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243111/seraf_naro_siregar-PA5d_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243111/seraf_naro_siregar-PA5d_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "a66248fc04ab",
@@ -2057,7 +2490,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T01:43:59.000Z",
       "cuplikan": "Inter Milan berhasil menahan imbang AS Roma dengan skor 2-2 setelah tertinggal 2-0 terlebih dahulu.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/o1wlBEtkQGxiI5xND_btK7y0-6M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352763/original/087585500_1789868639-Inter-1.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/o1wlBEtkQGxiI5xND_btK7y0-6M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352763/original/087585500_1789868639-Inter-1.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "a9f356c36d19",
@@ -2079,7 +2515,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T01:35:45.000Z",
       "cuplikan": "Arsenal harus memainkan enam laga dalam kurun waktu 11 hari saat bertandang ke markas Brighton.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/6qY-4lHR2ov9LGPfqFqA1yphoyE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352737/original/095530000_1789854726-brighton.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/6qY-4lHR2ov9LGPfqFqA1yphoyE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352737/original/095530000_1789854726-brighton.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "bb28883af7e3",
@@ -2090,7 +2529,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T01:30:12.000Z",
       "cuplikan": "Arsenal kalah telak 0-3 dari Brighton di Amex Stadium. Pascal Gross, Charalampos Kostoulas, dan Chema Andres mencetak gol yang mengakhiri rekor sempurna The Gunners.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf36ced35a5-declan-rice-bereaksi-selama-pertandingan-antara-brighton-dan-arsenal_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf36ced35a5-declan-rice-bereaksi-selama-pertandingan-antara-brighton-dan-arsenal_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "98a0816899cd",
@@ -2101,7 +2543,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-20T01:29:00.000Z",
       "cuplikan": "Bali United jalani tandang perdana ke markas Borneo FC, Minggu (20/9/2026). Johnny Jansen menargetkan tiga poin sambil berharap kabut asap tak mengganggu.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/Xkl4alIec5LTXRI-GaHrHE1we2c=/0x564:5472x3648/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5482847/original/034360100_1769261183-1001879168.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Xkl4alIec5LTXRI-GaHrHE1we2c=/0x564:5472x3648/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5482847/original/034360100_1769261183-1001879168.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "6815d3ff9113",
@@ -2145,7 +2590,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T23:32:04.000Z",
       "cuplikan": "Atlet-atlet Indonesia berpeluang meraih medali emas di Asian Games 2026 hari ini, tepatnya dari cabang olahraga Teqball dan Pentahlon.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243098/sumaya_berpeluang_sumbang_emas_bagi_indonesia_di_asian_games_2026_noc_indonesia-avJ6_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243098/sumaya_berpeluang_sumbang_emas_bagi_indonesia_di_asian_games_2026_noc_indonesia-avJ6_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
     },
     {
       "id": "6eb7d289f5a8",
@@ -2156,7 +2604,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-19T23:21:44.000Z",
       "cuplikan": "Gigabyte kembali ke pasar notebook Indonesia dengan empat lini dan membawa GiMATE sebagai fitur AI di seluruh produknya. Seperti apa kemampuannya?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/rFBEwPAuHqung_RWUVYZvvVXsFI=/0x0:4000x2250/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9352166/original/038427000_1789732640-20260918_132753.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/rFBEwPAuHqung_RWUVYZvvVXsFI=/0x0:4000x2250/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9352166/original/038427000_1789732640-20260918_132753.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "e6b785d3ed9d",
@@ -2211,7 +2662,13 @@
       "lajur": "global",
       "terbit": "2026-09-19T20:44:40.000Z",
       "cuplikan": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Meta",
+        "Privacy",
+        "Tech"
+      ]
     },
     {
       "id": "87dcbe61817f",
@@ -2222,7 +2679,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T20:40:14.000Z",
       "cuplikan": "Simak jadwal siaran langsung Tim Bulu Tangkis Putri Indonesia vs Tim Bulu Tangkis Mongolia di Asian Games 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/40/3243029/simak_jadwal_siaran_langsung_tim_bulu_tangkis_putri_indonesia_vs_tim_bulu_tangkis_mongolia_di_asian_games_2026-cSN1_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/40/3243029/simak_jadwal_siaran_langsung_tim_bulu_tangkis_putri_indonesia_vs_tim_bulu_tangkis_mongolia_di_asian_games_2026-cSN1_large.jpg",
+      "kategoriSumber": [
+        "Netting"
+      ]
     },
     {
       "id": "2c088408c259",
@@ -2233,7 +2693,12 @@
       "lajur": "global",
       "terbit": "2026-09-19T20:39:13.000Z",
       "cuplikan": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Government & Policy",
+        "Flock"
+      ]
     },
     {
       "id": "589c5060cfaa",
@@ -2244,7 +2709,12 @@
       "lajur": "global",
       "terbit": "2026-09-19T19:57:47.000Z",
       "cuplikan": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump"
+      ]
     },
     {
       "id": "76b6b88ea306",
@@ -2255,7 +2725,16 @@
       "lajur": "global",
       "terbit": "2026-09-19T19:57:17.000Z",
       "cuplikan": "President had brushed away suggestions to slow down AI technology, even as his own party counseled caution Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an “AI Force” to help monitor the…",
-      "gambar": "https://i.guim.co.uk/img/media/16036f1089514535d801d2d2f452cc57da7d985c/0_0_1353_1082/master/1353.jpg?width=140&quality=85&auto=format&fit=max&s=af31914fd31b473855086f5599de2828"
+      "gambar": "https://i.guim.co.uk/img/media/16036f1089514535d801d2d2f452cc57da7d985c/0_0_1353_1082/master/1353.jpg?width=140&quality=85&auto=format&fit=max&s=af31914fd31b473855086f5599de2828",
+      "kategoriSumber": [
+        "Donald Trump",
+        "AI (artificial intelligence)",
+        "Trump administration",
+        "Republicans",
+        "Technology",
+        "US politics",
+        "US news"
+      ]
     },
     {
       "id": "565e4497eab3",
@@ -2266,7 +2745,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T18:44:40.000Z",
       "cuplikan": "Jonatan Christie mengajak rekan-rekan setimnya untuk fokus jelang tampil di Asian Games 2026.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/40/3243025/jonatan_christie_mengajak_rekan_rekan_setimnya_untuk_fokus_jelang_tampil_di_asian_games_2026-2i9n_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/40/3243025/jonatan_christie_mengajak_rekan_rekan_setimnya_untuk_fokus_jelang_tampil_di_asian_games_2026-2i9n_large.jpg",
+      "kategoriSumber": [
+        "Netting"
+      ]
     },
     {
       "id": "e78ee9fd8d8a",
@@ -2288,7 +2770,14 @@
       "lajur": "global",
       "terbit": "2026-09-19T17:30:00.000Z",
       "cuplikan": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Security",
+        "AI",
+        "Google",
+        "gemini",
+        "Alphabet"
+      ]
     },
     {
       "id": "1b9c936a8349",
@@ -2299,7 +2788,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T17:02:49.000Z",
       "cuplikan": "Berita terkait Timnas Indonesia menjadi yang paling diminati pembaca VIVA sepanjang Sabtu 19 September 2026. Salah satunya adalah pelatih skuad Garuda, John Herdman menco",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/09/6a77d325d7ace-pelatih-timnas-indonesia-john-herdman_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/09/6a77d325d7ace-pelatih-timnas-indonesia-john-herdman_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "c4a965724e39",
@@ -2310,7 +2802,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-19T17:00:00.000Z",
       "cuplikan": "Emil Audero kembali dipercaya mengawal gawang Rayo Vallecano saat bertandang ke markas Osasuna dalam lanjutan Liga Spanyol 2026/2027, Sabtu, 19 September 2026. Rayo berha",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa973d079559-kiper-rayo-vallecano-emil-audero_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa973d079559-kiper-rayo-vallecano-emil-audero_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
     },
     {
       "id": "5bcedb98e802",
@@ -2321,7 +2816,10 @@
       "lajur": "global",
       "terbit": "2026-09-19T17:00:00.000Z",
       "cuplikan": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Government & Policy"
+      ]
     }
   ]
 }

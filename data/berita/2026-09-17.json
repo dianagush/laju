@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-17",
-  "diperbarui": "2026-09-21T03:21:18.847Z",
+  "diperbarui": "2026-09-21T03:32:39.162Z",
   "berita": [
     {
       "id": "58cff6737e21",
@@ -55,7 +55,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T16:48:21.000Z",
       "cuplikan": "Timnas basket putri Indonesia menang 61-52 atas Thailand di Asian Games 2026. Pelatih Gitautas Kievinas menyebut kemenangan itu sebagai revans SEA Games 2025.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabc68307493-timnas-basket-putri-indonesia-tekuk-thailand-61-52-di-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabc68307493-timnas-basket-putri-indonesia-tekuk-thailand-61-52-di-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "27870ea4c42b",
@@ -88,7 +91,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T16:15:47.000Z",
       "cuplikan": "Inisiatif 'tombol mati' muncul ketika sejumlah tokoh di industri AI menyoroti risiko perkembangan teknologi yang terlalu cepat.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/SDJjQacA7uGgJQUB9MaFzkCgmSE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9335798/original/047657000_1788064938-AI.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/SDJjQacA7uGgJQUB9MaFzkCgmSE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9335798/original/047657000_1788064938-AI.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "57248b4c4834",
@@ -110,7 +116,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T16:03:15.000Z",
       "cuplikan": "Yoga Ardika Putra mengawali debut di Asian Games Aichi-Nagoya 2026 dengan dua kemenangan. Atlet teqball Indonesia itu kini menghadapi tiga lawan kuat di Grup B",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aac0efa31e28-atlet-teqball-indonesia-yoga-ardika-putra_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aac0efa31e28-atlet-teqball-indonesia-yoga-ardika-putra_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "f3baeca9bb16",
@@ -154,7 +163,17 @@
       "lajur": "global",
       "terbit": "2026-09-17T15:34:59.000Z",
       "cuplikan": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
-      "gambar": "https://static01.nyt.com/images/2026/09/20/multimedia/20cul-new-cupertino-01-kmhj/20cul-new-cupertino-01-kmhj-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/20/multimedia/20cul-new-cupertino-01-kmhj/20cul-new-cupertino-01-kmhj-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Television",
+        "Cupertino (TV Program)",
+        "King, Michelle (Screenwriter)",
+        "King, Robert (Screenwriter)",
+        "Colter, Mike (1976- )",
+        "Keller, Rachel (1992- )",
+        "CBS Corporation",
+        "Silicon Valley (Calif)"
+      ]
     },
     {
       "id": "bf069a00850f",
@@ -198,7 +217,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T15:19:23.000Z",
       "cuplikan": "Dalam eksperimen pengujian Agen AI terbaru, terbukti AI bisa memperbaiki diri serta mencari jalan pintas. Seberapa bahaya?",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/0Qn_ZgT8Q2D7ZZ9qtOs9huw73VQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5486445/original/080264700_1769587107-ai-illustration-omar-lopez-rincon-unsplash.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/0Qn_ZgT8Q2D7ZZ9qtOs9huw73VQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5486445/original/080264700_1769587107-ai-illustration-omar-lopez-rincon-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "e65ba35900df",
@@ -242,7 +264,17 @@
       "lajur": "global",
       "terbit": "2026-09-17T14:57:37.000Z",
       "cuplikan": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Frazier, Cat (1991-2026)",
+        "Deaths (Obituaries)",
+        "Art",
+        "Design",
+        "Blogs and Blogging (Internet)",
+        "Computers and the Internet",
+        "Social Media",
+        "Tumblr"
+      ]
     },
     {
       "id": "4f9d9fe3f679",
@@ -253,7 +285,17 @@
       "lajur": "global",
       "terbit": "2026-09-17T14:43:34.000Z",
       "cuplikan": "Facebook told it was wrong in leaving up AI-generated videos of a Labour councillor and Muslim campaigner, amid calls to curb fakes Meta’s “supreme court” has ordered the tech company to take down deepfake videos of a UK politician and a…",
-      "gambar": "https://i.guim.co.uk/img/media/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=04523bbe91eb53df6183ee56df64209f"
+      "gambar": "https://i.guim.co.uk/img/media/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=04523bbe91eb53df6183ee56df64209f",
+      "kategoriSumber": [
+        "Meta",
+        "Social media",
+        "Digital media",
+        "Facebook",
+        "Technology",
+        "Deepfake",
+        "UK news",
+        "AI (artificial intelligence)"
+      ]
     },
     {
       "id": "6141033fee55",
@@ -363,7 +405,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T13:57:38.000Z",
       "cuplikan": "Tim bulutangkis Indonesia menunjuk Amri Syahnawi dan Siti Fadia Silva Ramadhanti sebagai kapten tim beregu putra dan putri pada Asian Games 2026 Aichi-Nagoya.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/15/6a5747d301c9e-ganda-campuran-indonesia-amri-syahnawinita-violina-marwah_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/15/6a5747d301c9e-ganda-campuran-indonesia-amri-syahnawinita-violina-marwah_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "d6010c139dd9",
@@ -385,7 +430,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T13:54:34.000Z",
       "cuplikan": "Indonesia ambil bagian dalam torch relay atau parade obor Asian Games 2026 yang berlangsung di Nagoya, Jepang, Kamis (17/9). Prosesi ini menjadi salah satu rangkaian menj",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa9fd3862433-kapal-pesiar-disiapkan-untuk-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa9fd3862433-kapal-pesiar-disiapkan-untuk-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "e59a6087fd55",
@@ -407,7 +455,19 @@
       "lajur": "global",
       "terbit": "2026-09-17T13:33:57.000Z",
       "cuplikan": "Model adopting ‘jailbreak-like instructions’ among six more cases as firm reveals framework for tracking AI misalignment OpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned that…",
-      "gambar": "https://i.guim.co.uk/img/media/a43244445ebccb84b7cc3cc445d8312f49385aaf/471_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=a25a50bddde7016dc4299558d8cbecd9"
+      "gambar": "https://i.guim.co.uk/img/media/a43244445ebccb84b7cc3cc445d8312f49385aaf/471_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=a25a50bddde7016dc4299558d8cbecd9",
+      "kategoriSumber": [
+        "OpenAI",
+        "AI (artificial intelligence)",
+        "Computing",
+        "Technology",
+        "Hacking",
+        "Anthropic",
+        "Chatbots",
+        "Ethics",
+        "Data and computer security",
+        "World news"
+      ]
     },
     {
       "id": "9e78bdba51fc",
@@ -484,7 +544,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T13:03:41.000Z",
       "cuplikan": "Hasil Indonesia vs Nepal di Asian Games 2026 berakhir 3-0. Timnas voli putri Indonesia menang dan lolos ke 8 besar, lalu menghadapi Jepang di laga berikutnya besok.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabe50acb533-timnas-voli-putri-indonesia-hajar-nepal-3-0_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabe50acb533-timnas-voli-putri-indonesia-hajar-nepal-3-0_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "cec24fff1c94",
@@ -539,7 +602,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T12:50:44.000Z",
       "cuplikan": "Komite Olahraga Nasional Indonesia (KONI) Pusat resmi menutup program Sport Diplomacy antara Indonesia dan Timor Leste pada Minggu, 13 September 2026. Program tersebut me",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabe1eadbdf6-sport-diplomacy-indonesia-timor-leste_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabe1eadbdf6-sport-diplomacy-indonesia-timor-leste_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "2b45c4c9bb95",
@@ -594,7 +660,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T12:30:00.000Z",
       "cuplikan": "Tiga tunggal putra Indonesia, Alwi Farhan, Zaki Ubaidillah dan Muhamad Yusuf, siap menjalani debut di Asian Games 2026 dengan modal dan pengalaman berbeda.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/14/6a565054ed146-alwi-farhan-buat-wakil-jepang-dibuat-tak-berkutik-di-japan-oepn-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/14/6a565054ed146-alwi-farhan-buat-wakil-jepang-dibuat-tak-berkutik-di-japan-oepn-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "495e3664e70c",
@@ -638,7 +707,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T12:13:46.000Z",
       "cuplikan": "Samsung menghadirkan layanan penjualan ponsel rekondisi dengan harga murah. Berapa harganya?",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/6y8HcPShKMswocyNHCxvu9IF7Sk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9316945/original/063876700_1785997467-evolusi_foldable.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/6y8HcPShKMswocyNHCxvu9IF7Sk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9316945/original/063876700_1785997467-evolusi_foldable.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "ff37df75e2ac",
@@ -649,7 +721,10 @@
       "lajur": "global",
       "terbit": "2026-09-17T12:10:00.000Z",
       "cuplikan": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "The Download"
+      ]
     },
     {
       "id": "d16ad1ad290c",
@@ -660,7 +735,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T12:00:47.000Z",
       "cuplikan": "Samsung Galaxy S26 FE memiliki kemampuan fotografi canggih dan dukungan AI untuk mempermudah pembuatan konten. Seperti apa kecanggihannya?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/r31_ClYXrjBBFIpkUTRhpysjw7g=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9350740/original/035394100_1789629597-20260916_101123.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/r31_ClYXrjBBFIpkUTRhpysjw7g=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9350740/original/035394100_1789629597-20260916_101123.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "5222847a22d8",
@@ -682,7 +760,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T11:55:00.000Z",
       "cuplikan": "Indonesia meraih dua medali emas di World Climbing Series Guiyang 2026. Robby Al Hilmi juara Men's Speed, sementara Raharjati Nursamsa dan Rajiah berjaya.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabd4b58eb32-indonesia-bawa-pulang-2-emas-dari-world-climbing-series-guiyang-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabd4b58eb32-indonesia-bawa-pulang-2-emas-dari-world-climbing-series-guiyang-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "c708ac054a3c",
@@ -715,7 +796,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T11:46:38.000Z",
       "cuplikan": "iPhone menyimpan sejumlah fitur praktis di menu aksesibilitas. Apa saja fiturnya?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/3eqQJPfqxvmpz1S9EJly8ccfV88=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5294447/original/065942700_1753404869-omid-armin-AGRtDoZlpYw-unsplash__1_.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/3eqQJPfqxvmpz1S9EJly8ccfV88=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5294447/original/065942700_1753404869-omid-armin-AGRtDoZlpYw-unsplash__1_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "69d91310bfc7",
@@ -737,7 +821,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T11:32:04.000Z",
       "cuplikan": "Samsung sudah mulai merilis One UI 9 Android 17 pada beberapa perangkatnya. Simak untuk tahu apa saja HP yang kebagian.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/IOFyS9UEDx_SGE2_P7lpeHqNUr8=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9345753/original/062680000_1789090386-IMG_20260907_112123.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/IOFyS9UEDx_SGE2_P7lpeHqNUr8=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9345753/original/062680000_1789090386-IMG_20260907_112123.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "2fb84e089462",
@@ -803,7 +890,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T11:04:00.000Z",
       "cuplikan": "HP yang sering dijadikan hotspot bisa lebih cepat panas dan membebani baterai. Pelajari risikonya serta cara aman menggunakan hotspot agar terhindar dari masalah baterai.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabaabe88ae5-ilustrasi-hp-meledak_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabaabe88ae5-ilustrasi-hp-meledak_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "c352e576abec",
@@ -847,7 +937,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T10:53:19.000Z",
       "cuplikan": "Timnas basket putri Indonesia menang 61-52 atas Thailand di Asian Games 2026. Tampil lepas menjadi kunci Srikandi meraih kemenangan di laga pembuka Grup A.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabc68307493-timnas-basket-putri-indonesia-tekuk-thailand-61-52-di-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabc68307493-timnas-basket-putri-indonesia-tekuk-thailand-61-52-di-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "400812aae371",
@@ -869,7 +962,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T10:37:27.000Z",
       "cuplikan": "Dalam dua tahun perjalanannya, Microsoft Elevate telah membekali lebih dari 2,4 juta talenta serta menerbitkan lebih dari 1,5 juta kredensial.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/03YRGl2Fc7xJOjrEJ-6VDpb2REg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9351143/original/090599900_1789641450-_Foto_2___Talenta_AI_Microsoft_Elevate.jpg.jpeg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/03YRGl2Fc7xJOjrEJ-6VDpb2REg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9351143/original/090599900_1789641450-_Foto_2___Talenta_AI_Microsoft_Elevate.jpg.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "22bb0db2fd18",
@@ -902,7 +998,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T10:31:32.000Z",
       "cuplikan": "Sedang berlangsung Timnas Voli Putri Indonesia vs Nepal di Asian Games 2026. Simak jadwal, siaran TV, link live streaming gratis dan cara menontonnya.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/27/6a9045417c9a5-timnas-voli-putri-indonesia-di-avc-continental-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/27/6a9045417c9a5-timnas-voli-putri-indonesia-di-avc-continental-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "e3997c835a55",
@@ -946,7 +1045,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T10:12:00.000Z",
       "cuplikan": "Mulai 1 Oktober 2026, empat marketplace ditunjuk memungut PPh 22 seller sebesar 0,5 persen. Simak aturan, mekanisme pemungutan, dan hal yang perlu disiapkan penjual.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/12/03/674f2b0528b64-wakil-ketua-dprd-toba-ditahan-jaksa-atas-dugaan-perkara-pajak_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/12/03/674f2b0528b64-wakil-ketua-dprd-toba-ditahan-jaksa-atas-dugaan-perkara-pajak_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "81805fbd520f",
@@ -1023,7 +1125,13 @@
       "lajur": "global",
       "terbit": "2026-09-17T10:00:00.000Z",
       "cuplikan": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ]
     },
     {
       "id": "ba19c7f2e971",
@@ -1111,7 +1219,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T09:30:00.000Z",
       "cuplikan": "iPhone Duo menarik perhatian dengan desain lipat dan layar besar. Namun, apakah fitur, kenyamanan, dan harganya benar-benar sesuai untuk kebutuhan pengguna Indonesia.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/10/6aa20c5963aaf-iphone-duo_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/10/6aa20c5963aaf-iphone-duo_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "973019f3e586",
@@ -1177,7 +1288,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T09:05:45.000Z",
       "cuplikan": "InfraNexia dan Lintasarta berkolaborasi memanfaatkan teknologi DWDM untuk meningkatkan kapasitas dan konektivitas jaringan Medan-Batam-Padang.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/tMgkmydnBs_57h6fya0yGzRBUlo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350826/original/026799300_1789631733-Foto_1__4_.jpeg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/tMgkmydnBs_57h6fya0yGzRBUlo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350826/original/026799300_1789631733-Foto_1__4_.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "67c94b251f65",
@@ -1188,7 +1302,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T09:05:26.000Z",
       "cuplikan": "Simak lima fitur unggulan Opera yang dirancang untuk mengoptimalkan pengalaman menjelajah internet.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/dQF3LGLP99mt2CaMzufrEcB7vcc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350972/original/034048100_1789635932-Opera_Browser__Satu_Browser_Banyak_Fitur__2_.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dQF3LGLP99mt2CaMzufrEcB7vcc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350972/original/034048100_1789635932-Opera_Browser__Satu_Browser_Banyak_Fitur__2_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "8334714a410a",
@@ -1199,7 +1316,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T09:04:00.000Z",
       "cuplikan": "Handphone bisa meledak akibat baterai terlalu panas, rusak, cacat produksi, hingga korsleting. Kenali 7 faktor yang dapat memicu kebakaran gadget. Ada apa?",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aaba6d58933a-ilustrasi-hp-terbakar_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aaba6d58933a-ilustrasi-hp-terbakar_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "f7a368db5812",
@@ -1232,7 +1352,11 @@
       "lajur": "global",
       "terbit": "2026-09-17T09:00:44.000Z",
       "cuplikan": "Universities need to protect their position in education so that students have an independent pathway to employment AI companies like OpenAI are insinuating themselves into the pathway from education to work. Soon they may claim it…",
-      "gambar": "https://i.guim.co.uk/img/media/c5dcbdbfb717d62cfb53c3ff0c7e202eb985e3a2/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=32e44e8cebf3c0105f90d6e185798821"
+      "gambar": "https://i.guim.co.uk/img/media/c5dcbdbfb717d62cfb53c3ff0c7e202eb985e3a2/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=32e44e8cebf3c0105f90d6e185798821",
+      "kategoriSumber": [
+        "Technology",
+        "AI (artificial intelligence)"
+      ]
     },
     {
       "id": "14fba2c33612",
@@ -1254,7 +1378,16 @@
       "lajur": "global",
       "terbit": "2026-09-17T09:00:08.000Z",
       "cuplikan": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.",
-      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/AMODEI-WORLD-sub-vfbj/AMODEI-WORLD-sub-vfbj-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/AMODEI-WORLD-sub-vfbj/AMODEI-WORLD-sub-vfbj-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Anthropic AI LLC",
+        "Amodei, Dario",
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Books and Literature",
+        "Regulation and Deregulation of Industry",
+        "United States Politics and Government"
+      ]
     },
     {
       "id": "40e90b9c3353",
@@ -1485,7 +1618,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T07:36:24.000Z",
       "cuplikan": "Peris.ai menjadi salah satu dari 13 penerima penghargaan lintas kategori dalam IN-Apps Digital Award 2026.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/Eu4XJh5cX9dexfGVB-q4UxRW30M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350728/original/082538300_1789629521-Peris.jpeg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Eu4XJh5cX9dexfGVB-q4UxRW30M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350728/original/082538300_1789629521-Peris.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "d319f798f830",
@@ -1507,7 +1643,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T07:28:43.000Z",
       "cuplikan": "Laporan itu juga mengungkap bahwa penggunaan Claude memudahkan kegiatan tersebut untuk dilakukan oleh aktor perorangan.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/17/16/3242613/llustrasi-GjfF_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/17/16/3242613/llustrasi-GjfF_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
     },
     {
       "id": "df449734cc7a",
@@ -1540,7 +1679,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T07:22:31.000Z",
       "cuplikan": "BATIC 2026 di Bali mempertemukan lebih dari 2.700 delegasi global untuk membahas konektivitas, cloud, AI, dan kolaborasi digital Asia Pasifik.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/0l2fCA6tLgOivqllYAlM97Qrpl8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350767/original/022266900_1789629746-Foto_1__4___1_.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/0l2fCA6tLgOivqllYAlM97Qrpl8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350767/original/022266900_1789629746-Foto_1__4___1_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "e31394443e6d",
@@ -1584,7 +1726,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T07:15:04.000Z",
       "cuplikan": "Pebulu tangkis ganda campuran Dejan Ferdinansyah/Felisha Alberta Nathaniel Pasaribu pasang target juara di Denmark dan French Open 2026 demi buru prestasi.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/06/07/6662cb4e3e7f4-ganda-campuran-indonesia-dejan-ferdinansyah-gloria-emanuelle-widjaja_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/06/07/6662cb4e3e7f4-ganda-campuran-indonesia-dejan-ferdinansyah-gloria-emanuelle-widjaja_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "6c027813849b",
@@ -1606,7 +1751,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T07:00:40.000Z",
       "cuplikan": "WhatsApp memperluas dukungan dengan menghadirkan penambahan akun ketiga pada iPhone. Benarkah?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/u3jzCuliRV3JzI1MW85etS1jNbA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8674359/original/001921400_1782715892-pexels-anton-8100-4132538.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/u3jzCuliRV3JzI1MW85etS1jNbA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8674359/original/001921400_1782715892-pexels-anton-8100-4132538.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "e01a50263e36",
@@ -1760,7 +1908,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T05:29:44.000Z",
       "cuplikan": "Redmi Note 17 Series meluncur dalam empat model: Redmi Note 17 Pro Max 5G, Redmi Note 17 Pro 5G, Redmi Note 17 5G, dan Redmi Note 17 standar.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/17/16/3242586/xiaomi_meluncurkan_redmi_note_17_series-G5mB_large.JPG"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/17/16/3242586/xiaomi_meluncurkan_redmi_note_17_series-G5mB_large.JPG",
+      "kategoriSumber": [
+        "Techno"
+      ]
     },
     {
       "id": "ef79ee14b303",
@@ -1771,7 +1922,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T05:28:16.000Z",
       "cuplikan": "Berdasarkan data Indonesia Anti-Scam Centre (IASC) dan Satgas PASTI yang dikutip Kementerian Komunikasi dan Digital (Komdigi), total dana korban kejahatan siber yang dilaporkan mencapai Rp 9,5 triliun hingga...",
-      "gambar": "https://static.republika.co.id/uploads/images/detailnews/_240527163319-663.jpeg"
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/_240527163319-663.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "48e2710fe32e",
@@ -1881,7 +2035,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T05:00:58.000Z",
       "cuplikan": "Kekhawatiran terhadap perkembangan AI melahirkan usulan kill switch. Mengapa mekanisme untuk mematikan AI mulai dianggap penting?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/jpagci9KBgnOliG3l6vXdP8xjFw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5107459/original/086283800_1737682639-ai-7111802_1280.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/jpagci9KBgnOliG3l6vXdP8xjFw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5107459/original/086283800_1737682639-ai-7111802_1280.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "28cfdf585e8d",
@@ -1958,7 +2115,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T04:00:42.000Z",
       "cuplikan": "Bocoran harga iPhone 18 Pro, iPhone 18 Pro Max, dan iPhone Duo di Indonesia mulai beredar.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/Mm1DQVqGoeyn4voVh4clPXJIGCc=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9344723/original/026425700_1788978538-IMG_6535.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Mm1DQVqGoeyn4voVh4clPXJIGCc=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9344723/original/026425700_1788978538-IMG_6535.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "8b0c6f7e977d",
@@ -2112,7 +2272,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T03:12:22.000Z",
       "cuplikan": "Jadwal kontingen Indonesia di Asian Games 2026 hari ini, Kamis 17 September. Basket putri hadapi Thailand, voli putri lawan Nepal, serta teqball dan pentathlon.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aab599195b26-timnas-basket-putri-indonesia_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aab599195b26-timnas-basket-putri-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "7dd11bb82498",
@@ -2167,7 +2330,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T03:00:28.000Z",
       "cuplikan": "GTA 6 semakin mendekati waktu peluncuran dengan promosi yang makin aktif. Apa hubungan unggahan para musisi dengan game ini?",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/Bxexd7npONBiiUsvWZ07m-HwqYQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5471435/original/068830500_1768286938-GTA_6__Dok._Rockstargames_.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Bxexd7npONBiiUsvWZ07m-HwqYQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5471435/original/068830500_1768286938-GTA_6__Dok._Rockstargames_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "69a6f552742a",
@@ -2211,7 +2377,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-17T02:44:00.000Z",
       "cuplikan": "Kento Momota membantu tunggal putra Indonesia jelang Asian Games 2026. Simak profil legenda Jepang yang pernah dua kali juara dunia dan lama menduduki ranking satu dunia.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/05/02/66331d4e00134-tunggal-putra-jepang-kento-momota_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/05/02/66331d4e00134-tunggal-putra-jepang-kento-momota_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "aed3244b71d8",
@@ -2277,7 +2446,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T02:09:56.000Z",
       "cuplikan": "Samsung Galaxy Z Fold 8 Ultra sukses menyabet posisi teratas untuk kategori HP lipat. Ini buktinya.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/MQ5Htjp3VI0206PqBRrWQbIaw8s=/0x0:5712x4284/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9304627/original/030943300_1784725920-Samsung_Galaxy_Z_Fold8_dan_Galaxy_Z_Fol8_Ultra_3.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/MQ5Htjp3VI0206PqBRrWQbIaw8s=/0x0:5712x4284/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9304627/original/030943300_1784725920-Samsung_Galaxy_Z_Fold8_dan_Galaxy_Z_Fol8_Ultra_3.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "7be1a2e9597f",
@@ -2431,7 +2603,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-17T01:00:47.000Z",
       "cuplikan": "Gemini Live akan menghadirkan input teks, melengkapi input suara saat ini. Kapan rilis?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/t8qhXdmFwQBXBTcvVr8VuOhe2AU=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5429354/original/015517100_1764582455-Proyek_Baru.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/t8qhXdmFwQBXBTcvVr8VuOhe2AU=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5429354/original/015517100_1764582455-Proyek_Baru.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "e23402648cb7",
@@ -2563,7 +2738,14 @@
       "lajur": "global",
       "terbit": "2026-09-17T00:12:24.000Z",
       "cuplikan": "The artificial intelligence company also released a framework for reporting when its systems go wrong.",
-      "gambar": "https://static01.nyt.com/images/2026/09/16/multimedia/16biz-openai-mlhb/16biz-openai-mlhb-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/16/multimedia/16biz-openai-mlhb/16biz-openai-mlhb-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "OpenAI Labs",
+        "Computers and the Internet",
+        "Computer Security",
+        "Regulation and Deregulation of Industry"
+      ]
     },
     {
       "id": "95b5d2902eb6",
@@ -2596,7 +2778,19 @@
       "lajur": "global",
       "terbit": "2026-09-16T23:50:26.000Z",
       "cuplikan": "The measures, which fall short of a breakup demanded by the government, effectively ensure that the tech titan’s business will continue largely unscathed.",
-      "gambar": "https://static01.nyt.com/images/2026/09/04/multimedia/00biz-google-adtech-HFO-lqpb/00biz-google-adtech-HFO-lqpb-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/04/multimedia/00biz-google-adtech-HFO-lqpb/00biz-google-adtech-HFO-lqpb-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Google Inc",
+        "Antitrust Laws and Competition Issues",
+        "Artificial Intelligence",
+        "Online Advertising",
+        "Search Engines",
+        "Data-Mining and Database Marketing",
+        "Computers and the Internet",
+        "Regulation and Deregulation of Industry",
+        "Justice Department",
+        "Decisions and Verdicts"
+      ]
     },
     {
       "id": "39971f66ad72",
@@ -2794,7 +2988,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T21:30:03.000Z",
       "cuplikan": "Xiaomi resmi meluncurkan Redmi Note 17 Series di Indonesia dengan empat model dan harga mulai Rp 3 jutaan. Seperti apa spesifikasi lengkapnya?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/xEb-aGReFBxajlTgFZQePILT72I=/0x0:3694x2078/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9350173/original/026931800_1789572157-20260916_200720.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/xEb-aGReFBxajlTgFZQePILT72I=/0x0:3694x2078/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9350173/original/026931800_1789572157-20260916_200720.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "9cc957320b15",
@@ -2838,7 +3035,14 @@
       "lajur": "global",
       "terbit": "2026-09-16T20:54:18.000Z",
       "cuplikan": "Now you have no excuse for not knowing the meaning of “cuffing season,” “shishito” or “glow-up.”",
-      "gambar": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-dictionary-qvgt/16xp-dictionary-qvgt-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-dictionary-qvgt/16xp-dictionary-qvgt-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Merriam-Webster Inc",
+        "Dictionaries",
+        "English Language",
+        "Slang",
+        "internal-eafs"
+      ]
     },
     {
       "id": "963266823fde",
@@ -2871,7 +3075,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T20:08:00.000Z",
       "cuplikan": "10 HP mid-range untuk pengguna di atas 40 tahun dengan layar nyaman, baterai awet, fitur sederhana, dan harga terjangkau. Simak pilihan HP yang cocok untuk kebutuhan hari",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/11/6a52384853e3c-ilustrasi-hp-china_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/11/6a52384853e3c-ilustrasi-hp-china_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "fe24883f90f1",
@@ -2926,7 +3133,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T18:04:00.000Z",
       "cuplikan": "10 HP terjangkau untuk perawat dengan baterai besar, layar nyaman, dan performa mumpuni. Simak pilihan HP mulai Rp2 jutaan yang bisa membantu aktivitas kerja selama shift",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaa9a97201f8-ilustrasi-hp-untuk-perawat_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaa9a97201f8-ilustrasi-hp-untuk-perawat_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "3900079d356c",
@@ -2970,7 +3180,16 @@
       "lajur": "global",
       "terbit": "2026-09-16T17:22:07.000Z",
       "cuplikan": "On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
-      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15zuckerberg-pbvz/15zuckerberg-pbvz-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15zuckerberg-pbvz/15zuckerberg-pbvz-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Computers and the Internet",
+        "Artificial Intelligence",
+        "Computer Security",
+        "Meta Platforms Inc",
+        "Zuckerberg, Mark E",
+        "Amodei, Dario",
+        "Anthropic AI LLC"
+      ]
     },
     {
       "id": "f0049eb1edef",
@@ -3036,7 +3255,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-16T17:00:39.000Z",
       "cuplikan": "Persiapan tunggal putra Indonesia menuju Asian Games 2026 Aichi-Nagoya mendapat tambahan pengalaman berharga. Jonatan Christie dan kawan-kawan berkesempatan menjalani lat",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/11/23/619cec889f993-tunggal-putra-jepang-kento-momota-di-indonesia-open-2021_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/11/23/619cec889f993-tunggal-putra-jepang-kento-momota-di-indonesia-open-2021_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "40480ac73406",

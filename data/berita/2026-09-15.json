@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-15",
-  "diperbarui": "2026-09-21T03:21:18.847Z",
+  "diperbarui": "2026-09-21T03:32:39.162Z",
   "berita": [
     {
       "id": "6b1aec7f9bb5",
@@ -11,7 +11,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T16:08:00.000Z",
       "cuplikan": "Kebutuhan perangkat komputer untuk menunjang pendidikan, pekerjaan, dan aktivitas usaha terus berkembang seiring meningkatnya pemanfaatan teknologi digital. Namun, kebutuhan tersebut tidak selalu diikuti kemampuan masyarakat untuk…",
-      "gambar": "https://static.republika.co.id/uploads/images/detailnews/republic_260915121219-696.jpeg"
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/republic_260915121219-696.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "4c5039503fd9",
@@ -110,7 +113,14 @@
       "lajur": "global",
       "terbit": "2026-09-15T14:11:17.000Z",
       "cuplikan": "Bill Gates, the foundation’s chairman, has been vocal about the dangers of artificial intelligence. The donation will be invested in A.I. projects to bridge social inequalities.",
-      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15xp-ai-gates-mcjw/15xp-ai-gates-mcjw-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15xp-ai-gates-mcjw/15xp-ai-gates-mcjw-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Philanthropy",
+        "Gates, Bill and Melinda, Foundation",
+        "Gates, Bill",
+        "internal-eafs"
+      ]
     },
     {
       "id": "f014bc965d98",
@@ -121,7 +131,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T14:10:00.000Z",
       "cuplikan": "Lebih dari 20.000 konsumen mencoba Rinso melalui warung DigiPOS, dalam kampanye yang turut berkontribusi pada pertumbuhan penjualan General Trade di Jawa Barat.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa950d2ec842-telkomsel-enterprise-melalui-digiads-membantu-bisnis-menghubungkan-aktivitas-pemasaran-digital-dengan-aksi-konsumen_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa950d2ec842-telkomsel-enterprise-melalui-digiads-membantu-bisnis-menghubungkan-aktivitas-pemasaran-digital-dengan-aksi-konsumen_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "6d1cb8381a5f",
@@ -132,7 +145,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T14:02:00.000Z",
       "cuplikan": "5 HP ini bisa digunakan sebagai remote AC melalui IR blaster atau aplikasi pintar. Simak pilihan smartphone dan cara praktis mengatur suhu rumah langsung dari genggaman.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa94b87e3db7-ilustrasi-hp-menjadi-remote_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa94b87e3db7-ilustrasi-hp-menjadi-remote_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "b16d4008a5bd",
@@ -198,7 +214,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T12:46:06.000Z",
       "cuplikan": "AiMOGA Robotics memperkenalkan dua robot untuk kebutuhan layanan profesional, yakni Intelligent Security Robot dan Robotic Nurse, kepada pasar Eropa melalui ajang Innovation for All (IFA) 2026 di Berlin,...",
-      "gambar": "https://static.republika.co.id/uploads/images/detailnews/robot-robot-aimoga-yang-dipamerkan-di-ajang-innovation-for-all_260915194435-897.png"
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/robot-robot-aimoga-yang-dipamerkan-di-ajang-innovation-for-all_260915194435-897.png",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "98f169b47732",
@@ -242,7 +261,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T12:28:31.000Z",
       "cuplikan": "Harlin Rahardjo mengungkap strategi tim renang Indonesia di Asian Games 2026 dengan fokus pada nomor spesialisasi untuk mengejar performa dan peluang medali.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa9392ddac89-ketua-harian-pb-akuatik-indonesia-harlin-rahardjo_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa9392ddac89-ketua-harian-pb-akuatik-indonesia-harlin-rahardjo_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "090caa25dae0",
@@ -253,7 +275,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T12:17:19.000Z",
       "cuplikan": "Turnamen yang berlangsung pada 12-13 September 2026 tersebut menjadi Series 4 babak kualifikasi menuju Liga Pro Domino Indonesia di bawah naungan Pengurus Besar Perkumpul",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa936ce379ea-1536-atlet-domino-berebut-tiket-ke-liga-pro-indonesia-di-samarinda_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa936ce379ea-1536-atlet-domino-berebut-tiket-ke-liga-pro-indonesia-di-samarinda_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "f8c6fb2aa7a7",
@@ -264,7 +289,10 @@
       "lajur": "global",
       "terbit": "2026-09-15T12:10:00.000Z",
       "cuplikan": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "The Download"
+      ]
     },
     {
       "id": "24f2e4cd1535",
@@ -297,7 +325,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T12:02:00.000Z",
       "cuplikan": "HP Android terkena air? Jangan langsung dinyalakan atau dikeringkan dengan hair dryer. Simak langkah tepat menyelamatkan HP basah agar risiko kerusakan komponen.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/05/6a4a449129866-ilustrasi-hp-murah-tahan-air_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/05/6a4a449129866-ilustrasi-hp-murah-tahan-air_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "c9afe129746a",
@@ -308,7 +339,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T11:59:50.000Z",
       "cuplikan": "Ketum PB Akuatik Indonesia, Anindya Bakrie berharap 14 atlet renang Indonesia mampu mengakhiri paceklik medali selama 36 tahun pada Asian Games Aichi-Nagoya 2026.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa93299e4194-ketua-umum-pengurus-besar-pb-akuatik-indonesia-anindya-bakrie_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa93299e4194-ketua-umum-pengurus-besar-pb-akuatik-indonesia-anindya-bakrie_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "27c844423d82",
@@ -363,7 +397,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T11:23:02.000Z",
       "cuplikan": "Jenderal TNI (Purn) Muhammad Herindra resmi memimpin Pengurus Besar Esports Indonesia (PB ESI) periode 2026-2030. Di bawah kepengurusan baru, esports Indonesia dibidik ti",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa92a3d1d665-pb-esi-punya-ketua-baru-herindra-ingin-indonesia-jadi-kekuatan-esports-asia_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa92a3d1d665-pb-esi-punya-ketua-baru-herindra-ingin-indonesia-jadi-kekuatan-esports-asia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "c4998b937372",
@@ -407,7 +444,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T10:29:25.000Z",
       "cuplikan": "AI tidak hanya diberi akses terhadap data, tetapi juga konteks, aturan, kewenangan, dan juga proses yang diperlukan untuk mengambil tindakan secara tepat.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/02/15/602a4a02c5537-kecerdasan-buatan-artificial-intelligence-ai_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/02/15/602a4a02c5537-kecerdasan-buatan-artificial-intelligence-ai_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "df2170f489f3",
@@ -429,7 +469,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T10:27:30.000Z",
       "cuplikan": "realme 16 Pro Harry Potter Edition hadir dengan desain yang terinpirasi dunia Harry Potter.",
-      "gambar": "https://img.okezone.com/okz/400/content/2026/09/15/16/3242242/realme_16_pro_harry_potter_edition-TEeZ_large.jpg"
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/15/16/3242242/realme_16_pro_harry_potter_edition-TEeZ_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
     },
     {
       "id": "bb31c27cb9fb",
@@ -451,7 +494,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T10:16:56.000Z",
       "cuplikan": "Urusan loyalitas pelanggan kini tak lagi sebatas potongan harga atau bonus poin. Telkomsel mencoba memperluas manfaat tersebut bersama PT Mitra Adiperkasa Tbk (MAP).",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2023/09/27/651435a4a3541-ilustrasi-survei-kepuasan-pelanggan_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2023/09/27/651435a4a3541-ilustrasi-survei-kepuasan-pelanggan_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "d964b8630ac5",
@@ -473,7 +519,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T10:05:00.000Z",
       "cuplikan": "Sosok Joanna Wietrzyk tengah menjadi perhatian di dunia olahraga setelah penampilannya dalam ajang HYROX Beijing pada 12 September 2026. Atlet asal Australia tersebut...",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa9092c492f3-atlet-hyrox-joanna-wietrzyk_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa9092c492f3-atlet-hyrox-joanna-wietrzyk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "8b499387609f",
@@ -484,7 +533,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T10:04:00.000Z",
       "cuplikan": "Gadget seukuran koin ternyata bisa mengganggu sistem Boeing 737. Peneliti mengungkap celah keamanan pada sistem elektronik lama yang membutuhkan akses fisik ke pesawat.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/24/6a3bd0347c555-boeing-737-8_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/24/6a3bd0347c555-boeing-737-8_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "c259917edc82",
@@ -506,7 +558,12 @@
       "lajur": "global",
       "terbit": "2026-09-15T09:30:31.000Z",
       "cuplikan": "The distinctively British RPG is returning courtesy of the makers of Forza Horizon – with comedy talent such as Richard Ayoade and Natasia Demetriou voicing sweary characters. We had our first play and spoke to its developer When…",
-      "gambar": "https://i.guim.co.uk/img/media/cf41fdacb3efa7b26611a13d048100fa5e00ce87/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=942f4cf01e31712ceb093e03c6c44370"
+      "gambar": "https://i.guim.co.uk/img/media/cf41fdacb3efa7b26611a13d048100fa5e00ce87/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=942f4cf01e31712ceb093e03c6c44370",
+      "kategoriSumber": [
+        "Role playing games",
+        "Games",
+        "Culture"
+      ]
     },
     {
       "id": "602b1a6b534c",
@@ -539,7 +596,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T09:15:00.000Z",
       "cuplikan": "Di era modern sekarang, pelaku usaha mikro, kecil, dan menengah (UMKM) dituntut bukan hanya mengelola bisnis tapi juga fokus pada produk dan pelanggan.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/08/22/6121a5e262e3c-transformasi-digital_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/08/22/6121a5e262e3c-transformasi-digital_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "627afc2fff1b",
@@ -561,7 +621,18 @@
       "lajur": "global",
       "terbit": "2026-09-15T09:02:21.000Z",
       "cuplikan": "Alex Bores, who lost a congressional primary contest that revolved around A.I. regulation, is trying to position himself at the center of the conversation for the next presidential election.",
-      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15pol-bores-AI-jgvc/15pol-bores-AI-jgvc-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15pol-bores-AI-jgvc/15pol-bores-AI-jgvc-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Bores, Alex",
+        "Anthropic AI LLC",
+        "Democratic Party",
+        "OpenAI Labs",
+        "Artificial Intelligence",
+        "United States Politics and Government",
+        "Regulation and Deregulation of Industry",
+        "Midterm Elections (2026)",
+        "Presidential Election of 2028"
+      ]
     },
     {
       "id": "9314f45ad627",
@@ -671,7 +742,17 @@
       "lajur": "global",
       "terbit": "2026-09-15T08:00:30.000Z",
       "cuplikan": "From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that AI could threaten humanity have shaken the industry without stopping its pursuit Before an Anthropic researcher resigned and declared human extinction imminent…",
-      "gambar": "https://i.guim.co.uk/img/media/3ab9e5f6d86542a882303bb7ce012c8564b5213b/405_0_3624_2900/master/3624.jpg?width=140&quality=85&auto=format&fit=max&s=9617dd9236371482f114c191378d527f"
+      "gambar": "https://i.guim.co.uk/img/media/3ab9e5f6d86542a882303bb7ce012c8564b5213b/405_0_3624_2900/master/3624.jpg?width=140&quality=85&auto=format&fit=max&s=9617dd9236371482f114c191378d527f",
+      "kategoriSumber": [
+        "Technology",
+        "AI (artificial intelligence)",
+        "Google",
+        "Sam Altman",
+        "Stephen Hawking",
+        "Chatbots",
+        "Anthropic",
+        "Computing"
+      ]
     },
     {
       "id": "a05efe0c3fe4",
@@ -924,7 +1005,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T05:12:23.000Z",
       "cuplikan": "Ponsel awalnya digunakan untuk menelepon dan mengirim pesan itu perlahan berubah menjadi alat untuk bekerja, mencari informasi, menikmati hiburan dan transaksi.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2023/03/17/6414424a6a154-erajaya-digital-umumkan-ibox-apple-premium-partner-pertamanyadi-plaza-indonesia_665_374.jpeg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2023/03/17/6414424a6a154-erajaya-digital-umumkan-ibox-apple-premium-partner-pertamanyadi-plaza-indonesia_665_374.jpeg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "c3974625a486",
@@ -1012,7 +1096,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T03:55:40.000Z",
       "cuplikan": "Di ajang Innovation for All (IFA) 2026 di Berlin, Jerman, Aimoga Robotics turut memperkenalkan sejumlah robot yang dirancang untuk menjalankan tugas di berbagai bidang.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa8c1593e971-robot-aimoga_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa8c1593e971-robot-aimoga_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "b6104ada57c7",
@@ -1056,7 +1143,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T02:52:00.000Z",
       "cuplikan": "Petenis putri Indonesia, Janice Tjen, dipastikan tidak tampil di Asian Games Aichi-Nagoya 2026. Keputusan tersebut diambil Pengurus Pusat Persatuan Tenis Seluruh Indonesi",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/02/04/6982f3a38e74d-petenis-indonesia-janice-tjen_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/02/04/6982f3a38e74d-petenis-indonesia-janice-tjen_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "479a1e2d436f",
@@ -1089,7 +1179,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T02:23:34.000Z",
       "cuplikan": "Tim badminton Indonesia membawa misi besar ke Asian Games 2026. Skuad Merah Putih ingin menebus kegagalan di Hangzhou empat tahun lalu, ketika untuk pertama kalinya dalam",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/16/6a07aa958b213-tunggal-putra-indonesia-leo-rolly-carnandodaniel-marthin_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/16/6a07aa958b213-tunggal-putra-indonesia-leo-rolly-carnandodaniel-marthin_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "088648d16afe",
@@ -1166,7 +1259,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T00:32:00.000Z",
       "cuplikan": "Persaingan teknologi antara Amerika Serikat dan China memasuki babak baru. Beijing merespons keras seruan sejumlah eksekutif perusahaan kecerdasan buatan Amerika agar pengembangan teknologi AI paling canggih diperlambat,...",
-      "gambar": "https://static.republika.co.id/uploads/images/detailnews/_260915070141-153.png"
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/_260915070141-153.png",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "860d9f0f0cb7",
@@ -1210,7 +1306,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-14T20:04:00.000Z",
       "cuplikan": "10 HP terbaik untuk satpam dengan harga terjangkau, baterai awet, dan bodi tangguh. Simak pilihan realme, OPPO, vivo, Samsung hingga POCO untuk kebutuhan kerja lapangan.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa81d77713e7-ilustrasi-hp-satpam_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa81d77713e7-ilustrasi-hp-satpam_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "8a986cb5937a",
@@ -1232,7 +1331,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-14T19:02:00.000Z",
       "cuplikan": "Minecraft 26.3 Release Candidate 3 hadir dengan sejumlah perbaikan bug, termasuk VSync, Server Resource Packs, dan mekanisme serangan pemain sebelum update terbarunya.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/17/6a32a304b45b4-game-minecraft_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/17/6a32a304b45b4-game-minecraft_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "d5ab005605b7",
@@ -1254,7 +1356,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-14T18:04:00.000Z",
       "cuplikan": "Update harga iPhone September 2026 berubah setelah iPhone 18 Pro rilis. Simak harga terbaru iPhone 15, 16, 17 di Indonesia serta perkiraan harga iPhone 18 Pro dan Pro Max",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/21/6a5e549891d60-harga-iphone-terbaru_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/21/6a5e549891d60-harga-iphone-terbaru_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "e079e719da97",

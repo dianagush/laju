@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-16",
-  "diperbarui": "2026-09-21T03:21:18.847Z",
+  "diperbarui": "2026-09-21T03:32:39.162Z",
   "berita": [
     {
       "id": "2f0b590aaa63",
@@ -11,7 +11,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T16:59:08.000Z",
       "cuplikan": "Akun Google menyimpan berbagai data pribadi yang mungkin tidak kamu sadari. Berikut lima pengaturan yang sebaiknya segera diperiksa.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/zIOmdL0GLG_WgSO7CVIVNGhFgko=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3511255/original/021870300_1626317672-brett-jordan-B_j4LJbam5U-unsplash.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/zIOmdL0GLG_WgSO7CVIVNGhFgko=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3511255/original/021870300_1626317672-brett-jordan-B_j4LJbam5U-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "dcf4e91c128f",
@@ -33,7 +36,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-16T16:50:41.000Z",
       "cuplikan": "KONI melihat olahraga memiliki posisi strategis dalam kehidupan berbangsa. Menurutnya, prestasi olahraga tidak hanya memberikan kebanggaan melalui raihan medali, tetapi",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaac883ea86d-koni-pusat-bahas-geopolitik-global-hingga-gelorakan-semangat-olahraga-melalui-sport-intelligence_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaac883ea86d-koni-pusat-bahas-geopolitik-global-hingga-gelorakan-semangat-olahraga-melalui-sport-intelligence_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "8eba52d3b39c",
@@ -176,7 +182,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T15:04:00.000Z",
       "cuplikan": "Perkembangan teknologi audio wireless mulai memasuki tahap baru dengan hadirnya sistem yang tidak hanya mengirimkan suara. Berikut detail informasinya.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabc1c8bdef6-ilustrasi-audio_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aabc1c8bdef6-ilustrasi-audio_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "8ff1594840d4",
@@ -198,7 +207,12 @@
       "lajur": "global",
       "terbit": "2026-09-16T15:00:00.000Z",
       "cuplikan": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain volume had been…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ]
     },
     {
       "id": "e874a3b52fc9",
@@ -308,7 +322,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T14:02:00.000Z",
       "cuplikan": "Jangan asal memasang aplikasi untuk anak. Orang tua perlu mengecek rating usia, izin, privasi, iklan, pembelian, fitur chat, sumber aplikasi, dan batas waktu penggunaan.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/11/14/5bebf47800f16-ilustrasi-anak-bermain-gadget-atau-tablet_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/11/14/5bebf47800f16-ilustrasi-anak-bermain-gadget-atau-tablet_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "6e2448cbcf84",
@@ -330,7 +347,14 @@
       "lajur": "global",
       "terbit": "2026-09-16T14:00:21.000Z",
       "cuplikan": "The first console I ever bought, it was hyped as a threat to the PlayStation, then mocked as a flop. But now, as it marks its 25th anniversary, it’s looked back on with misty-eyed reverence This week marks the 25th anniversary of the…",
-      "gambar": "https://i.guim.co.uk/img/media/6db716d0053e7ed43e953210c8c4e48ed33913e3/38_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=1b34736a2b210905985665da9e572341"
+      "gambar": "https://i.guim.co.uk/img/media/6db716d0053e7ed43e953210c8c4e48ed33913e3/38_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=1b34736a2b210905985665da9e572341",
+      "kategoriSumber": [
+        "Games",
+        "Culture",
+        "Games consoles",
+        "Retro games",
+        "Nintendo"
+      ]
     },
     {
       "id": "fb24705a30f2",
@@ -385,7 +409,18 @@
       "lajur": "global",
       "terbit": "2026-09-16T13:37:35.000Z",
       "cuplikan": "Models of the insect’s nervous system have been trained to solve a Rubik’s Cube, play video games and even parallel park a car.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Brain",
+        "Nerves and Nervous System",
+        "Fruit Flies",
+        "Animal Cognition",
+        "Research",
+        "Artificial Intelligence",
+        "Google Inc",
+        "Janelia Farm Research Campus (Howard Hughes Medical Institute)",
+        "internal-eafs"
+      ]
     },
     {
       "id": "9098d6a61275",
@@ -495,7 +530,11 @@
       "lajur": "global",
       "terbit": "2026-09-16T12:47:34.000Z",
       "cuplikan": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Artificial intelligence",
+        "sponsored"
+      ]
     },
     {
       "id": "84733565fa84",
@@ -572,7 +611,10 @@
       "lajur": "global",
       "terbit": "2026-09-16T12:10:00.000Z",
       "cuplikan": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "The Download"
+      ]
     },
     {
       "id": "63131d8e563f",
@@ -583,7 +625,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T12:02:00.000Z",
       "cuplikan": "5 aplikasi dan fitur ini bisa membantu menyesuaikan tampilan layar HP untuk bekerja, membaca, hingga hiburan. Kenali fungsi Night Shift, True Tone, Good Lock, dan fitur.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/04/6a491fb3d4732-ilustrasi-hp-dengan-layar-tajam_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/04/6a491fb3d4732-ilustrasi-hp-dengan-layar-tajam_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "b7c124c3cf04",
@@ -616,7 +661,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T11:55:41.000Z",
       "cuplikan": "Belum ada informasi resmi soal kapan iPhone 18 Pro series dan iPhone Duo akan masuk Indonesia. Namun, bocoran harga dan tanggal peluncurannya sudah beredar.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/TjdplQ-arkWGx6_YuzXZpcysv4E=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349944/original/002165300_1789550158-iphone-18-pro-model-unselect-gallery-1-202609.webp"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/TjdplQ-arkWGx6_YuzXZpcysv4E=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349944/original/002165300_1789550158-iphone-18-pro-model-unselect-gallery-1-202609.webp",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "73cbe6d5121e",
@@ -682,7 +730,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T11:14:16.000Z",
       "cuplikan": "APJATEL menegaskan komitmennya untuk mendukung program relokasi jaringan kabel optik di ruang publik yang digagas Pemprov DKI Jakarta.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/TjMeVMxwK9IZYBzP5wQ0iNm0c70=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4550037/original/091698900_1692855763-PENERTIPAN_KABEL_FIBER_OPTIK-FANANI_3.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/TjMeVMxwK9IZYBzP5wQ0iNm0c70=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4550037/original/091698900_1692855763-PENERTIPAN_KABEL_FIBER_OPTIK-FANANI_3.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "b21e0152be75",
@@ -704,7 +755,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T11:05:12.000Z",
       "cuplikan": "Teknologi kecerdasan buatan atau artificial intelligence (AI) bukan lagi sekadar wacana masa depan bagi lanskap bisnis di Indonesia, melainkan realitas operasional yang berkembang pesat. Berdasarkan studi...",
-      "gambar": "https://static.republika.co.id/uploads/images/detailnews/chairman-dan-ceo-getfly-technology-jsc-nguyen-huy-hoang_260916175643-187.jpeg"
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/chairman-dan-ceo-getfly-technology-jsc-nguyen-huy-hoang_260916175643-187.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "9926842f06a1",
@@ -715,7 +769,16 @@
       "lajur": "global",
       "terbit": "2026-09-16T11:00:18.000Z",
       "cuplikan": "Tech CEOs banding together is an old ruse recycled from corporate America to get a pass from antitrust laws Anthropic’s Dario Amodei is not the first corporate CEO to suggest that excessive competition is driving the world to some socially…",
-      "gambar": "https://i.guim.co.uk/img/media/946b0e05dd0e1b4c6e798b7dd5ff3846fd4f4783/620_0_6195_4958/master/6195.jpg?width=140&quality=85&auto=format&fit=max&s=629d70c0a688149dd4415a236aed24e5"
+      "gambar": "https://i.guim.co.uk/img/media/946b0e05dd0e1b4c6e798b7dd5ff3846fd4f4783/620_0_6195_4958/master/6195.jpg?width=140&quality=85&auto=format&fit=max&s=629d70c0a688149dd4415a236aed24e5",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "OpenAI",
+        "Anthropic",
+        "Sam Altman",
+        "Elon Musk",
+        "Technology",
+        "Business"
+      ]
     },
     {
       "id": "834543a17e0c",
@@ -759,7 +822,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T10:37:42.000Z",
       "cuplikan": "WhatsApp akan menghentikan dukungan pada beberapa perangkat lama, termasuk iPhone dan HP Android. Apa saja?",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/3YAWBqeG9NrL5gS68OdTfhae49M=/0x789:2266x2066/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3954177/original/061369500_1646619680-mika-baumeister-uKdkh25_wc0-unsplash.jpg"
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/3YAWBqeG9NrL5gS68OdTfhae49M=/0x789:2266x2066/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3954177/original/061369500_1646619680-mika-baumeister-uKdkh25_wc0-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "435e5e1d7e45",
@@ -847,7 +913,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T10:04:00.000Z",
       "cuplikan": "Jangan asal membersihkan layar HP, laptop, atau monitor dengan cuka. Sifat asamnya dapat memengaruhi lapisan pelindung layar. Simak cara aman membersihkan layar.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2019/05/19/5ce1158e4e6c9-miliki-banyak-manfaat-cuka-apel-juga-punya-sederet-efek-samping_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2019/05/19/5ce1158e4e6c9-miliki-banyak-manfaat-cuka-apel-juga-punya-sederet-efek-samping_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "35edba26b84c",
@@ -880,7 +949,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T10:00:32.000Z",
       "cuplikan": "Terkadang fitur Spotify dapat mengganggu saat mendengarkan lagu. Simak untuk tahu cara mematikannya.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/JUT95xi-XrDS1xuHSrVxo5qONjM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3651429/original/062010000_1638496080-sara-kurfess-wXU9yeANElg-unsplash.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/JUT95xi-XrDS1xuHSrVxo5qONjM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3651429/original/062010000_1638496080-sara-kurfess-wXU9yeANElg-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "08eed928b15e",
@@ -891,7 +963,19 @@
       "lajur": "global",
       "terbit": "2026-09-16T10:00:18.000Z",
       "cuplikan": "Trump and Republicans want companies to regulate themselves. It’s a dereliction of duty that will make AI less safe It is hard to get Sam Altman, Elon Musk and Dario Amodei to agree on much. But over the weekend, all three AI company CEOs…",
-      "gambar": "https://i.guim.co.uk/img/media/dc78004d494fd54b683c1575f0828645d8e13701/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0aeacc1d1898229d41c3c1c741ebbb1d"
+      "gambar": "https://i.guim.co.uk/img/media/dc78004d494fd54b683c1575f0828645d8e13701/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0aeacc1d1898229d41c3c1c741ebbb1d",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Technology",
+        "Donald Trump",
+        "OpenAI",
+        "Anthropic",
+        "Sam Altman",
+        "Elon Musk",
+        "Grok AI",
+        "US Congress",
+        "Republicans"
+      ]
     },
     {
       "id": "e68dc85a5662",
@@ -968,7 +1052,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T09:15:29.000Z",
       "cuplikan": "Komisi Pemberantasan Korupsi (KPK) mengembangkan cara baru dalam menyampaikan edukasi antikorupsi kepada masyarakat, khususnya kalangan generasi muda.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/12/09/6392b6e15c6f0-ilustrasi-korupsi_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/12/09/6392b6e15c6f0-ilustrasi-korupsi_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "36dc2fdd1886",
@@ -990,7 +1077,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T09:09:05.000Z",
       "cuplikan": "Kemampuan kecerdasan buatan (AI) semakin berkembang dan dapat dimanfaatkan untuk berbagai kebutuhan pengolahan foto. Salah satunya melalui ChatGPT yang dapat mengedit.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/12/693bfcc779fdb-chatgpt_665_374.jpeg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/12/693bfcc779fdb-chatgpt_665_374.jpeg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "915eeebc4175",
@@ -1001,7 +1091,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T09:05:56.000Z",
       "cuplikan": "Perkembangan teknologi digital perlahan mengubah cara orang tua mengikuti tumbuh kembang anak yang sedang menjalani pendidikan jauh dari rumah seperti pesantren.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaa59a246f29-ilustrasi-digitalisasi_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaa59a246f29-ilustrasi-digitalisasi_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "e09b5ed29324",
@@ -1023,7 +1116,15 @@
       "lajur": "global",
       "terbit": "2026-09-16T09:02:18.000Z",
       "cuplikan": "Generic questions get generic answers, experts say, so to avoid mediocre recommendations, you’ll need to write smarter prompts. Follow these tips.",
-      "gambar": "https://static01.nyt.com/images/2026/09/11/travel/00trav-ai-prompting1-illo/00trav-ai-prompting1-illo-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/11/travel/00trav-ai-prompting1-illo/00trav-ai-prompting1-illo-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Travel and Vacations",
+        "Content Type: Service",
+        "Anthropic AI LLC",
+        "Google Inc",
+        "OpenAI Labs"
+      ]
     },
     {
       "id": "4c84adda5d56",
@@ -1045,7 +1146,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T08:59:41.000Z",
       "cuplikan": "Tantangannya saat ini bukan lagi apakah UMKM bisa mengakses AI, melainkan sejauh mana AI bisa membantu mereka bekerja lebih efektif.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/bQsC8kcO5Z7CJuHfcCH_-4_6g6s=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349901/original/080234000_1789549181-55462482009_ae49ce76ba_o.jpg.jpeg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/bQsC8kcO5Z7CJuHfcCH_-4_6g6s=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349901/original/080234000_1789549181-55462482009_ae49ce76ba_o.jpg.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "a2d4ebb12087",
@@ -1111,7 +1215,19 @@
       "lajur": "global",
       "terbit": "2026-09-16T08:20:37.000Z",
       "cuplikan": "A proposed law would bar children under 13 from using social media across the 27-nation bloc.",
-      "gambar": "https://static01.nyt.com/images/2026/09/16/world/16biz-eu-kids-afad/16biz-eu-kids-afad-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/16/world/16biz-eu-kids-afad/16biz-eu-kids-afad-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "European Union",
+        "Social Media",
+        "Screen Time (Device)",
+        "Children and Childhood",
+        "Teenagers and Adolescence",
+        "Computers and the Internet",
+        "European Commission",
+        "von der Leyen, Ursula",
+        "Meta Platforms Inc",
+        "Instagram Inc"
+      ]
     },
     {
       "id": "3b270db60401",
@@ -1177,7 +1293,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T07:35:30.000Z",
       "cuplikan": "Sebuah peneliti yang mundur dari perusahaan Anthropic menyatakan bahwa artificial intelligence alias akal imitasi (AI) dapat \"membunuh seluruh umat manusia\" sebelum akhir dekade ini dan menarik...",
-      "gambar": "https://static.republika.co.id/uploads/images/detailnews/para-pemuda-diminta-untuk-mengetahui-peran-dan-manfaat-dari_231017110444-247.jpeg"
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/para-pemuda-diminta-untuk-mengetahui-peran-dan-manfaat-dari_231017110444-247.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "eefd55657f47",
@@ -1243,7 +1362,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-16T07:00:39.000Z",
       "cuplikan": "Konsol PS6 diprediksi bisa dibanderol sekitar Rp 17 juta. Kenapa demikian?",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/UulCvDX2mT2yC-4gIpH3DcZ4X3Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4202352/original/063499800_1666655166-shutterstock_1860839008.jpg"
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/UulCvDX2mT2yC-4gIpH3DcZ4X3Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4202352/original/063499800_1666655166-shutterstock_1860839008.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "de562b2c3e6f",
@@ -1397,7 +1519,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-16T04:57:43.000Z",
       "cuplikan": "Langkah Janice Tjen di Guadalajara Open 2026 terhenti pada babak kedua. Petenis Indonesia itu harus mengakui keunggulan mantan juara US Open 2017, Sloane Stephens, dalam",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/09/14/68c6284084f12-petenis-indonesia-janice-tjen_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/09/14/68c6284084f12-petenis-indonesia-janice-tjen_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "334cf67c7c61",
@@ -1540,7 +1665,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-16T03:00:00.000Z",
       "cuplikan": "Nagoya terus berbenah menjelang pembukaan Asian Games Aichi-Nagoya 2026. Berbagai persiapan dilakukan untuk menyambut ribuan atlet dan ofisial dari negara-negara Asia yan",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa9fd3862433-kapal-pesiar-disiapkan-untuk-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa9fd3862433-kapal-pesiar-disiapkan-untuk-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "debbd69a6c7c",
@@ -1551,7 +1679,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-16T02:17:28.000Z",
       "cuplikan": "Petarung berdarah Indonesia, Bilal Hasan, kembali mendapat kesempatan tampil di UFC. Ia dijadwalkan menghadapi Luis Gurule pada UFC 334 di New York, Amerika Serikat, 14 N",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/29/6a92939bbc351-petarung-mma-indonesia-bilal-hasan_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/29/6a92939bbc351-petarung-mma-indonesia-bilal-hasan_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "fe24343617fd",
@@ -1584,7 +1715,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-16T02:02:40.000Z",
       "cuplikan": "Kontingen Jakarta Barat mencatat sejarah baru di ajang Pekan Olahraga Pelajar Provinsi (Popprov) DKI Jakarta 2026. Untuk pertama kalinya, Jakarta Barat berhasil keluar se",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa9f889d5ea9-torehkan-sejarah-di-popprov-dki-2026-atlet-jakarta-barat-diguyur-bonus_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa9f889d5ea9-torehkan-sejarah-di-popprov-dki-2026-atlet-jakarta-barat-diguyur-bonus_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "039bc1c2562f",
@@ -1771,7 +1905,19 @@
       "lajur": "global",
       "terbit": "2026-09-15T21:46:04.000Z",
       "cuplikan": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Regulation and Deregulation of Industry",
+        "United States Politics and Government",
+        "Computers and the Internet",
+        "Anthropic AI LLC",
+        "NVIDIA Corporation",
+        "OpenAI Labs",
+        "Amodei, Dario",
+        "Trump, Donald J",
+        "Huang, Jen-Hsun"
+      ]
     },
     {
       "id": "98a1d646c3e2",
@@ -1793,7 +1939,16 @@
       "lajur": "global",
       "terbit": "2026-09-15T20:06:21.000Z",
       "cuplikan": "The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.",
-      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15biz-crypto-bill-vglp/15biz-crypto-bill-vglp-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15biz-crypto-bill-vglp/15biz-crypto-bill-vglp-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Regulation and Deregulation of Industry",
+        "Virtual Currency",
+        "Ethics and Official Misconduct",
+        "Senate",
+        "Trump, Donald J"
+      ]
     },
     {
       "id": "1e03068a09c4",
@@ -1815,7 +1970,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T19:06:00.000Z",
       "cuplikan": "Update harga HP Infinix, POCO, dan TECNO September 2026 dari Rp1 jutaan hingga kelas menengah. Simak pilihan model, varian, spesifikasi, dan harga pasar Indonesia terbaru",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa97ba1e1903-ilustrasi-hp_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa97ba1e1903-ilustrasi-hp_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "7c0ca4789136",
@@ -1837,7 +1995,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T18:08:44.000Z",
       "cuplikan": "Masih ingat dengan Rey Mysterio? Legenda WWE yang dikenal dengan topeng ikoniknya itu kini kembali mencuri perhatian setelah muncul mendampingi petinju Ryan Garcia menuju",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa988fa94b38-rey-mysterio_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa988fa94b38-rey-mysterio_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "a8d97e56f351",
@@ -1848,7 +2009,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T18:02:11.000Z",
       "cuplikan": "Ryan Garcia kembali menunjukkan kekuatannya di atas ring. Petinju asal Amerika Serikat itu sukses mempertahankan sabuk juara dunia WBC kelas welter setelah menghentikan C",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/13/6aa6d64d73038-petinju-amerika-serikat-ryan-garcia_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/13/6aa6d64d73038-petinju-amerika-serikat-ryan-garcia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "fcbd348e092d",
@@ -1859,7 +2023,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T17:59:01.000Z",
       "cuplikan": "Tim bulutangkis China datang ke Asian Games 2026 dengan target besar. Mereka membidik tujuh medali emas yang tersedia atau berambisi menyapu bersih seluruh nomor yang dip",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/01/15/5e1eda0df0716-tunggal-putra-china-shi-yu-qi_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/01/15/5e1eda0df0716-tunggal-putra-china-shi-yu-qi_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "45dba1183866",
@@ -1870,7 +2037,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T17:56:12.000Z",
       "cuplikan": "Megawati Hangestri Pertiwi punya peran penting dalam membantu Jordan Wilson beradaptasi dengan lingkungan baru di Liga Voli Korea 2026-2027. Wilson merupakan pemain asin",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9d5ff850c8a-pemain-hyundai-hillstate-megawati-hangestri_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9d5ff850c8a-pemain-hyundai-hillstate-megawati-hangestri_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "619b137286ff",
@@ -1881,7 +2051,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T17:52:53.000Z",
       "cuplikan": "MotoGP Mandalika memiliki satu tradisi unik sejak pertama kali digelar di Sirkuit Pertamina Mandalika pada 2022. Belum ada satu pun pembalap yang mampu meraih kemenangan",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/10/06/68e30ff6d543b-pembalap-bk8-gresini-racing-motogp-fermin-aldeguer_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/10/06/68e30ff6d543b-pembalap-bk8-gresini-racing-motogp-fermin-aldeguer_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "3d06e699ec5a",
@@ -1892,7 +2065,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T17:49:24.000Z",
       "cuplikan": "Gunung Tangkuban Perahu, Jawa Barat, menjadi saksi kemeriahan Volcano Trail Championship (VOTCHA) 2026. Sebanyak 1.765 pelari dari 15 negara ambil bagian dalam ajang trai",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa98495420ff-1765-pelari-dari-15-negara-taklukkan-jalur-vulkanik-gunung-tangkuban-perahu_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa98495420ff-1765-pelari-dari-15-negara-taklukkan-jalur-vulkanik-gunung-tangkuban-perahu_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "bfd9d501d143",
@@ -1903,7 +2079,13 @@
       "lajur": "global",
       "terbit": "2026-09-15T17:47:51.000Z",
       "cuplikan": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation…",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Artificial intelligence",
+        "AI",
+        "Roundtables",
+        "Subscriber-Only Stories"
+      ]
     },
     {
       "id": "03538ce9f200",
@@ -1925,7 +2107,19 @@
       "lajur": "global",
       "terbit": "2026-09-15T17:29:37.000Z",
       "cuplikan": "Federal prosecutors said proceeds from the sale of Iranian oil flowed through Binance, the world’s largest crypto exchange, to finance terrorism.",
-      "gambar": ""
+      "gambar": "",
+      "kategoriSumber": [
+        "Binance",
+        "Virtual Currency",
+        "Money Laundering",
+        "United States Politics and Government",
+        "Politics and Government",
+        "Computers and the Internet",
+        "International Relations",
+        "Zhao, Changpeng",
+        "Trump, Donald J",
+        "Black Markets"
+      ]
     },
     {
       "id": "361b568a4aa9",
@@ -1936,7 +2130,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-15T17:26:41.000Z",
       "cuplikan": "Jakarta bakal menjadi panggung pertarungan para pembalap rallycross dunia pada Desember 2026. Salah satu nama besar yang dipastikan ambil bagian adalah Kevin Hansen.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa97fb4756a9-pembalap-asal-swedia-kevin-hansen_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aa97fb4756a9-pembalap-asal-swedia-kevin-hansen_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "5e1eb7b4106e",
@@ -1969,7 +2166,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-15T17:02:00.000Z",
       "cuplikan": "Bukan hanya media sosial, 14 aplikasi seperti game, platform video, komunikasi, dan belanja masuk kategori risiko tinggi bagi anak. Simak daftar dan alasannya.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/02/04/601b610799b00-ilustrasi-aplikasi_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/02/04/601b610799b00-ilustrasi-aplikasi_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "68909d20b498",

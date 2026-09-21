@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-14",
-  "diperbarui": "2026-09-21T03:21:18.847Z",
+  "diperbarui": "2026-09-21T03:32:39.162Z",
   "berita": [
     {
       "id": "c082262d251e",
@@ -11,7 +11,19 @@
       "lajur": "global",
       "terbit": "2026-09-14T16:42:19.000Z",
       "cuplikan": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
-      "gambar": "https://static01.nyt.com/images/2026/09/14/multimedia/14biz-amazon-21air-2-tfqb/14biz-amazon-21air-2-tfqb-mediumSquareAt3X.jpg"
+      "gambar": "https://static01.nyt.com/images/2026/09/14/multimedia/14biz-amazon-21air-2-tfqb/14biz-amazon-21air-2-tfqb-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Airlines and Airplanes",
+        "Aviation Accidents, Safety and Disasters",
+        "E-Commerce",
+        "Delivery Services",
+        "Deaths (Fatalities)",
+        "Pilots",
+        "Freight (Cargo)",
+        "Amazon.com Inc",
+        "Miami International Airport",
+        "National Transportation Safety Board"
+      ]
     },
     {
       "id": "92b8a4cdabe0",
@@ -22,7 +34,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-14T16:41:53.000Z",
       "cuplikan": "Asian Games 2026 menjadi tolok ukur pembinaan atlet dayung Indonesia. PB PODSI menyiapkan puluhan atlet dayung, kano, dan perahu naga untuk berlaga di Asia.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/11/22/637cdc08d549f-timnas-dayung-indonesia-di-kejuaraan-dayung-perahu-naga-asia-2022_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/11/22/637cdc08d549f-timnas-dayung-indonesia-di-kejuaraan-dayung-perahu-naga-asia-2022_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "291cf64d6e87",
@@ -33,7 +48,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-14T16:38:01.000Z",
       "cuplikan": "Enam karateka Indonesia resmi dilepas untuk bertarung di Asian Games Aichi-Nagoya 2026. PB Federasi Olahraga Karate-Do Indonesia (Forki) memasang target tinggi dengan mem",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa822a7782b5-ketua-umum-pb-forki-marsekal-tni-purn-hadi-tjahjanto-melepas-6-karateka-indonesia-ke-asian-games-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa822a7782b5-ketua-umum-pb-forki-marsekal-tni-purn-hadi-tjahjanto-melepas-6-karateka-indonesia-ke-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "5a4bb2487ea4",
@@ -55,7 +73,10 @@
       "lajur": "tekno",
       "terbit": "2026-09-14T14:43:25.000Z",
       "cuplikan": "Perkembangan teknologi pangan dan formulasi produk membuat berbagai bahan yang sebelumnya dalam bentuk bubuk atau padat kini dapat dikembangkan jadi cair.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/01/25/5e2c37cf37013-ilustrasi-laboratorium_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/01/25/5e2c37cf37013-ilustrasi-laboratorium_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
     },
     {
       "id": "5dc9d3d418bf",
@@ -66,7 +87,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-14T14:31:35.000Z",
       "cuplikan": "NPC Indonesia menargetkan posisi 10 besar Asian Para Games 2026 dengan 8-9 emas. Para catur absen, sehingga boccia, atletik, dan panahan jadi tumpuan.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa804c30d87f-wasekjen-npc-indonesia-rima-ferdianto_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa804c30d87f-wasekjen-npc-indonesia-rima-ferdianto_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "1db721e580aa",
@@ -121,7 +145,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-14T13:07:47.000Z",
       "cuplikan": "Leo/Daniel membawa misi memperbaiki hasil Asian Games 2022. Modal kemenangan atas ganda nomor satu dunia menjadi bekal menuju Asian Games 2026 di Jepang.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/18/6a0a0d3e7857a-ganda-putra-indonesia-leodaniel-sukses-merebut-gelar-juara-bwf-world-tour-super-500-thailand-open-2026_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/18/6a0a0d3e7857a-ganda-putra-indonesia-leodaniel-sukses-merebut-gelar-juara-bwf-world-tour-super-500-thailand-open-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "18e3af0379db",
@@ -319,7 +346,10 @@
       "lajur": "olahraga",
       "terbit": "2026-09-14T09:51:48.000Z",
       "cuplikan": "Megawati Hangestri resmi menjadi andalan Hyundai E&C Hillstate dengan nomor 88. Simak komposisi skuad, jadwal debut, KOVO Cup, dan duel kontra Red Sparks.",
-      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/20/6a86d52b3f715-megawati-hangestri-pertiwi_gemini_665_374.jpg"
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/20/6a86d52b3f715-megawati-hangestri-pertiwi_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
     },
     {
       "id": "2cc652558692",
@@ -429,7 +459,16 @@
       "lajur": "global",
       "terbit": "2026-09-14T06:00:24.000Z",
       "cuplikan": "Big screen folder with slick software and advanced AI is just like a regular Android when closed Google’s latest folding phone sticks with its tried and tested design of a traditional phone shape when closed and almost square when open, in…",
-      "gambar": "https://i.guim.co.uk/img/media/465c638d2a524d24640b81b56960b158ce2eba32/811_172_5328_4263/master/5328.jpg?width=140&quality=85&auto=format&fit=max&s=191f56d2799f84bac5b98b509312d193"
+      "gambar": "https://i.guim.co.uk/img/media/465c638d2a524d24640b81b56960b158ce2eba32/811_172_5328_4263/master/5328.jpg?width=140&quality=85&auto=format&fit=max&s=191f56d2799f84bac5b98b509312d193",
+      "kategoriSumber": [
+        "Smartphones",
+        "Google",
+        "Mobile phones",
+        "Android",
+        "Pixel",
+        "Technology",
+        "Alphabet"
+      ]
     },
     {
       "id": "6f158b8cfa2b",
