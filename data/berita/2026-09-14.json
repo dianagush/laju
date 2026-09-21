@@ -1,7 +1,18 @@
 {
   "tanggal": "2026-09-14",
-  "diperbarui": "2026-09-21T02:54:45.814Z",
+  "diperbarui": "2026-09-21T03:21:18.847Z",
   "berita": [
+    {
+      "id": "c082262d251e",
+      "judul": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+      "tautan": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-14T16:42:19.000Z",
+      "cuplikan": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
+      "gambar": "https://static01.nyt.com/images/2026/09/14/multimedia/14biz-amazon-21air-2-tfqb/14biz-amazon-21air-2-tfqb-mediumSquareAt3X.jpg"
+    },
     {
       "id": "92b8a4cdabe0",
       "judul": "Asian Games 2026 jadi Ujian Pembinaan Dayung Indonesia, PODSI Bidik Medali di Jepang",
@@ -408,6 +419,17 @@
       "terbit": "2026-09-14T06:25:40.000Z",
       "cuplikan": "Manajer Tim Ducati Lenovo Davide Tardozzi menyebut tidak ada pembalap yang menjadi favorit di perebutan gelar juara ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/08/29/AFP_20260829_C6T64HZ_v1_HighRes_MotoPrixEspQualifying.jpg"
+    },
+    {
+      "id": "4354bcecedba",
+      "judul": "Pixel 11 Pro Fold review: the foldable with the best triple camera",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/14/pixel-11-pro-fold-review-the-foldable-with-the-best-triple-camera",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-14T06:00:24.000Z",
+      "cuplikan": "Big screen folder with slick software and advanced AI is just like a regular Android when closed Google’s latest folding phone sticks with its tried and tested design of a traditional phone shape when closed and almost square when open, in…",
+      "gambar": "https://i.guim.co.uk/img/media/465c638d2a524d24640b81b56960b158ce2eba32/811_172_5328_4263/master/5328.jpg?width=140&quality=85&auto=format&fit=max&s=191f56d2799f84bac5b98b509312d193"
     },
     {
       "id": "6f158b8cfa2b",

@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-20",
-  "diperbarui": "2026-09-21T02:54:45.814Z",
+  "diperbarui": "2026-09-21T03:21:18.847Z",
   "berita": [
     {
       "id": "ac606a27e6e9",
@@ -36,6 +36,39 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/bHdSHx_TdmY-GAcNvPBH0EgJVhc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350260/original/075923800_1789605853-persib_1.jpg"
     },
     {
+      "id": "f002f9c12ba1",
+      "judul": "Joby Aviation completed a fully autonomous flight from California to North Carolina",
+      "tautan": "https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-20T16:32:47.000Z",
+      "cuplikan": "The startup is looking to expand beyond electric air taxi rides in major cities.",
+      "gambar": "https://www.engadget.com/img/gallery/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/l-intro-1789921812.jpg"
+    },
+    {
+      "id": "f3225fded9fe",
+      "judul": "New California law will penalize influencers who don’t disclose political ads",
+      "tautan": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-20T16:30:00.000Z",
+      "cuplikan": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "gambar": ""
+    },
+    {
+      "id": "026cf174eb86",
+      "judul": "What's the 30-degree rule for TVs?",
+      "tautan": "https://www.engadget.com/2256385/whats-the-30-degree-rule-for-tvs/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-20T16:30:00.000Z",
+      "cuplikan": "The Society of Motion Picture and Television Engineers has a simple method for calculating the ideal viewing distance based on your TV size.",
+      "gambar": "https://www.engadget.com/img/gallery/whats-the-30-degree-rule-for-tvs/l-intro-1788889428.jpg"
+    },
+    {
       "id": "3b33db4c6b4d",
       "judul": "Legenda Timnas Singapura dan Malaysia akui kemajuan skuad Garuda",
       "tautan": "https://www.antaranews.com/berita/5750363/legenda-timnas-singapura-dan-malaysia-akui-kemajuan-skuad-garuda",
@@ -45,6 +78,17 @@
       "terbit": "2026-09-20T16:29:34.000Z",
       "cuplikan": "Legenda Timnas Singapura Baihakki Khaizan dan Timnas Malaysia Safiq Rahim mengakui kemajuan skuad Garuda dalam ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/20/d4e435c5-ede7-4c01-98a6-90a001c61455.jpeg"
+    },
+    {
+      "id": "11426be0bdbc",
+      "judul": "Top 3 Berita Bola: Real Madrid Nyaris Comeback, Atletico Madrid Amankan 3 Poin",
+      "tautan": "https://www.liputan6.com/bola/read/8295678/top-3-berita-bola-real-madrid-nyaris-comeback-atletico-madrid-amankan-3-poin",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-20T16:23:53.000Z",
+      "cuplikan": "Kabar dari Liga Spanyol, Asian Games 2026, dan Moto3 memicu keingintahuan pembaca hingga masuk top 3 Kanal Bola Liputan6.com.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/ZSTUFpSiqUO6x3ys3Y6M9dM4XTA=/0x194:2384x1537/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353190/original/082032300_1789919091-000_C8U83MV.jpg"
     },
     {
       "id": "5cb12dec13bc",
@@ -102,6 +146,28 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/20/1000527539.jpg"
     },
     {
+      "id": "44406c910712",
+      "judul": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "tautan": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-20T16:02:00.000Z",
+      "cuplikan": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "gambar": ""
+    },
+    {
+      "id": "777023a0cbfd",
+      "judul": "How to use your phone as a remote for any smart TV",
+      "tautan": "https://www.engadget.com/2259523/how-to-use-phone-smart-tv-remote/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-20T16:00:00.000Z",
+      "cuplikan": "Some phones have IR blasters to enable remote functions, but even if yours doesn't, you can do quite a lot over Bluetooth and Wi-Fi.",
+      "gambar": "https://www.engadget.com/img/gallery/how-to-use-your-phone-as-a-remote-for-any-smart-tv/l-intro-1789502055.jpg"
+    },
+    {
       "id": "477544c80d29",
       "judul": "Pedro Acosta menjadi yang tercepat di MotoGP Austria 2026",
       "tautan": "https://www.antaranews.com/berita/5750324/pedro-acosta-menjadi-yang-tercepat-di-motogp-austria-2026",
@@ -146,6 +212,17 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/20/1003430422.jpg"
     },
     {
+      "id": "ba91ca58495d",
+      "judul": "Trump now says he wants to form an ‘AI Force’",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-20T15:39:22.000Z",
+      "cuplikan": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI…",
+      "gambar": ""
+    },
+    {
       "id": "835d77437d3f",
       "judul": "Kompetisi soft tenis belum jelas, Tio ingin tekuni padel dan melatih",
       "tautan": "https://www.antaranews.com/berita/5750297/kompetisi-soft-tenis-belum-jelas-tio-ingin-tekuni-padel-dan-melatih",
@@ -177,6 +254,17 @@
       "terbit": "2026-09-20T15:31:53.000Z",
       "cuplikan": "Manchester City harus bekerja keras untuk mengamankan tiga poin saat menjamu Sunderland pada lanjutan Liga Inggris 2026-2027. Duel di Etihad Stadium, Minggu 20 September",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa6df41e22d3-pemain-manchester-city-erling-haaland_gemini_665_374.jpg"
+    },
+    {
+      "id": "424480c326e0",
+      "judul": "How to set up your Sonos speakers using the app",
+      "tautan": "https://www.engadget.com/2259348/how-to-set-up-sonos-speakers-using-app/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-20T15:30:00.000Z",
+      "cuplikan": "Whether you just got a Sonos speaker or you're adding one to your current setup, you'll need to use the app.",
+      "gambar": "https://www.engadget.com/img/gallery/how-to-set-up-your-sonos-speakers-using-the-app/l-intro-1789153054.jpg"
     },
     {
       "id": "ca1db3bcaa35",
@@ -267,6 +355,28 @@
       "gambar": "https://static.republika.co.id/uploads/images/detailnews/ayobantu-com-mengumumkan-regenerasi-kepemimpinan-oscar-darmawan-resmi-ditunjuk-sebagai_260920215856-993.jpeg"
     },
     {
+      "id": "2cd6175ff9fe",
+      "judul": "A small but growing number of founders are betting on bringing people together offline",
+      "tautan": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-20T15:00:00.000Z",
+      "cuplikan": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the…",
+      "gambar": ""
+    },
+    {
+      "id": "6c14fb355180",
+      "judul": "Before you throw out your old laptop, do this first",
+      "tautan": "https://www.engadget.com/2259329/how-to-wipe-old-laptop/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-20T15:00:00.000Z",
+      "cuplikan": "Giving away or recycling your old laptop is great, but you need to make sure all your data is fully removed before it finds a new home.",
+      "gambar": "https://www.engadget.com/img/gallery/before-you-throw-out-your-old-laptop-do-this-first/l-intro-1789494765.jpg"
+    },
+    {
       "id": "dca317c037ee",
       "judul": "Pelatih Bali United Soroti Penyebab Kekalahan di Markas Borneo FC",
       "tautan": "https://www.liputan6.com/bola/read/8295644/pelatih-bali-united-soroti-penyebab-kekalahan-di-markas-borneo-fc",
@@ -322,6 +432,28 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/-7GW6wInlLcNKXqqsiQcEfd_3i0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9345252/original/099771300_1789027117-WhatsApp_Image_2026-09-10_at_2.34.26_PM.jpeg"
     },
     {
+      "id": "9d1ca4a80ee4",
+      "judul": "These small changes can improve your home surround sound in a big way",
+      "tautan": "https://www.engadget.com/2259266/tips-to-improve-home-surround-sound-quality/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-20T14:30:00.000Z",
+      "cuplikan": "If you've just set up your speakers wherever they fit, you're probably not getting the best sound from your surround system.",
+      "gambar": "https://www.engadget.com/img/gallery/these-small-changes-can-improve-your-home-surround-sound-in-a-big-way/l-intro-1789492006.jpg"
+    },
+    {
+      "id": "3846351d813c",
+      "judul": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
+      "tautan": "https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-20T14:29:31.000Z",
+      "cuplikan": "Emily Normandin-Parker, 23, was struck and killed on a California freeway after an Uber driver ordered her and a friend out of his car in August 2023.",
+      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18xp-uber-pcqf/18xp-uber-pcqf-mediumSquareAt3X.jpg"
+    },
+    {
       "id": "8627e55d3cde",
       "judul": "Atletico Madrid vs Real Madrid Sedang Duel, Dapatkan Link Live Streaming Liga Spanyol",
       "tautan": "https://www.liputan6.com/bola/read/8295281/atletico-madrid-vs-real-madrid-sedang-duel-dapatkan-link-live-streaming-liga-spanyol",
@@ -366,6 +498,17 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa918b34c021-pemain-persib-bandung-thom-haye_gemini_665_374.jpg"
     },
     {
+      "id": "ff3e91e6d1b1",
+      "judul": "Is the original Nintendo Switch still worth buying in 2026?",
+      "tautan": "https://www.engadget.com/2259238/is-original-nintendo-switch-still-worth-buying/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-20T14:00:00.000Z",
+      "cuplikan": "Buying Nintendo's older console used makes plenty of sense, but a one new is much harder to justify.",
+      "gambar": "https://www.engadget.com/img/gallery/is-the-original-nintendo-switch-still-worth-buying-in-2026/l-intro-1789315359.jpg"
+    },
+    {
       "id": "8bb2148ce907",
       "judul": "Kombinasi Lari, Hyrox dan Basket 3x3 Jadi Pesta Bersama di GBK",
       "tautan": "https://www.liputan6.com/bola/read/8295600/kombinasi-lari-hyrox-dan-basket-3x3-jadi-pesta-bersama-di-gbk",
@@ -397,6 +540,17 @@
       "terbit": "2026-09-20T13:34:57.000Z",
       "cuplikan": "Laurin Ulrich dipanggil Timnas Jerman U-21, tetapi peluang membela Indonesia belum tertutup. Stafsus Menkum Noor Korompot menjelaskan aturan FIFA yang berlaku.",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafdfc39b7d1-laurin-ulrich_gemini_665_374.jpg"
+    },
+    {
+      "id": "9b9b0d5faa1f",
+      "judul": "Winamp will be reborn in 2027 to take on streaming",
+      "tautan": "https://www.engadget.com/2259236/winamp-coming-back-2027-deezer-partnership-streaming-music/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-20T13:30:00.000Z",
+      "cuplikan": "It's coming back with a monthly subscription.",
+      "gambar": "https://www.engadget.com/img/gallery/winamp-will-be-reborn-in-2027-to-take-on-streaming/l-intro-1789154575.jpg"
     },
     {
       "id": "cf8390ebc52d",
@@ -487,6 +641,17 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafd5d2a6eca-pertamina-mandalika-racing-series-2026_gemini_665_374.jpg"
     },
     {
+      "id": "336a67b1c3c1",
+      "judul": "A24’s reputation is on the line with the SCP Foundation movie",
+      "tautan": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-20T12:45:48.000Z",
+      "cuplikan": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced…",
+      "gambar": ""
+    },
+    {
       "id": "72273e5eb930",
       "judul": "Tim tenis meja putra ikuti jejak putri, menang 3-0 atas Pakistan",
       "tautan": "https://www.antaranews.com/berita/5750169/tim-tenis-meja-putra-ikuti-jejak-putri-menang-3-0-atas-pakistan",
@@ -573,6 +738,50 @@
       "terbit": "2026-09-20T12:00:24.000Z",
       "cuplikan": "Duel pekan ketiga BRI Super League 2026/2027 Persijap Jepara vs Persib Bandung berlangsung di Gelora Bumi Kartini, Minggu (20/9/2026) pukul 19.00 WIB.",
       "gambar": "https://cdn1-production-images-kly.akamaized.net/bHdSHx_TdmY-GAcNvPBH0EgJVhc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350260/original/075923800_1789605853-persib_1.jpg"
+    },
+    {
+      "id": "3168d688c958",
+      "judul": "A great new video game movie",
+      "tautan": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-20T12:00:00.000Z",
+      "cuplikan": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I…",
+      "gambar": ""
+    },
+    {
+      "id": "e3983d4eedb9",
+      "judul": "The hidden monopoly behind your TI graphing calculator",
+      "tautan": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-20T12:00:00.000Z",
+      "cuplikan": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is…",
+      "gambar": ""
+    },
+    {
+      "id": "d11b689309b4",
+      "judul": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "tautan": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-20T12:00:00.000Z",
+      "cuplikan": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving…",
+      "gambar": ""
+    },
+    {
+      "id": "8a86a8f17e6f",
+      "judul": "All roads lead to cable",
+      "tautan": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-20T12:00:00.000Z",
+      "cuplikan": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our…",
+      "gambar": ""
     },
     {
       "id": "a017391abd86",
@@ -707,6 +916,28 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafbec554576-pemain-borneo-fc-merayakan-gol_gemini_665_374.jpg"
     },
     {
+      "id": "2fab1312f6e2",
+      "judul": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "tautan": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-20T11:07:00.000Z",
+      "cuplikan": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
+    },
+    {
+      "id": "25ceb7335b61",
+      "judul": "Thermacell LIV 2.0 Review: Taking My Yard Back",
+      "tautan": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T11:07:00.000Z",
+      "cuplikan": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
+      "gambar": "https://media.wired.com/photos/6aae0145c68108fad4b9bc12/master/pass/Review--Thermacell-LIV-Smart-Mosquito-Repellent-System-2.0.jpg"
+    },
+    {
       "id": "10c551a0641d",
       "judul": "Pesan Shin Tae-yong untuk Pemain Persija setelah Sikat 3 Lawan di Super League",
       "tautan": "https://www.viva.co.id/bola/1929839-pesan-shin-tae-yong-untuk-pemain-persija-setelah-sikat-3-lawan-di-super-league",
@@ -727,6 +958,17 @@
       "terbit": "2026-09-20T11:03:03.000Z",
       "cuplikan": "Tim renang Indonesia belum menyumbang medali Asian Games 2026 pada hari pertama kompetisi cabang olahraga tersebut di ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/04/28/IMG_2018.jpeg"
+    },
+    {
+      "id": "a5a90f1fdad8",
+      "judul": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
+      "tautan": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T11:00:00.000Z",
+      "cuplikan": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”",
+      "gambar": "https://media.wired.com/photos/6aa8645f9bc29761b67d49dc/master/pass/Inside-Support-Group-Bad-Dogs-Culture.jpg"
     },
     {
       "id": "68e7e46c93f2",
@@ -817,6 +1059,28 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/20/20260920-Asian-Games-2026-Medali-pertama-Indonesia-dari-wushu.jpg"
     },
     {
+      "id": "8225d45909d6",
+      "judul": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "tautan": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T10:30:00.000Z",
+      "cuplikan": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "gambar": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/master/pass/091626-Meta%20Muse.jpg"
+    },
+    {
+      "id": "a8e1d08f5ea2",
+      "judul": "It’s Donald Trump Versus MAGA on Data Centers",
+      "tautan": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T10:30:00.000Z",
+      "cuplikan": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "gambar": "https://media.wired.com/photos/6aad9a65289841154fbf8f24/master/pass/Trump-MAGA-Data-Centers-Column-Science.jpg"
+    },
+    {
       "id": "d469240c7c42",
       "judul": "Klasemen Sementara Moto3 Usai GP Austria 2026: Peringkat Veda Ega Pratama Disalip Hakim Danish!",
       "tautan": "https://sports.okezone.com/read/2026/09/20/38/3243206/klasemen-sementara-moto3-usai-gp-austria-2026-peringkat-veda-ega-pratama-disalip-hakim-danish",
@@ -883,6 +1147,17 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2023/09/11/antarafoto-pelatnas-menembak-jelang-asian-games-11092023-mrh-10.jpg"
     },
     {
+      "id": "6449f8efc30e",
+      "judul": "Don't call it an SUV: The Ferrari Purosangue review",
+      "tautan": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-20T10:00:02.000Z",
+      "cuplikan": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg"
+    },
+    {
       "id": "7679e73da3ac",
       "judul": "Raphinha Cetak 12 Gol, Rekor Messi di Barcelona Tumbang",
       "tautan": "https://www.viva.co.id/bola/1929835-raphinha-cetak-12-gol-rekor-messi-di-barcelona-tumbang",
@@ -892,6 +1167,28 @@
       "terbit": "2026-09-20T10:00:00.000Z",
       "cuplikan": "Raphinha tampil luar biasa bersama Barcelona pada awal musim La Liga 2026/2027. Penyerang asal Brasil itu bahkan berhasil melewati catatan Lionel Messi dalam tujuh pertan",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf4816dfde8-penyerang-barcelona-raphinha-merayakan-gol_gemini_665_374.jpg"
+    },
+    {
+      "id": "972197e5da50",
+      "judul": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
+      "tautan": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T10:00:00.000Z",
+      "cuplikan": "“You know ‘Bang Bus’? We don’t want that.”",
+      "gambar": "https://media.wired.com/photos/6aad1f8e3467874a950d97a5/master/pass/091826-Robotaxi%20No%20Sex.jpg"
+    },
+    {
+      "id": "38bfa9d6ec2b",
+      "judul": "What You Need to Know About the Foreign-Made Router Ban in the US",
+      "tautan": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T10:00:00.000Z",
+      "cuplikan": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
+      "gambar": "https://media.wired.com/photos/69c2c874bebdcbc5795fe12e/master/pass/US-Foreign-Made-Router-Ban-Gear-2222209888.jpg"
     },
     {
       "id": "b8a50fef3a18",
@@ -925,6 +1222,28 @@
       "terbit": "2026-09-20T09:44:00.000Z",
       "cuplikan": "Pelatih Timnas Malaysia, Tan Cheng Hoe, mengakui Timnas Indonesia menjadi salah satu tim yang paling diunggulkan di Grup A FIFA ASEAN Cup 2026. Tan Cheng Hoe",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/30/6a6b0fd7f05ee-pelatih-timnas-malaysia-tan-cheng-hoe_gemini_665_374.jpg"
+    },
+    {
+      "id": "9710dfd32b4e",
+      "judul": "How to Avoid Scams and Sketchy Products on Amazon (2026)",
+      "tautan": "https://www.wired.com/story/how-shop-safe-amazon/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T09:38:00.000Z",
+      "cuplikan": "Amazon is a murky mess of ads, unknown sellers, misleading sales, and specious information. Stay safe while shopping on Prime Big Deal Days and beyond with these tips and tricks.",
+      "gambar": "https://media.wired.com/photos/6849b140ab7f5079900d4624/master/pass/How%20to%20Avoid%20Scams%20and%20Shoddy%20Wares%20on%20Amazon.png"
+    },
+    {
+      "id": "9e934e365163",
+      "judul": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
+      "tautan": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T09:30:00.000Z",
+      "cuplikan": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
+      "gambar": "https://media.wired.com/photos/6aad0d966fc219f441397668/master/pass/091826-What%20Chat%20GOT%20Remember.jpg"
     },
     {
       "id": "805c9cc95a8f",
@@ -1004,6 +1323,28 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/PTqRo-GFMqcdUW1uerqzGYpq_O4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336917/original/082496300_1788219186-000_C6XZ88K.jpg"
     },
     {
+      "id": "93b65b76c0e7",
+      "judul": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+      "tautan": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-20T09:01:40.000Z",
+      "cuplikan": "As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.",
+      "gambar": "https://static01.nyt.com/images/2026/09/19/business/00-newworld-ai/00-newworld-ai-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "130f9eb67838",
+      "judul": "T. rex teeth indicate it ran as warm as an elephant",
+      "tautan": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-20T09:00:11.000Z",
+      "cuplikan": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg"
+    },
+    {
       "id": "8c4242fe75b7",
       "judul": "Medali Ketiga Indonesia di Asian Games 2026 Datang dari Soft Tenis",
       "tautan": "https://www.viva.co.id/sport/1929825-medali-ketiga-indonesia-di-asian-games-2026-datang-dari-soft-tenis",
@@ -1013,6 +1354,17 @@
       "terbit": "2026-09-20T09:00:00.000Z",
       "cuplikan": "Soft tenis beregu putra Indonesia meraih perunggu Asian Games 2026 setelah kalah 0-2 dari Jepang di semifinal. Ini menjadi medali ketiga Merah Putih di Asian Games 2026",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae56d3653cb-soft-tennis-indonesia-mengalahkan-india-2-0-di-perempat-final-asian-games-2026_gemini_665_374.jpg"
+    },
+    {
+      "id": "0d691aab9004",
+      "judul": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
+      "tautan": "https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-20T09:00:00.000Z",
+      "cuplikan": "Several new studies have uncovered this long overlooked aspect of coral physiology that could be the key to the animals’ fate in a changing climate.",
+      "gambar": "https://media.wired.com/clips/6aac22cde42f8093b632ba5e/master/pass/CoralCilia-crCesarPacharres-Lede.mp4"
     },
     {
       "id": "fce2fb2d0d36",
@@ -1257,6 +1609,17 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aaf7cfed0291-timnas-indonesia_gemini_665_374.jpg"
     },
     {
+      "id": "1da528c1019b",
+      "judul": "Reαd carefully: how to spot – and avoid – a homoglyph attack",
+      "tautan": "https://www.theguardian.com/money/2026/sep/20/how-to-spot-avoid-homoglyph-attack-scam",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-20T06:00:07.000Z",
+      "cuplikan": "Scam emails are increasingly using psychological tricks, such as using near-identical URLs like miсrosoft.com You’ve read the email carefully and it looks legitimate. The link it asks you to click on has none of the usual red flags: there…",
+      "gambar": "https://i.guim.co.uk/img/media/6ea18000def5307701747c9991197d5dc4f95259/458_0_4576_3661/master/4576.jpg?width=140&quality=85&auto=format&fit=max&s=5d3490660d54c1cd578ac9a4a42578ba"
+    },
+    {
       "id": "6fe45336f91d",
       "judul": "5 Pembelian Terbaik Real Madrid: Cristiano Ronaldo Posisi Pertama",
       "tautan": "https://www.liputan6.com/bola/read/8295291/5-pembelian-terbaik-real-madrid-cristiano-ronaldo-posisi-pertama",
@@ -1464,6 +1827,17 @@
       "terbit": "2026-09-20T04:35:31.000Z",
       "cuplikan": "Berikut Klasemen Sementara Perolehan Medali Asian Games 2026, Minggu 20 September 2026 Pukul 11.00 WIB.",
       "gambar": "https://img.okezone.com/okz/400/content/2026/09/20/43/3243144/seraf_naro_siregar-AdlH_large.jpg"
+    },
+    {
+      "id": "23dacb3b4aa3",
+      "judul": "More Australians to live into their 90s as life expectancy forecast to rise over coming decades",
+      "tautan": "https://www.theguardian.com/australia-news/2026/sep/20/intergenerational-report-australian-life-expectancy-forecast-to-rise",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-20T04:32:26.000Z",
+      "cuplikan": "Treasury’s latest intergenerational report projects life expectancy at birth will reach 89 for women and 86 for men by 2066 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast…",
+      "gambar": "https://i.guim.co.uk/img/media/cf4ce384e9c39f9a9e0ba72b49a3916086f9f5f8/491_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=84f2506dcb1debb2ade706ff55fd71cd"
     },
     {
       "id": "3158367c2bae",
@@ -1796,6 +2170,17 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/rSF8EJXGKoR3tzNrkqMhvjVIDvE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350725/original/041381700_1789629367-riko.jpg"
     },
     {
+      "id": "ef8f2d6389be",
+      "judul": "Not all AI workers think the tech could kill everyone",
+      "tautan": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T23:01:57.000Z",
+      "cuplikan": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"
+    },
+    {
       "id": "637af9dea55b",
       "judul": "Prediksi Persijap vs Persib: Pangeran Biru Rawan Keletihan",
       "tautan": "https://www.liputan6.com/bola/read/8295225/prediksi-persijap-vs-persib-pangeran-biru-rawan-keletihan",
@@ -1818,6 +2203,17 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/5sd9BXg6plz7lPHXzcFDA6qfbGk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352736/original/037884300_1789853401-BARCA.jpg"
     },
     {
+      "id": "607ffaad2d1c",
+      "judul": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-19T20:44:40.000Z",
+      "cuplikan": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to…",
+      "gambar": ""
+    },
+    {
       "id": "87dcbe61817f",
       "judul": "Live Pagi Ini! Jadwal Siaran Langsung Tim Bulu Tangkis Putri Indonesia vs Mongolia di Asian Games 2026",
       "tautan": "https://sports.okezone.com/read/2026/09/19/40/3243029/live-pagi-ini-jadwal-siaran-langsung-tim-bulu-tangkis-putri-indonesia-vs-mongolia-di-asian-games-2026",
@@ -1827,6 +2223,39 @@
       "terbit": "2026-09-19T20:40:14.000Z",
       "cuplikan": "Simak jadwal siaran langsung Tim Bulu Tangkis Putri Indonesia vs Tim Bulu Tangkis Mongolia di Asian Games 2026.",
       "gambar": "https://img.okezone.com/okz/400/content/2026/09/19/40/3243029/simak_jadwal_siaran_langsung_tim_bulu_tangkis_putri_indonesia_vs_tim_bulu_tangkis_mongolia_di_asian_games_2026-cSN1_large.jpg"
+    },
+    {
+      "id": "2c088408c259",
+      "judul": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "tautan": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T20:39:13.000Z",
+      "cuplikan": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "gambar": ""
+    },
+    {
+      "id": "589c5060cfaa",
+      "judul": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "tautan": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T19:57:47.000Z",
+      "cuplikan": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "gambar": ""
+    },
+    {
+      "id": "76b6b88ea306",
+      "judul": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
+      "tautan": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T19:57:17.000Z",
+      "cuplikan": "President had brushed away suggestions to slow down AI technology, even as his own party counseled caution Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an “AI Force” to help monitor the…",
+      "gambar": "https://i.guim.co.uk/img/media/16036f1089514535d801d2d2f452cc57da7d985c/0_0_1353_1082/master/1353.jpg?width=140&quality=85&auto=format&fit=max&s=af31914fd31b473855086f5599de2828"
     },
     {
       "id": "565e4497eab3",
@@ -1851,6 +2280,17 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/06/Foto-01-3.jpg"
     },
     {
+      "id": "b6a7c3b080e8",
+      "judul": "Google’s Gemini is the latest AI model to hack other companies",
+      "tautan": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T17:30:00.000Z",
+      "cuplikan": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "gambar": ""
+    },
+    {
       "id": "1b9c936a8349",
       "judul": "Terpopuler: John Herdman Coret 14 Pemain Timnas Indonesia, Daftar Calon Rekrutan Terbaru Persib, dan Pesan Erick Thohir",
       "tautan": "https://www.viva.co.id/bola/1929760-terpopuler-john-herdman-coret-14-pemain-timnas-indonesia-daftar-calon-rekrutan-terbaru-persib-dan-pesan-erick-thohir",
@@ -1871,6 +2311,17 @@
       "terbit": "2026-09-19T17:00:00.000Z",
       "cuplikan": "Emil Audero kembali dipercaya mengawal gawang Rayo Vallecano saat bertandang ke markas Osasuna dalam lanjutan Liga Spanyol 2026/2027, Sabtu, 19 September 2026. Rayo berha",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa973d079559-kiper-rayo-vallecano-emil-audero_gemini_665_374.jpg"
+    },
+    {
+      "id": "5bcedb98e802",
+      "judul": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "tautan": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T17:00:00.000Z",
+      "cuplikan": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders…",
+      "gambar": ""
     }
   ]
 }

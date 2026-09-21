@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-21T02:54:45.814Z",
+  "diperbarui": "2026-09-21T03:21:18.847Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -118,7 +118,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-21T02:40:10.000Z"
+      "terbaru": "2026-09-21T03:18:27.000Z"
     },
     {
       "id": "viva-bola",
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-21T02:09:08.000Z"
+      "terbaru": "2026-09-21T03:15:10.000Z"
     },
     {
       "id": "viva-sport",
@@ -289,6 +289,159 @@
         "masaDepan": 0
       },
       "terbaru": "2026-09-20T15:54:04.000Z"
+    },
+    {
+      "id": "bbc-tech",
+      "nama": "BBC News",
+      "kanal": "Technology",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 21,
+      "diterima": 15,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 6,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-19T23:01:57.000Z"
+    },
+    {
+      "id": "guardian-tech",
+      "nama": "The Guardian",
+      "kanal": "Technology",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 32,
+      "diterima": 22,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 10,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-21T02:30:32.000Z"
+    },
+    {
+      "id": "nyt-tech",
+      "nama": "The New York Times",
+      "kanal": "Technology",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 27,
+      "diterima": 27,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-20T14:29:31.000Z"
+    },
+    {
+      "id": "ars",
+      "nama": "Ars Technica",
+      "kanal": "Semua",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 20,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-20T11:07:00.000Z"
+    },
+    {
+      "id": "verge",
+      "nama": "The Verge",
+      "kanal": "Semua",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 10,
+      "diterima": 10,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-20T20:51:57.000Z"
+    },
+    {
+      "id": "techcrunch",
+      "nama": "TechCrunch",
+      "kanal": "Semua",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 19,
+      "dibuang": {
+        "luarTopik": 1,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-20T21:41:08.000Z"
+    },
+    {
+      "id": "wired",
+      "nama": "WIRED",
+      "kanal": "Semua",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 50,
+      "diterima": 42,
+      "dibuang": {
+        "luarTopik": 8,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-20T11:07:00.000Z"
+    },
+    {
+      "id": "mit-tr",
+      "nama": "MIT Technology Review",
+      "kanal": "Semua",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 10,
+      "diterima": 10,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-18T12:10:00.000Z"
+    },
+    {
+      "id": "engadget",
+      "nama": "Engadget",
+      "kanal": "Semua",
+      "lajur": "global",
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 20,
+      "diterima": 20,
+      "dibuang": {
+        "luarTopik": 0,
+        "terbitUlang": 0,
+        "terlaluLama": 0,
+        "masaDepan": 0
+      },
+      "terbaru": "2026-09-21T00:30:00.000Z"
     }
   ]
 }

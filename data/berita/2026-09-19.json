@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-19",
-  "diperbarui": "2026-09-21T02:54:45.814Z",
+  "diperbarui": "2026-09-21T03:21:18.847Z",
   "berita": [
     {
       "id": "706be380c9db",
@@ -113,6 +113,17 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/-ILoh0019bYBndOX6oFKlrlBUCo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9330735/original/093802000_1787415960-2026-08-22_0335.jpg"
     },
     {
+      "id": "5ce756b51251",
+      "judul": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
+      "tautan": "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T15:50:55.000Z",
+      "cuplikan": "The Times columnist Kevin Roose sees reasons for optimism — and worry — as the world wakes up to what Silicon Valley has been talking about for years.",
+      "gambar": "https://static01.nyt.com/images/2026/09/21/business/00roose-future/00roose-future-mediumSquareAt3X.jpg"
+    },
+    {
       "id": "6112523acdaf",
       "judul": "Semarak Fan Festivibes Mall Roadshow FIFA ASEAN Cup 2026 di Jakarta: Ada Legenda dan Trofi",
       "tautan": "https://www.liputan6.com/bola/read/8295243/semarak-fan-festivibes-mall-roadshow-fifa-asean-cup-2026-di-jakarta-ada-legenda-dan-trofi",
@@ -177,6 +188,28 @@
       "terbit": "2026-09-19T15:00:24.000Z",
       "cuplikan": "Timnas voli putri Indonesia bertemu Thailand di 8 besar Asian Games 2026.",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/5hM9wSA4XjuiMDEnpgKW_1qNHLs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8257941/original/018380600_1781265506-2026-06-08_0515.jpg"
+    },
+    {
+      "id": "9973ec65aabe",
+      "judul": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "tautan": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T15:00:00.000Z",
+      "cuplikan": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "gambar": ""
+    },
+    {
+      "id": "fe6a92ce8180",
+      "judul": "AI safety conversations have gotten unbelievable",
+      "tautan": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T15:00:00.000Z",
+      "cuplikan": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "gambar": ""
     },
     {
       "id": "beae4ead2d70",
@@ -311,6 +344,17 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/luVIqGSCYnzTFroBE6Lq5X3UHKw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9347297/original/045276300_1789290356-badminton_2.jpg"
     },
     {
+      "id": "e9d1d908f307",
+      "judul": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "tautan": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T14:00:00.000Z",
+      "cuplikan": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "gambar": ""
+    },
+    {
       "id": "6de22ee7f244",
       "judul": "Hasil Liga Inggris: Tottenham Kembali Tersungkur, Aston Villa Berpesta dalam Laga Hujan Gol",
       "tautan": "https://www.viva.co.id/bola/1929721-hasil-liga-inggris-tottenham-kembali-tersungkur-aston-villa-berpesta-dalam-laga-hujan-gol",
@@ -331,6 +375,17 @@
       "terbit": "2026-09-19T13:50:00.000Z",
       "cuplikan": "PB Padel Indonesia melepas Timnas untuk Asian Games 2026, debut perdana cabor padel. Usai TC 34 hari di Spanyol, tim berangkat Jumat (25/9/2026).",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/GGTA-E-nNwwJ5rkPZwBJu6-Hl0c=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352651/original/003294200_1789822935-20260919_154458.jpg"
+    },
+    {
+      "id": "371dbe4be68c",
+      "judul": "Google's Gemini AI hacked three companies in security test",
+      "tautan": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T13:39:32.000Z",
+      "cuplikan": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg"
     },
     {
       "id": "f54d84f7d4cc",
@@ -419,6 +474,17 @@
       "terbit": "2026-09-19T13:00:50.000Z",
       "cuplikan": "Andoni Iraola meminta Liverpool tampil kejam saat menghadapi Bournemouth. The Reds punya keuntungan waktu istirahat jelang laga Liga Inggris.",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/vyNYiUGRXZFeme5iL_6C1nKEmLY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9331217/original/011327100_1787507486-000_C6C22UY.jpg"
+    },
+    {
+      "id": "17c3769d3608",
+      "judul": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "tautan": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T13:00:00.000Z",
+      "cuplikan": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "gambar": ""
     },
     {
       "id": "083b4bb8dbfd",
@@ -663,6 +729,39 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/19/AFP_20260919_C8RL68J_v1_MidRes_MotoPrixAutMotogpSprint.jpg"
     },
     {
+      "id": "a24483b59fde",
+      "judul": "Learning another language may be one of the best ways to keep your brain healthy",
+      "tautan": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-19T11:10:43.000Z",
+      "cuplikan": "Research suggests that bilingualism can offer cognitive benefits.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg"
+    },
+    {
+      "id": "c2821d66b391",
+      "judul": "‘Just cut the wires’: why UK conspiracy theorists are destroying traffic scanners",
+      "tautan": "https://www.theguardian.com/uk-news/2026/sep/19/uk-conspiracy-theorists-destroying-traffic-scanners",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T11:00:45.000Z",
+      "cuplikan": "Sensors that monitor vehicle volume are said to be ‘electronic assault weapons’ by the ‘Blade Runners’ group At the top of an extendable ladder on a quiet street of Ilfracombe, in Devon, an older woman dressed smartly in cropped trousers…",
+      "gambar": "https://i.guim.co.uk/img/media/45b26a26f9dbeb4d3b8c9e75556c5b8754fbbd65/1069_901_2141_1713/master/2141.jpg?width=140&quality=85&auto=format&fit=max&s=46bf547c3ea4eca2413798a673f2c693"
+    },
+    {
+      "id": "0e6162939d74",
+      "judul": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "tautan": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T11:00:00.000Z",
+      "cuplikan": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "gambar": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/master/pass/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg"
+    },
+    {
       "id": "1ae8c451632f",
       "judul": "Hasil BRI Super League: Persebaya Tertahan di GBT, PSM Vs Persita Berakhir 2-2",
       "tautan": "https://www.liputan6.com/bola/read/8295143/hasil-bri-super-league-persebaya-tertahan-di-gbt-psm-vs-persita-berakhir-2-2",
@@ -716,6 +815,17 @@
       "terbit": "2026-09-19T10:30:26.000Z",
       "cuplikan": "Pengurus Pusat Persatuan Tenis Seluruh Indonesia (PP Pelti) menjadikan kekalahan dari Rumania pada Grup II Dunia Piala ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/19/tenis-davis-cup.jpeg"
+    },
+    {
+      "id": "6a5aaaf0c145",
+      "judul": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
+      "tautan": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T10:30:00.000Z",
+      "cuplikan": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
+      "gambar": "https://media.wired.com/photos/6aacfa7099aa97f60264424c/master/pass/091826-Productivity%20Doc.jpg"
     },
     {
       "id": "3042c788c7ae",
@@ -784,6 +894,17 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/30/6a43d2ab078bd-ilustrasi-laptop-guru_gemini_665_374.jpg"
     },
     {
+      "id": "b00e5960c84e",
+      "judul": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
+      "tautan": "https://www.wired.com/review/samsung-galaxy-watch9/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T10:08:00.000Z",
+      "cuplikan": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
+      "gambar": "https://media.wired.com/photos/6aadfb978ffbfab4b483f09a/master/pass/Review--Samsung-Galaxy-Watch9.jpg"
+    },
+    {
       "id": "fed5ba6c82b1",
       "judul": "Atlet berkuda memanah Indonesia siap bersaing di Moskow",
       "tautan": "https://www.antaranews.com/berita/5749081/atlet-berkuda-memanah-indonesia-siap-bersaing-di-moskow",
@@ -839,6 +960,61 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae40a49d4fc-dion-markx-dan-luke-vickery-dipanggil-john-herdman-untuk-fifa-asean-cup-2026_gemini_665_374.jpg"
     },
     {
+      "id": "499a1df6c846",
+      "judul": "China bogeyman looms large over American firms’ AI doomsday scenario",
+      "tautan": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T10:00:45.000Z",
+      "cuplikan": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity Why China is pushing back on US warnings over rapid AI development When reporters…",
+      "gambar": "https://i.guim.co.uk/img/media/7fe76523483afb288dbc972157cf1bfb4dc91aa4/0_5_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d522513c02fa30cd250a9654140aaae2"
+    },
+    {
+      "id": "d1fc840dc520",
+      "judul": "Domestic datacentres: how computer power can help heat your home",
+      "tautan": "https://www.theguardian.com/money/2026/sep/19/domestic-datacentres-how-computer-power-can-help-heat-your-home",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T10:00:44.000Z",
+      "cuplikan": "Energy bills are scheduled to rise next month but there are innovative ways to heat your home and save money When Giles Gibson turns on the hot tap in his home, the water that comes out of it is not heated by gas but by the tiny datacentre…",
+      "gambar": "https://i.guim.co.uk/img/media/eb772dea3c90357aea977dfebea9a030029a2629/450_0_4258_3408/master/4258.jpg?width=140&quality=85&auto=format&fit=max&s=24bb434efd611bdf7b867bd51982f243"
+    },
+    {
+      "id": "274168859b9c",
+      "judul": "Rings around a tiny body have changed over the past decade",
+      "tautan": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-19T10:00:06.000Z",
+      "cuplikan": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png"
+    },
+    {
+      "id": "1b241b8e7b5d",
+      "judul": "An Editor’s Picks: The Best Gifts for Bird Lovers",
+      "tautan": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T10:00:00.000Z",
+      "cuplikan": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
+      "gambar": "https://media.wired.com/photos/69f4325923bfb7bf0cbdff79/master/pass/The-Best-Gifts-for-Bird-Lovers.jpg"
+    },
+    {
+      "id": "111832ce11a9",
+      "judul": "Mathematicians Hate AI. They Can’t Quit It",
+      "tautan": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T10:00:00.000Z",
+      "cuplikan": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "gambar": "https://media.wired.com/photos/6aad73fd03ca378a32980599/master/pass/091826-Math%20Hate%20AI.jpg"
+    },
+    {
       "id": "2baa308e5a7e",
       "judul": "Hasil MotoGP Austria 2026: Asapi Marc Marquez, Jorge Martin Rebut Pole",
       "tautan": "https://www.liputan6.com/bola/read/8295116/hasil-motogp-austria-2026-asapi-marc-marquez-jorge-martin-rebut-pole",
@@ -872,6 +1048,28 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae56d3653cb-soft-tennis-indonesia-mengalahkan-india-2-0-di-perempat-final-asian-games-2026_gemini_665_374.jpg"
     },
     {
+      "id": "70c605a73f78",
+      "judul": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
+      "tautan": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T09:30:00.000Z",
+      "cuplikan": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
+      "gambar": "https://media.wired.com/photos/6aad6cbb8ffbfab4b483eaae/master/pass/IMG_2220.jpg"
+    },
+    {
+      "id": "07a3129f9557",
+      "judul": "4 Strategies to Battle ‘Techflation’",
+      "tautan": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T09:22:45.000Z",
+      "cuplikan": "With phone and computer prices soaring, it helps to know the true cost of owning electronics so you can bring those numbers down.",
+      "gambar": "https://static01.nyt.com/images/2026/09/19/business/17techfix/17techfix-mediumSquareAt3X.jpg"
+    },
+    {
       "id": "c7a0d86613df",
       "judul": "Bikin Timnas Indonesia Gugur dan Hajar Thailand, Pelatih Singapura Beri Pernyataan Berkelas Jelang FIFA Asean Cup 2026",
       "tautan": "https://www.viva.co.id/bola/1929657-bikin-timnas-indonesia-gugur-dan-hajar-thailand-pelatih-singapura-beri-pernyataan-berkelas-jelang-fifa-asean-cup-2026",
@@ -892,6 +1090,28 @@
       "terbit": "2026-09-19T09:00:14.000Z",
       "cuplikan": "Persija Jakarta vs Java United berlangsung di Stadion Kapten I Wayan Dipta.",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/zDHmRlZX09gt1fBGWcYUTyhej6U=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349657/original/098582900_1789539165-nadeo.jpg"
+    },
+    {
+      "id": "fed7de72616f",
+      "judul": "6 Best VPN Services (2026), Tested and Reviewed",
+      "tautan": "https://www.wired.com/gallery/best-vpn/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T09:00:00.000Z",
+      "cuplikan": "Every VPN says it’s the best, but only some of them are telling the truth.",
+      "gambar": "https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png"
+    },
+    {
+      "id": "b0725c2c8151",
+      "judul": "Join the WIRED World Fair in Miami on November 4",
+      "tautan": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T09:00:00.000Z",
+      "cuplikan": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "gambar": "https://media.wired.com/photos/6aad7180245943a17ceca34d/master/pass/WWF_2026_META__1080x1350_Phase%202.jpg"
     },
     {
       "id": "0def6f31f45e",
@@ -1257,6 +1477,17 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/n4wCF2E3TwH6NJr3dWMeitkS6_8=/0x105:1024x682/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5568926/original/051826900_1777393213-000_A3CJ8KY.jpg"
     },
     {
+      "id": "6f168f31916e",
+      "judul": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+      "tautan": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T06:00:00.000Z",
+      "cuplikan": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
+      "gambar": "https://media.wired.com/photos/6aacf62f3ad4bc5bf850d26b/master/pass/8cd1c1fbdbb04c342381a7b512b285b2.png"
+    },
+    {
       "id": "4502375b06d4",
       "judul": "Prediksi Juventus vs Atalanta: Ada Momentum yang Perlu Dijaga",
       "tautan": "https://www.liputan6.com/bola/read/8295004/prediksi-juventus-vs-atalanta-ada-momentum-yang-perlu-dijaga",
@@ -1299,6 +1530,39 @@
       "terbit": "2026-09-19T05:00:00.000Z",
       "cuplikan": "Indonesia mengirimkan 20 wakil untuk berlaga di cabang olahraga (cabor) bulu tangkis Asian Games 2026, dengan target ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/19/20260919-Wakil-Indonesia-di-bulu-tangkis-Asian-Games-2026_1.jpg"
+    },
+    {
+      "id": "28a412df0787",
+      "judul": "Newegg Promo Codes and Coupons for September 2026",
+      "tautan": "https://www.wired.com/story/newegg-promo-code/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T05:00:00.000Z",
+      "cuplikan": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "gambar": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg"
+    },
+    {
+      "id": "802cc9fd09aa",
+      "judul": "Whoop Promo Codes: 20% Off This September 2026",
+      "tautan": "https://www.wired.com/story/whoop-promo-code/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T05:00:00.000Z",
+      "cuplikan": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "gambar": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg"
+    },
+    {
+      "id": "648a2d34cb34",
+      "judul": "eBay Coupons: 20% Off in September 2026",
+      "tautan": "https://www.wired.com/story/ebay-coupon-code/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T05:00:00.000Z",
+      "cuplikan": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
+      "gambar": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg"
     },
     {
       "id": "74fd49445aeb",
@@ -1444,6 +1708,17 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/17/Nova.jpg"
     },
     {
+      "id": "c0ff045573f4",
+      "judul": "Flock Offers Employees Buyouts as Customers Flee",
+      "tautan": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-19T02:22:54.000Z",
+      "cuplikan": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+      "gambar": "https://media.wired.com/photos/6aade6510dbdc43ec89970ee/master/pass/2265184841"
+    },
+    {
       "id": "4991d6126b9b",
       "judul": "Huawei MatePad Air 2026 Boyong Fitur AI untuk Dongkrak Efisiensi Kerja",
       "tautan": "https://www.liputan6.com/tekno/read/8294612/huawei-matepad-air-2026-boyong-fitur-ai-untuk-dongkrak-efisiensi-kerja",
@@ -1521,6 +1796,39 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9d7d5a9db0b-bek-sassuolo-jay-idzes_gemini_665_374.jpg"
     },
     {
+      "id": "3bbfaabc374e",
+      "judul": "Tech Now",
+      "tautan": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T01:00:00.000Z",
+      "cuplikan": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+      "gambar": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg"
+    },
+    {
+      "id": "a193c15e98fb",
+      "judul": "India forces caller-ID apps to feed spam reports to telcos",
+      "tautan": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T01:00:00.000Z",
+      "cuplikan": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "gambar": ""
+    },
+    {
+      "id": "b27fb7cf6534",
+      "judul": "Google says its Gemini AI model hacked three other companies",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T00:53:20.000Z",
+      "cuplikan": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in…",
+      "gambar": "https://i.guim.co.uk/img/media/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/master/3586.jpg?width=140&quality=85&auto=format&fit=max&s=5f60df9c0852bbd10181586d7c6d70d8"
+    },
+    {
       "id": "fe0cf723db3f",
       "judul": "Liga 1: Madura United menang 2-1 lawan PSIM",
       "tautan": "https://www.antaranews.com/foto/5748539/liga-1-madura-united-menang-2-1-lawan-psim",
@@ -1530,6 +1838,39 @@
       "terbit": "2026-09-19T00:35:26.000Z",
       "cuplikan": "Pesepak bola Madura United Gali Freitas berselebrasi usai mencetak gol melawan PSIM pada pertandingan BRI Super League ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/19/madura-united-menang-atas-psim-18092026-ma-1.jpg"
+    },
+    {
+      "id": "a0b1f2bbcc04",
+      "judul": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+      "tautan": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T00:31:39.000Z",
+      "cuplikan": "A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.",
+      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-google-zkmt/18biz-google-zkmt-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "68b690d60109",
+      "judul": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "tautan": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-19T00:23:02.000Z",
+      "cuplikan": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
+      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-anthropic-ipo-go-bzlw/18biz-anthropic-ipo-go-bzlw-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "f0cf279d8dbb",
+      "judul": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "tautan": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-19T00:12:07.000Z",
+      "cuplikan": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "gambar": ""
     },
     {
       "id": "2f88c6251469",
@@ -1576,6 +1917,17 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/zSBD-QekKNPPajIo3EwwqtOWh5I=/0x124:1200x800/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5502257/original/039710500_1770975132-tavares_b.jpg"
     },
     {
+      "id": "23d6e2a4a2bf",
+      "judul": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "tautan": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-18T23:25:01.000Z",
+      "cuplikan": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "gambar": ""
+    },
+    {
       "id": "e96f36f6ebfc",
       "judul": "Penjualan Samsung Galaxy Z Fold 8 Melonjak Usai iPhone Duo Diperkenalkan",
       "tautan": "https://www.liputan6.com/tekno/read/8294331/penjualan-samsung-galaxy-z-fold-8-melonjak-usai-iphone-duo-diperkenalkan",
@@ -1585,6 +1937,17 @@
       "terbit": "2026-09-18T23:23:18.000Z",
       "cuplikan": "Penjualan Galaxy Z Fold8 disebut meningkat setelah Apple memperkenalkan iPhone Duo. Apa alasan konsumen memilih HP lipat Samsung?",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/jq8CIj0ty9jT6yVlWz40pU05N7I=/0x0:4160x3120/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9311623/original/010434600_1785413082-Galaxy_Z_Fold8_1.jpeg"
+    },
+    {
+      "id": "bdbf549155f5",
+      "judul": "Would Australians support a smart glasses ban?",
+      "tautan": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-18T23:15:10.000Z",
+      "cuplikan": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "id": "99fcfc4405b5",
@@ -1664,6 +2027,50 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/19/IMG_20260919_020404.jpg"
     },
     {
+      "id": "6b844761c122",
+      "judul": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "tautan": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-18T20:26:33.000Z",
+      "cuplikan": "But the military's overall use of AI seems to be accelerating.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg"
+    },
+    {
+      "id": "570f3ae65c13",
+      "judul": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
+      "tautan": "https://www.wired.com/review/apple-watch-ultra-4/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-18T19:36:48.000Z",
+      "cuplikan": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
+      "gambar": "https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250"
+    },
+    {
+      "id": "0f3cb72b85c7",
+      "judul": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "tautan": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-18T19:21:09.000Z",
+      "cuplikan": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "gambar": "https://media.wired.com/photos/6aab266a1bcc9d144a552a68/master/pass/How-AI-Slow-Down-Would-Happen-Business-AB12706.jpg"
+    },
+    {
+      "id": "8a86701f25e4",
+      "judul": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "tautan": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-18T19:20:50.000Z",
+      "cuplikan": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg"
+    },
+    {
       "id": "684b971cc2b7",
       "judul": "Bukan Marc Marquez, Valentino Rossi Doakan Jorge Martin Juara MotoGP 2026?",
       "tautan": "https://sports.okezone.com/read/2026/09/18/38/3242798/bukan-marc-marquez-valentino-rossi-doakan-jorge-martin-juara-motogp-2026",
@@ -1673,6 +2080,17 @@
       "terbit": "2026-09-18T19:05:24.000Z",
       "cuplikan": "Valentino Rossi disinyalir lebih menjagokan Jorge Martin ketimbang Marc Marquez untuk juara MotoGP 2026.",
       "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242798/jorge_martin_diduga_didukung_valentino_rossi_juara_motogp_2026_motogp_dan_jorgemartin89-xYd4_large.jpg"
+    },
+    {
+      "id": "4ab5a3583f10",
+      "judul": "Why Europe has been absent from the great AI safety debate",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-18T18:37:36.000Z",
+      "cuplikan": "Though Europe has measures that address how consumers might encounter AI, technology will impact them if the worst scenarios bear Europe’s dilemma over AI was rendered in stark terms this week. The head of the continent’s central bank…",
+      "gambar": "https://i.guim.co.uk/img/media/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=45a993c1b91cd2ca2442927d456c2750"
     },
     {
       "id": "b0dc6c833b3e",
@@ -1730,6 +2148,17 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/19/43612e9c-0575-4f6d-9726-1475842e5690.jpeg"
     },
     {
+      "id": "20fc0c317b9e",
+      "judul": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+      "tautan": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-18T17:57:41.000Z",
+      "cuplikan": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg"
+    },
+    {
       "id": "23fdcc677fd8",
       "judul": "Dion tegaskan PSS Sleman bidik kemenangan perdana",
       "tautan": "https://www.antaranews.com/berita/5748429/dion-tegaskan-pss-sleman-bidik-kemenangan-perdana",
@@ -1739,6 +2168,17 @@
       "terbit": "2026-09-18T17:56:00.000Z",
       "cuplikan": "Gelandang PSS Sleman Dominikus Dion menegaskan tim asuhannya membidik kemenangan perdana ketika menghadapi Dewa United ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/08/08/pss-sleman-luncurkan-tiga-jersi-baru-2837307.jpg"
+    },
+    {
+      "id": "d781200a2b8d",
+      "judul": "Finding the cells that put our brain to sleep",
+      "tautan": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-18T17:49:50.000Z",
+      "cuplikan": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-623682073-1152x648.jpg"
     },
     {
       "id": "298a0aa5e38d",
@@ -1774,6 +2214,28 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/12/persija-jakarta-kalahkan-persib-bandung-2862213.jpg"
     },
     {
+      "id": "26bd35d9b365",
+      "judul": "US government website used Chinese model the FBI called \"malicious\"",
+      "tautan": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-18T17:28:50.000Z",
+      "cuplikan": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg"
+    },
+    {
+      "id": "050ae08acbe6",
+      "judul": "California Governor Gavin Newsom Issues A.I. Safety Executive Order",
+      "tautan": "https://www.nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-18T17:27:15.000Z",
+      "cuplikan": "Gov. Gavin Newsom ordered the state to develop recommendations on safety measures, including requiring companies to build a “kill switch,” amid mounting concerns.",
+      "gambar": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-AI-safety-california-qpbt/18biz-AI-safety-california-qpbt-mediumSquareAt3X.jpg"
+    },
+    {
       "id": "ea716245eaa0",
       "judul": "Java United ingin cetak hasil positif kontra Persija Jakarta",
       "tautan": "https://www.antaranews.com/berita/5748411/java-united-ingin-cetak-hasil-positif-kontra-persija-jakarta",
@@ -1794,6 +2256,17 @@
       "terbit": "2026-09-18T17:05:38.000Z",
       "cuplikan": "Pembalap Indonesia Veda Ega Pratama siap menggila di seri ke-15 Moto3 2026 yang digelar di Sirkuit Red Bull Ring, Austria.",
       "gambar": "https://img.okezone.com/okz/400/content/2026/09/18/38/3242776/veda_ega_pratama_berpeluang_naik_podium_di_moto3_austria_2026_veda54-m9p6_large.jpg"
+    },
+    {
+      "id": "790d75832a6f",
+      "judul": "Sensitive UK police data vulnerable to ‘compromise’ by US government and foreign actors",
+      "tautan": "https://www.theguardian.com/uk-news/2026/sep/18/sensitive-uk-police-data-vulnerable-to-compromise-by-us-government-and-foreign-actors",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-18T17:00:23.000Z",
+      "cuplikan": "Exclusive: Official UK security assessment found Microsoft cloud platform storing files was at potential risk from hostile hackers Vast troves of highly sensitive police data are lying on Microsoft cloud platforms which an oﬃcial UK…",
+      "gambar": "https://i.guim.co.uk/img/media/cac874b0d63d48e39cf43ea5a61612e0817abaf2/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=c490e0edab20299627db9b3dc5c42f39"
     },
     {
       "id": "1e34ae15d84e",

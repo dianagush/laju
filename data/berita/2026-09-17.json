@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-17",
-  "diperbarui": "2026-09-21T02:54:45.814Z",
+  "diperbarui": "2026-09-21T03:21:18.847Z",
   "berita": [
     {
       "id": "58cff6737e21",
@@ -146,6 +146,17 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aab63e43e8eb-pelatih-fc-seoul-kim-dong-ki_gemini_665_374.jpg"
     },
     {
+      "id": "0054903d9fb2",
+      "judul": "On ‘Cupertino,’ Creators of the ‘The Good Wife’ Go to Silicon Valley",
+      "tautan": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T15:34:59.000Z",
+      "cuplikan": "The prolific producers Michelle and Robert King target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
+      "gambar": "https://static01.nyt.com/images/2026/09/20/multimedia/20cul-new-cupertino-01-kmhj/20cul-new-cupertino-01-kmhj-mediumSquareAt3X.jpg"
+    },
+    {
       "id": "bf069a00850f",
       "judul": "Bandara Nagoya semarak sambut kontingen Asian Games 2026",
       "tautan": "https://www.antaranews.com/berita/5746456/bandara-nagoya-semarak-sambut-kontingen-asian-games-2026",
@@ -223,6 +234,28 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/EjZlVKIAcQ8miDw3GczqF4ZHwOM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9345796/original/078633700_1789093539-000_C7Y643E.jpg"
     },
     {
+      "id": "6ccb12f33843",
+      "judul": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
+      "tautan": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T14:57:37.000Z",
+      "cuplikan": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
+      "gambar": ""
+    },
+    {
+      "id": "4f9d9fe3f679",
+      "judul": "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T14:43:34.000Z",
+      "cuplikan": "Facebook told it was wrong in leaving up AI-generated videos of a Labour councillor and Muslim campaigner, amid calls to curb fakes Meta’s “supreme court” has ordered the tech company to take down deepfake videos of a UK politician and a…",
+      "gambar": "https://i.guim.co.uk/img/media/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=04523bbe91eb53df6183ee56df64209f"
+    },
+    {
       "id": "6141033fee55",
       "judul": "Debutan Yoga Ardika Putra buka jalan teqball Indonesia di Asian Games",
       "tautan": "https://www.antaranews.com/berita/5746357/debutan-yoga-ardika-putra-buka-jalan-teqball-indonesia-di-asian-games",
@@ -232,6 +265,17 @@
       "terbit": "2026-09-17T14:37:50.000Z",
       "cuplikan": "Atlet teqball nasional Yoga Ardika Putra, tampil gemilang sebagai debutan pada ajang Asian Games Aichi-Nagoya 2026, ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/17/1000069385.jpg"
+    },
+    {
+      "id": "7debb54c0d42",
+      "judul": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "tautan": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T14:33:12.000Z",
+      "cuplikan": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "fd44d4b2728e",
@@ -353,6 +397,17 @@
       "terbit": "2026-09-17T13:34:36.000Z",
       "cuplikan": "Apparel Timnas Indonesia, Kelme merilis jersey ketiga untuk skuad Garuda, Kamis (17/9).",
       "gambar": "https://akcdn.detik.net.id/visual/2026/09/17/thumbnail-video-1789647094691_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "eb0e6547b6b9",
+      "judul": "OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T13:33:57.000Z",
+      "cuplikan": "Model adopting ‘jailbreak-like instructions’ among six more cases as firm reveals framework for tracking AI misalignment OpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned that…",
+      "gambar": "https://i.guim.co.uk/img/media/a43244445ebccb84b7cc3cc445d8312f49385aaf/471_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=a25a50bddde7016dc4299558d8cbecd9"
     },
     {
       "id": "9e78bdba51fc",
@@ -584,6 +639,17 @@
       "terbit": "2026-09-17T12:13:46.000Z",
       "cuplikan": "Samsung menghadirkan layanan penjualan ponsel rekondisi dengan harga murah. Berapa harganya?",
       "gambar": "https://cdn1-production-images-kly.akamaized.net/6y8HcPShKMswocyNHCxvu9IF7Sk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9316945/original/063876700_1785997467-evolusi_foldable.jpg"
+    },
+    {
+      "id": "ff37df75e2ac",
+      "judul": "The Download: mice with part-human brains and climate tech innovators",
+      "tautan": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "sumber": "MIT Technology Review",
+      "kanal": "mit-tr",
+      "lajur": "global",
+      "terbit": "2026-09-17T12:10:00.000Z",
+      "cuplikan": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it…",
+      "gambar": ""
     },
     {
       "id": "d16ad1ad290c",
@@ -949,6 +1015,17 @@
       "gambar": "https://akcdn.detik.net.id/visual/2026/09/17/kapal-costa-serena-1789634464115_169.jpeg?w=360&q=90"
     },
     {
+      "id": "b525b0b8e06d",
+      "judul": "Meet the innovators under 35 shaping climate tech",
+      "tautan": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "sumber": "MIT Technology Review",
+      "kanal": "mit-tr",
+      "lajur": "global",
+      "terbit": "2026-09-17T10:00:00.000Z",
+      "cuplikan": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months…",
+      "gambar": ""
+    },
+    {
       "id": "ba19c7f2e971",
       "judul": "Petinju Daud Yordan kembali naik ring di Pontianak pada Oktober 2026",
       "tautan": "https://www.antaranews.com/berita/5745707/petinju-daud-yordan-kembali-naik-ring-di-pontianak-pada-oktober-2026",
@@ -1048,6 +1125,17 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/JuuXYIoRAZdCsAUUizbu-e_95Es=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9351024/original/097273900_1789637382-WhatsApp_Image_2026-09-17_at_14.55.01__1_.jpeg"
     },
     {
+      "id": "3d324f6d2385",
+      "judul": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "tautan": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T09:18:57.000Z",
+      "cuplikan": "Existential fears about AI have once again reared their head - here's what you need to know.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg"
+    },
+    {
       "id": "ee130f27110f",
       "judul": "Presiden Malaysia Football League Ab Ghani Terpilih Jadi Ketua FAM",
       "tautan": "https://www.cnnindonesia.com/olahraga/20260917161020-142-1405083/presiden-malaysia-football-league-ab-ghani-terpilih-jadi-ketua-fam",
@@ -1136,6 +1224,17 @@
       "gambar": "https://img.okezone.com/okz/400/content/2026/09/17/38/3242650/simak_jadwal_dan_link_live_streaming_motogp_austria_2026_di_vision-2uv9_large.jpeg"
     },
     {
+      "id": "373046cb1f1c",
+      "judul": "Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T09:00:44.000Z",
+      "cuplikan": "Universities need to protect their position in education so that students have an independent pathway to employment AI companies like OpenAI are insinuating themselves into the pathway from education to work. Soon they may claim it…",
+      "gambar": "https://i.guim.co.uk/img/media/c5dcbdbfb717d62cfb53c3ff0c7e202eb985e3a2/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=32e44e8cebf3c0105f90d6e185798821"
+    },
+    {
       "id": "14fba2c33612",
       "judul": "Manchester United dan Tottenham Berebut Striker yang Lagi Gacor di Bundesliga",
       "tautan": "https://www.liputan6.com/bola/read/8293500/manchester-united-dan-tottenham-berebut-striker-yang-lagi-gacor-di-bundesliga",
@@ -1145,6 +1244,17 @@
       "terbit": "2026-09-17T09:00:43.000Z",
       "cuplikan": "Manchester United mencari striker baru setelah terpuruk di awal musim 2026/2027.",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/2pCMi5q97_xGw-cMpqpErrhkuxk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5612256/original/077806000_1778195195-000_B2893QP.jpg"
+    },
+    {
+      "id": "baddb9d6a57b",
+      "judul": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
+      "tautan": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T09:00:08.000Z",
+      "cuplikan": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.",
+      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/AMODEI-WORLD-sub-vfbj/AMODEI-WORLD-sub-vfbj-mediumSquareAt3X.jpg"
     },
     {
       "id": "40e90b9c3353",
@@ -1244,6 +1354,17 @@
       "terbit": "2026-09-17T08:23:19.000Z",
       "cuplikan": "Karim Adeyemi tampil impresif saat Barcelona menang 7-2 atas Racing Santander",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/E7qPqqHqmpYTI1_mQGXo9g1xdaI=/0x402:6169x3879/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9344750/original/053319800_1788995548-Barcelona_s_Karim_Adeyemi.jpg"
+    },
+    {
+      "id": "9e0edb8207ea",
+      "judul": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "tautan": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T08:22:12.000Z",
+      "cuplikan": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "id": "8370e36c8b04",
@@ -2434,6 +2555,17 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/17/6aab30329e086-bek-manchester-united-ayden-heaven_gemini_665_374.jpg"
     },
     {
+      "id": "863d7da32f1e",
+      "judul": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
+      "tautan": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-17T00:12:24.000Z",
+      "cuplikan": "The artificial intelligence company also released a framework for reporting when its systems go wrong.",
+      "gambar": "https://static01.nyt.com/images/2026/09/16/multimedia/16biz-openai-mlhb/16biz-openai-mlhb-mediumSquareAt3X.jpg"
+    },
+    {
       "id": "95b5d2902eb6",
       "judul": "Janice Tjen Tahun Ini: Belum Maksimal di Tunggal, Ada Gelar di Ganda",
       "tautan": "https://www.cnnindonesia.com/olahraga/20260916141054-170-1404588/janice-tjen-tahun-ini-belum-maksimal-di-tunggal-ada-gelar-di-ganda",
@@ -2454,6 +2586,28 @@
       "terbit": "2026-09-17T00:00:00.000Z",
       "cuplikan": "Teja Paku Alam catat rating mentereng 8,2 saat Persib Bandung gilas FC Seoul 1-0 di ACL 2. Sang kiper bikin 5 penyelamatan penting di dalam kotak penalti.",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/10/69afce7c1187d-kiper-persib-bandung-teja-paku-alam_gemini_665_374.jpg"
+    },
+    {
+      "id": "5dcb46b7629c",
+      "judul": "Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly",
+      "tautan": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-16T23:50:26.000Z",
+      "cuplikan": "The measures, which fall short of a breakup demanded by the government, effectively ensure that the tech titan’s business will continue largely unscathed.",
+      "gambar": "https://static01.nyt.com/images/2026/09/04/multimedia/00biz-google-adtech-HFO-lqpb/00biz-google-adtech-HFO-lqpb-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": "39971f66ad72",
+      "judul": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "tautan": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-16T23:41:57.000Z",
+      "cuplikan": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/1b1407c0-b263-11f1-a430-4d16ee157c41.png"
     },
     {
       "id": "a482fe19844f",
@@ -2498,6 +2652,17 @@
       "terbit": "2026-09-16T23:25:08.000Z",
       "cuplikan": "Pelatih FC Seoul, Kim Ki Dong, hanya bisa menyesal setelah keputusan memainkan pemain-pemain muda melawan Persib berujung kekalahan.",
       "gambar": "https://akcdn.detik.net.id/visual/2026/09/16/persib-vs-fc-seoul-1789555264038_169.jpeg?w=360&q=90"
+    },
+    {
+      "id": "fbd61ad887b0",
+      "judul": "Would you buy branded clothing from your favourite tech firm?",
+      "tautan": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-16T23:18:47.000Z",
+      "cuplikan": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg"
     },
     {
       "id": "37a7bdc23622",
@@ -2665,6 +2830,17 @@
       "gambar": "https://img.okezone.com/okz/400/content/2026/09/16/36/3242408/timnas_basket_putra_indonesia-az1S_large.jpg"
     },
     {
+      "id": "57968b4f99f5",
+      "judul": "Merriam-Webster Dictionary Is Wordsmaxxing With 1,400 New Definitions",
+      "tautan": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-16T20:54:18.000Z",
+      "cuplikan": "Now you have no excuse for not knowing the meaning of “cuffing season,” “shishito” or “glow-up.”",
+      "gambar": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-dictionary-qvgt/16xp-dictionary-qvgt-mediumSquareAt3X.jpg"
+    },
+    {
       "id": "963266823fde",
       "judul": "Tolic Sarkastik usai Persib Hajar FC Seoul: Mau Menang Malah Kalah",
       "tautan": "https://www.cnnindonesia.com/olahraga/20260916232926-142-1404808/tolic-sarkastik-usai-persib-hajar-fc-seoul-mau-menang-malah-kalah",
@@ -2784,6 +2960,17 @@
       "terbit": "2026-09-16T17:30:00.000Z",
       "cuplikan": "Pengamat Bung Harpa soroti kondisi Jay Idzes jelang FIFA ASEAN Cup 2026. Bek Sassuolo itu ditarik keluar saat lawan Juventus dan bikin Timnas Indonesia cemas.",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/02/6a1e77c1b09f4-kapten-timnas-indonesia-jay-idzes_gemini_665_374.jpg"
+    },
+    {
+      "id": "53edf25a035b",
+      "judul": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+      "tautan": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-16T17:22:07.000Z",
+      "cuplikan": "On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
+      "gambar": "https://static01.nyt.com/images/2026/09/15/multimedia/15zuckerberg-pbvz/15zuckerberg-pbvz-mediumSquareAt3X.jpg"
     },
     {
       "id": "f0049eb1edef",
