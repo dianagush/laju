@@ -1,7 +1,49 @@
 {
   "tanggal": "2026-09-21",
-  "diperbarui": "2026-09-21T04:00:47.268Z",
+  "diperbarui": "2026-09-21T04:04:15.895Z",
   "berita": [
+    {
+      "id": "545c34fd23f8",
+      "judul": "Top 3 Tekno: Gemini Bobol Sistem 3 Perusahaan Jadi Sorotan",
+      "tautan": "https://www.liputan6.com/tekno/read/8295791/top-3-tekno-gemini-bobol-sistem-3-perusahaan-jadi-sorotan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-21T04:00:40.000Z",
+      "cuplikan": "Model AI milik Google, Gemini, berhasi menembus sistem keamanan tiga perusahaan lain.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/LLh5dCJoufn1EgOXkV2Hk0TuQI0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4677184/original/009841400_1701920967-Screenshot_2023-12-07_103353.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "f1a7b2badd29",
+      "judul": "Link Live Streaming Voli Asian Games 2026: Timnas Putri Indonesia vs Vietnam",
+      "tautan": "https://www.liputan6.com/bola/read/8295639/link-live-streaming-voli-asian-games-2026-timnas-putri-indonesia-vs-vietnam",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T04:00:17.000Z",
+      "cuplikan": "Laga klasifikasi Asian Games 2026 timnas voli putri Indonesia vs Vietnam bisa ditonton lewat Vidio.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/QENu8Y2idllwrmac5xnaT2-hR60=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9351283/original/031726000_1789651919-20260917-_NOC_-_AG26_-_MRP_-_Volley_Ball_Women_Indonesia_vs_Nepal___WIN_3-0_____Okazaki_Chuo_Sogo_Park_Gymnasium_Park_Arena_Komaki-19.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "19934a8c2e98",
+      "judul": "Marc Klok Ungkap Beratnya Perjalanan Persib, Berujung Kemenangan di Jepara",
+      "tautan": "https://www.viva.co.id/bola/1929937-marc-klok-ungkap-beratnya-perjalanan-persib-berujung-kemenangan-di-jepara",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T04:00:00.000Z",
+      "cuplikan": "Persib Bandung harus melewati perjuangan ekstra sebelum membawa pulang tiga poin dari markas Persijap Jepara. Setelah menempuh perjalanan sekitar 13 jam dari Korea Selata",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/02/69f5af36a85a3-kapten-persib-bandung-marc-klok_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
     {
       "id": "632ba08a55ac",
       "judul": "Seraf Naro Bikin Bangga! Persembahkan Medali Pertama Merah Putih di Asian Games 2026",
