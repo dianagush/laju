@@ -37,6 +37,32 @@ export function memuatKata(judul, daftarKata = []) {
   return daftarKata.some((k) => kecil.includes(` ${k.toLowerCase()} `));
 }
 
+// Berapa banyak kata/frasa dari daftar yang muncul (utuh) di teks.
+function hitungKata(teks, daftarKata) {
+  const kecil = ` ${teks.toLowerCase().replace(/[^\p{L}\p{N}-]+/gu, ' ')} `;
+  return daftarKata.filter((k) => kecil.includes(` ${k.toLowerCase().replace(/[^\p{L}\p{N}-]+/gu, ' ').trim()} `)).length;
+}
+
+// Kategori sebuah cerita (laju.config.mjs bagian `kategori`): skor tiap kategori dari judul
+// (bobot 3), label media (2), dan cuplikan (1). Seri → kategori yang lebih atas. Tidak cocok → 'lainnya'.
+export function kategoriCerita(cerita, daftarKategori = []) {
+  const semua = [cerita.utama, ...cerita.lain];
+  const label = [...new Set(semua.flatMap((b) => b.kategoriSumber ?? []))];
+  let terbaik = 'lainnya';
+  let skorTerbaik = 0;
+  for (const k of daftarKategori) {
+    const skor =
+      2 * label.reduce((n, l) => n + hitungKata(l, k.kata), 0) +
+      3 * hitungKata(cerita.utama.judul, k.kata) +
+      hitungKata(cerita.utama.cuplikan ?? '', k.kata);
+    if (skor > skorTerbaik) {
+      skorTerbaik = skor;
+      terbaik = k.id;
+    }
+  }
+  return terbaik;
+}
+
 // Artikel lama yang diterbitkan ulang: tanggal di URL (…/20260820104741-…) jauh lebih tua dari tanggal terbit.
 export function terbitUlang(berita, batasHari) {
   const m = berita.tautan.match(/\/(20\d{2})(\d{2})(\d{2})\d{6}-/);

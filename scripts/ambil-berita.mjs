@@ -56,6 +56,8 @@ for (const { sumber: s, item, galat } of hasilPerSumber) {
       terbit: it.terbit,
       cuplikan: it.cuplikan,
       gambar: it.gambar,
+      // Label kategori dari media (mis. "AI", "Gear / Reviews"); dipakai untuk membagi kategori.
+      ...(it.kategori?.length ? { kategoriSumber: it.kategori } : {}),
     };
     const hari = tanggalWIB(it.terbit);
     if (!perHari.has(hari)) perHari.set(hari, []);

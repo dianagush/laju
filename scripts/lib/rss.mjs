@@ -54,6 +54,17 @@ function cariGambar(potongan, deskripsiMentah) {
   return img ? img[1] : '';
 }
 
+// Label kategori dari media: <category>AI</category> (RSS) atau <category term="AI"/> (Atom).
+function kategoriSumber(potongan) {
+  const hasil = [];
+  for (const m of potongan.matchAll(/<category\b([^>]*?)(?:\/>|>([\s\S]*?)<\/category>)/gi)) {
+    const term = m[1].match(/term\s*=\s*"([^"]*)"/i)?.[1];
+    const teks = teksPolos(buangCdata(term ?? m[2] ?? ''));
+    if (teks && !hasil.includes(teks)) hasil.push(teks);
+  }
+  return hasil.slice(0, 10);
+}
+
 export function bacaFeed(xml) {
   const adalahAtom = /<feed[\s>]/i.test(xml) && !/<rss[\s>]/i.test(xml);
   const pola = adalahAtom ? /<entry[\s>][\s\S]*?<\/entry>/gi : /<item[\s>][\s\S]*?<\/item>/gi;
@@ -75,6 +86,7 @@ export function bacaFeed(xml) {
       // Buang dateline di awal cuplikan, mis. "REPUBLIKA.CO.ID, JAKARTA -- ".
       cuplikan: potong(teksPolos(deskripsiMentah).replace(/^[A-Z0-9.,()' ]{3,60}\s(?:--|—|–|-)\s+/, ''), 240),
       gambar: cariGambar(potongan, deskripsiMentah),
+      kategori: kategoriSumber(potongan),
     });
   }
   return hasil;

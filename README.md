@@ -99,6 +99,14 @@ data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
 .github/workflows/       jadwal otomatis GitHub Actions
 ```
 
+## Kategori berita
+
+Halaman **Global** punya tombol kategori: AI, Keamanan & Privasi, Kebijakan & Hukum, Kendaraan & Transportasi, Sains & Antariksa, Game & Hiburan, Bisnis & Startup, Gawai & Ulasan, dan Lainnya. Setiap berita masuk satu kategori, ditentukan dari kata di judul (bobot 3), label kategori yang diberikan media di RSS-nya (bobot 2, mis. "AI" dari The Guardian atau "Gear / Reviews" dari WIRED), dan cuplikan (bobot 1).
+
+- Daftar kategori dan kata kuncinya ada di `laju.config.mjs` bagian `kategori`. Urutan menentukan pemenang bila skornya sama.
+- Berita yang salah kategori: tambahkan kata khasnya ke kategori yang benar. Berita di "Lainnya": tambahkan kata yang sering muncul di judulnya.
+- Lajur lain juga bisa diberi kategori dengan menambahkan daftar untuk lajur itu (mis. `kategori.olahraga`).
+
 ## Skor sepak bola
 
 Skor **matchday terakhir** 5 liga teratas Eropa (Liga Inggris, LaLiga, Serie A, Bundesliga, Ligue 1) tampil di beranda, di halaman Olahraga, dan kelimanya sekaligus di halaman **Skor**. Bila matchday itu belum selesai, laga yang belum dimainkan ikut tampil dengan jam mulainya. Datanya diambil `scripts/ambil-skor.mjs` dari papan skor ESPN pada jadwal pembaruan yang sama dan disimpan di `data/skor.json`.

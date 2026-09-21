@@ -26,10 +26,11 @@
   });
   perbaruiTombolTema();
 
-  // ---- Saring daftar "Terbaru" per lajur ----
+  // ---- Saring daftar berita: per lajur ("Terbaru") atau per kategori (data-saring-kunci) ----
   document.querySelectorAll('[data-saring]').forEach(function (grup) {
     var daftar = document.getElementById(grup.getAttribute('data-saring'));
     var hitung = document.querySelector('[data-hitung="' + grup.getAttribute('data-saring') + '"]');
+    var kunci = 'data-' + (grup.getAttribute('data-saring-kunci') || 'lajur');
     if (!daftar) return;
     grup.querySelectorAll('button').forEach(function (tombol) {
       tombol.addEventListener('click', function () {
@@ -39,9 +40,13 @@
         daftar.querySelectorAll('[data-lajur]').forEach(function (baris) {
           var cocok = pilih === 'semua'
             ? baris.getAttribute('data-semua') !== 'tidak'
-            : baris.getAttribute('data-lajur') === pilih;
+            : baris.getAttribute(kunci) === pilih;
           baris.hidden = !cocok;
           if (cocok) tampil += 1;
+        });
+        // Judul hari yang tidak punya berita tersisa ikut disembunyikan.
+        daftar.querySelectorAll('[data-kelompok-hari]').forEach(function (kelompok) {
+          kelompok.hidden = !kelompok.querySelector('[data-lajur]:not([hidden])');
         });
         if (hitung) hitung.textContent = tampil + ' berita';
       });

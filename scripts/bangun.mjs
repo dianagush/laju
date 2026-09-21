@@ -4,8 +4,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import config from '../laju.config.mjs';
-import { AKAR, BERKAS_STATUS, FOLDER_BERITA, FOLDER_RINGKASAN, bacaJson, beritaHari, daftarTanggal, ringkasanHari } from './lib/data.mjs';
-import { kelompokkan, topikHangat, urutPenting } from './lib/olah.mjs';
+import { AKAR, BERKAS_STATUS, FOLDER_BERITA, FOLDER_RINGKASAN, bacaJson, beritaHari as bacaBeritaHari, daftarTanggal, ringkasanHari } from './lib/data.mjs';
+import { kategoriCerita, kelompokkan, memuatKata, topikHangat, urutPenting } from './lib/olah.mjs';
 import { hariPendek, labelWaktu, pukul, tanggalPanjang, tanggalRingkas, tanggalWIB } from './lib/waktu.mjs';
 import { barisCerita, blokSkor, esc, halaman, halamanSkorIsi, itemTumpuk, kartuUtama, kepalaLajur, tautanSumberPoin } from './lib/tampilan.mjs';
 
@@ -25,6 +25,11 @@ function tulis(rel, isi) {
 }
 
 // ---------- Data ----------
+
+// Saringan di laju.config.mjs juga diterapkan saat membangun, jadi kata saringan baru
+// langsung berlaku untuk berita yang sudah tersimpan.
+const lolosSaring = (b) => !(memuatKata(b.judul, config.saring?.[b.lajur] ?? []) && !memuatKata(b.judul, config.tetapSimpan?.[b.lajur] ?? []));
+const beritaHari = (tgl) => bacaBeritaHari(tgl).filter(lolosSaring);
 
 const tanggalBerita = daftarTanggal(FOLDER_BERITA);
 if (!tanggalBerita.length) {
@@ -175,15 +180,44 @@ for (const l of SEMUA_LAJUR) {
   const [utama] = kelompokLajur[l];
   const lj = config.lajur[l];
   const namaMedia = [...new Set(config.sumber.filter((s) => s.lajur === l).map((s) => s.nama))];
+  // Kategori (laju.config.mjs bagian `kategori`), bila lajur ini punya.
+  const daftarKategori = config.kategori?.[l] ?? null;
+  const namaKategori = daftarKategori ? { ...Object.fromEntries(daftarKategori.map((k) => [k.id, k.nama])), lainnya: 'Lainnya' } : {};
+  const kategoriDari = (k) => {
+    const id = kategoriCerita(k, daftarKategori);
+    return { id, nama: namaKategori[id] };
+  };
+  const hitungKategori = {};
+  let jumlahDaftar = 0;
   const perHari = tigaHari
     .map((tgl) => {
       const daftar = ceritaPadaHari(tgl, l).filter((k) => k !== utama);
       if (!daftar.length) return '';
       const judulHari = tgl === hariIni ? `Hari ini · ${tanggalPanjang(tgl)}` : tanggalPanjang(tgl);
-      return `<h2 class="label judul-hari">${esc(judulHari)}</h2>
-<div>${daftar.map((k) => barisCerita(k, ctx)).join('\n')}</div>`;
+      const baris = daftar.map((k) => {
+        const kategori = daftarKategori ? kategoriDari(k) : null;
+        if (kategori) hitungKategori[kategori.id] = (hitungKategori[kategori.id] ?? 0) + 1;
+        jumlahDaftar += 1;
+        return barisCerita(k, ctx, { kategori });
+      });
+      return `<section class="kelompok-hari" data-kelompok-hari>
+<h2 class="label judul-hari">${esc(judulHari)}</h2>
+<div>${baris.join('\n')}</div>
+</section>`;
     })
     .join('\n');
+  // Tombol kategori, urut sesuai pengaturan; kategori tanpa berita tidak ditampilkan.
+  const tombolKategori = daftarKategori
+    ? `<div class="saring-lajur">
+<div class="saring saring-kategori" role="group" aria-label="Saring kategori" data-saring="daftar-lajur" data-saring-kunci="kategori">
+<button type="button" value="semua" aria-pressed="true">Semua <span class="jumlah">${jumlahDaftar}</span></button>${[...daftarKategori.map((k) => k.id), 'lainnya']
+        .filter((id) => hitungKategori[id])
+        .map((id) => `<button type="button" value="${id}" aria-pressed="false">${esc(namaKategori[id])} <span class="jumlah">${hitungKategori[id]}</span></button>`)
+        .join('')}
+</div>
+<span class="data" data-hitung="daftar-lajur">${jumlahDaftar} berita</span>
+</div>`
+    : '';
   const topikLajur = topik.filter((t) => t.lajur === l);
   const pengantar = lj.terpisah
     ? `<p class="dek">Berita terbaru dari ${esc(namaMedia.slice(0, -1).join(', '))}, dan ${esc(namaMedia.at(-1))}. Judul dan cuplikan ditampilkan dalam bahasa aslinya${lj.bahasa === 'en' ? ' (Inggris)' : ''}; berita yang sama dari beberapa media digabung menjadi satu.</p>`
@@ -200,8 +234,9 @@ ${l === 'olahraga' && skor ? blokSkor(skor, ctx) : ''}
 <section class="lajur l-${l}">
 ${kepalaLajur(l, ctx, { tingkat: 'h1', tautan: false })}
 ${pengantar}
-${utama ? kartuUtama(utama, ctx) : ''}
-<div>${perHari}</div>
+${utama ? kartuUtama(utama, ctx, daftarKategori ? { label: kategoriDari(utama).nama } : {}) : ''}
+${tombolKategori}
+<div id="daftar-lajur">${perHari}</div>
 </section>
 <aside class="samping">
 ${topikLajur.length ? `<section class="kotak"><h2>Topik hangat</h2><div class="awan-topik">${topikLajur.map((t) => `<a class="l-${t.lajur}" href="cari.html?q=${encodeURIComponent(t.teks)}">${esc(t.teks)}</a>`).join('')}</div></section>` : ''}

@@ -152,7 +152,8 @@ function beritaSerupa(k, maks) {
   return [...dulu, ...nanti].slice(0, maks);
 }
 
-export function kartuUtama(k, ctx) {
+// `label` menggantikan label kecil di atas judul (mis. nama kategori).
+export function kartuUtama(k, ctx, { label } = {}) {
   const b = k.utama;
   const pil = k.jumlahSumber > 1 ? `<span class="pil">Diberitakan ${k.jumlahSumber} media</span>` : '';
   const serupa = beritaSerupa(k, 3);
@@ -163,7 +164,7 @@ export function kartuUtama(k, ctx) {
     : '';
   return `<article class="utama"${atributBahasa(b, ctx)}>
 <a class="foto foto--besar" href="${esc(b.tautan)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">${gambar(b.gambar, { segera: true })}</a>
-<div class="kicker"><b>${esc(kicker(b, ctx))}</b><span>${labelWaktu(b.terbit, ctx.hariIni)} WIB</span></div>
+<div class="kicker"><b>${esc(label ?? kicker(b, ctx))}</b><span>${labelWaktu(b.terbit, ctx.hariIni)} WIB</span></div>
 <h3><a href="${esc(b.tautan)}" target="_blank" rel="noopener">${esc(b.judul)}</a></h3>
 ${b.cuplikan ? `<p class="dek">${esc(b.cuplikan)}</p>` : ''}
 <div class="asal"><strong>${esc(b.sumber)}</strong>${pil}</div>
@@ -186,12 +187,13 @@ function asalCerita(k) {
 
 // Satu baris per cerita: berita yang sama dari media lain tidak ditampilkan lagi.
 // `diSemua: false` = baris hanya muncul saat penyaring lajurnya dipilih, bukan di "Semua".
-export function barisCerita(k, ctx, { diSemua = true } = {}) {
+// `kategori` ({id, nama}): baris ikut penyaring kategori dan labelnya menampilkan nama kategori.
+export function barisCerita(k, ctx, { diSemua = true, kategori = null } = {}) {
   const b = k.utama;
-  const saring = diSemua ? '' : ' data-semua="tidak" hidden';
+  const saring = `${diSemua ? '' : ' data-semua="tidak" hidden'}${kategori ? ` data-kategori="${esc(kategori.id)}"` : ''}`;
   return `<a class="baris l-${b.lajur}" data-lajur="${b.lajur}"${saring}${atributBahasa(b, ctx)} href="${esc(b.tautan)}" target="_blank" rel="noopener">
 <span class="baris-waktu">${labelWaktu(b.terbit, ctx.hariIni)}</span>
-<span class="chip">${esc(ctx.config.lajur[b.lajur].nama)}</span>
+<span class="chip">${esc(kategori?.nama ?? ctx.config.lajur[b.lajur].nama)}</span>
 <span class="baris-teks"><span class="baris-judul">${esc(b.judul)}</span><span class="baris-asal">${asalCerita(k)}</span></span>
 </a>`;
 }

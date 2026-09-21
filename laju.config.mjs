@@ -79,13 +79,70 @@ export default {
     ],
     olahraga: [],
     // Iklan dan promosi yang ikut masuk feed media luar negeri.
-    global: ['deals', 'save up to', 'promo code', 'coupon', 'discount code', 'sponsored', 'days left'],
+    global: ['deals', 'save up to', 'promo code', 'promo codes', 'coupon', 'coupons', 'coupon codes', 'discount code', 'sponsored',
+      'days left', 'get your', 'prices go up', 'world fair'],
   },
   // …kecuali judulnya juga memuat salah satu kata ini (mis. "drone untuk deteksi api karhutla").
   tetapSimpan: {
     tekno: ['teknologi', 'drone', 'satelit', 'robot', 'aplikasi', 'ai', 'chip', 'sensor', 'digital'],
     olahraga: [],
     global: [],
+  },
+
+  // Pembagian kategori per lajur (saat ini Teknologi Global). Tiap berita masuk SATU kategori:
+  // kata di bawah dicocokkan dengan judul (bobot 3), label kategori dari media (2), dan cuplikan (1);
+  // bila skornya sama, kategori yang lebih atas menang. Tidak cocok sama sekali → "Lainnya".
+  // Pencocokan per kata utuh dan tidak peka huruf besar/kecil.
+  kategori: {
+    global: [
+      {
+        id: 'ai', nama: 'AI',
+        kata: ['ai', 'artificial intelligence', 'openai', 'chatgpt', 'anthropic', 'claude', 'gemini', 'llm', 'llms', 'chatbot',
+          'chatbots', 'machine learning', 'deepmind', 'copilot', 'generative', 'agentic', 'agi', 'superintelligence', 'world models',
+          'sam altman', 'dario amodei', 'a.i.', 'robot', 'robots', 'robotics', 'humanoid'],
+      },
+      {
+        id: 'keamanan', nama: 'Keamanan & Privasi',
+        kata: ['security', 'cybersecurity', 'computer security', 'hack', 'hacked', 'hacker', 'hackers', 'hacking', 'breach', 'ransomware',
+          'malware', 'spyware', 'phishing', 'privacy', 'surveillance', 'cyberattack', 'scam', 'scams', 'scammers', 'vulnerability',
+          'encryption', 'password', 'passwords'],
+      },
+      {
+        id: 'kebijakan', nama: 'Kebijakan & Hukum',
+        kata: ['policy', 'regulation', 'regulators', 'regulation and deregulation of industry', 'lawsuit', 'sued', 'sues', 'court', 'judge',
+          'antitrust', 'ftc', 'fcc', 'doj', 'eu', 'european commission', 'congress', 'senate', 'law', 'laws', 'ban', 'bans', 'banned',
+          'tariff', 'tariffs', 'white house', 'politics', 'government', 'military'],
+      },
+      {
+        id: 'kendaraan', nama: 'Kendaraan & Transportasi',
+        kata: ['ev', 'evs', 'electric vehicle', 'electric vehicles', 'tesla', 'self-driving', 'autonomous vehicle', 'autonomous vehicles',
+          'autonomous flight', 'av', 'avs', 'robotaxi', 'robotaxis', 'waymo', 'uber', 'lyft', 'transportation', 'car', 'cars', 'rivian',
+          'aviation', 'hyperloop', 'suv', 'suvs', 'vehicle', 'vehicles', 'electric car', 'electric cars'],
+      },
+      {
+        id: 'sains', nama: 'Sains & Antariksa',
+        kata: ['science', 'space', 'nasa', 'spacex', 'rocket', 'moon', 'mars', 'astronomy', 'climate', 'climate change', 'energy', 'biology',
+          'biotech', 'biotechnology', 'health', 'medical', 'medicine', 'fda', 'vaccine', 'vaccines', 'drug', 'drugs', 'disease', 'physics',
+          'quantum', 'satellite', 'satellites', 'fusion', 'solar', 'nuclear', 'brain', 'scientists', 'researchers', 'neuroscience',
+          'fossil', 'dinosaur', 'species', 'evolution', 'ocean', 'oceans', 'planet', 'planets', 'asteroid', 'telescope', 'astronomers'],
+      },
+      {
+        id: 'hiburan', nama: 'Game & Hiburan',
+        kata: ['game', 'games', 'gaming', 'pc gaming', 'playstation', 'xbox', 'nintendo', 'steam', 'streaming', 'netflix', 'spotify', 'music',
+          'movie', 'movies', 'film', 'youtube', 'entertainment', 'culture', 'tiktok', 'instagram', 'social media', 'podcast', 'disney'],
+      },
+      {
+        id: 'bisnis', nama: 'Bisnis & Startup',
+        kata: ['startup', 'startups', 'funding', 'fundraising', 'raises', 'ipo', 'acquisition', 'acquires', 'layoffs', 'earnings', 'valuation',
+          'venture', 'fintech', 'business', 'biz & it', 'investors', 'investment', 'revenue', 'stock', 'shares'],
+      },
+      {
+        id: 'gawai', nama: 'Gawai & Ulasan',
+        kata: ['gear', 'reviews', 'review', 'buying guides', 'iphone', 'ipad', 'android', 'smartphone', 'smartphones', 'phone', 'phones',
+          'laptop', 'laptops', 'tablet', 'tablets', 'pixel', 'galaxy', 'headphones', 'earbuds', 'smartwatch', 'camera', 'cameras', 'macbook',
+          'wearable', 'wearables', 'hardware', 'computing', 'tv', 'tvs', 'gadget', 'gadgets'],
+      },
+    ],
   },
 
   // Skor sepak bola 5 liga teratas Eropa. Data dari papan skor ESPN (tanpa kunci API;

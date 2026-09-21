@@ -393,6 +393,7 @@ a.laga:hover { text-decoration: none; border-color: var(--tinta); }
   .terbaru-kepala h2 { font-size: 32px; }
   .saring { width: 100%; }
   .saring button { flex: 1 1 0; padding: 0 8px; }
+  .saring-kategori button { flex: 0 0 auto; padding: 0 14px; }
   .nav-bawah {
     position: fixed; left: 0; right: 0; bottom: 0; z-index: 5;
     display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr);
@@ -409,3 +410,8 @@ a.laga:hover { text-decoration: none; border-color: var(--tinta); }
   * { scroll-behavior: auto !important; transition: none !important; }
 }
 .skor-ket { font-weight: 400; letter-spacing: 0.02em; text-transform: none; color: var(--redup-2); margin-left: 6px; }
+
+/* ---------- Penyaring kategori di halaman lajur ---------- */
+.saring-lajur { display: flex; flex-direction: column; gap: 10px; padding-block: 8px 4px; }
+.saring-kategori button { font-size: 14px; }
+.saring button .jumlah { margin-left: 4px; font-family: var(--f-data); font-size: 12px; font-weight: 500; opacity: 0.75; }
