@@ -10,6 +10,9 @@ ingin punya kini tiap setiap kembali bukan jangan hanya pasti tetap mulai dapat 
 semua dua tiga satu hal ri indonesia pemain laga menang kalah tim klub pelatih gol pertandingan aplikasi pengguna ponsel hp
 fitur layanan perusahaan teknologi olahraga atlet jawab respons tanggapi sorot sorotan momen fakta wajib diketahui tahun
 besar kecil lengkap terkini update tetap langsung ternyata begitu makin usai rilis luncurkan meluncur hadir
+is are was were be been has have had it its this that these those with from by at as or but not no can will would could
+should may might just now new how why what who when where which than then there their they them you your we our us he she
+his her about after before over into out up more most all any some also so if do does did get gets got says said
 `.trim().split(/\s+/));
 
 // Pecah judul menjadi kata, simpan bentuk aslinya (untuk tampilan) dan huruf kecilnya (untuk dibandingkan).

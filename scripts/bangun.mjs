@@ -10,7 +10,10 @@ import { hariPendek, labelWaktu, pukul, tanggalPanjang, tanggalRingkas, tanggalW
 import { barisCerita, blokSkor, esc, halaman, halamanSkorIsi, itemTumpuk, kartuUtama, kepalaLajur, tautanSumberPoin } from './lib/tampilan.mjs';
 
 const DIST = path.join(AKAR, 'dist');
-const LAJUR = Object.keys(config.lajur);
+// LAJUR = lajur yang tampil di beranda, Terbaru, Ringkasan, arsip, dan feed.
+// Lajur `terpisah` (mis. Teknologi Global) hanya punya halamannya sendiri dan ikut pencarian.
+const SEMUA_LAJUR = Object.keys(config.lajur);
+const LAJUR = SEMUA_LAJUR.filter((l) => !config.lajur[l].terpisah);
 const JAM = 3600000;
 
 fs.rmSync(DIST, { recursive: true, force: true });
@@ -36,7 +39,7 @@ const hariIni = tanggalWIB(status.diperbarui ?? new Date());
 // Jendela beranda dihitung dari berita paling baru, jadi situs tidak kosong walau pembaruan sempat berhenti.
 const beritaBaru = tanggalBerita.slice(0, 3).flatMap(beritaHari);
 const acuan = Math.max(...beritaBaru.map((b) => Date.parse(b.terbit)));
-const jendela = beritaBaru.filter((b) => Date.parse(b.terbit) >= acuan - config.jendelaBerandaJam * JAM);
+const jendela = beritaBaru.filter((b) => LAJUR.includes(b.lajur) && Date.parse(b.terbit) >= acuan - config.jendelaBerandaJam * JAM);
 const topik = topikHangat(jendela.filter((b) => Date.parse(b.terbit) >= acuan - 24 * JAM));
 const ctx = { config, status, hariIni, topik };
 
@@ -50,11 +53,12 @@ const ceritaDari = (berita, lajur) => kelompokkan(berita.filter((b) => b.lajur =
 // Tiap cerita ditampilkan pada hari terbit berita utamanya.
 const HARI_CERITA = config.duplikat?.hariDiperiksa ?? 14;
 const tanggalTerkini = tanggalBerita.slice(0, HARI_CERITA);
-const ceritaTerkini = Object.fromEntries(LAJUR.map((l) => [l, ceritaDari(tanggalTerkini.flatMap(beritaHari), l)]));
+const beritaTerkini = tanggalTerkini.flatMap(beritaHari);
+const ceritaTerkini = Object.fromEntries(SEMUA_LAJUR.map((l) => [l, ceritaDari(beritaTerkini, l)]));
 const hariCerita = (k) => tanggalWIB(k.utama.terbit);
 const ceritaPadaHari = (tgl, l) => (tanggalTerkini.includes(tgl) ? ceritaTerkini[l].filter((k) => hariCerita(k) === tgl) : ceritaDari(beritaHari(tgl), l));
 
-const kelompokLajur = Object.fromEntries(LAJUR.map((l) => [l, urutPenting(ceritaTerkini[l].filter((k) => Date.parse(k.terbaru) >= acuan - config.jendelaBerandaJam * JAM), acuan)]));
+const kelompokLajur = Object.fromEntries(SEMUA_LAJUR.map((l) => [l, urutPenting(ceritaTerkini[l].filter((k) => Date.parse(k.terbaru) >= acuan - config.jendelaBerandaJam * JAM), acuan)]));
 const infoSumber = (b) => ({ judul: b.judul, tautan: b.tautan, sumber: b.sumber, terbit: b.terbit });
 
 // Ringkasan Pagi dari AI, atau "Sorotan" (cerita paling banyak diliput) bila belum ada.
@@ -124,7 +128,7 @@ const kotakTopik = topik.length
 
 // Satu baris per media (bukan per kanal) supaya daftarnya ringkas.
 const perMedia = new Map();
-for (const s of status.sumber) {
+for (const s of status.sumber.filter((x) => LAJUR.includes(x.lajur))) {
   const m = perMedia.get(s.nama) ?? { nama: s.nama, kanal: 0, gagal: 0, diterima: 0 };
   m.kanal += 1;
   m.diterima += s.diterima ?? 0;
@@ -167,8 +171,10 @@ ${kotakSumber}
 // ---------- Halaman lajur ----------
 
 const tigaHari = tanggalBerita.slice(0, 3);
-for (const l of LAJUR) {
+for (const l of SEMUA_LAJUR) {
   const [utama] = kelompokLajur[l];
+  const lj = config.lajur[l];
+  const namaMedia = [...new Set(config.sumber.filter((s) => s.lajur === l).map((s) => s.nama))];
   const perHari = tigaHari
     .map((tgl) => {
       const daftar = ceritaPadaHari(tgl, l).filter((k) => k !== utama);
@@ -179,15 +185,21 @@ for (const l of LAJUR) {
     })
     .join('\n');
   const topikLajur = topik.filter((t) => t.lajur === l);
-  tulis(config.lajur[l].halaman, halaman(ctx, {
-    judul: config.lajur[l].nama,
-    deskripsi: `Berita ${config.lajur[l].nama.toLowerCase()} terbaru dari media Indonesia, diperbarui tiap hari.`,
+  const pengantar = lj.terpisah
+    ? `<p class="dek">Berita terbaru dari ${esc(namaMedia.slice(0, -1).join(', '))}, dan ${esc(namaMedia.at(-1))}. Judul dan cuplikan ditampilkan dalam bahasa aslinya${lj.bahasa === 'en' ? ' (Inggris)' : ''}; berita yang sama dari beberapa media digabung menjadi satu.</p>`
+    : '';
+  tulis(lj.halaman, halaman(ctx, {
+    judul: lj.nama,
+    deskripsi: lj.terpisah
+      ? `Berita ${lj.nama.toLowerCase()} terbaru dari ${namaMedia.join(', ')}, diperbarui tiap hari.`
+      : `Berita ${lj.nama.toLowerCase()} terbaru dari media Indonesia, diperbarui tiap hari.`,
     aktif: l,
     isi: `<div class="bungkus isi">
 ${l === 'olahraga' && skor ? blokSkor(skor, ctx) : ''}
 <div class="terbaru-grid">
 <section class="lajur l-${l}">
 ${kepalaLajur(l, ctx, { tingkat: 'h1', tautan: false })}
+${pengantar}
 ${utama ? kartuUtama(utama, ctx) : ''}
 <div>${perHari}</div>
 </section>
@@ -301,9 +313,9 @@ ${halamanSkorIsi(skor, ctx)}
 // ---------- Cari ----------
 
 // Satu entri per cerita; media lain yang memberitakannya ikut tercantum di "juga".
-const dataCari = LAJUR.flatMap((l) => ceritaTerkini[l])
+const dataCari = SEMUA_LAJUR.flatMap((l) => ceritaTerkini[l])
   .sort(urutCerita)
-  .map((k) => ({ judul: k.utama.judul, tautan: k.utama.tautan, sumber: k.utama.sumber, juga: k.sumberLain, lajur: k.lajur, waktu: labelWaktu(k.utama.terbit, hariIni) }));
+  .map((k) => ({ judul: k.utama.judul, tautan: k.utama.tautan, sumber: k.utama.sumber, juga: k.sumberLain, lajur: k.lajur, label: config.lajur[k.lajur].nama, waktu: labelWaktu(k.utama.terbit, hariIni) }));
 tulis('cari.json', JSON.stringify(dataCari));
 
 tulis('cari.html', halaman(ctx, {

@@ -149,7 +149,8 @@ Laporan ini tidak mengubah apa pun. Isinya: jumlah berita yang digabung, cerita 
 ## Catatan
 
 - Folder ini ada di OneDrive. Menjalankan `npm install` membuat folder `node_modules` berisi ratusan berkas yang ikut disinkronkan. Folder itu hanya dibutuhkan untuk Ringkasan Pagi di komputer sendiri. Di GitHub, pemasangan terjadi otomatis.
-- Sumber yang dipakai (18 September 2026): Liputan6, VIVA, Jawa Pos, Okezone, Republika, dan 8 kanal ANTARA, 17 kanal secara total.
+- Sumber yang dipakai: Liputan6, VIVA, Jawa Pos, Okezone, Republika, dan 8 kanal ANTARA (17 kanal) untuk lajur Teknologi dan Olahraga.
+- Halaman **Global** (`global.html`) berisi berita teknologi dari media luar negeri: BBC News, The Guardian, The New York Times, Ars Technica, The Verge, TechCrunch, WIRED, MIT Technology Review, dan Engadget, dalam bahasa aslinya (Inggris). Lajur ini ditandai `terpisah: true` di `laju.config.mjs`, jadi tidak ikut beranda, daftar Terbaru, topik hangat, Ringkasan Pagi, maupun arsip; beritanya tetap bisa dicari. Iklan dan kupon di feed mereka ("Promo Codes", "Deals") dibuang lewat `saring.global`.
 - Tidak dipakai: CNN Indonesia, CNBC Indonesia, dan detik memblokir server GitHub walau lancar dibuka dari komputer biasa. RSS Tempo dan ANTARA Olahraga (umum) jarang diperbarui.
 - Sebelum menambah sumber baru, uji dulu dari server GitHub: **Actions → Uji sumber → Run workflow**, isi URL RSS-nya (pisahkan dengan spasi). Hasilnya tersimpan di `data/uji-sumber.json`.
 - Periksa ketentuan penggunaan tiap media sebelum situs dipromosikan untuk umum.

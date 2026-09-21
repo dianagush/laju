@@ -32,6 +32,12 @@ function gambar(url, { segera = false } = {}) {
   return `<img src="${esc(url)}" alt="" ${segera ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`;
 }
 
+// lang="en" untuk berita berbahasa asing, supaya pembaca layar melafalkannya dengan benar.
+function atributBahasa(berita, ctx) {
+  const bahasa = ctx.config.lajur[berita.lajur]?.bahasa;
+  return bahasa ? ` lang="${bahasa}"` : '';
+}
+
 function kicker(berita, ctx) {
   return topikUntuk(berita, ctx.topik)?.teks ?? ctx.config.lajur[berita.lajur].nama;
 }
@@ -48,6 +54,9 @@ export function halaman(ctx, { judul, deskripsi, aktif, isi, akar = '' }) {
     ['tekno', config.lajur.tekno.halaman, config.lajur.tekno.nama, 'l-tekno'],
     ['olahraga', config.lajur.olahraga.halaman, config.lajur.olahraga.nama, 'l-olahraga'],
     ...(config.skor?.aktif ? [['skor', 'skor.html', 'Skor', '']] : []),
+    ...Object.entries(config.lajur)
+      .filter(([, l]) => l.terpisah)
+      .map(([id, l]) => [id, l.halaman, l.namaPendek ?? l.nama, `l-${id}`]),
     ['ringkasan', 'ringkasan.html', 'Ringkasan Pagi', ''],
     ['arsip', 'arsip.html', 'Arsip', ''],
   ];
@@ -152,7 +161,7 @@ export function kartuUtama(k, ctx) {
         .map((x) => `<li><a href="${esc(x.tautan)}" target="_blank" rel="noopener">${esc(x.judul)}</a> · ${esc(x.sumber)}</li>`)
         .join('')}</ul>`
     : '';
-  return `<article class="utama">
+  return `<article class="utama"${atributBahasa(b, ctx)}>
 <a class="foto foto--besar" href="${esc(b.tautan)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">${gambar(b.gambar, { segera: true })}</a>
 <div class="kicker"><b>${esc(kicker(b, ctx))}</b><span>${labelWaktu(b.terbit, ctx.hariIni)} WIB</span></div>
 <h3><a href="${esc(b.tautan)}" target="_blank" rel="noopener">${esc(b.judul)}</a></h3>
@@ -180,7 +189,7 @@ function asalCerita(k) {
 export function barisCerita(k, ctx, { diSemua = true } = {}) {
   const b = k.utama;
   const saring = diSemua ? '' : ' data-semua="tidak" hidden';
-  return `<a class="baris l-${b.lajur}" data-lajur="${b.lajur}"${saring} href="${esc(b.tautan)}" target="_blank" rel="noopener">
+  return `<a class="baris l-${b.lajur}" data-lajur="${b.lajur}"${saring}${atributBahasa(b, ctx)} href="${esc(b.tautan)}" target="_blank" rel="noopener">
 <span class="baris-waktu">${labelWaktu(b.terbit, ctx.hariIni)}</span>
 <span class="chip">${esc(ctx.config.lajur[b.lajur].nama)}</span>
 <span class="baris-teks"><span class="baris-judul">${esc(b.judul)}</span><span class="baris-asal">${asalCerita(k)}</span></span>
@@ -190,7 +199,7 @@ export function barisCerita(k, ctx, { diSemua = true } = {}) {
 export function kepalaLajur(lajur, ctx, { tingkat = 'h2', tautan = true, akar = '' } = {}) {
   const l = ctx.config.lajur[lajur];
   return `<div class="lajur-kepala">
-<div class="lajur-nama"><span class="label">Lajur ${l.nomor}</span><${tingkat}>${esc(l.nama)}</${tingkat}></div>
+<div class="lajur-nama"><span class="label">${esc(l.label ?? `Lajur ${l.nomor}`)}</span><${tingkat}>${esc(l.nama)}</${tingkat}></div>
 ${tautan ? `<a class="tautan-lajur" href="${akar}${l.halaman}">Semua ${esc(l.nama.toLowerCase())} →</a>` : ''}
 </div>`;
 }

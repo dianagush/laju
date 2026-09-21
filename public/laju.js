@@ -110,7 +110,7 @@
           a.target = '_blank';
           a.rel = 'noopener';
           a.appendChild(el('span', 'baris-waktu', b.waktu));
-          a.appendChild(el('span', 'chip', b.lajur === 'tekno' ? 'Teknologi' : 'Olahraga'));
+          a.appendChild(el('span', 'chip', b.label || b.lajur));
           var teks = el('span', 'baris-teks');
           teks.appendChild(el('span', 'baris-judul', b.judul));
           teks.appendChild(el('span', 'baris-asal', b.sumber + (b.juga && b.juga.length ? ' · juga di ' + b.juga.join(', ') : '')));

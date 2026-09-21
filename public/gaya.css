@@ -20,6 +20,11 @@
   --olahraga-muda: #FBE6DA;
   --olahraga-muda-2: #F7DACA;
   --olahraga-garis: #F0C9B4;
+  --global: #0F766E;
+  --global-tua: #115E59;
+  --global-muda: #D5F0EC;
+  --global-muda-2: #C3E8E2;
+  --global-garis: #A7DBD3;
   --pita: #101318;
   --pita-teks: #E7E9EE;
   --pita-garis: #3A414C;
@@ -57,6 +62,11 @@
     --olahraga-muda: #3A1E12;
     --olahraga-muda-2: #452418;
     --olahraga-garis: #5C2F1C;
+    --global: #3CC7B4;
+    --global-tua: #7ADCCD;
+    --global-muda: #0E2B28;
+    --global-muda-2: #123531;
+    --global-garis: #1D4A44;
     --pita: #07090C;
     --pita-teks: #C9CED6;
     --pita-garis: #2A303A;
@@ -88,6 +98,11 @@
   --olahraga-muda: #3A1E12;
   --olahraga-muda-2: #452418;
   --olahraga-garis: #5C2F1C;
+  --global: #3CC7B4;
+  --global-tua: #7ADCCD;
+  --global-muda: #0E2B28;
+  --global-muda-2: #123531;
+  --global-garis: #1D4A44;
   --pita: #07090C;
   --pita-teks: #C9CED6;
   --pita-garis: #2A303A;
@@ -101,6 +116,7 @@
 /* Warna lajur: dipasang di elemen mana pun dengan kelas l-tekno / l-olahraga. */
 .l-tekno { --warna: var(--tekno); --warna-tua: var(--tekno-tua); --muda: var(--tekno-muda); --muda-2: var(--tekno-muda-2); --garis-l: var(--tekno-garis); }
 .l-olahraga { --warna: var(--olahraga); --warna-tua: var(--olahraga-tua); --muda: var(--olahraga-muda); --muda-2: var(--olahraga-muda-2); --garis-l: var(--olahraga-garis); }
+.l-global { --warna: var(--global); --warna-tua: var(--global-tua); --muda: var(--global-muda); --muda-2: var(--global-muda-2); --garis-l: var(--global-garis); }
 
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -158,7 +174,7 @@ button { cursor: pointer; }
 .nav-utama a { padding-bottom: 4px; border-bottom: 3px solid transparent; }
 .nav-utama a:hover { text-decoration: none; border-bottom-color: var(--garis); }
 .nav-utama a[aria-current="page"] { border-bottom-color: var(--tinta); }
-.nav-utama .l-tekno, .nav-utama .l-olahraga { color: var(--warna); }
+.nav-utama .l-tekno, .nav-utama .l-olahraga, .nav-utama .l-global { color: var(--warna); }
 
 /* ---------- Bilah topik ---------- */
 .bilah-topik { background: var(--muka); border-top: 1px solid var(--garis-2); border-bottom: 1px solid var(--garis); font-size: 14px; color: var(--redup); }

@@ -21,6 +21,17 @@ export default {
   lajur: {
     tekno: { nama: 'Teknologi', nomor: 1, halaman: 'teknologi.html' },
     olahraga: { nama: 'Olahraga', nomor: 2, halaman: 'olahraga.html' },
+    // Halaman khusus berita teknologi dari media luar negeri (bahasa Inggris).
+    // `terpisah: true` = tidak ikut beranda, daftar Terbaru, topik hangat, Ringkasan Pagi, dan arsip.
+    global: {
+      nama: 'Teknologi Global',
+      namaPendek: 'Global',
+      nomor: 3,
+      halaman: 'global.html',
+      terpisah: true,
+      label: 'Media luar negeri',
+      bahasa: 'en',
+    },
   },
 
   // Kanal RSS yang dipakai. Semua diuji bisa dibaca dari server GitHub pada 18 September 2026
@@ -46,6 +57,17 @@ export default {
     { id: 'antara-bulutangkis', nama: 'ANTARA', kanal: 'Bulu Tangkis', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/olahraga-bulutangkis.xml' },
     { id: 'antara-tenis', nama: 'ANTARA', kanal: 'Tenis', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/olahraga-tenis.xml' },
     { id: 'antara-balap', nama: 'ANTARA', kanal: 'Balap', lajur: 'olahraga', url: 'https://www.antaranews.com/rss/olahraga-balap.xml' },
+
+    // Teknologi Global: media internasional yang kredibel (diuji 21 September 2026).
+    { id: 'bbc-tech', nama: 'BBC News', kanal: 'Technology', lajur: 'global', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml' },
+    { id: 'guardian-tech', nama: 'The Guardian', kanal: 'Technology', lajur: 'global', url: 'https://www.theguardian.com/uk/technology/rss' },
+    { id: 'nyt-tech', nama: 'The New York Times', kanal: 'Technology', lajur: 'global', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml' },
+    { id: 'ars', nama: 'Ars Technica', kanal: 'Semua', lajur: 'global', url: 'https://feeds.arstechnica.com/arstechnica/index' },
+    { id: 'verge', nama: 'The Verge', kanal: 'Semua', lajur: 'global', url: 'https://www.theverge.com/rss/index.xml' },
+    { id: 'techcrunch', nama: 'TechCrunch', kanal: 'Semua', lajur: 'global', url: 'https://techcrunch.com/feed/' },
+    { id: 'wired', nama: 'WIRED', kanal: 'Semua', lajur: 'global', url: 'https://www.wired.com/feed/rss' },
+    { id: 'mit-tr', nama: 'MIT Technology Review', kanal: 'Semua', lajur: 'global', url: 'https://www.technologyreview.com/feed/' },
+    { id: 'engadget', nama: 'Engadget', kanal: 'Semua', lajur: 'global', url: 'https://www.engadget.com/rss.xml' },
   ],
 
   // Judul yang memuat kata ini dianggap di luar topik lajurnya lalu dibuang.
@@ -56,11 +78,14 @@ export default {
       'kapal induk', 'ubur-ubur', 'badak', 'harimau', 'gajah', 'buaya', 'paus', 'kucing', 'spesies',
     ],
     olahraga: [],
+    // Iklan dan promosi yang ikut masuk feed media luar negeri.
+    global: ['deals', 'save up to', 'promo code', 'coupon', 'discount code', 'sponsored', 'days left'],
   },
   // …kecuali judulnya juga memuat salah satu kata ini (mis. "drone untuk deteksi api karhutla").
   tetapSimpan: {
     tekno: ['teknologi', 'drone', 'satelit', 'robot', 'aplikasi', 'ai', 'chip', 'sensor', 'digital'],
     olahraga: [],
+    global: [],
   },
 
   // Skor sepak bola 5 liga teratas Eropa. Data dari papan skor ESPN (tanpa kunci API;
