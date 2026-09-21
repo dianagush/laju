@@ -7,7 +7,7 @@ import config from '../laju.config.mjs';
 import { AKAR, BERKAS_STATUS, FOLDER_BERITA, FOLDER_RINGKASAN, bacaJson, beritaHari, daftarTanggal, ringkasanHari } from './lib/data.mjs';
 import { kelompokkan, topikHangat, urutPenting } from './lib/olah.mjs';
 import { hariPendek, labelWaktu, pukul, tanggalPanjang, tanggalRingkas, tanggalWIB } from './lib/waktu.mjs';
-import { barisCerita, esc, halaman, itemTumpuk, kartuUtama, kepalaLajur, tautanSumberPoin } from './lib/tampilan.mjs';
+import { barisCerita, blokSkor, esc, halaman, halamanSkorIsi, itemTumpuk, kartuUtama, kepalaLajur, tautanSumberPoin } from './lib/tampilan.mjs';
 
 const DIST = path.join(AKAR, 'dist');
 const LAJUR = Object.keys(config.lajur);
@@ -29,6 +29,8 @@ if (!tanggalBerita.length) {
   process.exit(1);
 }
 const status = bacaJson(BERKAS_STATUS, { diperbarui: null, sumber: [] });
+// Skor sepak bola (scripts/ambil-skor.mjs); tidak wajib ada.
+const skor = config.skor?.aktif ? bacaJson(path.join(AKAR, 'data', 'skor.json')) : null;
 const hariIni = tanggalWIB(status.diperbarui ?? new Date());
 
 // Jendela beranda dihitung dari berita paling baru, jadi situs tidak kosong walau pembaruan sempat berhenti.
@@ -143,6 +145,7 @@ tulis('index.html', halaman(ctx, {
 ${blokLajur}
 </div>
 ${pitaRingkasan}
+${skor ? blokSkor(skor, ctx) : ''}
 <div class="terbaru-grid">
 <section class="terbaru" aria-labelledby="judul-terbaru">
 <div class="terbaru-kepala">
@@ -181,6 +184,7 @@ for (const l of LAJUR) {
     deskripsi: `Berita ${config.lajur[l].nama.toLowerCase()} terbaru dari media Indonesia, diperbarui tiap hari.`,
     aktif: l,
     isi: `<div class="bungkus isi">
+${l === 'olahraga' && skor ? blokSkor(skor, ctx, { maksHasil: 6, maksJadwal: 4 }) : ''}
 <div class="terbaru-grid">
 <section class="lajur l-${l}">
 ${kepalaLajur(l, ctx, { tingkat: 'h1', tautan: false })}
@@ -276,6 +280,20 @@ ${kepalaLajur(l, ctx, { tautan: false })}
 <div>${cerita[l].map((k) => barisCerita(k, { ...ctx, hariIni: tgl })).join('\n') || '<p class="kosong">Tidak ada berita.</p>'}</div>
 </section>`).join('\n')}
 </div>
+</div>`,
+  }));
+}
+
+// ---------- Skor ----------
+
+if (skor) {
+  tulis('skor.html', halaman(ctx, {
+    judul: 'Skor sepak bola Eropa',
+    deskripsi: 'Hasil dan jadwal Liga Inggris, LaLiga, Serie A, Bundesliga, dan Ligue 1 sepekan terakhir.',
+    aktif: 'skor',
+    isi: `<div class="bungkus isi isi--rapat l-olahraga">
+<div class="kepala-halaman-teks"><span class="label">5 liga teratas Eropa</span><h1 class="judul-halaman">Skor sepak bola</h1></div>
+${halamanSkorIsi(skor, ctx)}
 </div>`,
   }));
 }

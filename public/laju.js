@@ -48,6 +48,30 @@
     });
   });
 
+  // ---- Tombol liga di blok skor ----
+  document.querySelectorAll('[data-tab-skor]').forEach(function (grup) {
+    var tombol = grup.querySelectorAll('button');
+    function pilih(t) {
+      tombol.forEach(function (b) {
+        var aktif = b === t;
+        b.setAttribute('aria-pressed', aktif ? 'true' : 'false');
+        var panel = document.getElementById(b.getAttribute('aria-controls'));
+        if (panel) panel.hidden = !aktif;
+      });
+    }
+    tombol.forEach(function (t) {
+      t.addEventListener('click', function () {
+        pilih(t);
+        try { localStorage.setItem('laju-liga', t.value); } catch (e) { /* tanpa penyimpanan: pilihan tidak diingat */ }
+      });
+    });
+    // Ingat liga terakhir yang dipilih pembaca.
+    try {
+      var simpan = localStorage.getItem('laju-liga');
+      tombol.forEach(function (b) { if (b.value === simpan) pilih(b); });
+    } catch (e) { /* abaikan */ }
+  });
+
   // ---- Pencarian (halaman cari.html) ----
   var wadah = document.getElementById('hasil-cari');
   if (!wadah) return;

@@ -38,6 +38,9 @@ jobs:
       - name: Ambil berita
         run: node scripts/ambil-berita.mjs
 
+      - name: Ambil skor sepak bola
+        run: node scripts/ambil-skor.mjs
+
       - name: Ringkasan Pagi (dilewati bila ANTHROPIC_API_KEY belum diatur)
         run: node scripts/ringkasan.mjs
         env:

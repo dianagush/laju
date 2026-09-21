@@ -300,6 +300,35 @@ main { display: block; }
   :root:not([data-theme="light"]) .status--galat { background: #3A2C0A; color: #F2C766; }
 }
 
+/* ---------- Skor sepak bola ---------- */
+.skor { display: flex; flex-direction: column; gap: 16px; }
+.skor-kepala { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding-bottom: 12px; border-bottom: 2px solid var(--tinta); }
+.skor-judul { display: flex; flex-direction: column; gap: 6px; }
+.skor-judul .label { color: var(--warna); font-size: 12px; }
+.skor-judul h2, .skor-judul h1 { margin: 0; font-size: 40px; line-height: 1; font-weight: 800; font-stretch: 72%; }
+.skor-panel { display: flex; flex-direction: column; gap: 12px; }
+.skor-sub { margin: 8px 0 0; font-family: var(--f-data); font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--redup); }
+.grid-laga { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; }
+.laga { display: flex; flex-direction: column; gap: 8px; padding: 12px 14px; background: var(--muka); border: 1px solid var(--garis); }
+a.laga:hover { text-decoration: none; border-color: var(--tinta); }
+.laga-status { font-family: var(--f-data); font-size: 11px; letter-spacing: 0.04em; color: var(--redup-2); }
+.laga-status--berlangsung { color: var(--olahraga); font-weight: 600; }
+.laga-status--ditunda, .laga-status--batal { color: var(--olahraga-tua); }
+.laga-tim { display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; align-items: center; gap: 10px; font-size: 16px; color: var(--redup); }
+.laga-logo { width: 22px; height: 22px; display: grid; place-items: center; }
+.laga-logo img { width: 22px; height: 22px; object-fit: contain; }
+.laga-nama { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.laga-tim b { font-family: var(--f-data); font-size: 17px; font-weight: 600; font-variant-numeric: tabular-nums; color: var(--tinta-2); }
+.laga-tim.menang { color: var(--tinta); font-weight: 700; }
+.laga-tim.menang b { color: var(--tinta); }
+.skor-catatan { margin: 0; font-size: 13px; line-height: 1.5; color: var(--redup-2); }
+.skor-catatan a { color: var(--warna); font-weight: 600; }
+.lompat-liga { display: flex; flex-wrap: wrap; gap: 8px; }
+.lompat-liga a { padding: 8px 14px; border: 1px solid var(--tinta); border-radius: 999px; font-size: 15px; font-weight: 600; }
+.lompat-liga a:hover { text-decoration: none; background: var(--tinta); color: var(--dasar); }
+.skor-liga { display: flex; flex-direction: column; gap: 12px; padding-top: 16px; border-top: 6px solid var(--olahraga); scroll-margin-top: 16px; }
+.skor-liga h2 { margin: 0; font-size: 36px; line-height: 1; font-weight: 800; font-stretch: 72%; }
+
 /* ---------- Kaki ---------- */
 .kaki { background: var(--kaki); color: var(--kaki-teks); }
 .kaki .bungkus { display: flex; justify-content: space-between; align-items: flex-end; gap: 32px; flex-wrap: wrap; padding-block: 40px; }
@@ -350,7 +379,7 @@ main { display: block; }
   .saring button { flex: 1 1 0; padding: 0 8px; }
   .nav-bawah {
     position: fixed; left: 0; right: 0; bottom: 0; z-index: 5;
-    display: grid; grid-template-columns: repeat(4, minmax(0, 1fr));
+    display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr);
     padding-bottom: env(safe-area-inset-bottom, 0px);
     background: var(--muka); border-top: 1px solid var(--garis);
     font-size: 12px; font-weight: 600;

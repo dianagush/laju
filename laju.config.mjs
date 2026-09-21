@@ -63,6 +63,23 @@ export default {
     olahraga: [],
   },
 
+  // Skor sepak bola 5 liga teratas Eropa. Data dari papan skor ESPN (tanpa kunci API;
+  // tidak resmi, jadi bisa berubah sewaktu-waktu). Skor ikut diperbarui pada jadwal
+  // pembaruan di atas, jadi pertandingan yang sedang berlangsung tidak real-time.
+  skor: {
+    aktif: true,
+    liga: [
+      { id: 'eng.1', nama: 'Liga Inggris' },
+      { id: 'esp.1', nama: 'LaLiga' },
+      { id: 'ita.1', nama: 'Serie A' },
+      { id: 'ger.1', nama: 'Bundesliga' },
+      { id: 'fra.1', nama: 'Ligue 1' },
+    ],
+    // Hasil pertandingan disimpan sekian hari ke belakang, jadwal ditampilkan sekian hari ke depan.
+    hariKeBelakang: 7,
+    hariKeDepan: 4,
+  },
+
   // Pemeriksaan berita duplikat: berita yang sama dari media berbeda digabung menjadi satu
   // cerita ("VIVA · juga di Liputan6, ANTARA"). Setelah mengubah bagian ini, lihat efeknya
   // dengan `npm run cek-duplikat` sebelum di-push.

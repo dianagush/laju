@@ -21,6 +21,7 @@ Lalu buka http://localhost:4321.
 | Perintah | Fungsi |
 |---|---|
 | `npm run ambil` | Ambil berita dari semua sumber ke `data/berita/` |
+| `npm run skor` | Ambil skor 5 liga Eropa ke `data/skor.json` |
 | `npm run ringkasan` | Tulis Ringkasan Pagi dengan AI (butuh kunci API, lihat di bawah) |
 | `npm run bangun` | Bangun situs ke `dist/` |
 | `npm run perbarui` | Ketiganya sekaligus |
@@ -97,6 +98,14 @@ data/berita/             arsip berita per hari (diisi otomatis)
 data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
 .github/workflows/       jadwal otomatis GitHub Actions
 ```
+
+## Skor sepak bola
+
+Hasil dan jadwal 5 liga teratas Eropa (Liga Inggris, LaLiga, Serie A, Bundesliga, Ligue 1) tampil di beranda, di halaman Olahraga, dan lengkap di halaman **Skor**. Datanya diambil `scripts/ambil-skor.mjs` dari papan skor ESPN pada jadwal pembaruan yang sama, lalu disimpan di `data/skor.json` (hasil sepekan terakhir, jadwal 4 hari ke depan).
+
+- Tidak perlu kunci API. Papan skor ESPN ini tidak resmi, jadi formatnya bisa berubah; kalau gagal diambil, data terakhir tetap dipakai dan Actions menampilkan peringatan.
+- Skor pertandingan yang sedang berlangsung tidak real-time: hanya seakurat pembaruan terakhir. Laga Eropa umumnya selesai sebelum pukul 06.00 WIB, jadi hasilnya lengkap pada pembaruan pagi.
+- Liga, rentang hari, atau mematikan fitur ini: `laju.config.mjs` bagian `skor`. Kode liga ESPN lain misalnya `ned.1` (Belanda), `por.1` (Portugal), `idn.1` (Liga Indonesia).
 
 ## Berita yang sama dari beberapa media
 
