@@ -228,7 +228,12 @@ function susunCerita(berita, p) {
 }
 
 function bentukCerita(c) {
-  const skor = c.anggota.map((b, i) => kaliTitik(c.vektor[i], c.pusat) + (b.gambar ? 0.05 : 0));
+  // Wakil cerita dipilih dari berita 24 jam terakhir cerita itu (bukan artikel lama yang
+  // kebetulan paling "tengah"), lalu yang paling dekat dengan pusat cerita, diutamakan yang bergambar.
+  const terakhir = Math.max(...c.anggota.map((b) => Date.parse(b.terbit)));
+  const skor = c.anggota.map((b, i) =>
+    Date.parse(b.terbit) < terakhir - 24 * 3600000 ? -Infinity : kaliTitik(c.vektor[i], c.pusat) + (b.gambar ? 0.05 : 0),
+  );
   const iUtama = skor.indexOf(Math.max(...skor));
   const utama = c.anggota[iUtama];
   const lain = c.anggota.filter((_, i) => i !== iUtama).sort((a, b) => b.terbit.localeCompare(a.terbit));

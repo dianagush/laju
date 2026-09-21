@@ -162,9 +162,11 @@ function asalCerita(k) {
 }
 
 // Satu baris per cerita: berita yang sama dari media lain tidak ditampilkan lagi.
-export function barisCerita(k, ctx) {
+// `diSemua: false` = baris hanya muncul saat penyaring lajurnya dipilih, bukan di "Semua".
+export function barisCerita(k, ctx, { diSemua = true } = {}) {
   const b = k.utama;
-  return `<a class="baris l-${b.lajur}" data-lajur="${b.lajur}" href="${esc(b.tautan)}" target="_blank" rel="noopener">
+  const saring = diSemua ? '' : ' data-semua="tidak" hidden';
+  return `<a class="baris l-${b.lajur}" data-lajur="${b.lajur}"${saring} href="${esc(b.tautan)}" target="_blank" rel="noopener">
 <span class="baris-waktu">${labelWaktu(b.terbit, ctx.hariIni)}</span>
 <span class="chip">${esc(ctx.config.lajur[b.lajur].nama)}</span>
 <span class="baris-teks"><span class="baris-judul">${esc(b.judul)}</span><span class="baris-asal">${asalCerita(k)}</span></span>

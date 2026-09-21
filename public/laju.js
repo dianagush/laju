@@ -37,7 +37,9 @@
         grup.querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', b === tombol ? 'true' : 'false'); });
         var tampil = 0;
         daftar.querySelectorAll('[data-lajur]').forEach(function (baris) {
-          var cocok = pilih === 'semua' || baris.getAttribute('data-lajur') === pilih;
+          var cocok = pilih === 'semua'
+            ? baris.getAttribute('data-semua') !== 'tidak'
+            : baris.getAttribute('data-lajur') === pilih;
           baris.hidden = !cocok;
           if (cocok) tampil += 1;
         });

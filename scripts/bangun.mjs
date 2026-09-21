@@ -104,7 +104,13 @@ const pitaRingkasan = `<section class="pita-ringkasan" aria-labelledby="judul-ri
 ${poinBeranda(ringkasanKini)}
 </section>`;
 
-const terbaru = LAJUR.flatMap((l) => kelompokLajur[l]).filter((k) => !ceritaDiLajur.has(k)).sort(urutCerita).slice(0, 40);
+// Daftar "Terbaru": "Semua" berisi 40 cerita terbaru gabungan, dan tiap lajur punya 40 cerita
+// terbarunya sendiri. Tanpa ini, lajur yang beritanya sedikit (teknologi) hanya kebagian beberapa baris.
+const PER_DAFTAR = 40;
+const ceritaTerbaru = LAJUR.flatMap((l) => kelompokLajur[l]).filter((k) => !ceritaDiLajur.has(k)).sort(urutCerita);
+const diSemua = new Set(ceritaTerbaru.slice(0, PER_DAFTAR));
+const diLajur = new Set(LAJUR.flatMap((l) => ceritaTerbaru.filter((k) => k.lajur === l).slice(0, PER_DAFTAR)));
+const terbaru = ceritaTerbaru.filter((k) => diSemua.has(k) || diLajur.has(k));
 
 const kotakTopik = topik.length
   ? `<section class="kotak" aria-labelledby="judul-topik">
@@ -140,12 +146,12 @@ ${pitaRingkasan}
 <div class="terbaru-grid">
 <section class="terbaru" aria-labelledby="judul-terbaru">
 <div class="terbaru-kepala">
-<div class="terbaru-judul"><h2 id="judul-terbaru">Terbaru</h2><span class="data" data-hitung="daftar-terbaru">${terbaru.length} berita</span></div>
+<div class="terbaru-judul"><h2 id="judul-terbaru">Terbaru</h2><span class="data" data-hitung="daftar-terbaru">${diSemua.size} berita</span></div>
 <div class="saring" role="group" aria-label="Saring berita terbaru" data-saring="daftar-terbaru">
 <button type="button" value="semua" aria-pressed="true">Semua</button>${LAJUR.map((l) => `<button type="button" value="${l}" aria-pressed="false">${esc(config.lajur[l].nama)}</button>`).join('')}
 </div>
 </div>
-<div id="daftar-terbaru">${terbaru.map((k) => barisCerita(k, ctx)).join('\n') || '<p class="kosong">Belum ada berita lain.</p>'}</div>
+<div id="daftar-terbaru">${terbaru.map((k) => barisCerita(k, ctx, { diSemua: diSemua.has(k) })).join('\n') || '<p class="kosong">Belum ada berita lain.</p>'}</div>
 </section>
 <aside class="samping">
 ${kotakTopik}

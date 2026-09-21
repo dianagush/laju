@@ -118,6 +118,9 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 button, input { font: inherit; color: inherit; }
 button { cursor: pointer; }
 :focus-visible { outline: 2px solid var(--tekno); outline-offset: 2px; }
+/* Elemen bertanda hidden (mis. baris yang disaring) harus benar-benar hilang,
+   walau kelasnya memberi display lain seperti .baris { display: grid }. */
+[hidden] { display: none !important; }
 .tersembunyi { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .lompat { position: absolute; left: 8px; top: -60px; z-index: 10; padding: 10px 14px; background: var(--tombol); color: var(--tombol-teks); }
 .lompat:focus { top: 8px; }
