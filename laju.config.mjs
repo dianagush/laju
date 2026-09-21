@@ -105,6 +105,8 @@ export default {
     beritaPerLajur: 4,
     // Batas panggilan AI per pembaruan, supaya kuota gratis tidak cepat habis.
     maksPerPembaruan: 12,
+    // Jeda antar-permintaan ke AI (detik), supaya tidak kena batas per menit kuota gratis.
+    jedaDetik: 7,
     maksKata: 80,
   },
 

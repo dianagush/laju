@@ -188,6 +188,7 @@ for (const c of perlu) {
     continue;
   }
   try {
+    if (dibuat > 0 && p.jedaDetik) await tunggu(p.jedaDetik * 1000);
     const hasil = await tulis(perintahUntuk(c, bahan.teks));
     if (!hasil) {
       console.log(`- AI tidak memberi ringkasan: ${c.judul.slice(0, 70)}`);
