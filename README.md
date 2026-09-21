@@ -101,7 +101,9 @@ data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
 
 ## Skor sepak bola
 
-Hasil dan jadwal 5 liga teratas Eropa (Liga Inggris, LaLiga, Serie A, Bundesliga, Ligue 1) tampil di beranda, di halaman Olahraga, dan lengkap di halaman **Skor**. Datanya diambil `scripts/ambil-skor.mjs` dari papan skor ESPN pada jadwal pembaruan yang sama, lalu disimpan di `data/skor.json` (hasil sepekan terakhir, jadwal 4 hari ke depan).
+Skor **matchday terakhir** 5 liga teratas Eropa (Liga Inggris, LaLiga, Serie A, Bundesliga, Ligue 1) tampil di beranda, di halaman Olahraga, dan kelimanya sekaligus di halaman **Skor**. Bila matchday itu belum selesai, laga yang belum dimainkan ikut tampil dengan jam mulainya. Datanya diambil `scripts/ambil-skor.mjs` dari papan skor ESPN pada jadwal pembaruan yang sama dan disimpan di `data/skor.json`.
+
+- ESPN tidak menyertakan nomor pekan, jadi matchday disusun dari jadwal: dimulai dari laga terakhir yang sudah dimainkan, lalu diperluas selama tidak ada tim yang bermain dua kali dan tidak ada jeda lebih dari 60 jam. Laga susulan yang dimainkan sendirian di tengah minggu tidak dianggap matchday baru.
 
 - Tidak perlu kunci API. Papan skor ESPN ini tidak resmi, jadi formatnya bisa berubah; kalau gagal diambil, data terakhir tetap dipakai dan Actions menampilkan peringatan.
 - Skor pertandingan yang sedang berlangsung tidak real-time: hanya seakurat pembaruan terakhir. Laga Eropa umumnya selesai sebelum pukul 06.00 WIB, jadi hasilnya lengkap pada pembaruan pagi.

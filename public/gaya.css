@@ -392,3 +392,4 @@ a.laga:hover { text-decoration: none; border-color: var(--tinta); }
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; transition: none !important; }
 }
+.skor-ket { font-weight: 400; letter-spacing: 0.02em; text-transform: none; color: var(--redup-2); margin-left: 6px; }

@@ -3,7 +3,7 @@
 import crypto from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
-import { geserHari, hariPendek, labelWaktu, pembaruanBerikutnya, pukul, tanggalPanjang, tanggalWIB } from './waktu.mjs';
+import { geserHari, hariPendek, labelWaktu, pembaruanBerikutnya, pukul, tanggalPanjang, tanggalRingkas, tanggalWIB } from './waktu.mjs';
 import { topikUntuk } from './olah.mjs';
 import { AKAR } from './data.mjs';
 
@@ -233,20 +233,75 @@ function kartuLaga(l, ctx) {
     : `<div class="laga">${isi}</div>`;
 }
 
-// Isi satu liga: pertandingan berlangsung, hasil terakhir (terbaru dulu), lalu jadwal berikutnya.
-function isiLiga(laga, ctx, { maksHasil, maksJadwal }) {
-  const berlangsung = laga.filter((l) => l.status === 'berlangsung');
-  const hasil = laga.filter((l) => ['selesai', 'ditunda', 'batal'].includes(l.status)).sort((a, b) => b.mulai.localeCompare(a.mulai)).slice(0, maksHasil);
-  const jadwal = laga.filter((l) => l.status === 'pra').sort((a, b) => a.mulai.localeCompare(b.mulai)).slice(0, maksJadwal);
-  const blok = (judul, daftar) => (daftar.length ? `<h3 class="skor-sub">${judul}</h3><div class="grid-laga">${daftar.map((l) => kartuLaga(l, ctx)).join('')}</div>` : '');
-  return (
-    blok('Sedang berlangsung', berlangsung) + blok('Hasil terakhir', hasil) + blok('Jadwal berikutnya', jadwal) ||
-    '<p class="kosong">Belum ada pertandingan dalam sepekan terakhir.</p>'
-  );
+// Matchday terakhir sebuah liga. ESPN tidak menyertakan nomor pekan, jadi pekan disusun dari jadwal:
+// mulai dari pertandingan terakhir yang sudah dimainkan, ambil sisa jadwal pekan itu ke depan, lalu
+// mundur. Berhenti bila ada tim yang sudah bermain di pekan itu, ada jeda lebih dari 60 jam, atau
+// pekan sudah penuh (jumlah tim ÷ 2). Cara ini juga memisahkan pekan tengah minggu dari akhir pekan.
+const JEDA_PEKAN = 60 * 3600000;
+export function matchdayTerakhir(laga) {
+  const urut = laga.filter((l) => l.status !== 'batal').sort((a, b) => a.mulai.localeCompare(b.mulai));
+  const dimulai = (l) => l.status === 'selesai' || l.status === 'berlangsung';
+  const penuh = Math.floor(new Set(urut.flatMap((l) => [l.tuanRumah.namaLengkap, l.tamu.namaLengkap])).size / 2);
+
+  const pekanDari = (jangkar) => {
+    const tim = new Set();
+    const catat = (l) => tim.add(l.tuanRumah.namaLengkap).add(l.tamu.namaLengkap);
+    const bentrok = (l) => tim.has(l.tuanRumah.namaLengkap) || tim.has(l.tamu.namaLengkap);
+    let awal = jangkar;
+    let akhir = jangkar;
+    catat(urut[jangkar]);
+    while (akhir + 1 < urut.length && akhir - awal + 1 < penuh) {
+      const l = urut[akhir + 1];
+      if (Date.parse(l.mulai) - Date.parse(urut[akhir].mulai) > JEDA_PEKAN || bentrok(l)) break;
+      akhir += 1;
+      catat(l);
+    }
+    while (awal > 0 && akhir - awal + 1 < penuh) {
+      const l = urut[awal - 1];
+      if (Date.parse(urut[awal].mulai) - Date.parse(l.mulai) > JEDA_PEKAN || bentrok(l)) break;
+      awal -= 1;
+      catat(l);
+    }
+    return { awal, pekan: urut.slice(awal, akhir + 1) };
+  };
+
+  const jangkar = urut.findLastIndex(dimulai);
+  if (jangkar < 0) return [];
+  const pertama = pekanDari(jangkar);
+  // Laga susulan (tunda) yang dimainkan sendirian di tengah minggu bukan matchday:
+  // bila kelompoknya kecil dan sudah selesai semua, cari pekan sebelumnya yang lebih lengkap.
+  let kini = pertama;
+  for (let coba = 0; coba < 5 && kini.pekan.length < Math.max(2, penuh / 2) && kini.pekan.every(dimulai); coba += 1) {
+    const sebelumnya = urut.slice(0, kini.awal).findLastIndex(dimulai);
+    if (sebelumnya < 0) return pertama.pekan;
+    kini = pekanDari(sebelumnya);
+  }
+  return kini.pekan.length >= Math.max(2, penuh / 2) ? kini.pekan : pertama.pekan;
+}
+
+// "Sab 19 – Sen 21 Sep" (tanggal WIB).
+function rentangTanggal(pekan) {
+  const label = (tgl) => `${hariPendek(tgl)} ${Number(tgl.slice(8))}`;
+  const bulan = (tgl) => tanggalRingkas(tgl).split(' ')[1];
+  const awal = tanggalWIB(pekan[0].mulai);
+  const akhir = tanggalWIB(pekan[pekan.length - 1].mulai);
+  if (awal === akhir) return `${label(awal)} ${bulan(awal)}`;
+  return `${label(awal)}${bulan(awal) === bulan(akhir) ? '' : ` ${bulan(awal)}`} – ${label(akhir)} ${bulan(akhir)}`;
+}
+
+// Isi satu liga: hanya matchday terakhir, urut waktu (yang belum dimainkan ikut tampil dengan jam mulainya).
+function isiLiga(laga, ctx) {
+  const pekan = matchdayTerakhir(laga);
+  if (!pekan.length) return '<p class="kosong">Belum ada pertandingan dalam sepekan terakhir.</p>';
+  const selesai = pekan.filter((l) => l.status === 'selesai').length;
+  const sisa = pekan.length - selesai;
+  const ket = `${pekan.length} laga · ${selesai} selesai${sisa ? ` · ${sisa} belum selesai` : ''}`;
+  return `<h3 class="skor-sub">Matchday terakhir · ${esc(rentangTanggal(pekan))} <span class="skor-ket">${ket}</span></h3>
+<div class="grid-laga">${pekan.map((l) => kartuLaga(l, ctx)).join('')}</div>`;
 }
 
 // Blok "Skor terbaru" dengan tombol per liga. Dipakai di beranda dan halaman Olahraga.
-export function blokSkor(skor, ctx, { akar = '', maksHasil = 10, maksJadwal = 5, tingkat = 'h2' } = {}) {
+export function blokSkor(skor, ctx, { akar = '', tingkat = 'h2' } = {}) {
   const liga = (ctx.config.skor?.liga ?? []).filter((l) => skor?.liga?.[l.id]);
   if (!ctx.config.skor?.aktif || !liga.length) return '';
   return `<section class="skor l-olahraga" aria-labelledby="judul-skor">
@@ -256,12 +311,12 @@ export function blokSkor(skor, ctx, { akar = '', maksHasil = 10, maksJadwal = 5,
     .map((l, i) => `<button type="button" value="${l.id}" aria-controls="skor-${l.id}" aria-pressed="${i === 0}">${esc(l.nama)}</button>`)
     .join('')}</div>
 </div>
-${liga.map((l, i) => `<div class="skor-panel" id="skor-${l.id}"${i ? ' hidden' : ''}>${isiLiga(skor.liga[l.id].laga, ctx, { maksHasil, maksJadwal })}</div>`).join('\n')}
-<p class="skor-catatan">Data: ${esc(skor.sumber ?? 'ESPN')} · diperbarui ${pukul(skor.diperbarui)} WIB. Skor pertandingan yang sedang berlangsung tidak real-time. <a href="${akar}skor.html">Semua skor dan jadwal →</a></p>
+${liga.map((l, i) => `<div class="skor-panel" id="skor-${l.id}"${i ? ' hidden' : ''}>${isiLiga(skor.liga[l.id].laga, ctx)}</div>`).join('\n')}
+<p class="skor-catatan">Data: ${esc(skor.sumber ?? 'ESPN')} · diperbarui ${pukul(skor.diperbarui)} WIB. Skor pertandingan yang sedang berlangsung tidak real-time. <a href="${akar}skor.html">Lihat kelima liga sekaligus →</a></p>
 </section>`;
 }
 
-// Isi halaman skor.html: tiap liga lengkap (semua hasil sepekan terakhir dan jadwal).
+// Isi halaman skor.html: matchday terakhir kelima liga sekaligus.
 export function halamanSkorIsi(skor, ctx) {
   const liga = (ctx.config.skor?.liga ?? []).filter((l) => skor?.liga?.[l.id]);
   if (!liga.length) return '<p class="kosong">Data skor belum tersedia. Jalankan npm run skor.</p>';
@@ -269,7 +324,7 @@ export function halamanSkorIsi(skor, ctx) {
 ${liga
     .map((l) => `<section class="skor-liga" id="liga-${l.id}" aria-labelledby="judul-${l.id}">
 <h2 id="judul-${l.id}">${esc(l.nama)}</h2>
-${isiLiga(skor.liga[l.id].laga, ctx, { maksHasil: Infinity, maksJadwal: Infinity })}
+${isiLiga(skor.liga[l.id].laga, ctx)}
 </section>`)
     .join('\n')}
 <p class="skor-catatan">Data: ${esc(skor.sumber ?? 'ESPN')} · diperbarui ${esc(tanggalPanjang(tanggalWIB(skor.diperbarui)))}, ${pukul(skor.diperbarui)} WIB. Semua jam dalam WIB. Klik pertandingan untuk detailnya di ESPN.</p>`;

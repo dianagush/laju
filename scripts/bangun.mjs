@@ -184,7 +184,7 @@ for (const l of LAJUR) {
     deskripsi: `Berita ${config.lajur[l].nama.toLowerCase()} terbaru dari media Indonesia, diperbarui tiap hari.`,
     aktif: l,
     isi: `<div class="bungkus isi">
-${l === 'olahraga' && skor ? blokSkor(skor, ctx, { maksHasil: 6, maksJadwal: 4 }) : ''}
+${l === 'olahraga' && skor ? blokSkor(skor, ctx) : ''}
 <div class="terbaru-grid">
 <section class="lajur l-${l}">
 ${kepalaLajur(l, ctx, { tingkat: 'h1', tautan: false })}
@@ -289,7 +289,7 @@ ${kepalaLajur(l, ctx, { tautan: false })}
 if (skor) {
   tulis('skor.html', halaman(ctx, {
     judul: 'Skor sepak bola Eropa',
-    deskripsi: 'Hasil dan jadwal Liga Inggris, LaLiga, Serie A, Bundesliga, dan Ligue 1 sepekan terakhir.',
+    deskripsi: 'Skor matchday terakhir Liga Inggris, LaLiga, Serie A, Bundesliga, dan Ligue 1.',
     aktif: 'skor',
     isi: `<div class="bungkus isi isi--rapat l-olahraga">
 <div class="kepala-halaman-teks"><span class="label">5 liga teratas Eropa</span><h1 class="judul-halaman">Skor sepak bola</h1></div>
