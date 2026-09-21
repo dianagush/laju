@@ -46,7 +46,9 @@ const beritaBaru = tanggalBerita.slice(0, 3).flatMap(beritaHari);
 const acuan = Math.max(...beritaBaru.map((b) => Date.parse(b.terbit)));
 const jendela = beritaBaru.filter((b) => LAJUR.includes(b.lajur) && Date.parse(b.terbit) >= acuan - config.jendelaBerandaJam * JAM);
 const topik = topikHangat(jendela.filter((b) => Date.parse(b.terbit) >= acuan - 24 * JAM));
-const ctx = { config, status, hariIni, topik };
+// Ringkasan AI berita utama (scripts/ringkas-berita.mjs), per id berita; tidak wajib ada.
+const ringkasanBerita = bacaJson(path.join(AKAR, 'data', 'ringkasan-berita.json'), {});
+const ctx = { config, status, hariIni, topik, ringkasanBerita };
 
 const urutWaktu = (a, b) => b.terbit.localeCompare(a.terbit);
 const urutCerita = (a, b) => b.utama.terbit.localeCompare(a.utama.terbit);
@@ -64,6 +66,20 @@ const hariCerita = (k) => tanggalWIB(k.utama.terbit);
 const ceritaPadaHari = (tgl, l) => (tanggalTerkini.includes(tgl) ? ceritaTerkini[l].filter((k) => hariCerita(k) === tgl) : ceritaDari(beritaHari(tgl), l));
 
 const kelompokLajur = Object.fromEntries(SEMUA_LAJUR.map((l) => [l, urutPenting(ceritaTerkini[l].filter((k) => Date.parse(k.terbaru) >= acuan - config.jendelaBerandaJam * JAM), acuan)]));
+
+// Daftar berita utama (kartu utama + tumpukan tiap lajur) untuk scripts/ringkas-berita.mjs.
+const beritaUtama = SEMUA_LAJUR.flatMap((l) =>
+  kelompokLajur[l].slice(0, config.ringkasanBerita?.beritaPerLajur ?? 4).map((k) => ({
+    id: [k.utama.id, ...k.lain.map((b) => b.id)],
+    judul: k.utama.judul,
+    tautan: k.utama.tautan,
+    sumber: k.utama.sumber,
+    kanal: k.utama.kanal,
+    lajur: l,
+  })),
+);
+fs.mkdirSync(path.join(AKAR, '.laju'), { recursive: true });
+fs.writeFileSync(path.join(AKAR, '.laju', 'utama.json'), JSON.stringify(beritaUtama, null, 2));
 const infoSumber = (b) => ({ judul: b.judul, tautan: b.tautan, sumber: b.sumber, terbit: b.terbit });
 
 // Ringkasan Pagi dari AI, atau "Sorotan" (cerita paling banyak diliput) bila belum ada.
@@ -177,7 +193,9 @@ ${kotakSumber}
 
 const tigaHari = tanggalBerita.slice(0, 3);
 for (const l of SEMUA_LAJUR) {
-  const [utama] = kelompokLajur[l];
+  const [utama, ...sisaUtama] = kelompokLajur[l];
+  // Tiga berita penting berikutnya tampil sebagai tumpukan (bersama ringkasannya) di bawah kartu utama.
+  const tumpukLajur = sisaUtama.slice(0, 3);
   const lj = config.lajur[l];
   const namaMedia = [...new Set(config.sumber.filter((s) => s.lajur === l).map((s) => s.nama))];
   // Kategori (laju.config.mjs bagian `kategori`), bila lajur ini punya.
@@ -191,7 +209,7 @@ for (const l of SEMUA_LAJUR) {
   let jumlahDaftar = 0;
   const perHari = tigaHari
     .map((tgl) => {
-      const daftar = ceritaPadaHari(tgl, l).filter((k) => k !== utama);
+      const daftar = ceritaPadaHari(tgl, l).filter((k) => k !== utama && !tumpukLajur.includes(k));
       if (!daftar.length) return '';
       const judulHari = tgl === hariIni ? `Hari ini · ${tanggalPanjang(tgl)}` : tanggalPanjang(tgl);
       const baris = daftar.map((k) => {
@@ -235,6 +253,7 @@ ${l === 'olahraga' && skor ? blokSkor(skor, ctx) : ''}
 ${kepalaLajur(l, ctx, { tingkat: 'h1', tautan: false })}
 ${pengantar}
 ${utama ? kartuUtama(utama, ctx, daftarKategori ? { label: kategoriDari(utama).nama } : {}) : ''}
+${tumpukLajur.length ? `<div class="tumpuk">${tumpukLajur.map((k) => itemTumpuk(k, ctx, daftarKategori ? { label: kategoriDari(k).nama } : {})).join('')}</div>` : ''}
 ${tombolKategori}
 <div id="daftar-lajur">${perHari}</div>
 </section>

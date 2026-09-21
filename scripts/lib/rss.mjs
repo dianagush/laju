@@ -87,6 +87,8 @@ export function bacaFeed(xml) {
       cuplikan: potong(teksPolos(deskripsiMentah).replace(/^[A-Z0-9.,()' ]{3,60}\s(?:--|—|–|-)\s+/, ''), 240),
       gambar: cariGambar(potongan, deskripsiMentah),
       kategori: kategoriSumber(potongan),
+      // Teks RSS utuh (tidak disimpan); cadangan bahan ringkasan bila halaman artikel tak terbaca.
+      teksLengkap: teksPolos(deskripsiMentah),
     });
   }
   return hasil;

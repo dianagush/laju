@@ -89,6 +89,25 @@ export default {
     global: [],
   },
 
+  // Ringkasan satu paragraf untuk berita utama (kartu utama + 3 berita di bawahnya, tiap lajur),
+  // ditulis AI dari teks artikel. Tanpa kunci API, berita tampil dengan cuplikan biasa.
+  // - penyedia 'gemini': gratis dengan batas harian; kunci dari Google AI Studio, simpan sebagai
+  //   GitHub secret GEMINI_API_KEY. Di kuota gratis, teks yang dikirim dipakai Google untuk
+  //   mengembangkan produknya.
+  // - penyedia 'claude': berbayar; kunci dari console.anthropic.com sebagai secret ANTHROPIC_API_KEY.
+  ringkasanBerita: {
+    aktif: true,
+    penyedia: 'gemini',
+    modelGemini: 'gemini-3.6-flash',
+    // Dipakai bila model utama tidak tersedia atau kuotanya habis.
+    modelGeminiCadangan: 'gemini-3.5-flash-lite',
+    modelClaude: 'claude-opus-5',
+    beritaPerLajur: 4,
+    // Batas panggilan AI per pembaruan, supaya kuota gratis tidak cepat habis.
+    maksPerPembaruan: 12,
+    maksKata: 80,
+  },
+
   // Pembagian kategori per lajur (saat ini Teknologi Global). Tiap berita masuk SATU kategori:
   // kata di bawah dicocokkan dengan judul (bobot 3), label kategori dari media (2), dan cuplikan (1);
   // bila skornya sama, kategori yang lebih atas menang. Tidak cocok sama sekali → "Lainnya".

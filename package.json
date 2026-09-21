@@ -12,10 +12,11 @@
     "skor": "node scripts/ambil-skor.mjs",
     "ringkasan": "node scripts/ringkasan.mjs",
     "bangun": "node scripts/bangun.mjs",
-    "perbarui": "node scripts/ambil-berita.mjs && node scripts/ambil-skor.mjs && node scripts/ringkasan.mjs && node scripts/bangun.mjs",
+    "perbarui": "node scripts/ambil-berita.mjs && node scripts/ambil-skor.mjs && node scripts/ringkasan.mjs && node scripts/bangun.mjs && node scripts/ringkas-berita.mjs && node scripts/bangun.mjs",
     "lihat": "node scripts/lihat.mjs",
     "cek-duplikat": "node scripts/cek-duplikat.mjs",
-    "uji-sumber": "node scripts/uji-sumber.mjs"
+    "uji-sumber": "node scripts/uji-sumber.mjs",
+    "ringkas-berita": "node scripts/ringkas-berita.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.126.0"

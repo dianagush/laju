@@ -166,17 +166,33 @@ export function kartuUtama(k, ctx, { label } = {}) {
 <a class="foto foto--besar" href="${esc(b.tautan)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">${gambar(b.gambar, { segera: true })}</a>
 <div class="kicker"><b>${esc(label ?? kicker(b, ctx))}</b><span>${labelWaktu(b.terbit, ctx.hariIni)} WIB</span></div>
 <h3><a href="${esc(b.tautan)}" target="_blank" rel="noopener">${esc(b.judul)}</a></h3>
-${b.cuplikan ? `<p class="dek">${esc(b.cuplikan)}</p>` : ''}
+${ringkasanUntuk(k, ctx) ? paragrafRingkasan(ringkasanUntuk(k, ctx)) : b.cuplikan ? `<p class="dek">${esc(b.cuplikan)}</p>` : ''}
 <div class="asal"><strong>${esc(b.sumber)}</strong>${pil}</div>
 ${terkait}
 </article>`;
 }
 
-export function itemTumpuk(k, ctx) {
+// Ringkasan AI sebuah cerita (dari berita mana pun di cerita itu), atau null.
+function ringkasanUntuk(k, ctx) {
+  for (const b of [k.utama, ...k.lain]) {
+    const r = ctx.ringkasanBerita?.[b.id];
+    if (r?.teks) return r;
+  }
+  return null;
+}
+
+// Paragraf ringkasan berlabel "Ringkasan AI". `tag` = 'p' (kartu utama) atau 'span' (di dalam tautan).
+function paragrafRingkasan(r, tag = 'p') {
+  const penulis = r.penyedia === 'claude' ? 'Claude' : 'Gemini';
+  return `<${tag} class="ringkasan-ai" lang="id"><span class="label-ai" title="Ditulis otomatis oleh AI (${penulis}) dari isi artikel. Baca artikel aslinya untuk detail.">Ringkasan AI</span>${esc(r.teks)}</${tag}>`;
+}
+
+export function itemTumpuk(k, ctx, { label } = {}) {
   const b = k.utama;
+  const r = ringkasanUntuk(k, ctx);
   return `<a class="tumpuk-item" href="${esc(b.tautan)}" target="_blank" rel="noopener">
 <span class="foto foto--kecil">${gambar(b.gambar)}</span>
-<span class="tumpuk-teks"><span class="label">${esc(kicker(b, ctx))}</span><span class="judul-kecil">${esc(b.judul)}</span><span class="data">${asalCerita(k)} · ${labelWaktu(b.terbit, ctx.hariIni)}</span></span>
+<span class="tumpuk-teks"><span class="label">${esc(label ?? kicker(b, ctx))}</span><span class="judul-kecil"${atributBahasa(b, ctx)}>${esc(b.judul)}</span>${r ? paragrafRingkasan(r, 'span') : ''}<span class="data">${asalCerita(k)} · ${labelWaktu(b.terbit, ctx.hariIni)}</span></span>
 </a>`;
 }
 

@@ -415,3 +415,8 @@ a.laga:hover { text-decoration: none; border-color: var(--tinta); }
 .saring-lajur { display: flex; flex-direction: column; gap: 10px; padding-block: 8px 4px; }
 .saring-kategori button { font-size: 14px; }
 .saring button .jumlah { margin-left: 4px; font-family: var(--f-data); font-size: 12px; font-weight: 500; opacity: 0.75; }
+
+/* ---------- Ringkasan AI berita utama ---------- */
+.ringkasan-ai { display: block; margin: 0; max-width: 62ch; font-family: var(--f-baca); font-size: 18px; line-height: 1.6; color: var(--tinta-2); }
+.tumpuk-teks .ringkasan-ai { font-size: 15px; line-height: 1.55; }
+.label-ai { display: inline-block; margin-right: 8px; padding: 1px 6px; vertical-align: 2px; background: var(--muda); color: var(--warna-tua); font-family: var(--f-data); font-size: 10px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }

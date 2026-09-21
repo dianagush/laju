@@ -49,6 +49,15 @@ jobs:
       - name: Bangun situs
         run: node scripts/bangun.mjs
 
+      - name: Ringkasan AI berita utama (dilewati bila kunci API belum diatur)
+        run: node scripts/ringkas-berita.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Bangun ulang dengan ringkasan
+        run: node scripts/bangun.mjs
+
       - name: Simpan data ke repositori
         run: |
           git config user.name "github-actions[bot]"

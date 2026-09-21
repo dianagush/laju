@@ -99,6 +99,22 @@ data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
 .github/workflows/       jadwal otomatis GitHub Actions
 ```
 
+## Ringkasan AI berita utama
+
+Kartu utama dan tiga berita di bawahnya (tiap lajur, termasuk Global) bisa diberi **satu paragraf ringkasan** yang ditulis AI dari isi artikel, berlabel "Ringkasan AI". Berita Global diringkas dalam bahasa Indonesia. Hanya berita yang belum punya ringkasan yang dikirim ke AI; hasilnya disimpan di `data/ringkasan-berita.json`.
+
+Mengaktifkan (gratis, dengan Gemini):
+
+1. Buka [Google AI Studio](https://aistudio.google.com/apikey), masuk dengan akun Google, lalu **Create API key**.
+2. Di repositori GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Nama: `GEMINI_API_KEY`, isi: kuncinya.
+
+Catatan:
+
+- Kuota gratis Gemini dibatasi per hari; setiap pembaruan paling banyak meminta 12 ringkasan (`maksPerPembaruan`). Bila kuota habis, sisa berita diringkas pada pembaruan berikutnya dan sementara tampil dengan cuplikan biasa.
+- Di kuota gratis, teks yang dikirim dipakai Google untuk mengembangkan produknya. Yang dikirim hanya teks artikel berita publik.
+- Teks artikel diambil dari halaman berita (atau dari RSS bila halaman tidak terbaca, mis. Ars Technica). Berita berbayar seperti The New York Times dilewati.
+- Pindah ke Claude: ubah `penyedia` menjadi `'claude'` di bagian `ringkasanBerita` pada `laju.config.mjs`, lalu isi secret `ANTHROPIC_API_KEY` (berbayar).
+
 ## Kategori berita
 
 Halaman **Global** punya tombol kategori: AI, Keamanan & Privasi, Kebijakan & Hukum, Kendaraan & Transportasi, Sains & Antariksa, Game & Hiburan, Bisnis & Startup, Gawai & Ulasan, dan Lainnya. Setiap berita masuk satu kategori, ditentukan dari kata di judul (bobot 3), label kategori yang diberikan media di RSS-nya (bobot 2, mis. "AI" dari The Guardian atau "Gear / Reviews" dari WIRED), dan cuplikan (bobot 1).
