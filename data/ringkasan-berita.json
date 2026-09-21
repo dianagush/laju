@@ -40,5 +40,40 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-09-21T03:59:05.939Z"
+  },
+  "aea3fc0f4175": {
+    "teks": "Peneliti keamanan dari Hacktron AI menggunakan platform kecerdasan buatan Claude untuk membobol sistem OpenAI dalam waktu kurang dari 72 jam. Dengan meretas akun ChatGPT seorang karyawan, mereka berhasil mendapat akses ke informasi kode sumber dan ruang diskusi internal. OpenAI mengapresiasi laporan celah keamanan tersebut dengan memperketat token masuk serta memberikan imbalan sebesar USD 6.500.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-21T04:01:51.018Z"
+  },
+  "33c4639c973e": {
+    "teks": "Pewushu Indonesia Seraf Naro Siregar meraih medali perunggu pada nomor taolu changquan putra di Asian Games Aichi-Nagoya 2026 di Aichi, Jepang. Torehan nilai 9,720 tersebut sekaligus menjadi medali pertama bagi Indonesia dalam ajang ini. Posisi pertama dan kedua masing-masing ditempati oleh atlet Makau, Chi Hin Kuong dengan skor 9,723 dan Chi Kuan Song dengan skor 9,720.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-21T04:02:09.808Z"
+  },
+  "d324373fc970": {
+    "teks": "Tim nasional Indonesia menargetkan gelar juara pada ajang FIFA ASEAN Cup 2026 yang digelar di Stadion Utama Gelora Bung Karno, Jakarta. Pelatih John Herdman memanggil 23 pemain dan diprediksi menggunakan skema 3-4-2-1 untuk bersaing di Grup A melawan Singapura, Malaysia, serta Bangladesh. Meskipun kehilangan kapten Jay Idzes akibat cedera, Indonesia tetap berambisi menduduki puncak klasemen demi mengamankan satu tempat di laga final.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-21T04:02:20.868Z"
+  },
+  "2fab1312f6e2": {
+    "teks": "Analis menyamar dari Google berhasil menyusup ke dalam kelompok peretas TeamPCP yang melancarkan serangan rantai pasokan perangkat lunak secara masif. Operasi rahasia ini memungkinkan Google memantau aktivitas internal, mencegah pemerasan dengan mencabut kredensial yang dicuri, serta menambal celah keamanan. Informasi dari Google tersebut akhirnya membantu penegak hukum mengidentifikasi dan menangkap dua anggota utama peretas di Australia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-21T04:02:41.754Z"
+  },
+  "a40658395ba0": {
+    "teks": "Pemilihan internet rumah bergantung pada ketersediaan layanan di lokasi dan kebutuhan pengguna, dengan perbedaan utama pada cara penyedia mengirimkan koneksi melalui saluran fisik atau jaringan seluler. Internet kabel dan serat optik umumnya menawarkan kecepatan unduh rata-rata yang lebih tinggi, sementara internet nirkabel tetap kompetitif untuk penggunaan sehari-hari dan seringkali lebih mudah dipasang sendiri tanpa kunjungan teknisi. Pengguna disarankan memeriksa ketersediaan jaringan, perbandingan kecepatan, harga, serta ketentuan layanan di wilayah masing-masing sebelum memutuskan pilihan terbaik.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-21T04:02:58.807Z"
   }
 }
