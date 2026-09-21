@@ -1,7 +1,292 @@
 {
   "tanggal": "2026-09-21",
-  "diperbarui": "2026-09-21T04:04:15.895Z",
+  "diperbarui": "2026-09-21T07:30:19.832Z",
   "berita": [
+    {
+      "id": "40f1822ea8d9",
+      "judul": "Vietnam Jadi Korban, Timnas Voli Putri Indonesia Menang Telak di Asian Games",
+      "tautan": "https://www.viva.co.id/sport/1929993-vietnam-jadi-korban-timnas-voli-putri-indonesia-menang-telak-di-asian-games",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T07:29:14.000Z",
+      "cuplikan": "Timnas Voli Putri Indonesia tampil solid saat menghadapi Vietnam dalam perebutan klasifikasi peringkat kelima Asian Games 2026. Skuad Garuda Pertiwi berhasil menyapu ber",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/23/6a62181348b58-selebrasi-pemain-timnas-voli-putri-indonesia-saat-berlaga-di-avc-womens-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "32eff65755ad",
+      "judul": "Kejurnas Berkuda Memanah Tuntas, Ada Tantangan Baru Menuju PON 2028",
+      "tautan": "https://www.viva.co.id/sport/1929992-kejurnas-berkuda-memanah-tuntas-ada-tantangan-baru-menuju-pon-2028",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T07:26:48.000Z",
+      "cuplikan": "Kejuaraan Nasional (Kejurnas) Berkuda Memanah III Seri I 2026 menjadi salah satu tahapan penting dalam persiapan menuju Pekan Olahraga Nasional (PON) XXII/2028 di Nusa Te",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae955bb6109-kejurnas-berkuda-memanah-iii-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "374afaecaa50",
+      "judul": "Kevin Diks Terlibat Masalah Jelang Laga Timnas Indonesia di FIFA ASEAN Cup 2026, Ada Apa?",
+      "tautan": "https://www.viva.co.id/bola/1929991-kevin-diks-terlibat-masalah-jelang-laga-timnas-indonesia-di-fifa-asean-cup-2026-ada-apa",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T07:25:56.000Z",
+      "cuplikan": "Kevin Diks terlibat perselisihan dengan Shuto Machino saat Gladbach kalah dari Mainz. Drama penalti terjadi hingga membuat suasana internal klub disorot.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/21/6ab0db722c2b4-kevin-diks_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "ec86a28cdb3e",
+      "judul": "Thierry Henry Bakal Tampil di GBK, Rivalitas Arsenal dan MU Membara di Jakarta",
+      "tautan": "https://www.viva.co.id/bola/1929990-thierry-henry-bakal-tampil-di-gbk-rivalitas-arsenal-dan-mu-membara-di-jakarta",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T07:23:56.000Z",
+      "cuplikan": "Thierry Henry dipastikan ambil bagian dalam laga ekshibisi Champions Impact in Jakarta: The Rivalry Returns yang mempertemukan North London Legends dan United Legends di",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/22/69e8087acb4a4-mural-thierry-henry_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "833916db390a",
+      "judul": "Rival ASEAN Beri Pengakuan Mengejutkan ke Timnas Indonesia Jelang FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1929988-rival-asean-beri-pengakuan-mengejutkan-ke-timnas-indonesia-jelang-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T07:20:51.000Z",
+      "cuplikan": "Perkembangan Timnas Indonesia mendapat perhatian dari dua mantan pemain Asia Tenggara, Baihakki Khaizan dan Safiq Rahim. Keduanya menilai Skuad Garuda menunjukkan kemajua",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aacc218befe7-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "027544097bec",
+      "judul": "Update FIFA ASEAN Cup 2026, Pasukan John Herdman Dapat Pesan Penting dari Legenda Timnas Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1929986-update-fifa-asean-cup-2026-pasukan-john-herdman-dapat-pesan-penting-dari-legenda-timnas-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T07:15:37.000Z",
+      "cuplikan": "Timnas Indonesia mendapat pesan dari Ponaryo Astaman jelang tampil di FIFA ASEAN Cup 2026. Mantan gelandang Skuad Garuda itu meminta para pemain tampil maksimal dan berju",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/03/6a2039bba2087-calvin-verdonk-dan-thom-haye_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "570fe5cd268e",
+      "judul": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-21T07:12:04.000Z",
+      "cuplikan": "Jensen Huang dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’ Business live – latest updates The boss of the chipmaker Nvidia has said AI will not develop to a point that will lead to the extinction…",
+      "gambar": "https://i.guim.co.uk/img/media/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/master/4968.jpg?width=140&quality=85&auto=format&fit=max&s=c64ed90881ba2b4dea5d04f8ffb5c7d6",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Nvidia",
+        "Computing",
+        "Technology",
+        "Technology sector",
+        "Business",
+        "UK news",
+        "US news",
+        "World news"
+      ]
+    },
+    {
+      "id": "bf17a8f2223d",
+      "judul": "Hasil Asian Games Aichi-Nagoya 2026: Timnas Voli Putri Indonesia Menang 3-0 atas Vietnam",
+      "tautan": "https://sports.okezone.com/read/2026/09/21/43/3243311/hasil-asian-games-aichi-nagoya-2026-timnas-voli-putri-indonesia-menang-3-0-atas-vietnam",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T07:10:32.000Z",
+      "cuplikan": "Timnas voli putri Indonesia menang atas Vietnam dengan skor 25-20, 25-21, dan 25-18.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/21/43/3243311/timnas_voli_putri_indonesia_menang_atas_vietnam-pf8c_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "b96b12b36beb",
+      "judul": "MU Lesu, Michael Carrick Diprediksi Dipecat Sebelum Ganti Tahun",
+      "tautan": "https://www.viva.co.id/bola/1929960-mu-lesu-michael-carrick-diprediksi-dipecat-sebelum-ganti-tahun",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T07:00:00.000Z",
+      "cuplikan": "Manchester United (MU) hanya mengoleksi 5 poin dari lima laga Premier League. Perry Groves memprediksi Michael Carrick tak akan bertahan hingga pertengahan musim.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/04/69f7ec3477c30-pelatih-manchester-united-michael-carrick_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "5792201a6027",
+      "judul": "AS Usul Mekanisme Peringatan Dini Insiden AI ke China Jelang Pertemuan Trump-Xi",
+      "tautan": "https://www.liputan6.com/tekno/read/8295992/as-usul-mekanisme-peringatan-dini-insiden-ai-ke-china-jelang-pertemuan-trump-xi",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-21T06:30:00.000Z",
+      "cuplikan": "Menkeu AS Scott Bessent mengusulkan sistem pertukaran informasi insiden AI demi menekan risiko keamanan nasional dan global bersama China.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/KdrXogFF1OgqOLj4Su4apIvELwk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5842276/original/013183100_1778744131-2.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "fcc13ebcd118",
+      "judul": "Leica Lubis Raih Perunggu Asian Games 2026, Bersyukur tetapi Masih Menyimpan Penyesalan",
+      "tautan": "https://www.liputan6.com/bola/read/8295776/leica-lubis-raih-perunggu-asian-games-2026-bersyukur-tetapi-masih-menyimpan-penyesalan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T06:00:56.000Z",
+      "cuplikan": "Leica masih menyesal tak bisa lolos ke final. Pada akhirnya Leica harus puas meraih perunggu di Asian Games 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/FNtUHRWNhuGL10cirMia8D3CShU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5566079/original/046766300_1777112108-76a6c607-dbd4-4330-ab30-092fe591705d.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "81273493f1a2",
+      "judul": "Eliano Reijnders Diduga Sindir John Herdman usai Tak Dipanggil ke Timnas Indonesia untuk FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1929956-eliano-reijnders-diduga-sindir-john-herdman-usai-tak-dipanggil-ke-timnas-indonesia-untuk-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T06:00:00.000Z",
+      "cuplikan": "Eliano Reijnders diduga menyinggung absennya dari skuad Timnas Indonesia untuk FIFA ASEAN Cup 2026 lewat unggahan setelah Persib menang atas Persijap.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/21/6ab0b71153abd-pemain-persib-bandung-eliano-reijnders_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "f9a4a0828935",
+      "judul": "Sempat Tembus Posisi 4 di Moto3 Austria 2026, Veda Ega Pratama Pasrah Keputusan Race Direction!",
+      "tautan": "https://sports.okezone.com/read/2026/09/21/38/3243301/sempat-tembus-posisi-4-di-moto3-austria-2026-veda-ega-pratama-pasrah-keputusan-race-direction",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T05:56:20.000Z",
+      "cuplikan": "Veda Ega Pratama harus puas finis di posisi 13 Moto3 Austria 2026 setelah terkena Long Lap Penalty.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/21/38/3243301/veda_ega_pratama_pasrah_finis_ke_13_di_moto3_austria_2026_hondateamasia-7wy0_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "ed02e31193f8",
+      "judul": "Update Daftar Skuad Timnas Indonesia, John Herdman Mendadak Panggil Satu Pemain Keturunan Baru",
+      "tautan": "https://www.viva.co.id/bola/1929969-update-daftar-skuad-timnas-indonesia-john-herdman-mendadak-panggil-satu-pemain-keturunan-baru",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T05:53:28.000Z",
+      "cuplikan": "John Herdman menambah kekuatan Timnas Indonesia jelang FIFA ASEAN Cup 2026. Pemanggilan Shayne Pattynama membuat skuad Garuda kini berjumlah 24 pemain terbaru.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/21/6ab0c4d7cee73-john-herdman_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "105a3cb51629",
+      "judul": "Atlet MMA Vallensia Fahira Raih Perunggu Asian Games 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8295974/atlet-mma-vallensia-fahira-raih-perunggu-asian-games-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T05:28:45.000Z",
+      "cuplikan": "Vallensia kalah dari atlet Thailand di babak semifinal sehingga cuma mendapat perunggu di Asian Games 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/fAwLYp6wZFz3ZR1Y0zacjG2pwXA=/0x0:1280x721/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5439826/original/042780800_1765380226-MMA_Sea_Games_2025.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "fde1b75cb341",
+      "judul": "Waspada RatHat, Malware AI Baru yang Bisa Ambil Alih HP Android",
+      "tautan": "https://www.liputan6.com/tekno/read/8295767/waspada-rathat-malware-ai-baru-yang-bisa-ambil-alih-hp-android",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-21T05:00:41.000Z",
+      "cuplikan": "Muncul malware baru bernama RatHat yang bisa mencuri semua informasi di HP Android. Seberapa bahaya?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/y_Iv4OY-rZw7rFsql9L_846AGEI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/973802/original/000294100_1441103356-malware_codepolitan.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "d02fb32e1dcf",
+      "judul": "Hasil Asian Games 2026: Vallensia Fahira Hotmauli Sumbang Perunggu Keenam bagi Indonesia!",
+      "tautan": "https://sports.okezone.com/read/2026/09/21/43/3243281/hasil-asian-games-2026-vallensia-fahira-hotmauli-sumbang-perunggu-keenam-bagi-indonesia",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T04:49:37.000Z",
+      "cuplikan": "Vallensia Fahira Hotmauli mempersembahkan medali perunggu bagi kontingen Indonesia di Asian Games 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/21/43/3243281/vallensia_fahira_hotmauli_sumbang_perunggu_bagi_indonesia_di_asian_games_2026_vallenfahira-ReJI_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "ede6a6298492",
+      "judul": "Calvin Verdonk Kembali Tak Dimainkan, Lille Dipecundangi Tim Juru Kunci Nice",
+      "tautan": "https://www.viva.co.id/bola/1929949-calvin-verdonk-kembali-tak-dimainkan-lille-dipecundangi-tim-juru-kunci-nice",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T04:26:48.000Z",
+      "cuplikan": "Pemain Timnas Indonesia Calvin Verdonk kembali tidak dimainkan saat Lille kalah 1-2 dari OGC Nice pada pekan kelima Ligue 1 2026-2027, Minggu 20 September 2026.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/11/6a2a1bc958eb8-pemain-timnas-indonesia-calvin-verdonk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "0cacfab9accc",
+      "judul": "Verifikasi Informasi MBG di Media Sosial Kini Didominasi Akun AI",
+      "tautan": "https://www.jawapos.com/teknologi/2609210065/verifikasi-informasi-mbg-di-media-sosial-kini-didominasi-akun-ai",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-21T04:11:08.000Z",
+      "cuplikan": "Akun AI jadi verifikator utama isu MBG di media sosial X. Riset UPN Veteran Jatim ungkap pola percakapan terfragmentasi dan dominasi akun AI.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/07/02/ilustrasi-teknologi-artificial-intelligence-harus-memiliki-etika-dan-batas-yang-jelas-logicgate-risk-cloud-PtKj4.webp"
+    },
+    {
+      "id": "a7f17a7683a4",
+      "judul": "Hasil MPL ID S18 Week 6: EVOS Bikin Persaingan Playoff Makin Panas",
+      "tautan": "https://www.liputan6.com/tekno/read/8295761/hasil-mpl-id-s18-week-6-evos-bikin-persaingan-playoff-makin-panas",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-21T04:07:23.000Z",
+      "cuplikan": "EVOS menghentikan tujuh kemenangan beruntun TLID di MPL ID S18. Bagaimana hasil lengkap Week 6 Day 3?",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/KEkTwhkqr719w476nswV1fF6eDM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5538673/original/073262100_1774572336-MPL_ID_S17_02.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
     {
       "id": "545c34fd23f8",
       "judul": "Top 3 Tekno: Gemini Bobol Sistem 3 Perusahaan Jadi Sorotan",
@@ -259,7 +544,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-09-21T02:30:32.000Z",
-      "cuplikan": "Seventh intergenerational report also outlines how Australia is at cusp of an uncertain age of artificial intelligence Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast…",
+      "cuplikan": "Seventh intergenerational report also outlines how Australia is on the brink of an uncertain age of artificial intelligence Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast…",
       "gambar": "https://i.guim.co.uk/img/media/9f31d4906d75f1f85fff8ab79ffe818176d3d573/522_46_2393_1915/master/2393.jpg?width=140&quality=85&auto=format&fit=max&s=3db51882379317698ed93f28bb35fa18",
       "kategoriSumber": [
         "Australian economy",
@@ -749,7 +1034,7 @@
     },
     {
       "id": "cb03d7f13be9",
-      "judul": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "judul": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "tautan": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "sumber": "The Verge",
       "kanal": "verge",

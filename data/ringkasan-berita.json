@@ -96,5 +96,26 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-09-21T04:04:53.355Z"
+  },
+  "5792201a6027": {
+    "teks": "Amerika Serikat mengusulkan sistem peringatan dini terkait ancaman keamanan nasional akibat kecerdasan buatan kepada Pemerintah China. Usul tersebut disampaikan Menteri Keuangan Scott Bessent kepada Wakil Perdana Menteri He Lifeng menjelang pertemuan Presiden Donald Trump dan Presiden Xi Jinping. Langkah ini diharapkan membuka jalur komunikasi atas risiko AI, meskipun pihak China belum memberikan kesepakatan resmi terkait mekanisme tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-21T07:30:35.989Z"
+  },
+  "fde1b75cb341": {
+    "teks": "Perusahaan keamanan siber Zimperium menemukan malware berbasis AI bernama RatHat yang mengincar pengguna Android melalui situs web tiruan. Setelah memperoleh izin aksesibilitas, program jahat ini mengambil alih kendali penuh perangkat secara diam-diam untuk mencuri data pribadi, kata sandi, hingga kode PIN. Karena sulit dihapus, pembersihan perangkat memerlukan pengaturan ulang pabrik, sehingga pengguna disarankan menolak izin aksesibilitas dan menghindari tautan mencurigakan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-21T07:30:54.063Z"
+  },
+  "570fe5cd268e": {
+    "teks": "Bos Nvidia, Jensen Huang, menepis kekhawatiran bahwa kecerdasan buatan akan memusnahkan umat manusia pada tahun 2030. Ia menilai narasi kiamat yang memicu ketakutan publik tersebut tidak berdasar sains dan sangat tidak bertanggung jawab. Menurut Huang, keberhasilan perusahaannya sangat bergantung pada penerapan teknologi secara aman dengan tetap mematuhi hukum dan aturan keselamatan yang berlaku.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-21T07:31:10.902Z"
   }
 }

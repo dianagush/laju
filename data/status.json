@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-21T04:04:15.895Z",
+  "diperbarui": "2026-09-21T07:30:19.832Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -16,7 +16,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-21T04:00:40.000Z"
+      "terbaru": "2026-09-21T06:30:00.000Z"
     },
     {
       "id": "viva-digital",
@@ -43,14 +43,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 50,
-      "diterima": 41,
+      "diterima": 40,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 9,
+        "terlaluLama": 10,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T04:39:21.000Z"
+      "terbaru": "2026-09-21T04:11:08.000Z"
     },
     {
       "id": "okezone-techno",
@@ -118,7 +118,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-21T04:00:17.000Z"
+      "terbaru": "2026-09-21T06:00:56.000Z"
     },
     {
       "id": "viva-bola",
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-21T04:00:00.000Z"
+      "terbaru": "2026-09-21T07:25:56.000Z"
     },
     {
       "id": "viva-sport",
@@ -145,14 +145,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 100,
-      "diterima": 56,
+      "diterima": 58,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 44,
+        "terlaluLama": 42,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T12:48:10.000Z"
+      "terbaru": "2026-09-21T07:29:14.000Z"
     },
     {
       "id": "okezone-sports",
@@ -169,7 +169,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-21T02:19:38.000Z"
+      "terbaru": "2026-09-21T07:10:32.000Z"
     },
     {
       "id": "antara-bola",
@@ -315,14 +315,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 32,
-      "diterima": 22,
+      "diterima": 21,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 10,
+        "terlaluLama": 11,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-21T02:30:32.000Z"
+      "terbaru": "2026-09-21T07:12:04.000Z"
     },
     {
       "id": "nyt-tech",

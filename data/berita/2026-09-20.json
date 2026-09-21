@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-20",
-  "diperbarui": "2026-09-21T04:04:15.895Z",
+  "diperbarui": "2026-09-21T07:30:19.832Z",
   "berita": [
     {
       "id": "ac606a27e6e9",
@@ -356,6 +356,20 @@
       "terbit": "2026-09-20T15:23:57.000Z",
       "cuplikan": "Pasangan atlet panjat tebing Indonesia Raji'ah Sallsabillah dan Kadek Adi Asih berhasil menyabet medali perak nomor ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/21/1000527525.jpg"
+    },
+    {
+      "id": "d94833c02c57",
+      "judul": "Jadwal Timnas Indonesia di FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8295656/jadwal-timnas-indonesia-di-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-20T15:22:38.000Z",
+      "cuplikan": "Rangkaian FIFA ASEAN Cup 2026 bisa disaksikan langsung melalui Emtek Group.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/iGqVwT_D0O3qPAOJAvl4poBf7Ds=/0x374:3999x2628/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/7850682/original/021382300_1780673642-20260605BL_Timnas_Indonesia_Vs_Oman_FIFA_Matchday_2026-11.jpg.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "a2f198b5e3ec",
@@ -738,6 +752,29 @@
       "terbit": "2026-09-20T13:03:53.000Z",
       "cuplikan": "PSMS Medan membungkam tamunya Persiku Kudus dengan skor 6-0 pada laga pekan kedua Pegadaian Championship 2026/2027 yang ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/20/psms-medan-kalahkan-persiku-kudus-2867499.jpg"
+    },
+    {
+      "id": "5d034d73df33",
+      "judul": "UK startup snares $20m to recreate gigs with ‘hyper-realistic’ digital avatars",
+      "tautan": "https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-20T13:00:16.000Z",
+      "cuplikan": "Unit1 hopes to offer lower cost version of shows such as Abba Voyage, showcasing living and dead artists in any venue The former chief executive of Andrew Lloyd Webber’s entertainment group has obtained a near-£15m investment for his UK…",
+      "gambar": "https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=140&quality=85&auto=format&fit=max&s=7e486bcca1346c093ef761d23d02ce30",
+      "kategoriSumber": [
+        "Music industry",
+        "Digital music and audio",
+        "Media",
+        "Technology",
+        "KT Tunstall",
+        "Business",
+        "Music",
+        "Culture",
+        "AI (artificial intelligence)",
+        "Andrew Lloyd Webber"
+      ]
     },
     {
       "id": "c80830243c59",
