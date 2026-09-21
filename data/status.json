@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-21T02:18:31.228Z",
+  "diperbarui": "2026-09-21T02:47:57.607Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -43,11 +43,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 50,
-      "diterima": 42,
+      "diterima": 41,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 8,
+        "terlaluLama": 9,
         "masaDepan": 0
       },
       "terbaru": "2026-09-20T04:39:21.000Z"
@@ -108,17 +108,17 @@
       "nama": "Liputan6",
       "kanal": "Bola",
       "lajur": "olahraga",
-      "ok": false,
-      "galat": "Koneksi gagal (ECONNRESET)",
-      "jumlahFeed": 0,
-      "diterima": 0,
+      "ok": true,
+      "galat": null,
+      "jumlahFeed": 50,
+      "diterima": 50,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": null
+      "terbaru": "2026-09-21T02:40:10.000Z"
     },
     {
       "id": "viva-bola",
@@ -169,7 +169,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-09-20T20:15:59.000Z"
+      "terbaru": "2026-09-21T02:19:38.000Z"
     },
     {
       "id": "antara-bola",
@@ -264,11 +264,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 16,
+      "diterima": 15,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 4,
+        "terlaluLama": 5,
         "masaDepan": 0
       },
       "terbaru": "2026-09-20T05:29:32.000Z"
