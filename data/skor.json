@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-22T01:23:31.032Z",
+  "diperbarui": "2026-09-22T07:09:40.386Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -536,7 +536,7 @@
             "skor": 0,
             "menang": false
           },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882861/malaga-getafe"
+          "tautan": "https://www.espn.com/soccer/match?gameId=401882861/malaga-getafe"
         },
         {
           "id": "401882865",
