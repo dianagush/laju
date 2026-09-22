@@ -292,5 +292,33 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-09-22T13:03:42.364Z"
+  },
+  "1ad5c235d18c": {
+    "teks": "Adobe meluncurkan aplikasi Premiere di platform Android yang kini dapat diunduh lewat Google Play. Pengguna bisa memakai berbagai fitur edit dasar dan mengekspor video 4K secara gratis tanpa batasan maupun watermark. Adapun fitur canggih berbasis AI dan kapasitas penyimpanan awan ekstra dapat diakses melalui pembelian di dalam aplikasi. Aplikasi ini membutuhkan spesifikasi perangkat minimal sistem operasi Android 13 dan RAM 5 GB.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T17:51:54.445Z"
+  },
+  "9cb6403322f0": {
+    "teks": "Kecerdasan buatan atau AI kini mulai dimanfaatkan oleh para arsitek dan desainer untuk mempercepat eksplorasi konsep serta visual desain. Meskipun mampu menghasilkan berbagai kemungkinan bentuk secara cepat, teknologi tersebut belum bisa menggantikan peran sentuhan manusia. Keputusan akhir, intuisi, kreativitas, serta nilai artistik dan material tetap membutuhkan pertimbangan langsung dari seorang arsitek.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T17:52:46.750Z"
+  },
+  "d132c8bf9fec": {
+    "teks": "Pelatih Timnas Indonesia, John Herdman, merombak skuad untuk FIFA ASEAN Cup 2026 dengan mencoret Dony Tri Pamungkas dan Yakob Sayuri setelah sesi latihan perdana. Dony dipulangkan karena masalah kebugaran, sementara Yakob harus menjalani perawatan di rumah sakit akibat sakit. Sebagai pengganti, pelatih memanggil Shayne Pattynama dan Rizky Eka Pratama ke dalam tim.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T17:53:09.470Z"
+  },
+  "5f3b2680ef21": {
+    "teks": "Pemerintah Amerika Serikat telah mengalokasikan anggaran besar selama 25 tahun terakhir untuk mendirikan tembok virtual berupa menara pengawas di perbatasan selatan. Kendati diklaim mampu mendeteksi pelanggar dan menyelamatkan jiwa, investigasi menunjukkan lebih dari seribu orang tetap meninggal di area pengawasan tersebut tanpa sempat mendapat pertolongan. Kegagalan fungsi teknologi pengamanan ini memperlihatkan krisis kemanusiaan yang parah di wilayah perbatasan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T17:53:52.882Z"
   }
 }
