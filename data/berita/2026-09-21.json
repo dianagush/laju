@@ -1,7 +1,556 @@
 {
   "tanggal": "2026-09-21",
-  "diperbarui": "2026-09-21T14:45:08.508Z",
+  "diperbarui": "2026-09-22T01:23:19.176Z",
   "berita": [
+    {
+      "id": "f79a067193d7",
+      "judul": "Google confirms Gemini models hacked three companies in May 2026",
+      "tautan": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:57:26.000Z",
+      "cuplikan": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "cybersecurity",
+        "gemini",
+        "google"
+      ]
+    },
+    {
+      "id": "74733e5c8235",
+      "judul": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+      "tautan": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:53:07.000Z",
+      "cuplikan": "Democrats are jockeying to embrace new safeguards, while Republicans have aligned with President Trump’s warnings against slowing down the technology.",
+      "gambar": "https://static01.nyt.com/images/2026/06/18/multimedia/21pol-ai-politics-2028-promo/21pol-ai-politics-2028-grid-2-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Presidential Election of 2028",
+        "Regulation and Deregulation of Industry",
+        "Democratic Party",
+        "Republican Party",
+        "Cruz, Ted",
+        "Harris, Kamala D",
+        "Beshear, Andrew G (1977- )",
+        "Kelly, Mark E (1964- )",
+        "Newsom, Gavin"
+      ]
+    },
+    {
+      "id": "e502a49a4bcb",
+      "judul": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+      "tautan": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:45:47.000Z",
+      "cuplikan": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Gadgets",
+        "Hardware",
+        "Venture",
+        "forerunner ventures",
+        "IPO",
+        "oura"
+      ]
+    },
+    {
+      "id": "5169d5a0c73e",
+      "judul": "Russel Vought will reportedly be given veto power over all NIH grants",
+      "tautan": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:40:26.000Z",
+      "cuplikan": "Pending move comes over the objections of the NIH director.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287518863-1024x648.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "Science",
+        "Bhattacharya",
+        "grants",
+        "NIH",
+        "OMB",
+        "science funding",
+        "Trump",
+        "Vought"
+      ]
+    },
+    {
+      "id": "af70c43bf114",
+      "judul": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "tautan": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:38:51.000Z",
+      "cuplikan": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "accounting",
+        "Startup Battlefield 200",
+        "Tabby"
+      ]
+    },
+    {
+      "id": "aea07101530a",
+      "judul": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+      "tautan": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:35:59.000Z",
+      "cuplikan": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago…",
+      "gambar": "",
+      "kategoriSumber": [
+        "News",
+        "Sony",
+        "Tech"
+      ]
+    },
+    {
+      "id": "04e4307dd887",
+      "judul": "Stop relying on AI chatbots for customer care, UK banks and energy firms told",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:35:31.000Z",
+      "cuplikan": "Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘right to talk to a human’ Stop relying on AI chatbots for customer care and guarantee the “right to talk to a human”…",
+      "gambar": "https://i.guim.co.uk/img/media/052b2447feb6c3258cfe4c4f883125d7116c6c47/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3b9849aeacee0d526dbd5e5ddc0f92f2",
+      "kategoriSumber": [
+        "Chatbots",
+        "Utilities",
+        "Banking",
+        "Technology",
+        "Mobile phones",
+        "Internet, phones & broadband",
+        "Consumer affairs",
+        "AI (artificial intelligence)"
+      ]
+    },
+    {
+      "id": "69288081924c",
+      "judul": "Google Vs Samsung: What features set their digital wallets apart?",
+      "tautan": "https://www.engadget.com/2261083/google-vs-samsung-digital-wallet-features-comparison/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:30:00.000Z",
+      "cuplikan": "Google and Samsung's digital wallets are solid options for storing cards, passes, tickets and IDs on Android devices, but there are some subtle differences.",
+      "gambar": "https://www.engadget.com/img/gallery/google-vs-samsung-what-features-set-their-digital-wallets-apart/l-intro-1789650004.jpg",
+      "kategoriSumber": [
+        "Google",
+        "Samsung"
+      ]
+    },
+    {
+      "id": "4a692e7ed9d4",
+      "judul": "Atlet 13 Tahun China Rebut 2 Emas Asian Games 2026, Waktunya Dekati Rekor Dunia",
+      "tautan": "https://www.liputan6.com/bola/read/8296504/atlet-13-tahun-china-rebut-2-emas-asian-games-2026-waktunya-dekati-rekor-dunia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T16:28:42.000Z",
+      "cuplikan": "Yu Zidi yang baru berusia 13 tahun meraih emas kedua di Asian Games 2026 nomor 200 m gaya ganti putri.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/7BYbzs53XHkt6nmcU_eODMn7J0M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9354117/original/094781400_1790005563-000_C8VJ8U8.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "3e5a5af806af",
+      "judul": "Kata-kata Berkelas Luke Vickery Jelang FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1930130-kata-kata-berkelas-luke-vickery-jelang-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T16:28:25.000Z",
+      "cuplikan": "Luke Vickery dan Maarten Paes sudah tiba di Jakarta. Timnas Indonesia kini hampir lengkap jelang FIFA ASEAN Cup 2026, dengan 21 pemain telah berkumpul.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/16/6a58a6d88a1c4-penyerang-baru-timnas-indonesia-luke-vickery_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a9c684051bd0",
+      "judul": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "tautan": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:15:26.000Z",
+      "cuplikan": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "California",
+        "Paramount Skydance",
+        "warner bros. discovery"
+      ]
+    },
+    {
+      "id": "d4cc4886d664",
+      "judul": "Update Asian Games 2026: China Terlalu Tangguh, Timnas Basket Putri Indonesia Dibantai 110-41",
+      "tautan": "https://www.viva.co.id/sport/1930122-update-asian-games-2026-china-terlalu-tangguh-timnas-basket-putri-indonesia-dibantai-110-41",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T16:11:57.000Z",
+      "cuplikan": "Timnas basket putri Indonesia harus menutup fase grup Asian Games 2026 dengan kekalahan telak. Skuad Merah Putih takluk 41-110 dari China pada laga terakhir Grup A di Aic",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/20/6aafb99ed4acd-timnas-basket-putri-indonesia-tembus-8-besar-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "7e5125944941",
+      "judul": "Kinerja Persib Bandung di September 2026: Berjaya di Seoul",
+      "tautan": "https://www.liputan6.com/bola/read/8296494/kinerja-persib-bandung-di-september-2026-berjaya-di-seoul",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T16:02:41.000Z",
+      "cuplikan": "Persib Bandung menutup September 2026 dengan tiga kemenangan dan sekali kalah. Menang 1-0 di Seoul dan comeback 2-1 di Jepara.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/6VYQYIQxwPCXDkxZ7rlEwDbykc0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350601/original/058057700_1789623654-persib.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "21bcc0b49a9d",
+      "judul": "Apple Siapkan Smart Display untuk Saingi Echo Show dan Nest Hub, Bisa Kenali Wajah Pengguna",
+      "tautan": "https://www.jawapos.com/teknologi/2609210369/apple-siapkan-smart-display-untuk-saingi-echo-show-dan-nest-hub-bisa-kenali-wajah-pengguna",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-21T16:00:36.000Z",
+      "cuplikan": "Apple siapkan smart display dengan fitur kenali wajah pengguna. Perangkat ini siap saingi Echo Show dan Nest Hub dengan sistem AI terbaru.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/02/25/IMG_4635-3314941787.jpeg"
+    },
+    {
+      "id": "b9232a0fc910",
+      "judul": "Why is there a waitlist for Siri AI in iOS 27?",
+      "tautan": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-21T16:00:00.000Z",
+      "cuplikan": "Siri AI brings a lot of improvements, but you might not be able to use it for a while, even with iOS 27 and a compatible device.",
+      "gambar": "https://www.engadget.com/img/gallery/why-is-there-a-waitlist-for-siri-ai-in-ios-27/l-intro-1789650141.jpg",
+      "kategoriSumber": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "30c93d4a78ef",
+      "judul": "Manchester City Makin Kokoh di Puncak, Brighton Naik ke Posisi Ketiga Liga Inggris, Chelsea Merana di Posisi 10",
+      "tautan": "https://www.viva.co.id/bola/1930117-manchester-city-makin-kokoh-di-puncak-brighton-naik-ke-posisi-ketiga-liga-inggris-chelsea-merana-di-posisi-10",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:58:37.000Z",
+      "cuplikan": "Manchester City kokoh di puncak klasemen Liga Inggris setelah menang 5-3 atas Sunderland. Brighton naik ke posisi ketiga setelah mengalahkan Arsenal 3-0.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa6df41e22d3-pemain-manchester-city-erling-haaland_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "f33eaa85f4c7",
+      "judul": "Atlet Thailand Positif Doping, Partisipasi di Asian Games 2026 Tanda Tanya",
+      "tautan": "https://www.liputan6.com/bola/read/8296502/atlet-thailand-positif-doping-partisipasi-di-asian-games-2026-tanda-tanya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:43:47.000Z",
+      "cuplikan": "Pitchamon Opatniputh positif furosemide dari tes sebelum Asian Games 2026 berlangsung.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/x56pOTWCE5IP9y0OZSetuU2kewk=/0x0:3000x1687/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5484227/original/060747900_1769416908-20260125BL_Chen_Yu_Fei_Vs_Pitchamon_Opatniputh_17.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5335b9fc6d59",
+      "judul": "21 Pemain Tiba di Jakarta, Timnas Indonesia Matangkan Persiapan untuk FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8296490/21-pemain-tiba-di-jakarta-timnas-indonesia-matangkan-persiapan-untuk-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:39:16.000Z",
+      "cuplikan": "Sebanyak 21 pemain sudah bergabung di Jakarta. John Herdman menyiapkan 23 nama, termasuk Shayne Pattynama yang dipanggil 20 September 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Un1zVMN2vXTIL3WO-HsxMi1rBwc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9354109/original/091587100_1790004460-WhatsApp_Image_2026-09-21_at_9.13.20_PM__2_.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a7f35bf45e5f",
+      "judul": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "tautan": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-21T15:37:56.000Z",
+      "cuplikan": "The president offered few details on what his proposed new AI Force would do.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
+      "kategoriSumber": [
+        "AI",
+        "AI Czar",
+        "AI Force",
+        "AI regulation",
+        "syndication",
+        "Trump"
+      ]
+    },
+    {
+      "id": "2f31ca50973f",
+      "judul": "The A.I. Party House Where Networking Has a Dark Side",
+      "tautan": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-21T15:37:40.000Z",
+      "cuplikan": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
+      "gambar": "https://static01.nyt.com/images/2026/09/23/multimedia/AI-HOUSE-Hillsborough-1-flph/AI-HOUSE-Hillsborough-1-flph-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Parties (Social)",
+        "Real Estate and Housing (Residential)",
+        "Police",
+        "Computers and the Internet",
+        "Renting and Leasing (Real Estate)",
+        "AGI House Labs Inc",
+        "Chen, Jimmy",
+        "Brin, Sergey",
+        "San Francisco Bay Area (Calif)"
+      ]
+    },
+    {
+      "id": "4a9feea63c81",
+      "judul": "Luke Vickery hingga Maarten Paes tiba, skuad timnas hampir lengkap",
+      "tautan": "https://www.antaranews.com/berita/5751859/luke-vickery-hingga-maarten-paes-tiba-skuad-timnas-hampir-lengkap",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:30:55.000Z",
+      "cuplikan": "Skuad timnas Indonesia untuk FIFA ASEAN Cup 2026 hampir lengkap setelah pemain-pemain yang mendapatkan \"Garuda ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/06/04/Latihan-resmi-Timnas-Indonesia-jelang-Fifa-Matchday-040626-MRH-16A.jpg"
+    },
+    {
+      "id": "49fe5badc37c",
+      "judul": "How Nintendo's Game & Watch was inspired by a calculator and boredom",
+      "tautan": "https://www.engadget.com/2260782/nintendo-game-watch-explained/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-21T15:30:00.000Z",
+      "cuplikan": "The Game & Watch line was one of Nintendo's most successful early game projects, and the man behind it was inspired from an unlikely source.",
+      "gambar": "https://www.engadget.com/img/gallery/how-nintendos-game-watch-was-inspired-by-a-calculator-and-boredom/l-intro-1789592504.jpg",
+      "kategoriSumber": [
+        "Nintendo"
+      ]
+    },
+    {
+      "id": "f1a7b2badd29",
+      "judul": "Link Live Streaming Voli Asian Games 2026: Timnas Putri Indonesia vs Vietnam",
+      "tautan": "https://www.liputan6.com/bola/read/8295639/link-live-streaming-voli-asian-games-2026-timnas-putri-indonesia-vs-vietnam",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:27:57.000Z",
+      "cuplikan": "Laga klasifikasi Asian Games 2026 timnas voli putri Indonesia vs Vietnam bisa ditonton lewat Vidio.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/QENu8Y2idllwrmac5xnaT2-hR60=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9351283/original/031726000_1789651919-20260917-_NOC_-_AG26_-_MRP_-_Volley_Ball_Women_Indonesia_vs_Nepal___WIN_3-0_____Okazaki_Chuo_Sogo_Park_Gymnasium_Park_Arena_Komaki-19.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "40d60e57ee09",
+      "judul": "21 Pemain Timnas Indonesia Sudah Tiba di Jakarta, Ini Daftarnya",
+      "tautan": "https://www.viva.co.id/bola/1930108-21-pemain-timnas-indonesia-sudah-tiba-di-jakarta-ini-daftarnya",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:25:37.000Z",
+      "cuplikan": "Persiapan Timnas Indonesia menuju FIFA ASEAN Cup 2026 mulai memasuki tahap akhir. Sebanyak 21 pemain telah bergabung di Jakarta untuk menjalani persiapan bersama pelatih",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/21/6ab0fa45f0520-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a1ef0cea183a",
+      "judul": "Kasus Doping Guncang Asian Games 2026, Pebulutangkis Rangking 18 Dunia Dilarang Bertanding",
+      "tautan": "https://www.viva.co.id/sport/1930107-kasus-doping-guncang-asian-games-2026-pebulutangkis-rangking-18-dunia-dilarang-bertanding",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:23:25.000Z",
+      "cuplikan": "Kontingen Thailand mendapat kabar buruk di tengah persaingan Asian Games 2026 Aichi-Nagoya. Pebulu tangkis tunggal putri mereka, Pitchamon Opatniputh, dinyatakan positif",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/09/6937e160aba6b-pitchamon-opatniputh_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "587eb660e34a",
+      "judul": "Drama Final Warnai Lahirnya Juara Baru Sepakbola Putri Usia Dini Jakarta",
+      "tautan": "https://www.viva.co.id/bola/1930106-drama-final-warnai-lahirnya-juara-baru-sepakbola-putri-usia-dini-jakarta",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:17:53.000Z",
+      "cuplikan": "Drama adu penalti mengantarkan SDN Cipayung 02 meraih gelar juara setelah melewati final sengit melawan SDN Kebayoran Lama Selatan 19. Di kelompok usia berbeda, SDN Gedon",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/21/6ab14a54de77e-mlsc_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a4083285e8ff",
+      "judul": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+      "tautan": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-21T15:13:32.000Z",
+      "cuplikan": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Deals",
+        "Gadgets",
+        "Gaming",
+        "Verge Shopping"
+      ]
+    },
+    {
+      "id": "10f2ea0fb41c",
+      "judul": "Susunan Pemain Indonesia Vs Taiwan di Perempat Final Asian Games 2026 Cabor Bulutangkis Beregu Putri",
+      "tautan": "https://www.viva.co.id/sport/1930104-susunan-pemain-indonesia-vs-taiwan-di-perempat-final-asian-games-2026-cabor-bulutangkis-beregu-putri",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:12:44.000Z",
+      "cuplikan": "Tim bulutangkis beregu putri Indonesia menurunkan komposisi terbaik saat menghadapi Taiwan pada perempat final Asian Games 2026. Pertandingan tersebut akan berlangsung d",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/24/6a635db5c441d-putri-kw-gagal-ke-semifinal-china-open-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "664e11105d5f",
+      "judul": "LG Berburu 10 Pengguna AC Terlama di Indonesia, Ini Imbalannya",
+      "tautan": "https://www.liputan6.com/tekno/read/8296481/lg-berburu-10-pengguna-ac-terlama-di-indonesia-ini-imbalannya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-21T15:12:36.000Z",
+      "cuplikan": "LG ingin membuktikan durabilitas serta ketahanan performa produk AC besutannya yang telah lama hadir mendampingi masyarakat Indonesia.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/CKwGGQq_7wahk87SSYZwPInYhy4=/0x0:3783x2087/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9354099/original/030643100_1790003556-20260921_130721.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "29e56feba01f",
+      "judul": "Cara Nonton Perjuangan Atlet Indonesia di Asian Games 2026 dari Rumah, Tanpa Biaya Tambahan",
+      "tautan": "https://www.viva.co.id/sport/1930102-cara-nonton-perjuangan-atlet-indonesia-di-asian-games-2026-dari-rumah-tanpa-biaya-tambahan",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:08:16.000Z",
+      "cuplikan": "Ajang olahraga terbesar di Asia, Asian Games 2026 Aichi-Nagoya, resmi dimulai. Semangat mendukung perjuangan Kontingen Indonesia pun bisa dirasakan dari rumah melalui tay",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/21/6ab14827f3523-maxstream-tv-hadirkan-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "e5031faed1ed",
+      "judul": "From Zero to Hero, 8.000 Pelari Ramaikan Ajang Lari di ICE BSD",
+      "tautan": "https://www.viva.co.id/sport/1930100-from-zero-to-hero-8000-pelari-ramaikan-ajang-lari-di-ice-bsd",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:03:37.000Z",
+      "cuplikan": "Ajang lari tersebut mempertemukan peserta dari berbagai komunitas dan latar belakang. Selain mengejar catatan waktu, para peserta juga menjadikan perlombaan sebagai bagia",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/21/6ab1470a0794a-garmin-run_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "26d714b6db14",
+      "judul": "Jadwal Asian Games 2026: Tim Bulu Tangkis Putri Indonesia Hadapi Chinese Taipei",
+      "tautan": "https://www.liputan6.com/bola/read/8296407/jadwal-asian-games-2026-tim-bulu-tangkis-putri-indonesia-hadapi-chinese-taipei",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-21T15:00:09.000Z",
+      "cuplikan": "Indonesia meladeni Chinese Taipei pada perempat final nomor beregu putri cabor bulu tangkis Asian Games 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/WWTIEXy4y8i1NiMeYKQinvVq2AA=/0x20:1040x606/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9354049/original/008188200_1789993676-Putri_KW.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "623ca8b417a9",
+      "judul": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "tautan": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-21T15:00:00.000Z",
+      "cuplikan": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "Benchmark",
+        "TechCrunch Disrupt"
+      ]
+    },
+    {
+      "id": "9b3c46298324",
+      "judul": "How to choose the right USB to USB-C adapter",
+      "tautan": "https://www.engadget.com/2260753/how-to-choose-right-usb-to-usb-c-adapter/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-21T15:00:00.000Z",
+      "cuplikan": "Getting an adapter can open up a world of connectivity and charging options, but specs and brand matter quite a lot. Here's what to look for.",
+      "gambar": "https://www.engadget.com/img/gallery/how-to-choose-the-right-usb-to-usb-c-adapter/l-intro-1789591388.jpg",
+      "kategoriSumber": [
+        "Laptops",
+        "Accessories",
+        "Smartphones",
+        "Tablets"
+      ]
+    },
+    {
+      "id": "04c28c31441e",
+      "judul": "Winamp Bangkit Kembali dan Tawarkan Layanan Streaming Premium",
+      "tautan": "https://www.jawapos.com/teknologi/2609210379/winamp-bangkit-kembali-dan-tawarkan-layanan-streaming-premium",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-21T14:50:01.000Z",
+      "cuplikan": "Winamp bangkit dengan layanan streaming sendiri lewat kerja sama Deezer. Nikmati musik premium, podcast, dan fitur baru khusus penggemar musik digital",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/21/winamp-engadget-r2wrO.webp"
+    },
     {
       "id": "1ba22efc8eea",
       "judul": "Jay Idzes Absen, John Herdman Punya 2 Opsi Susun Tembok Timnas Indonesia",
@@ -24,15 +573,15 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-09-21T14:39:22.000Z",
-      "cuplikan": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "cuplikan": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
         "Gadgets",
-        "Google",
         "chromebook",
-        "laptops",
-        "gemini"
+        "gemini",
+        "Google",
+        "googlebooks"
       ]
     },
     {
@@ -71,12 +620,11 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-09-21T14:30:00.000Z",
-      "cuplikan": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Sept 25.",
+      "cuplikan": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
       "gambar": "",
       "kategoriSumber": [
-        "TC",
-        "Startups",
         "AI",
+        "Startups",
         "Google",
         "TechCrunch Disrupt"
       ]
@@ -119,18 +667,18 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-09-21T14:15:00.000Z",
-      "cuplikan": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup…",
+      "cuplikan": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense…",
       "gambar": "",
       "kategoriSumber": [
-        "TC",
-        "Startups",
-        "Climate",
-        "Biotech & Health",
-        "Venture",
         "AI",
+        "Biotech & Health",
+        "Climate",
         "Fundraising",
-        "TechCrunch Disrupt",
-        "Startup Battlefield"
+        "Startups",
+        "Venture",
+        "Startup Battlefield",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -244,7 +792,7 @@
       "lajur": "olahraga",
       "terbit": "2026-09-21T13:59:53.000Z",
       "cuplikan": "Timnas basket putri Indonesia begitu sulit membendung Zhang Ziyu yang bertinggi 223 cm.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/2mchH5V8U2LhCAizTN7ucvL_vKE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9354074/original/090227100_1789999193-WhatsApp_Image_2026-09-21_at_19.46.49.jpeg",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/H9p44Ia-HqkCl4uHlN_yLvWLMl8=/0x550:4160x2895/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9354074/original/090227100_1789999193-WhatsApp_Image_2026-09-21_at_19.46.49.jpeg",
       "kategoriSumber": [
         "Bola"
       ]
@@ -275,6 +823,25 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/21/WhatsApp-Image-2026-09-21-at-20.20.19.jpeg"
     },
     {
+      "id": "5671b4bec0d8",
+      "judul": "Review: Neagley is a worthy spinoff to megahit Reacher",
+      "tautan": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-21T13:53:46.000Z",
+      "cuplikan": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/neagley-1152x648-1789589203.jpg",
+      "kategoriSumber": [
+        "Culture",
+        "entertainment",
+        "Neagley",
+        "prime video",
+        "reviews",
+        "streaming television"
+      ]
+    },
+    {
       "id": "b9779344bfba",
       "judul": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
       "tautan": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
@@ -287,6 +854,7 @@
       "kategoriSumber": [
         "Fundraising",
         "Startups",
+        "bain capital ventures",
         "health benefits"
       ]
     },
@@ -476,7 +1044,7 @@
       "kanal": "ars",
       "lajur": "global",
       "terbit": "2026-09-21T13:00:24.000Z",
-      "cuplikan": "The M4 Mac mini was one of Apple's best values ever. This one, not so much.",
+      "cuplikan": "The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much.",
       "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3731-1152x648.jpeg",
       "kategoriSumber": [
         "Apple",
@@ -894,7 +1462,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-09-21T12:00:23.000Z",
-      "cuplikan": "PlayStation 5, PC; Screen Burn Tragedy, and an apocalyptic fog, befall a fishing community. It is up to outsider Simon to offer some kind of closure You spend a considerable portion of Silent Hill: Townfall in a kind of foetal position…",
+      "cuplikan": "PlayStation 5 (version played), PC; Screen Burn Tragedy, and an apocalyptic fog, befall a fishing community. It is up to outsider Simon to offer some kind of closure You spend a considerable portion of Silent Hill: Townfall in a kind of…",
       "gambar": "https://i.guim.co.uk/img/media/6a407a3dce63ff4b494042d57fa9728698b26451/266_0_1405_1125/master/1405.jpg?width=140&quality=85&auto=format&fit=max&s=a60fc825d55f57457d215c08de067ddd",
       "kategoriSumber": [
         "Games",
@@ -1274,29 +1842,6 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/20/persib-bandung-menang-atas-persijap-jepara-2867572.jpg"
     },
     {
-      "id": "2f31ca50973f",
-      "judul": "This A.I. House Can Provide You With Connections. It Also Has a Dark Side.",
-      "tautan": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-      "sumber": "The New York Times",
-      "kanal": "nyt-tech",
-      "lajur": "global",
-      "terbit": "2026-09-21T11:01:14.000Z",
-      "cuplikan": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
-      "gambar": "https://static01.nyt.com/images/2026/09/04/multimedia/AI-HOUSE-Hillsborough-1-flph/AI-HOUSE-Hillsborough-1-flph-mediumSquareAt3X.jpg",
-      "kategoriSumber": [
-        "Artificial Intelligence",
-        "Parties (Social)",
-        "Real Estate and Housing (Residential)",
-        "Group Homes and Supportive Housing",
-        "Police",
-        "Computers and the Internet",
-        "Renting and Leasing (Real Estate)",
-        "AGI House Labs Inc",
-        "Chen, Jimmy",
-        "Brin, Sergey"
-      ]
-    },
-    {
       "id": "05d3a4d88d2c",
       "judul": "Manchester United dan Arsenal Saling Sikut Dapatkan Wonderkid Berharga Rp 1,3 Triliun",
       "tautan": "https://www.liputan6.com/bola/read/8295893/manchester-united-dan-arsenal-saling-sikut-dapatkan-wonderkid-berharga-rp-13-triliun",
@@ -1423,7 +1968,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-09-21T10:31:47.000Z",
-      "cuplikan": "Jensen Huang dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’ Business live – latest updates The boss of the chipmaker Nvidia has said AI will not develop to a point that will lead to the extinction…",
+      "cuplikan": "Jensen Huang dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’ The boss of the chipmaker Nvidia has said AI will not develop to a point that will lead to the extinction of the human race within a few…",
       "gambar": "https://i.guim.co.uk/img/media/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/master/4968.jpg?width=140&quality=85&auto=format&fit=max&s=c64ed90881ba2b4dea5d04f8ffb5c7d6",
       "kategoriSumber": [
         "AI (artificial intelligence)",
@@ -1746,7 +2291,7 @@
       "kanal": "wired",
       "lajur": "global",
       "terbit": "2026-09-21T09:00:00.000Z",
-      "cuplikan": "Following a difficult journey, the probe will soon begin unravelling the mysteries of Mercury’s magnetic field and internal structure.",
+      "cuplikan": "Following a difficult journey, the probe will soon begin unraveling the mysteries of Mercury’s magnetic field and internal structure.",
       "gambar": "https://media.wired.com/photos/6aac758c7e684437a1d8cee6/master/pass/BepiColombo_Cruise_configuration_1280.jpg",
       "kategoriSumber": [
         "Science",
@@ -2234,6 +2779,29 @@
       ]
     },
     {
+      "id": "1552f4465c3c",
+      "judul": "‘RAMageddon’: tech crunch hikes the price of your next iPhone by £100",
+      "tautan": "https://www.theguardian.com/money/2026/sep/21/ramageddon-apple-iphone-price-increase-chip-shortage",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-21T06:00:37.000Z",
+      "cuplikan": "Shortage of memory chips and other critical components reverses trend of electronics becoming cheaper Apple’s recent product launch caused headlines around the world as it unveiled its first folding phone. But hidden in the slick…",
+      "gambar": "https://i.guim.co.uk/img/media/f1ae6e27a5473da5e4ce63e84477cedfde6c02d6/789_0_5192_4156/master/5192.jpg?width=140&quality=85&auto=format&fit=max&s=e25c0e5d0e873f48ebc8ba55ff0ea482",
+      "kategoriSumber": [
+        "Mobile phones",
+        "Smartphones",
+        "Money",
+        "Technology",
+        "Consumer affairs",
+        "Apple",
+        "iPhone",
+        "Microsoft",
+        "Dell",
+        "Technology sector"
+      ]
+    },
+    {
       "id": "81273493f1a2",
       "judul": "Eliano Reijnders Diduga Sindir John Herdman usai Tak Dipanggil ke Timnas Indonesia untuk FIFA ASEAN Cup 2026",
       "tautan": "https://www.viva.co.id/bola/1929956-eliano-reijnders-diduga-sindir-john-herdman-usai-tak-dipanggil-ke-timnas-indonesia-untuk-fifa-asean-cup-2026",
@@ -2354,20 +2922,6 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/LLh5dCJoufn1EgOXkV2Hk0TuQI0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4677184/original/009841400_1701920967-Screenshot_2023-12-07_103353.jpg",
       "kategoriSumber": [
         "Tekno"
-      ]
-    },
-    {
-      "id": "f1a7b2badd29",
-      "judul": "Link Live Streaming Voli Asian Games 2026: Timnas Putri Indonesia vs Vietnam",
-      "tautan": "https://www.liputan6.com/bola/read/8295639/link-live-streaming-voli-asian-games-2026-timnas-putri-indonesia-vs-vietnam",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-09-21T04:00:17.000Z",
-      "cuplikan": "Laga klasifikasi Asian Games 2026 timnas voli putri Indonesia vs Vietnam bisa ditonton lewat Vidio.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/QENu8Y2idllwrmac5xnaT2-hR60=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9351283/original/031726000_1789651919-20260917-_NOC_-_AG26_-_MRP_-_Volley_Ball_Women_Indonesia_vs_Nepal___WIN_3-0_____Okazaki_Chuo_Sogo_Park_Gymnasium_Park_Arena_Komaki-19.jpg",
-      "kategoriSumber": [
-        "Bola"
       ]
     },
     {

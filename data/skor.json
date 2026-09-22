@@ -1,32 +1,10 @@
 {
-  "diperbarui": "2026-09-21T14:45:09.735Z",
+  "diperbarui": "2026-09-22T01:23:31.032Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
       "nama": "Liga Inggris",
       "laga": [
-        {
-          "id": "401879280",
-          "liga": "eng.1",
-          "mulai": "2026-09-14T19:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Leeds",
-            "namaLengkap": "Leeds United",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/357.png&w=48&h=48",
-            "skor": 4,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Newcastle",
-            "namaLengkap": "Newcastle United",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/361.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879280/newcastle-united-leeds-united"
-        },
         {
           "id": "401879275",
           "liga": "eng.1",
@@ -252,28 +230,6 @@
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882877",
-          "liga": "esp.1",
-          "mulai": "2026-09-14T19:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Villarreal",
-            "namaLengkap": "Villarreal",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/102.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Betis",
-            "namaLengkap": "Real Betis",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/244.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882877/real-betis-villarreal"
-        },
         {
           "id": "401882868",
           "liga": "esp.1",
@@ -675,72 +631,6 @@
     "ita.1": {
       "nama": "Serie A",
       "laga": [
-        {
-          "id": "401874933",
-          "liga": "ita.1",
-          "mulai": "2026-09-14T16:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Como",
-            "namaLengkap": "Como",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2572.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Parma",
-            "namaLengkap": "Parma",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/115.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874933/parma-como"
-        },
-        {
-          "id": "401874950",
-          "liga": "ita.1",
-          "mulai": "2026-09-14T16:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Torino",
-            "namaLengkap": "Torino",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/239.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "AS Roma",
-            "namaLengkap": "AS Roma",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874950/as-roma-torino"
-        },
-        {
-          "id": "401874966",
-          "liga": "ita.1",
-          "mulai": "2026-09-14T18:45:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Inter Milan",
-            "namaLengkap": "Internazionale",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/110.png&w=48&h=48",
-            "skor": 5,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Udinese",
-            "namaLengkap": "Udinese",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/118.png&w=48&h=48",
-            "skor": 3,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874966/udinese-internazionale"
-        },
         {
           "id": "401874756",
           "liga": "ita.1",

@@ -152,5 +152,61 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-09-21T14:56:19.526Z"
+  },
+  "c5f89a5b2861": {
+    "teks": "Kenaikan harga komponen memori dan penyimpanan membuat opsi laptop gaming di bawah Rp10 juta kian terbatas pada September 2026. Pembeli disarankan memilih spesifikasi RAM 16GB, SSD 512GB, serta GPU dedicated agar tidak perlu segera melakukan upgrade. Beberapa model yang dapat menjadi pilihan meliputi ASUS TUF Gaming F15, Lenovo IdeaPad Gaming 3, HP Victus 15, dan HP Pavilion Gaming 15.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T01:23:46.231Z"
+  },
+  "b0a6a8e92972": {
+    "teks": "Transformasi digital di Indonesia menghadapi tantangan terkait keamanan data, ancaman siber, dan kesiapan sumber daya manusia. Guna mengatasinya, para pemangku kepentingan menekankan pentingnya kolaborasi lintas sektor, penguatan regulasi, serta peningkatan literasi digital. Di samping itu, sektor industri mulai menerapkan kecerdasan buatan secara langsung untuk menangkal kejahatan siber demi mewujudkan ekosistem digital yang terpercaya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T01:24:02.793Z"
+  },
+  "35de659a2d8e": {
+    "teks": "Pengisian daya menggunakan kabel terbukti lebih cepat dan efisien dibandingkan metode nirkabel. Sebaliknya, pengisian nirkabel menghasilkan lebih banyak panas akibat proses induksi elektromagnetik yang berpotensi menurunkan kesehatan baterai dalam jangka panjang. Meskipun demikian, penggunaan kedua metode tersebut tetap aman karena ponsel masa kini telah dilengkapi sistem manajemen daya cerdas.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T01:24:11.640Z"
+  },
+  "477544c80d29": {
+    "teks": "Pembalap Red Bull KTM Factory Racing Pedro Acosta keluar sebagai juara MotoGP Austria 2026 di Sirkuit Red Bull Ring setelah mencatatkan waktu tercepat. Ia mengungguli Jorge Martin yang harus puas finis di posisi kedua meski sempat menduduki posisi start terdepan. Sementara itu, podium ketiga balapan tersebut diamankan oleh pembalap Aprilia Racing, Marco Bezzecchi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T01:24:21.983Z"
+  },
+  "6c5e1a1bd6b2": {
+    "teks": "Komputer Mac Mini terbaru hadir dengan cip M6 yang dirancang menggunakan proses 2-nanometer serta tambahan inti CPU untuk efisiensi dan peningkatan performa yang lebih tinggi. Perangkat kompak ini dilengkapi fitur Neural Accelerator dan dual Neural Engine guna mendukung pemrosesan kecerdasan buatan secara lokal. Meskipun memiliki kapasitas RAM dasar yang terbatas, perangkat ini mampu menjalankan berbagai model AI ukuran kecil secara responsif.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T01:24:30.738Z"
+  },
+  "79a8bbd058c4": {
+    "teks": "Paramount berhasil menyelesaikan gugatan antimonopoli dari dua belas negara bagian Amerika Serikat sehingga rencana akuisisi Warner Bros. dapat dilanjutkan. Sebagai bagian dari penyelesaian tersebut, perusahaan sepakat membentuk dewan independensi redaksi berita, menjamin komitmen perilisan film, serta memenuhi sejumlah ketentuan lain termasuk terkait kesejahteraan pekerja kreatif. Kesepakatan ini membuka jalan bagi penyelesaian transaksi merger yang sebelumnya sempat mendapat penolakan dari sebagian jaksa agung.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T01:24:39.050Z"
+  },
+  "b9232a0fc910": {
+    "teks": "Pembaruan iOS 27 telah dirilis untuk publik dengan membawa fitur utama berupa Siri AI yang terintegrasi dengan berbagai aplikasi perangkat. Meskipun demikian, pengguna tidak dapat langsung menggunakan fitur tersebut karena harus mengaktifkannya secara manual dan masuk ke dalam daftar tunggu. Penerapan daftar tunggu ini bertujuan untuk menjaga kestabilan infrastruktur peladen Apple dari lonjakan beban komputasi yang masif.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T01:24:47.301Z"
+  },
+  "9b3c46298324": {
+    "teks": "Pemilihan adapter USB ke USB-C perlu dilakukan secara cermat karena kualitas, spesifikasi, dan kemampuan daya perangkat tersebut sangat beragam. Perbedaan versi USB pada kemasan menentukan kecepatan transfer data serta kapasitas pengisian daya yang dihasilkan. Oleh karena itu, konsumen harus memperhatikan spesifikasi perangkat yang dimiliki serta memilih merek tepercaya yang memiliki sertifikasi keselamatan guna menghindari risiko kerusakan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-22T01:24:55.536Z"
   }
 }
