@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-22T17:51:36.863Z",
+  "diperbarui": "2026-09-23T01:08:29.714Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -179,7 +179,7 @@
             "skor": 0,
             "menang": false
           },
-          "tautan": "https://www.espn.com/soccer/match?gameId=401879273/crystal-palace-leeds-united"
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879273/crystal-palace-leeds-united"
         },
         {
           "id": "401879272",
@@ -230,50 +230,6 @@
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882876",
-          "liga": "esp.1",
-          "mulai": "2026-09-15T18:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Alavés",
-            "namaLengkap": "Alavés",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/96.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Valencia",
-            "namaLengkap": "Valencia",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/94.png&w=48&h=48",
-            "skor": 1,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882876/valencia-alaves"
-        },
-        {
-          "id": "401882872",
-          "liga": "esp.1",
-          "mulai": "2026-09-15T19:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Elche",
-            "namaLengkap": "Elche",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3751.png&w=48&h=48",
-            "skor": 2,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Real Madrid",
-            "namaLengkap": "Real Madrid",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&w=48&h=48",
-            "skor": 3,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882872/real-madrid-elche"
-        },
         {
           "id": "401882875",
           "liga": "esp.1",
@@ -1211,7 +1167,7 @@
             "skor": 1,
             "menang": false
           },
-          "tautan": "https://www.espn.com/soccer/match?gameId=401876452/lille-nice"
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876452/lille-nice"
         },
         {
           "id": "401876449",
