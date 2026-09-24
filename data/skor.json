@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-24T13:04:51.481Z",
+  "diperbarui": "2026-09-24T18:06:07.343Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -230,28 +230,6 @@
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882874",
-          "liga": "esp.1",
-          "mulai": "2026-09-17T17:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Betis",
-            "namaLengkap": "Real Betis",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/244.png&w=48&h=48",
-            "skor": 1,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Getafe",
-            "namaLengkap": "Getafe",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2922.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882874/getafe-real-betis"
-        },
         {
           "id": "401882869",
           "liga": "esp.1",

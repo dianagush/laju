@@ -1,0 +1,405 @@
+{
+  "tanggal": "2026-09-25",
+  "diperbarui": "2026-09-24T18:06:05.800Z",
+  "berita": [
+    {
+      "id": "3ab9cbba8c0d",
+      "judul": "Jensen Huang talks about AI and climate change like a supervillain",
+      "tautan": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-24T18:04:44.000Z",
+      "cuplikan": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Energy",
+        "Environment",
+        "Nvidia",
+        "Policy",
+        "Science",
+        "Tech"
+      ]
+    },
+    {
+      "id": "7d84efabe779",
+      "judul": "Mulai dari HP hingga Laptop, Ini Cara AI Diam-diam Membantu Aktivitas Harian Tanpa Banyak Disadari",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1930955-mulai-dari-hp-hingga-laptop-ini-cara-ai-diam-diam-membantu-aktivitas-harian-tanpa-banyak-disadari",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-09-24T18:00:00.000Z",
+      "cuplikan": "AI kini bekerja diam-diam di HP hingga laptop, membantu menerjemahkan, merangkum, mengedit foto, memperbaiki tulisan, dan mencari informasi tanpa banyak disadari pengguna",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/08/26/68adb4d440063-ilustrasi-ai-masuk-kantor_665_374.jpeg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "7a0c8b20ad75",
+      "judul": "New York continues to fight prediction markets with a lawsuit against Polymarket",
+      "tautan": "https://www.engadget.com/2268006/new-york-continues-to-fight-prediction-markets-with-a-lawsuit-against-polymarket/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:55:44.000Z",
+      "cuplikan": "The state now has illegal gambling charges underway against four of these businesses.",
+      "gambar": "https://www.engadget.com/img/gallery/new-york-continues-to-fight-prediction-markets-with-a-lawsuit-against-polymarket/l-intro-1790272489.jpg",
+      "kategoriSumber": [
+        "News"
+      ]
+    },
+    {
+      "id": "a6c7c8fbf350",
+      "judul": "Trump touts ‘great meeting’ with China’s Xi Jinping at White House – live",
+      "tautan": "https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:54:28.000Z",
+      "cuplikan": "Xi Jinping says China and US must ensure AI ‘is always under human control’ and backs US-Iran deal to end war and reopen strait of Hormuz At Trump meeting, Xi lays out terms to avoid US-China military conflict In the first row in front of…",
+      "gambar": "https://i.guim.co.uk/img/media/8cc83c92057d73e6c6e93d3ea9e019699d9a7b29/527_0_5848_4678/master/5848.jpg?width=140&quality=85&auto=format&fit=max&s=d3755ba7eb98ab21ef83b6cadde5e9b8",
+      "kategoriSumber": [
+        "US foreign policy",
+        "US politics",
+        "China",
+        "Donald Trump",
+        "Xi Jinping",
+        "Trump tariffs",
+        "AI (artificial intelligence)",
+        "Technology",
+        "Taiwan"
+      ]
+    },
+    {
+      "id": "18e744496517",
+      "judul": "Meta is going to let you build games with AI right on your phone",
+      "tautan": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:52:29.000Z",
+      "cuplikan": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Gaming",
+        "Meta",
+        "News",
+        "Tech"
+      ]
+    },
+    {
+      "id": "e3a9936ad54f",
+      "judul": "Thomas Tuchel jagokan Harry Kane untuk Ballon d'Or 2026",
+      "tautan": "https://www.antaranews.com/berita/5757612/thomas-tuchel-jagokan-harry-kane-untuk-ballon-dor-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T17:46:38.000Z",
+      "cuplikan": "Pelatih tim nasional (timnas) Inggris Thomas Tuchel, menjagokan Harry Kane untuk memenangkan Ballon d'Or ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/07/02/ENGLAND_V_DR_CONGO_FIFA_WORLD_CUP_2026_ROUND_OF_32.jpg"
+    },
+    {
+      "id": "d66a2bb48f06",
+      "judul": "Google is sending a teensy-tiny AI data center to space",
+      "tautan": "https://www.engadget.com/2267975/google-is-sending-a-teensy-tiny-ai-data-center-to-space/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:45:37.000Z",
+      "cuplikan": "It's an experiment to see how the chips hold up in the harsh vacuum of the cosmos.",
+      "gambar": "https://www.engadget.com/img/gallery/google-is-sending-a-teensy-tiny-ai-data-center-to-space/l-intro-1790271728.jpg",
+      "kategoriSumber": [
+        "Space"
+      ]
+    },
+    {
+      "id": "f2e617ff28b8",
+      "judul": "Bulu tangkis sumbang emas pertama Asian Games Aichi-Nagoya 2026",
+      "tautan": "https://www.antaranews.com/video/5757603/bulu-tangkis-sumbang-emas-pertama-asian-games-aichi-nagoya-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T17:44:15.000Z",
+      "cuplikan": "Tim bulu tangkis beregu putra sukses menyumbangkan emas pertama bagi kontingen Indonesia pada Asian Games ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/BULU-TANGKIS-SUMBANG-EMAS-PERTAMA-ASIAN-GAMES-AICHI-NAGOYA-2026_1.jpg"
+    },
+    {
+      "id": "e1701cc5194f",
+      "judul": "28 Tahun Menunggu Akhirnya Emas! Begini Perjalanan Bulu Tangkis Putra Indonesia Taklukkan China di Asian Games 2026",
+      "tautan": "https://www.viva.co.id/sport/1930962-28-tahun-menunggu-akhirnya-emas-begini-perjalanan-bulu-tangkis-putra-indonesia-taklukkan-china-di-asian-games-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T17:41:23.000Z",
+      "cuplikan": "Perjalanan bulu tangkis putra Indonesia meraih emas Asian Games 2026 setelah comeback dramatis 3-2 atas China, sekaligus mengakhiri penantian medali emas 28 tahun.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/24/6ab543fd5adb5-tim-bulu-tangkis-putra-indonesia-raih-emas-pertama-di-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "6374a69076e5",
+      "judul": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "tautan": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:39:24.000Z",
+      "cuplikan": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "TC",
+        "Meta",
+        "muse"
+      ]
+    },
+    {
+      "id": "472681514ff4",
+      "judul": "Anthony Gordon minta Inggris berhenti coba tiru permainan Spanyol",
+      "tautan": "https://www.antaranews.com/berita/5757605/anthony-gordon-minta-inggris-berhenti-coba-tiru-permainan-spanyol",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T17:30:53.000Z",
+      "cuplikan": "Penyerang sayap tim nasional (timnas) Inggris, Anthony Gordon meminta timnya berhenti mencoba meniru gaya permainan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/08/28/FC-Barcelona-Menang-Atas-Athletic-Club-280826-jg-3.jpg"
+    },
+    {
+      "id": "d932b9b2c684",
+      "judul": "Turtle Beach Rematch review: The cutest Switch 2 controller of the bunch",
+      "tautan": "https://www.engadget.com/2267930/turtle-beach-rematch-review/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:30:00.000Z",
+      "cuplikan": "Official Nintendo designs and RGB lighting give the Rematch an adorable edge.",
+      "gambar": "https://www.engadget.com/img/gallery/turtle-beach-rematch-review-the-cutest-switch-2-controller-of-the-bunch/l-intro-1790269030.jpg",
+      "kategoriSumber": [
+        "Gaming"
+      ]
+    },
+    {
+      "id": "230a07e46c1e",
+      "judul": "Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:26:26.000Z",
+      "cuplikan": "Datacentre hailed by government was supposed to start operating next year but may be held back into mid-2030s A huge datacentre project hailed by the UK government will miss its launch date next year and could be delayed into the…",
+      "gambar": "https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/9_0_686_549/master/686.jpg?width=140&quality=85&auto=format&fit=max&s=01ae1a58f0133abee2a5f514df399430",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Computing",
+        "Technology",
+        "Essex",
+        "UK news",
+        "Datacentres - UK",
+        "Infrastructure",
+        "Business"
+      ]
+    },
+    {
+      "id": "cb7e0a0370f0",
+      "judul": "Muse will apparently let you download its entire filesystem",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:14:12.000Z",
+      "cuplikan": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Meta",
+        "News",
+        "Security",
+        "Tech"
+      ]
+    },
+    {
+      "id": "0b7b681fb83d",
+      "judul": "Muse sure looks a lot like OpenClaw",
+      "tautan": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:10:38.000Z",
+      "cuplikan": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Analysis",
+        "Meta",
+        "Report",
+        "Tech"
+      ]
+    },
+    {
+      "id": "52532575716c",
+      "judul": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "tautan": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:07:55.000Z",
+      "cuplikan": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Enterprise",
+        "Startups",
+        "ali ghodsi",
+        "Databricks"
+      ]
+    },
+    {
+      "id": "36ad8e9bf9aa",
+      "judul": "Ubed telepon orang tua sebelum penentuan medali emas",
+      "tautan": "https://www.antaranews.com/berita/5757584/ubedtelepon-orang-tua-sebelum-penentuan-medali-emas",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T17:06:30.000Z",
+      "cuplikan": "Pebulu tangkis tunggal putra Indonesia, Mohammad Zaki Ubaidillah, menceritakan pengalamannya sesaat sebelum melakoni ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/24/Ubaidillah-di-Final-Beregu-Bulutangkis-Asian-Games-240926-fzn-4.jpg"
+    },
+    {
+      "id": "f1c018c441bf",
+      "judul": "Pedro Acosta Dukung Marc Marquez Juara Dunia MotoGP 2026: Saya Berani Bertaruh!",
+      "tautan": "https://sports.okezone.com/read/2026/09/24/38/3243931/pedro-acosta-dukung-marc-marquez-juara-dunia-motogp-2026-saya-berani-bertaruh",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T17:02:44.000Z",
+      "cuplikan": "Pedro Acosta berani bertaruh Marc Marquez jadi juara dunia MotoGP 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/24/38/3243931/pedro_acosta_berani_bertaruh_marc_marquez_jadi_juara_dunia_motogp_2026-aN1d_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "390d6527db6d",
+      "judul": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
+      "tautan": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:02:09.000Z",
+      "cuplikan": "The founder of the blood-testing start-up Theranos was sentenced to 11 years in prison for fraud and had been serving time at a minimum-security federal prison in Texas.",
+      "gambar": "https://static01.nyt.com/images/2026/09/23/multimedia/23biz-holmes-prison-khlm/23biz-holmes-prison-khlm-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Holmes, Elizabeth (1984- )",
+        "Theranos Inc",
+        "Frauds and Swindling",
+        "Tests (Medical)",
+        "Blood",
+        "Start-ups",
+        "Prisons and Prisoners",
+        "Evans, William \"Billy\"",
+        "Fielder, Nathan (1983- )",
+        "You Can See Everything (Movie)"
+      ]
+    },
+    {
+      "id": "8a03ae2ec96c",
+      "judul": "It took MapQuest until 2026 to add public transit directions",
+      "tautan": "https://www.engadget.com/2267895/it-took-mapquest-until-2026-to-add-public-transit-directions/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:02:02.000Z",
+      "cuplikan": "The 30-year-old map service is quickly getting with the times.",
+      "gambar": "https://www.engadget.com/img/gallery/it-took-mapquest-until-2026-to-add-public-transit-directions/l-intro-1790269105.jpg",
+      "kategoriSumber": [
+        "News"
+      ]
+    },
+    {
+      "id": "04f6d633307e",
+      "judul": "Now Google Chrome shares tabs to new devices that save where you were",
+      "tautan": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:00:00.000Z",
+      "cuplikan": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capabilities for Gemini…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Chrome",
+        "Google",
+        "News",
+        "Tech"
+      ]
+    },
+    {
+      "id": "091e61d14291",
+      "judul": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "tautan": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:00:00.000Z",
+      "cuplikan": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Column",
+        "Meta",
+        "Optimizer",
+        "Tech"
+      ]
+    },
+    {
+      "id": "03ce780af89b",
+      "judul": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "tautan": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:00:00.000Z",
+      "cuplikan": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google Photos"
+      ]
+    },
+    {
+      "id": "12e6432f011f",
+      "judul": "Google Photos' new Redact tool will make it easy to hide sensitive information",
+      "tautan": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:00:00.000Z",
+      "cuplikan": "Google Photos' new AI-powered features include the Redact tool, which can quickly blur parts of an image.",
+      "gambar": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "9f17bf289657",
+      "judul": "The Pixel Watch 5's blood pressure and insulin resistance trends are rolling out this week",
+      "tautan": "https://www.engadget.com/2267200/pixel-watch-5-blood-pressure-and-insulin-resistance-trends-are-rolling-out-this-week/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-24T17:00:00.000Z",
+      "cuplikan": "The first trend reports for the health data will be available in early October.",
+      "gambar": "https://www.engadget.com/img/gallery/the-pixel-watch-5s-blood-pressure-and-insulin-resistance-trends-are-rolling-out-this-week/l-intro-1790204526.jpg",
+      "kategoriSumber": [
+        "Google",
+        "Wearables"
+      ]
+    }
+  ]
+}
