@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-23",
-  "diperbarui": "2026-09-23T18:08:23.775Z",
+  "diperbarui": "2026-09-24T00:59:46.410Z",
   "berita": [
     {
       "id": "6cd4a4402300",
@@ -245,7 +245,7 @@
       "lajur": "global",
       "terbit": "2026-09-23T16:00:37.000Z",
       "cuplikan": "That's pretty weird.",
-      "gambar": "https://www.engadget.com/img/gallery/roland-just-released-a-minions-keyboard-complete-with-playable-gibberish-sounds/l-intro-1790179155.jpg",
+      "gambar": "https://www.engadget.com/img/gallery/roland-just-released-a-minions-keyboard-complete-with-playable-gibberish-sounds/l-intro-1790193113.jpg",
       "kategoriSumber": [
         "Entertainment",
         "News"
@@ -701,6 +701,20 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/pHWGLB5Ub8u8Rt2yBJENIDsXKro=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9325059/original/066254300_1786798618-torres_2.jpg",
       "kategoriSumber": [
         "Bola"
+      ]
+    },
+    {
+      "id": "02a85e07eaaa",
+      "judul": "Daftar Harga iPhone Terbaru di Indonesia yang Naik per September 2026",
+      "tautan": "https://www.liputan6.com/tekno/read/8298198/daftar-harga-iphone-terbaru-di-indonesia-yang-naik-per-september-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-23T14:28:16.000Z",
+      "cuplikan": "Menjelang Apple memperkenalkan seri iPhone 18, harga iPhone terdahulu jadi naik pada September 2026. Ini daftar harga iPhone saat ini.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/QscZ3NhAy0_JbX8zcC4qkLvWeUQ=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5377312/original/048394600_1760088267-iPhone_17_Series_01.jpeg",
+      "kategoriSumber": [
+        "Tekno"
       ]
     },
     {
@@ -1187,7 +1201,7 @@
       "lajur": "olahraga",
       "terbit": "2026-09-23T12:33:27.000Z",
       "cuplikan": "Cabang olahraga wushu menambah tiga medali perunggu untuk Indonesia pada Asian Games 2026 dari nomor sanda, ...",
-      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/23/IMG_1206.jpeg"
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/24/Tiga-wakil-wushu-nomor-sanda-Indonesia-terhenti-di-semifinal-230926-fzn-7.jpg"
     },
     {
       "id": "83794febb535",
@@ -2048,6 +2062,23 @@
         "Culture",
         "App",
         "Summary"
+      ]
+    },
+    {
+      "id": "d736c96f97b6",
+      "judul": "The AI Hype Index: AI loves cheating",
+      "tautan": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "sumber": "MIT Technology Review",
+      "kanal": "mit-tr",
+      "lajur": "global",
+      "terbit": "2026-09-23T09:00:00.000Z",
+      "cuplikan": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Artificial intelligence",
+        "AI",
+        "AI Hype Index",
+        "App"
       ]
     },
     {
