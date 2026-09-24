@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-23",
-  "diperbarui": "2026-09-24T00:59:46.410Z",
+  "diperbarui": "2026-09-24T07:02:04.122Z",
   "berita": [
     {
       "id": "6cd4a4402300",
@@ -536,6 +536,20 @@
       "terbit": "2026-09-23T14:37:06.000Z",
       "cuplikan": "Perjuangan atlet Kholidin menuju Asian Para Games Aichi-Nagoya 2026 mendapatkan dukungan dari pihak swasta. Lewat ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/23/PR-realease-03.jpg"
+    },
+    {
+      "id": "e3bd84541287",
+      "judul": "iOS 27 Bikin Siri Makin Pintar, Ini Kemampuan Barunya yang Wajib Dicoba",
+      "tautan": "https://www.liputan6.com/tekno/read/8296855/ios-27-bikin-siri-makin-pintar-ini-kemampuan-barunya-yang-wajib-dicoba",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-23T14:32:36.000Z",
+      "cuplikan": "Apa saja kemampuan baru Siri di iOS 27? Yuk, simak selengkapnya di sini.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/3eqQJPfqxvmpz1S9EJly8ccfV88=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5294447/original/065942700_1753404869-omid-armin-AGRtDoZlpYw-unsplash__1_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "d5aa04c8bdf4",
