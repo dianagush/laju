@@ -670,5 +670,40 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-09-25T07:00:01.213Z"
+  },
+  "37fa2e4d249e": {
+    "teks": "Bocoran terbaru mengungkapkan bahwa lini Samsung Galaxy S27 akan menghadirkan varian baru bernama Galaxy S27 Pro. Dua model tertinggi, Pro dan Ultra, diprediksi mengadopsi teknologi memori LPDDR6 dan UFS 5.1 yang lebih cepat serta efisien. Selain itu, varian Ultra dikabarkan menyediakan opsi RAM 16GB khusus untuk kapasitas penyimpanan 1TB. Kendati demikian, Samsung belum merilis konfirmasi resmi terkait spesifikasi penuh lini tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T13:09:59.293Z"
+  },
+  "ff2289cd4e9a": {
+    "teks": "Penipuan tiket konser daring di media sosial kian bervariasi, termasuk melalui situs tiruan dan iklan berbayar. Federal Trade Commission mengimbau calon pembeli agar tidak terkecoh oleh tampilan akun yang profesional atau banyaknya pengikut. Publik disarankan selalu memverifikasi tautan serta saluran penjualan langsung dari pihak penyelenggara resmi sebelum bertransaksi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T13:10:15.528Z"
+  },
+  "ce17d2c4d07f": {
+    "teks": "Pelatih timnas Indonesia, John Herdman, telah merilis daftar sebelas pemain pertama untuk laga pembuka Grup A Divisi 1 FIFA ASEAN Cup 2026 melawan Singapura di Stadion Utama Gelora Bung Karno. Mengingat Jay Idzes absen, benteng pertahanan dikawal oleh Kevin Diks, Elkan Baggott, dan Justin Hubner. Laga ini juga menjadi momen debut bagi Luke Vickery, sementara lini serang dipimpin Mitchell Baker dengan dukungan Ole Romeny serta Ragnar Oratmangoen.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T13:10:46.040Z"
+  },
+  "4c0c9728718d": {
+    "teks": "Microsoft memperbarui aplikasi Copilot dengan menghadirkan integrasi aplikasi Office serta antarmuka bertab baru. Tampilan baru ini menyediakan tab Home untuk mengarahkan permintaan pengguna secara cerdas dan tab Code guna membuat alur kerja dari perintah bahasa alami. Terakhir, tab Autopilot memungkinkan sistem menangani tugas berulang dan membalas pesan secara otomatis tanpa masukan pengguna.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T13:11:33.925Z"
+  },
+  "93b91a44c537": {
+    "teks": "Departemen Pertahanan Amerika Serikat mengajukan anggaran 30,3 juta dolar AS untuk mengembangkan pendeteksi kebohongan berbasis kecerdasan buatan dan sensor tanpa kontak. Sistem bernama Polygraph+ ini ditujukan untuk menyaring calon pegawai serta mendeteksi ancaman internal. Meski demikian, para ahli meragukan efektivitasnya karena teknologi pendeteksi kebohongan dinilai belum memiliki landasan ilmiah yang andal.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T13:11:59.162Z"
   }
 }

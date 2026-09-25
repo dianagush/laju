@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-24",
-  "diperbarui": "2026-09-25T06:58:42.124Z",
+  "diperbarui": "2026-09-25T13:09:26.161Z",
   "berita": [
     {
       "id": "a6c98c6235e8",
@@ -154,6 +154,20 @@
         "News",
         "Tech",
         "Wearable"
+      ]
+    },
+    {
+      "id": "55681ad27088",
+      "judul": "Tempat Menonton Timnas Indonesia vs Singapura di FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8299183/tempat-menonton-timnas-indonesia-vs-singapura-di-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T16:26:47.000Z",
+      "cuplikan": "Duel Grup A Divisi 1 FIFA ASEAN Cup 2026 timnas Indonesia vs Singapura bisa disaksikan melalui melalui SCTV, Indosiar, Moji, Vidio, dan Nex.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/IJFUwyfaAf9yzOZ1eonwQar1C88=/0x0:3500x1969/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5539819/original/082336000_1774624127-IMG_6444.JPG.jpeg",
+      "kategoriSumber": [
+        "Bola"
       ]
     },
     {
@@ -602,6 +616,29 @@
       "terbit": "2026-09-24T15:00:34.000Z",
       "cuplikan": "Pengurus Pusat Persatuan Bulu tangkis Seluruh Indonesia (PP PBSI), mengapresiasi kerja keras tim beregu putra dan putri ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/24/indonesia-raih-emas-bulu-tangkis-beregu-putra-asian-games-2871020.jpg"
+    },
+    {
+      "id": "0079b21b0644",
+      "judul": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-24T15:00:34.000Z",
+      "cuplikan": "UK watchdog fined video app in 2023 for failing to enforce minimum age limit and remove underage users TikTok will pay a £12.7m fine to the UK’s data watchdog after dropping an appeal against a ruling that it did not do enough to keep…",
+      "gambar": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/417_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=429f61953c7ca701f38bae0adfb58c83",
+      "kategoriSumber": [
+        "TikTok",
+        "Technology",
+        "Social media",
+        "Children",
+        "Digital media",
+        "Society",
+        "Internet safety",
+        "Data protection",
+        "Apps",
+        "Child protection"
+      ]
     },
     {
       "id": "ab3a59da1cc2",
@@ -2082,7 +2119,7 @@
       "lajur": "tekno",
       "terbit": "2026-09-24T10:00:36.000Z",
       "cuplikan": "AI di Samsung Galaxy S26 FE hadir untuk menghilangkan hambatan teknis agar kreativitas dapat mengalir lebih bebas.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/e3Dd3n6NfsaXP4UTuiTzpscSgBo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9357799/original/016416600_1790306682-Harry_Lee_for_Liputan6_Updated.jpg",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/TJpndnj0A1XWk7TGk-2weYE3dOM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9357799/original/008162300_1790307755-Harry_Lee_untuk_Liputan6.jpeg",
       "kategoriSumber": [
         "Tekno"
       ]
