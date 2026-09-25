@@ -1,7 +1,991 @@
 {
   "tanggal": "2026-09-25",
-  "diperbarui": "2026-09-25T13:09:26.161Z",
+  "diperbarui": "2026-09-25T18:10:14.641Z",
   "berita": [
+    {
+      "id": "0fa6c977ec27",
+      "judul": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "tautan": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-25T16:58:20.000Z",
+      "cuplikan": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "gambar": "https://media.wired.com/photos/6ab6a387ee39eece457c4cb2/master/pass/GettyImages-2235057505.jpg",
+      "kategoriSumber": [
+        "Business",
+        "Business / Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "75f0679a51c9",
+      "judul": "Klasemen FIFA ASEAN Cup 2026: Timnas Indonesia di Bawah Malaysia",
+      "tautan": "https://www.liputan6.com/bola/read/8299873/klasemen-fifa-asean-cup-2026-timnas-indonesia-di-bawah-malaysia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:56:54.000Z",
+      "cuplikan": "Intip posisi timnas Indonesia pada klasemen FIFA ASEAN Cup 2026 pada persaingan Grup A Divisi 1 usai mengalahkan Singapura 2-0.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/xZmw5zL2gHN4bRwdM4jZ7x6hyq8=/0x0:1281x720/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358452/original/049862500_1790344321-033A9389-Luke_Vickery_Ragnar_Oratmangoen.JPG",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "11987c225ac7",
+      "judul": "Kata John Herdman Soal Starting XI Timnas Indonesia vs Singapura",
+      "tautan": "https://www.liputan6.com/bola/read/8299923/kata-john-herdman-soal-starting-xi-timnas-indonesia-vs-singapura",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:54:03.000Z",
+      "cuplikan": "John Herdman jelaskan alasan pemilihan starter 11 pemain kelahiran luar negeri saat melawan Singapura.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/5TouT1SJN4m7rlEUxyXalyLv2hE=/0x309:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5539867/original/084374500_1774653145-Timnas_Indonesia_vs_Saint_Kitts_and_Nevis-33.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "59a226140fb9",
+      "judul": "Timnas hoki putri Indonesia petik kemenangan atas Thailand 1-0",
+      "tautan": "https://www.antaranews.com/berita/5759135/timnas-hoki-putri-indonesia-petik-kemenangan-atas-thailand-1-0",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:50:17.000Z",
+      "cuplikan": "Tim nasional hoki putri Indonesia memetik kemenangan tipis atas Thailand dengan skor 1-0 dalam pertandingan Pul B Asian ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/04/26/tim-hoki-putri-indonesia-menang-atas-singapura-2778867.jpg"
+    },
+    {
+      "id": "8a55bc4fef87",
+      "judul": "Pope Leo warns AI could lead to losing 'humanity amid a paradise of machines' in Paris – video",
+      "tautan": "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T16:49:55.000Z",
+      "cuplikan": "Pontiff continues to decry the rise of AI on his visit to France, stressing the importance of retaining 'ethical discernment' in an age when rapidly advancing technology threatens to undermine humanity Europe live Pope Leo warns of AI…",
+      "gambar": "https://i.guim.co.uk/img/media/bda0afa989fbdccf5e1501fceef9d84965bd6fff/0_0_1379_1103/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=46ef0860af309094e8883f42df8af420",
+      "kategoriSumber": [
+        "Pope Leo XIV",
+        "The papacy",
+        "AI (artificial intelligence)",
+        "Catholicism",
+        "Technology",
+        "France",
+        "World news"
+      ]
+    },
+    {
+      "id": "e84d98e81ae7",
+      "judul": "Meta makes the Muse filesystem even more accessible",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-25T16:49:53.000Z",
+      "cuplikan": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Meta",
+        "News",
+        "Tech"
+      ]
+    },
+    {
+      "id": "ea6b00033b1b",
+      "judul": "Jadi Tuan Rumah FIFA ASEAN Cup, FIFA Puji Gairah Sepak Bola Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1931183-jadi-tuan-rumah-fifa-asean-cup-fifa-puji-gairah-sepak-bola-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:44:32.000Z",
+      "cuplikan": "FIFA memberi kepercayaan kepada Indonesia menjadi tuan rumah FIFA ASEAN Cup 2026. Mattias Grafstrom berharap turnamen regional ini berlangsung sukses.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab67b0cdbd35-pembukaan-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "738c67e1bbd8",
+      "judul": "Catatan Indonesia vs Singapura: Penyelesaian Akhir Garuda Lemah",
+      "tautan": "https://www.liputan6.com/bola/read/8299919/catatan-indonesia-vs-singapura-penyelesaian-akhir-garuda-lemah",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:44:11.000Z",
+      "cuplikan": "Timnas Indonesia menang 2-0 atas Singapura di SUGBK pada laga pembuka Grup A Divisi 1 FIFA ASEAN Cup 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/tZZGvN1ctGa1kR_THIA8rlkAJNE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358495/original/095484100_1790352802-033A0157.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "671a9c7e50fa",
+      "judul": "John Herdman bangga Indonesia tekuk Singapura 2-0",
+      "tautan": "https://www.antaranews.com/berita/5759132/john-herdman-bangga-indonesia-tekuk-singapura-2-0",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:43:45.000Z",
+      "cuplikan": "Pelatih kepala timnas Indonesia John Herdman mengaku bangga dengan kemenangan 2-0 timnya atas Singapura pada laga ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/fifa-asean-cup-2026-indonesia-kalahkan-singapura-2871635.jpg"
+    },
+    {
+      "id": "212691cc35d1",
+      "judul": "Round-up: Dua perunggu tambah perolehan medali untuk Indonesia",
+      "tautan": "https://www.antaranews.com/berita/5759124/round-up-dua-perunggu-tambah-perolehan-medali-untuk-indonesia",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:34:35.000Z",
+      "cuplikan": "men's cross-country - Feri Yudoyono. Baca juga: Emilia Nova tuntaskansaptalomba Asian Games dengan finis ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/FZN_4073.jpg"
+    },
+    {
+      "id": "36348dfbf5c3",
+      "judul": "Gemini Kini Punya Avatar AI yang Bisa Bicara, Melihat, dan Tampilkan Ekspresi",
+      "tautan": "https://www.jawapos.com/teknologi/2609250450/gemini-kini-punya-avatar-ai-yang-bisa-bicara-melihat-dan-tampilkan-ekspresi",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-25T16:30:50.000Z",
+      "cuplikan": "Google hadirkan Gemini dengan avatar AI interaktif yang bisa bicara, melihat, dan tampil ekspresif. Simak fitur dan manfaatnya di dunia teknologi",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/25/avatar-ai-dari-gemini-dok-google-bHjgx.webp"
+    },
+    {
+      "id": "fda262423ca6",
+      "judul": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+      "tautan": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-25T16:22:05.000Z",
+      "cuplikan": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apple",
+        "Audio",
+        "Gadgets",
+        "iPad",
+        "News",
+        "Speakers",
+        "Tech",
+        "TVs"
+      ]
+    },
+    {
+      "id": "df0ef4604995",
+      "judul": "Jadwal Voli Asian Games 2026: Timnas Putra Indonesia Masuk Pool B",
+      "tautan": "https://www.liputan6.com/bola/read/8299188/jadwal-voli-asian-games-2026-timnas-putra-indonesia-masuk-pool-b",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:20:55.000Z",
+      "cuplikan": "Timnas voli putra Indonesia bertemu Thailand, Kirgizstan, dan Iran di Asian Games 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/1X6fI2xuWZOhSjJbBvXBTnA4HOc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9304692/original/091088600_1784733398-WhatsApp_Image_2026-07-22_at_9.58.03_PM__1_.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "794c162566b6",
+      "judul": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "tautan": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T16:16:52.000Z",
+      "cuplikan": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Apps",
+        "Social",
+        "Meta",
+        "muse"
+      ]
+    },
+    {
+      "id": "45cedb0b4aba",
+      "judul": "Reaksi AFC usai Timnas Indonesia Menang Atas Singapura, Sayangkan Satu Hal Penting Ini",
+      "tautan": "https://www.viva.co.id/bola/1931177-reaksi-afc-usai-timnas-indonesia-menang-atas-singapura-sayangkan-satu-hal-penting-ini",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:15:41.000Z",
+      "cuplikan": "Timnas Indonesia menang 2-0 atas Singapura di FIFA ASEAN Cup 2026. AFC menyoroti gol cepat Ragnar dan permainan agresif skuad John Herdman sejak awal laga.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab69d3d282e9-timnas-indonesia-vs-singapura_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a28fc13301f3",
+      "judul": "Novelist accused of using AI to write book removed from French prize list",
+      "tautan": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T16:14:32.000Z",
+      "cuplikan": "Thélyson Orélien had been in the running to win a top literary prize before the AI claim emerged on social media The organisers of France’s most prestigious literary prize said they had removed a critically acclaimed novel by a…",
+      "gambar": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=1fdf100b2167842b6ad6758568e180c7",
+      "kategoriSumber": [
+        "Prix Goncourt",
+        "Awards and prizes",
+        "Books",
+        "Plagiarism",
+        "Fiction",
+        "Culture",
+        "France",
+        "AI (artificial intelligence)",
+        "Europe"
+      ]
+    },
+    {
+      "id": "e04e34965c4a",
+      "judul": "Ranking FIFA Timnas Indonesia Resmi Naik usai Bungkam Singapura di FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1931175-ranking-fifa-timnas-indonesia-resmi-naik-usai-bungkam-singapura-di-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:10:32.000Z",
+      "cuplikan": "Timnas Indonesia naik ke posisi 116 ranking FIFA live usai menang 2-0 atas Singapura. Garuda mendapat tambahan 4,12 poin dan bersiap hadapi Malaysia berikutnya.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab69c514c24d-pemain-timnas-indonesia-luke-vickery_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "777f38cac922",
+      "judul": "Sering Membiarkan Baterai HP Sampai 0 Persen? Ini Dampaknya Jika Menjadi Kebiasaan",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1931130-sering-membiarkan-baterai-hp-sampai-0-persen-ini-dampaknya-jika-menjadi-kebiasaan",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-09-25T16:04:00.000Z",
+      "cuplikan": "Banyak pengguna HP masih terbiasa memakai perangkat sampai baterainya benar-benar habis dan menunjukkan angka 0 persen. Kebiasaan tersebut mungkin terasa praktis.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/14/6a560124cf04c-ilustrasi-baterai-hp_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "eb71ae670b00",
+      "judul": "3 Bintang Timnas Indonesia saat Cukur Singapura",
+      "tautan": "https://www.liputan6.com/bola/read/8299904/3-bintang-timnas-indonesia-saat-cukur-singapura",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:02:23.000Z",
+      "cuplikan": "Indonesia menang 2-0 atas Singapura di partai pembuka Grup A Divisi 1 FIFA ASEAN Cup 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/eCOzZon0J_eErvEiYp-YZq-mtf8=/0x0:1281x720/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358453/original/060217500_1790344321-033A9439-Romeny_Ragnar.JPG",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "0d0ab2de5779",
+      "judul": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+      "tautan": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T16:01:10.000Z",
+      "cuplikan": "Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 years Pope Leo has warned against losing humanity in a “paradise of machines” as he addressed global concerns over the…",
+      "gambar": "https://i.guim.co.uk/img/media/bda0afa989fbdccf5e1501fceef9d84965bd6fff/16_0_1379_1103/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=4ca1a5352f5e47303462cbba9ba0de1f",
+      "kategoriSumber": [
+        "Pope Leo XIV",
+        "France",
+        "Europe",
+        "World news",
+        "AI (artificial intelligence)",
+        "Technology",
+        "The papacy",
+        "Catholicism",
+        "Unesco"
+      ]
+    },
+    {
+      "id": "ba5b8e2786ef",
+      "judul": "Pemain Timnas Indonesia Gagah Menuju Ruang Ganti SUGBK, Siap Hadapi Singapura",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8299894/pemain-timnas-indonesia-gagah-menuju-ruang-ganti-sugbk-siap-hadapi-singapura",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T16:00:07.000Z",
+      "cuplikan": "Para pemain Timnas Indonesia berjalan menuju ruang ganti Stadion Utama Gelora Bung Karno (SUGBK) dengan penuh percaya diri jelang menghadapi Singapura di FIFA ASEAN Cup 2026. Para pemain terlihat rileks dan sempat menyapa para jurnalis…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/ZY1NMSz8qjLQmnJeubW4PU93H2o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9358480/original/024600100_1790350130-20260925_pemain-timnas-indonesia-ke-ruang-ganti-57d488.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "b945ff690bf9",
+      "judul": "Rapor Luke Vickery di Debut Timnas Indonesia, Selanjutnya Bidik Malaysia",
+      "tautan": "https://www.liputan6.com/bola/read/8299902/rapor-luke-vickery-di-debut-timnas-indonesia-selanjutnya-bidik-malaysia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:53:25.000Z",
+      "cuplikan": "Starter di laga pembuka Grup A, Luke Vickery sumbang assist saat Timnas Indonesia menaklukkan Singapura.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/4FCyfbjFfueq2nB1HEo7tmYJ3Ro=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9357648/original/046699400_1790268372-luke.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "066b079084bc",
+      "judul": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+      "tautan": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:52:13.000Z",
+      "cuplikan": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "Kiteworks"
+      ]
+    },
+    {
+      "id": "706759721ffd",
+      "judul": "Sony and UMG are suing Suno again",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:51:56.000Z",
+      "cuplikan": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Entertainment",
+        "Law",
+        "Music",
+        "News",
+        "Policy"
+      ]
+    },
+    {
+      "id": "ef33b8cf9b79",
+      "judul": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "tautan": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:48:14.000Z",
+      "cuplikan": "The latest unauthorized agent swarms were discovered by researchers.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "a8f06da5cb11",
+      "judul": "Anthropic’s founders seek voting control ahead of IPO",
+      "tautan": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:40:03.000Z",
+      "cuplikan": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "IPO"
+      ]
+    },
+    {
+      "id": "637d4699a545",
+      "judul": "One company is at the center of a wave of rogue AI attacks",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:39:48.000Z",
+      "cuplikan": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Report",
+        "Tech"
+      ]
+    },
+    {
+      "id": "5964d1a0e861",
+      "judul": "Klasemen Grup A: Malaysia puncak, Indonesia posisi kedua",
+      "tautan": "https://www.antaranews.com/berita/5759067/klasemen-grup-a-malaysia-puncak-indonesia-posisi-kedua",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:33:44.000Z",
+      "cuplikan": "Timnas Indonesia dan Malaysia sama-sama meraih kemenangan pada pertandingan pertama Grup A Divisi 1 FIFA ASEAN Cup 2026 ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/fifa-asean-cup-2026-indonesia-kalahkan-singapura-2871669.jpg"
+    },
+    {
+      "id": "70bfb4c30aec",
+      "judul": "Jadwal Asian Games 2026: Jagoan Tunggal Bulu Tangkis Indonesia Mesti Siap Main 2 Kali Sehari",
+      "tautan": "https://www.liputan6.com/bola/read/8299897/jadwal-asian-games-2026-jagoan-tunggal-bulu-tangkis-indonesia-mesti-siap-main-2-kali-sehari",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:33:24.000Z",
+      "cuplikan": "Perorangan bulu tangkis Asian Games 2026 berlanjut hari ini.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/xObnu8NMkJNpgONsfm_or-JwR6o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9357484/original/071929900_1790251028-WhatsApp_Image_2026-09-24_at_6.45.13_PM.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "462be8f9fc95",
+      "judul": "Jennifer Coppen dan Kamari Antre Masuk SUGBK, Dukung Justin Hubner Lawan Singapura",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8299874/jennifer-coppen-dan-kamari-antre-masuk-sugbk-dukung-justin-hubner-lawan-singapura",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:30:26.000Z",
+      "cuplikan": "Jennifer Coppen bersama orang tua dan putrinya, Kamari, terlihat mengantre untuk masuk ke Stadion Utama Gelora Bung Karno (SUGBK), Jakarta. Mereka hadir memberikan dukungan langsung kepada Justin Hubner yang memperkuat Timnas Indonesia…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/vJabZztRyi-kk3l3gavB1bsrECY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9358471/original/074120000_1790347467-20260925_jennifer-coppen-dan-kamari-f062d5.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "509ed3fce69e",
+      "judul": "Tesla finally moves to electrify trucking after a decade of work and delays",
+      "tautan": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:24:50.000Z",
+      "cuplikan": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Transportation",
+        "electric trucks",
+        "Elon Musk",
+        "Tesla",
+        "Tesla Semi"
+      ]
+    },
+    {
+      "id": "f93bc4b97388",
+      "judul": "Hasil Bulu Tangkis Asian Games 2026: 4 Wakil Indonesia Melaju",
+      "tautan": "https://www.liputan6.com/bola/read/8299886/hasil-bulu-tangkis-asian-games-2026-4-wakil-indonesia-melaju",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:15:34.000Z",
+      "cuplikan": "4 wakil Indonesia jaga kans rebut medali nomor perorangan bulu tangkis Asian Games 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Lac-Tz2wZlkh_GUY0pueV1DG1bw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355165/original/058495600_1790078150-WhatsApp_Image_2026-09-22_at_18.48.12.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "c754954dc6fa",
+      "judul": "Indonesia cetak kemenangan 2-0 ketika jumpa Singapura",
+      "tautan": "https://www.antaranews.com/berita/5759036/indonesia-cetak-kemenangan-2-0-ketika-jumpa-singapura",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:13:20.000Z",
+      "cuplikan": "Timnas Indonesia mencetak kemenangan dengan skor 2-0 ketika berjumpa Timnas Singapura pada pertandingan Grup A Divisi 1 ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/fifa-asean-cup-2026-indonesia-kalahkan-singapura-2871627.jpg"
+    },
+    {
+      "id": "31c1fa82e6d0",
+      "judul": "Timnas Indonesia Siksa Singapura, Main 10 Orang dan Kalah 0-2",
+      "tautan": "https://www.viva.co.id/bola/1931163-timnas-indonesia-siksa-singapura-main-10-orang-dan-kalah-0-2",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:10:30.000Z",
+      "cuplikan": "Timnas Indonesia mengawali kiprahnya di FIFA ASEAN Cup 2026 dengan kemenangan. Skuad Garuda menundukkan Singapura 2-0 pada laga Grup A di Stadion Utama Gelora Bung Karno",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/22/6ab22a98bc873-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "e99fe4c5b679",
+      "judul": "FIFA ASEAN Cup 2026: Timnas Indonesia Kalahkan Singapura 2-0, Tempel Malaysia di Grup A",
+      "tautan": "https://www.liputan6.com/bola/read/8299885/fifa-asean-cup-2026-timnas-indonesia-kalahkan-singapura-2-0-tempel-malaysia-di-grup-a",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:08:23.000Z",
+      "cuplikan": "Indonesia menundukkan Singapura 2-0 di SUGBK pada laga perdana Grup A FIFA ASEAN Cup 2026. Gol Ragnar Oratmangoen dan penalti Ole Romeny pastikan tiga poin.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/eCOzZon0J_eErvEiYp-YZq-mtf8=/0x0:1281x720/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358453/original/060217500_1790344321-033A9439-Romeny_Ragnar.JPG",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "eefdb3a9dc5b",
+      "judul": "Russell raih pole position kelima, Kimi Antonelli alami DNF",
+      "tautan": "https://www.antaranews.com/berita/5759023/russell-raih-pole-position-kelima-kimi-antonelli-alami-dnf",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T15:06:43.000Z",
+      "cuplikan": "Pembalap Mercedes George Russell meraih pole position kelimanya musim ini setelah menjadi yang tercepat pada sesi ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/russel.jpg"
+    },
+    {
+      "id": "76e2a2a205dd",
+      "judul": "Is China Really Stealing A.I. From American Companies?",
+      "tautan": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:02:21.000Z",
+      "cuplikan": "As Xi Jinping visits President Trump in Washington, the leaders are expected to discuss claims that China is surreptitiously copying American A.I. technologies, a process known as distillation.",
+      "gambar": "https://static01.nyt.com/images/2026/09/26/multimedia/26sci-china-ai-distillation-ctmq/26sci-china-ai-distillation-ctmq-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "China",
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Suits and Litigation (Civil)",
+        "Anthropic AI LLC",
+        "OpenAI Labs",
+        "United States"
+      ]
+    },
+    {
+      "id": "6c0af3a44940",
+      "judul": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "tautan": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:00:00.000Z",
+      "cuplikan": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Startups",
+        "Ricursive Intelligence",
+        "TechCrunch Disrupt"
+      ]
+    },
+    {
+      "id": "add4c068355a",
+      "judul": "War Bros Didn’t Always Rule Silicon Valley",
+      "tautan": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:00:00.000Z",
+      "cuplikan": "Some say that tech was always about the money and the military. Don’t buy that argument.",
+      "gambar": "https://media.wired.com/photos/6ab58be48f6b080f4d1982f3/master/pass/Backchannel-Silicon-Valley-Pro-War-Or-Not-Business-2269212880.jpg",
+      "kategoriSumber": [
+        "Business",
+        "Business / Tech Culture"
+      ]
+    },
+    {
+      "id": "b4712288a266",
+      "judul": "It’s going to take more than an email to a public inbox to protect Australians from potential AI doom",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T14:58:32.000Z",
+      "cuplikan": "OpenAI’s hack of Medicare suggests safeguarding civilisation is the task facing leaders in this extraordinary new era Get our breaking news email , free app or daily news podcast More than 130 world leaders descended on the United Nations…",
+      "gambar": "https://i.guim.co.uk/img/media/87d846afe784d7dac17a36acc7d98ce0e357bb2e/769_0_3961_3169/master/3961.jpg?width=140&quality=85&auto=format&fit=max&s=ac8cf69b1dccf44302682a8181ba5e51",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Anthony Albanese",
+        "OpenAI",
+        "Donald Trump",
+        "Australia news",
+        "Technology",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "f025d62ee298",
+      "judul": "Rekap: Amri/Nita ke 8 besar, Fajar/Fikri lolos ke babak kedua",
+      "tautan": "https://www.antaranews.com/berita/5758999/rekap-amri-nita-ke-8-besar-fajar-fikri-lolos-ke-babak-kedua",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T14:51:32.000Z",
+      "cuplikan": "Wakil tim bulu tangkis Indonesia mulai bertanding di sektor ganda putri, ganda putra, dan ganda campuran ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/24/final-bulu-tangkis-beregu-putra-asian-games-2026-2870529.jpg"
+    },
+    {
+      "id": "c2f6c2a133c2",
+      "judul": "Malaysia Terkam Bangladesh di FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8299710/malaysia-terkam-bangladesh-di-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T14:43:29.000Z",
+      "cuplikan": "Malaysia mengawali FIFA ASEAN Cup 2026 dengan mengalahkan Bangladesh 3-0.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/na3UyjSuzC85xPWXPxSioGoI3TU=/257x493:1847x1389/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358299/original/014290000_1790330375-malaysia.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "636880a50137",
+      "judul": "Fajar/Fikri melangkah mulus ke babak kedua",
+      "tautan": "https://www.antaranews.com/berita/5758988/fajar-fikri-melangkah-mulus-ke-babak-kedua",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T14:38:57.000Z",
+      "cuplikan": "Pebulu tangkis ganda putra Indonesia Fajar Alfian/Muhammad Shohibul Fikri melangkah mulus ke babak kedua cabang bulu ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/24/final-bulu-tangkis-beregu-putra-asian-games-2026-2870525.jpg"
+    },
+    {
+      "id": "0ac55a963aee",
+      "judul": "FIFA doakan Indonesia sukses gelar FIFA ASEAN Cup 2026",
+      "tautan": "https://www.antaranews.com/berita/5758969/fifa-doakan-indonesia-sukses-gelar-fifa-asean-cup-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T14:29:21.000Z",
+      "cuplikan": "Sekretaris Jenderal FIFA Mattias Grafstrom mendoakan kesuksesan Indonesia dalam menjadi tuan rumah Divisi 1 FIFA ASEAN ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/IMG-20260925-WA0024_1.jpg"
+    },
+    {
+      "id": "181d40f0307e",
+      "judul": "Cricut’s new compact crafter prints, cuts, and laminates stickers",
+      "tautan": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-25T14:21:25.000Z",
+      "cuplikan": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Gadgets",
+        "News",
+        "Tech"
+      ]
+    },
+    {
+      "id": "401ab2aeda31",
+      "judul": "UNS kawinkan gelar beregu dan individu Campus League Badminton 2026",
+      "tautan": "https://www.antaranews.com/berita/5758959/uns-kawinkan-gelar-beregu-dan-individu-campus-league-badminton-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T14:17:00.000Z",
+      "cuplikan": "Universitas Negeri Sebelas Maret (UNS) Surakarta mengawinkan gelar beregu dan individu Campus League Badminton 2026 The ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/07/03/CL-Badminton.jpg.jpeg"
+    },
+    {
+      "id": "9a2813986ec0",
+      "judul": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "tautan": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T14:15:00.000Z",
+      "cuplikan": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Robotics",
+        "Startups",
+        "Venture",
+        "Layoffs 2026",
+        "TechCrunch Disrupt"
+      ]
+    },
+    {
+      "id": "f732d3efcc8f",
+      "judul": "Gaming’s biggest horror series are more vital than ever",
+      "tautan": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-25T14:10:00.000Z",
+      "cuplikan": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Analysis",
+        "Entertainment",
+        "Gaming",
+        "Report"
+      ]
+    },
+    {
+      "id": "f99f88caa577",
+      "judul": "Keniscayaan Jadi Kenyataan, Tidak Ada Pribumi di Starter Timnas Indonesia",
+      "tautan": "https://www.liputan6.com/bola/read/8299855/keniscayaan-jadi-kenyataan-tidak-ada-pribumi-di-starter-timnas-indonesia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T14:08:44.000Z",
+      "cuplikan": "Penghuni sebelas pertama timnas Indonesia pada laga melawan Singapura merupakan keturunan.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/eCOzZon0J_eErvEiYp-YZq-mtf8=/0x0:1281x720/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358453/original/060217500_1790344321-033A9439-Romeny_Ragnar.JPG",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ce17d2c4d07f",
+      "judul": "Susunan Pemain Timnas Indonesia vs Singapura: Luke Vickery Debut",
+      "tautan": "https://www.liputan6.com/bola/read/8299649/susunan-pemain-timnas-indonesia-vs-singapura-luke-vickery-debut",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T14:07:18.000Z",
+      "cuplikan": "John Herdman memberi debut pada laga timnas Indonesia vs Singapura.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/V0M-p7hCZtX5APGCtCvdA9e5_Gs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5536900/original/037325500_1774348766-11.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "547a59d605c5",
+      "judul": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+      "tautan": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T14:05:04.000Z",
+      "cuplikan": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Gadgets",
+        "Hardware",
+        "meadow",
+        "smartphones"
+      ]
+    },
+    {
+      "id": "86842272359a",
+      "judul": "Ingin Beralih ke HP Lipat di Usia 40 Tahun? Pertimbangkan Dulu Pilihan Baru atau Bekas",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1931121-ingin-beralih-ke-hp-lipat-di-usia-40-tahun-pertimbangkan-dulu-pilihan-baru-atau-bekas",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-09-25T14:02:00.000Z",
+      "cuplikan": "Ingin beralih ke HP lipat di usia 40 tahun? Simak perbandingan HP lipat baru dan bekas, kisaran harga September 2026, serta hal penting yang perlu diperiksa sebelum beli.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/14/6a5614b73568f-ilustrasi-hp-lipat_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "02df519faf11",
+      "judul": "Oratmangoen bawa Indonesia ungguli Singapura 1-0 di babak pertama",
+      "tautan": "https://www.antaranews.com/berita/5758939/oratmangoen-bawa-indonesia-ungguli-singapura-1-0-di-babak-pertama",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T14:01:25.000Z",
+      "cuplikan": "Penyerang sayap Ragnar Oratmangoen membawa Timnas Indonesia mengungguli Timnas Singapura dengan skor 1-0 di babak ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/fifa-asean-cup-2026-indonesia-melawan-singapura-2871473.jpg"
+    },
+    {
+      "id": "7f2a933c6fd8",
+      "judul": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
+      "tautan": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T14:00:08.000Z",
+      "cuplikan": "PlayStation 5, Xbox, PC (version played); Bandai Namco The game generates blood-pumping moments as you twist, turn and weave through the skies, while your locked-on missiles speed away to obliterate an enemy plane The core appeal of any…",
+      "gambar": "https://i.guim.co.uk/img/media/efccbb26a1b9ad7e041713be022857d4da72723c/250_0_1798_1440/master/1798.jpg?width=140&quality=85&auto=format&fit=max&s=2ca0dc6411036114d56215cba80cbdd2",
+      "kategoriSumber": [
+        "Games",
+        "Action games",
+        "Culture",
+        "Adventure games",
+        "Arcade games",
+        "Simulation games"
+      ]
+    },
+    {
+      "id": "7d293e70bd9e",
+      "judul": "Maarten Paes Tak Berkeringat, Timnas Indonesia Ungguli Singapura di Babak Pertama",
+      "tautan": "https://www.viva.co.id/bola/1931146-maarten-paes-tak-berkeringat-timnas-indonesia-ungguli-singapura-di-babak-pertama",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:59:43.000Z",
+      "cuplikan": "Timnas Indonesia tampil dominan saat menghadapi Singapura pada laga perdana Grup A Divisi 1 FIFA ASEAN Cup 2026. Hingga pertengahan babak pertama, Maarten Paes bahkan nya",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab67a72cc1b1-penyerang-timnas-indonesia-ragnar-oratmangoen_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "f224d8019a81",
+      "judul": "Special agents' blood and urine test results stolen in FBI hack",
+      "tautan": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T13:56:16.000Z",
+      "cuplikan": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg"
+    },
+    {
+      "id": "a2c0d4e479ee",
+      "judul": "Umpan Luke Vickery ke Ragnar Oratmangoen Antar Timnas Indonesia Unggul atas Singapura di 45 Menit Pertama FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8299849/umpan-luke-vickery-ke-ragnar-oratmangoen-antar-timnas-indonesia-unggul-atas-singapura-di-45-menit-pertama-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:55:36.000Z",
+      "cuplikan": "Timnas Indonesia unggul 1-0 atas Singapura pada jeda FIFA ASEAN Cup 2026 di SUGBK. Gol Ragnar Oratmangoen lahir dari umpan Luke Vickery pada menit ke-13.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/eCOzZon0J_eErvEiYp-YZq-mtf8=/0x0:1281x720/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358453/original/060217500_1790344321-033A9439-Romeny_Ragnar.JPG",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5d4dc1bbd897",
+      "judul": "Sean Gelael bersama team WRT 32 sulit cari formula mobil terbaik",
+      "tautan": "https://www.antaranews.com/berita/5758921/sean-gelael-bersama-team-wrt-32-sulit-cari-formula-mobil-terbaik",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:49:18.000Z",
+      "cuplikan": "Pembalap Indonesia Sean Gelael bersama dengan team WRT 32 masih kesulitan mencari formula mobil terbaik jelang FIA ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/WEC626_092512225405218ND.jpg"
+    },
+    {
+      "id": "860e0cd3e804",
+      "judul": "KSP: Atlet pelajar jangan dipaksa pilih prestasi atau sekolah",
+      "tautan": "https://www.antaranews.com/berita/5758909/ksp-atlet-pelajar-jangan-dipaksa-pilih-prestasi-atau-sekolah",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:47:07.000Z",
+      "cuplikan": "Kantor Staf Presiden (KSP) menegaskan talenta olahraga sejak di bangku sekolah tidak semestinya dipaksa memilih antara ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/koni-ksp.jpeg"
+    },
+    {
+      "id": "576e36277f30",
+      "judul": "Megahnya Pembukaan FIFA ASEAN Cup 2026 di SUGBK",
+      "tautan": "https://www.viva.co.id/bola/1931145-megahnya-pembukaan-fifa-asean-cup-2026-di-sugbk",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:45:02.000Z",
+      "cuplikan": "FIFA ASEAN Cup 2026 resmi dimulai. Upacara pembukaan berlangsung meriah di Stadion Utama Gelora Bung Karno (SUGBK), Jakarta, Jumat (25/9/2026) malam WIB.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab67b0cdbd35-pembukaan-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "027fe5b2cd0a",
+      "judul": "Menakar Peluang Gabriel Jesus Jadi Starter Barcelona",
+      "tautan": "https://www.liputan6.com/bola/read/8299839/menakar-peluang-gabriel-jesus-jadi-starter-barcelona",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:42:54.000Z",
+      "cuplikan": "Gabriel Jesus berpeluang menjadi starter Barcelona saat menghadapi Getafe setelah jeda internasional September 2026",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/M1CL7X2_XcC-iK0bz9ZBk0_HcgE=/0x0:4269x2406/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9344752/original/049441400_1788995748-Barcelona_s_Gabriel_Jesus.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "f4205261a32d",
+      "judul": "Duet ayah-anak, Rifat dan Mayka diuji di Kejurnas Sprint Rally 2026",
+      "tautan": "https://www.antaranews.com/berita/5758897/duet-ayah-anak-rifat-dan-mayka-diuji-di-kejurnas-sprint-rally-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:42:24.000Z",
+      "cuplikan": "Duet ayah dan anak, Rifat Sungkar dan putranya El Mayka Rifat Sungkar, diuji di putaran keempat Kejurnas Sprint Rally ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/IMG-20260924-WA0329.jpg"
+    },
+    {
+      "id": "8b23573359e5",
+      "judul": "Dani Olmo Masuk Radar Bayern Munchen",
+      "tautan": "https://www.liputan6.com/bola/read/8299828/dani-olmo-masuk-radar-bayern-munchen",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:31:42.000Z",
+      "cuplikan": "Dani Olmo masuk daftar incaran Bayern Munchen untuk bursa transfer Januari 2027",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Cz3T-dcrpaq7JjpgtnSmf9lZMjE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4929762/original/089810900_1724795737-AP24240773315879.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "3c84142f19bf",
+      "judul": "Deco Klarifikasi Rumor Barcelona Incar Wonderkid Manchester United JJ Gabriel",
+      "tautan": "https://www.liputan6.com/bola/read/8299309/deco-klarifikasi-rumor-barcelona-incar-wonderkid-manchester-united-jj-gabriel",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:30:16.000Z",
+      "cuplikan": "Barcelona santer disebut sebagai salah satu klub yang berminat membajak JJ Gabriel dari Manchester United.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/FCdG-9CHkZvtuY2phD-HQfKiGy4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5136506/original/094520400_1739863432-000_36Y36KK.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a1d444d35a88",
+      "judul": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+      "tautan": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T13:24:34.000Z",
+      "cuplikan": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Crypto",
+        "Security",
+        "crypto exchange",
+        "cyberattack",
+        "cybersecurity",
+        "In Brief"
+      ]
+    },
+    {
+      "id": "b241111a886d",
+      "judul": "Cristiano Ronaldo Gagal Bersinar di Awal Era Baru Timnas Portugal",
+      "tautan": "https://www.liputan6.com/bola/read/8299817/cristiano-ronaldo-gagal-bersinar-di-awal-era-baru-timnas-portugal",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:20:29.000Z",
+      "cuplikan": "Cristiano Ronaldo kesulitan pada debut Jorge Jesus bersama Portugal",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/loyaaX5YrDmsAqa9ibwd-3LEHuc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8626296/original/061164700_1782621431-000_B8JY7NM.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5d7573d4375f",
+      "judul": "Emilia Nova tuntaskansaptalomba Asian Games dengan finis ketujuh",
+      "tautan": "https://www.antaranews.com/berita/5758833/emilia-nova-tuntaskansaptalomba-asian-games-dengan-finis-ketujuh",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T13:13:47.000Z",
+      "cuplikan": "Atlet Indonesia Emilia Nova menuntaskan rangkaian nomor saptalomba atau heptathlon Asian Games Aichi-Nagoya 2026 dengan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/emilia-nova-gagal-raih-medali-heptathlon-putri-2871500.jpg"
+    },
     {
       "id": "4b6700ecc5d4",
       "judul": "Roberto Mancini Bidik Kemenangan di Laga Comeback Bersama Timnas Italia",
@@ -217,20 +1201,6 @@
       "terbit": "2026-09-25T12:19:25.000Z",
       "cuplikan": "Perhelatan olahraga multicabang terbesar di Asia kembali digelar untuk ke-20 kalinya. Edisi kali ini berpusat di Kota ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/1000070811.jpg"
-    },
-    {
-      "id": "ce17d2c4d07f",
-      "judul": "Susunan Pemain Timnas Indonesia vs Singapura: Luke Vickery Debut",
-      "tautan": "https://www.liputan6.com/bola/read/8299649/susunan-pemain-timnas-indonesia-vs-singapura-luke-vickery-debut",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-09-25T12:12:00.000Z",
-      "cuplikan": "John Herdman memberi debut pada laga timnas Indonesia vs Singapura.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/V0M-p7hCZtX5APGCtCvdA9e5_Gs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5536900/original/037325500_1774348766-11.jpg",
-      "kategoriSumber": [
-        "Bola"
-      ]
     },
     {
       "id": "37fa2e4d249e",
@@ -537,12 +1507,18 @@
       "lajur": "global",
       "terbit": "2026-09-25T11:00:03.000Z",
       "cuplikan": "Ezra Klein interviews the Nvidia chief executive Jensen Huang.",
-      "gambar": "https://static01.nyt.com/images/2026/09/25/podcasts/25hardfork-ezra-jensen-huang/25hardfork-ezra-jensen-huang-mediumSquareAt3X.jpg",
+      "gambar": "https://static01.nyt.com/images/2026/09/25/podcasts/25hardfork-ezra-jensen-huang/25hardfork-ezra-jensen-huang-mediumSquareAt3X-v2.jpg",
       "kategoriSumber": [
-        "Science and Technology",
-        "NVIDIA Corporation",
         "Artificial Intelligence",
-        "Huang, Jen-Hsun"
+        "NVIDIA Corporation",
+        "Computer Chips",
+        "Huang, Jen-Hsun",
+        "Computer Security",
+        "Labor and Jobs",
+        "Medical Imaging",
+        "Software",
+        "Engineering and Engineers",
+        "China"
       ]
     },
     {
@@ -586,20 +1562,6 @@
       "gambar": "https://www.engadget.com/img/gallery/google-adds-creepy-avatars-to-gemini-3-8-lives-agents/l-intro-1790333572.jpg",
       "kategoriSumber": [
         "AI"
-      ]
-    },
-    {
-      "id": "c2f6c2a133c2",
-      "judul": "Malaysia Terkam Bangladesh di FIFA ASEAN Cup 2026",
-      "tautan": "https://www.liputan6.com/bola/read/8299710/malaysia-terkam-bangladesh-di-fifa-asean-cup-2026",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-09-25T10:52:22.000Z",
-      "cuplikan": "Malaysia mengawali FIFA ASEAN Cup 2026 dengan mengalahkan Bangladesh 3-0.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/na3UyjSuzC85xPWXPxSioGoI3TU=/257x493:1847x1389/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358299/original/014290000_1790330375-malaysia.jpg",
-      "kategoriSumber": [
-        "Bola"
       ]
     },
     {
@@ -2286,10 +3248,11 @@
       "cuplikan": "Google is preparing to launch a satellite that can run its A.I. technologies from the heavens. But this is just a first step.",
       "gambar": "https://static01.nyt.com/images/2026/09/24/multimedia/24SCI-SPACE-DATA-CENTERS-wgkc/24SCI-SPACE-DATA-CENTERS-wgkc-mediumSquareAt3X.jpg",
       "kategoriSumber": [
-        "Satellites",
         "Artificial Intelligence",
         "Data Centers",
-        "Sun"
+        "Satellites",
+        "Space and Astronomy",
+        "Google Inc"
       ]
     },
     {
@@ -2592,16 +3555,16 @@
       "cuplikan": "Federal officials asked to intervene in a case that accused the social media platform of allowing deceptive behavior on its site and resulted in a $140 million penalty.",
       "gambar": "https://static01.nyt.com/images/2026/09/24/multimedia/24biz-trump-x-qkzj/24biz-trump-x-qkzj-mediumSquareAt3X.jpg",
       "kategoriSumber": [
+        "X (Formerly Twitter)",
         "Social Media",
+        "Regulation and Deregulation of Industry",
         "Fines (Penalties)",
+        "European Union",
+        "European Commission",
         "Freedom of Speech and Expression",
         "Computers and the Internet",
-        "Regulation and Deregulation of Industry",
-        "United States Politics and Government",
-        "European Commission",
-        "European Court of Justice",
-        "X (Formerly Twitter)",
-        "Musk, Elon"
+        "Musk, Elon",
+        "Trump, Donald J"
       ]
     },
     {
@@ -2963,14 +3926,14 @@
       "cuplikan": "Meta’s smart glasses are the latest in a line of products to raise eyebrows over privacy. That’s not stopping other companies from creating similar devices.",
       "gambar": "https://static01.nyt.com/images/2026/09/25/multimedia/TECHFIX-1-01-blpt/TECHFIX-1-01-blpt-mediumSquareAt3X.jpg",
       "kategoriSumber": [
-        "Computers and the Internet",
+        "Meta Platforms Inc",
+        "Eyeglasses",
         "Wearable Computing",
         "Artificial Intelligence",
         "Privacy",
-        "Eyeglasses",
+        "Computers and the Internet",
         "Google Glass",
-        "Google Inc",
-        "Meta Platforms Inc"
+        "Google Inc"
       ]
     },
     {

@@ -705,5 +705,33 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-09-25T13:11:59.162Z"
+  },
+  "ef67d11a329c": {
+    "teks": "Kegagalan pemindaian kode batang tiket konser digital sering kali disebabkan oleh penggunaan tangkapan layar yang tidak berlaku pada aplikasi seperti Ticketmaster dan AXS. Untuk mengantisipasi gangguan koneksi internet di lokasi acara, penonton sebaiknya telah membuka tiket lebih awal atau menyimpannya ke Apple Wallet maupun Google Wallet. Selain itu, pastikan kecerahan layar ponsel cukup terang serta bebas dari notifikasi agar kode dapat terdeteksi dengan jelas oleh mesin pemindai.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T18:10:29.150Z"
+  },
+  "36348dfbf5c3": {
+    "teks": "Google memperbarui model AI Gemini dengan menghadirkan fitur Live Avatar yang mampu berinteraksi secara visual secara nyaris waktu nyata. Fitur bagi pelanggan korporat ini memungkinkan pengguna berkomunikasi dengan avatar yang dapat berbicara, mendengar, melihat, serta menunjukkan ekspresi alami. Organisasi dapat memanfaatkan pilihan karakter yang tersedia maupun membuat avatar kustom untuk kebutuhan bisnis seperti layanan pelanggan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T18:11:26.061Z"
+  },
+  "e79c891b1c4b": {
+    "teks": "Tim nasional Indonesia meraih kemenangan 2-0 atas Singapura dalam laga perdana Grup A FIFA ASEAN Cup 2026 berkat gol Ragnar Oratmangoen dan penalti Ole Romeny. Hasil tersebut mengantarkan Indonesia mengantongi tiga poin pertama. Meski demikian, Malaysia memimpin puncak klasemen sementara setelah menundukkan Bangladesh 3-0 dan unggul selisih gol atas Indonesia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T18:12:46.552Z"
+  },
+  "0d0ab2de5779": {
+    "teks": "Memulai kunjungan resmi tiga hari di Prancis, pemimpin Gereja Katolik memperingatkan ancaman kecerdasan buatan terhadap kemanusiaan agar teknologi tetap mengabdi kepada manusia dan didasari etika. Dalam pidatonya, ia juga menyoroti para pemimpin dunia yang mengabaikan supremasi hukum serta mendesak agar masyarakat tidak pasrah terhadap perang. Selain itu, agenda kunjungan tersebut mencakup pertemuan privat dengan para korban pelecehan seksual di lingkungan gereja.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-25T18:13:45.189Z"
   }
 }

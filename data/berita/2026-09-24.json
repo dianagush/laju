@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-24",
-  "diperbarui": "2026-09-25T13:09:26.161Z",
+  "diperbarui": "2026-09-25T18:10:14.641Z",
   "berita": [
     {
       "id": "a6c98c6235e8",
@@ -1082,16 +1082,15 @@
       "cuplikan": "Next Thursday, Google is sending an experimental satellite into orbit that will have enough computing power to answer simple A.I. queries from space.",
       "gambar": "https://static01.nyt.com/images/2026/09/24/multimedia/GOOGLE-SPACE-still-promo-hmbp/GOOGLE-SPACE-still-promo-hmbp-mediumSquareAt3X.jpg",
       "kategoriSumber": [
-        "Artificial Intelligence",
-        "Satellites",
-        "Computer Chips",
-        "Data Centers",
-        "Radiation",
-        "Innovation",
-        "Solar Energy",
+        "Google Inc",
         "Space and Astronomy",
-        "Computers and the Internet",
-        "Google Inc"
+        "Satellites",
+        "Artificial Intelligence",
+        "Data Centers",
+        "Computer Chips",
+        "Solar Energy",
+        "Radiation",
+        "Computers and the Internet"
       ]
     },
     {
