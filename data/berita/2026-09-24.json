@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-24",
-  "diperbarui": "2026-09-24T18:06:05.800Z",
+  "diperbarui": "2026-09-25T01:05:05.946Z",
   "berita": [
     {
       "id": "a6c98c6235e8",
@@ -22,7 +22,7 @@
       "lajur": "global",
       "terbit": "2026-09-24T16:53:14.000Z",
       "cuplikan": "The new Charlie range now supports both 120 and 240-volt outlets, so it's easier to install too.",
-      "gambar": "https://www.engadget.com/img/gallery/coppers-latest-high-end-induction-stove-brings-the-heat-better-than-ever/l-intro-1790268698.jpg",
+      "gambar": "https://www.engadget.com/img/gallery/coppers-latest-high-end-induction-stove-brings-heat-better-than-ever/l-intro-1790286569.jpg",
       "kategoriSumber": [
         "News"
       ]
@@ -101,7 +101,7 @@
     },
     {
       "id": "5fbe01394f97",
-      "judul": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "judul": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
       "tautan": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
       "sumber": "TechCrunch",
       "kanal": "techcrunch",
@@ -182,6 +182,53 @@
       ]
     },
     {
+      "id": "98f97df75a27",
+      "judul": "Link Live Streaming Bulu Tangkis Asian Games 2026: 6 Wakil Indonesia Bertanding",
+      "tautan": "https://www.liputan6.com/bola/read/8299177/link-live-streaming-bulu-tangkis-asian-games-2026-6-wakil-indonesia-bertanding",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T16:17:22.000Z",
+      "cuplikan": "Nomor perorangan bulu tangkis Asian Games 2026 dimulai, dengan enam wakil Indonesia turun pada hari pertama, Kamis (25/9/2026).",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/X9O2mIucs6WEqkRqKKtf8aXSfik=/0x83:1280x804/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9354052/original/033369500_1789993759-febi.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "cd729cf3bb43",
+      "judul": "Google's first Suncatcher orbital data center test launches October 1",
+      "tautan": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-24T16:16:34.000Z",
+      "cuplikan": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/suncatcher-1152x648.png",
+      "kategoriSumber": [
+        "AI",
+        "Google",
+        "google",
+        "orbital data centers",
+        "space",
+        "suncatcher"
+      ]
+    },
+    {
+      "id": "8c464b370e01",
+      "judul": "Prediksi Timnas Indonesia vs Singapura: Wajah Berbeda Garuda di FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8299184/prediksi-timnas-indonesia-vs-singapura-wajah-berbeda-garuda-di-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-24T16:14:15.000Z",
+      "cuplikan": "Duel timnas Indonesia vs Singapura memanaskan persaingan Grup A Divisi 1 FIFA ASEAN Cup 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/uw1XI69XhelEyClmOY6SbFju43c=/0x0:4000x2252/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9357472/original/039130300_1790249536-20260924_172101.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
       "id": "69d34719f9a1",
       "judul": "Gemini can now call businesses for you so you don’t have to wait on hold",
       "tautan": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
@@ -219,6 +266,24 @@
         "Startup Battlefield",
         "Startup Battlefield 200",
         "TechCrunch Disrupt"
+      ]
+    },
+    {
+      "id": "fe13b3d5a5fd",
+      "judul": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "tautan": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-24T16:01:16.000Z",
+      "cuplikan": "\"There will obviously be legal consequences,\" prime minister promises.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1336652477-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "australia",
+        "hack",
+        "misalignment",
+        "openai"
       ]
     },
     {
@@ -304,6 +369,21 @@
         "News",
         "Nintendo",
         "Policy"
+      ]
+    },
+    {
+      "id": "8a40ade12405",
+      "judul": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+      "tautan": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-24T15:48:29.000Z",
+      "cuplikan": "F1 wants smaller, lighter cars that are not energy-starved like the 2026 hybrids.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296885282-1152x648.jpg",
+      "kategoriSumber": [
+        "Cars",
+        "Formula 1"
       ]
     },
     {
@@ -484,7 +564,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-09-24T15:00:21.000Z",
-      "cuplikan": "Council on AI Strategy chief says incident unlikely to be isolated and country should enhance capability to detect and report incidents Get our breaking news email , free app or daily news podcast Technology experts have warned revelations…",
+      "cuplikan": "Council on AI Strategy chief says incident unlikely to be isolated and country should enhance capability to detect and report incidents Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily…",
       "gambar": "https://i.guim.co.uk/img/media/382f5ce9a99ca59f0295e666583b6b694b2ebb34/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=791d4d21f2548bf6d76fadd4457b467a",
       "kategoriSumber": [
         "Medicare Australia",
@@ -492,7 +572,8 @@
         "Australia news",
         "AI (artificial intelligence)",
         "OpenAI",
-        "Hacking"
+        "Hacking",
+        "Australian politics"
       ]
     },
     {
@@ -532,7 +613,7 @@
     },
     {
       "id": "18c0be486600",
-      "judul": "NASA chief concerned China may deny access to parts of South Pole",
+      "judul": "NASA chief concerned China may deny access to parts of Moon's south pole",
       "tautan": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
       "sumber": "Ars Technica",
       "kanal": "ars",
@@ -614,7 +695,7 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-09-24T14:31:00.000Z",
-      "cuplikan": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "cuplikan": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
@@ -819,7 +900,7 @@
       "lajur": "global",
       "terbit": "2026-09-24T14:00:21.000Z",
       "cuplikan": "Activists gathered outside the OpenAI offices on Monday during climate week in New York City On Monday evening, protesters gathered outside the unmarked Manhattan offices of OpenAI, maker of ChatGPT, holding signs calling to “Eat the rich…",
-      "gambar": "https://i.guim.co.uk/img/media/6d7b4ac09c1a7cc7e496eabec88cca48e84f2343/634_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=277f0b24f8e54c0f9263b2601b863308",
+      "gambar": "https://i.guim.co.uk/img/media/2f8de6f654120c850d0f7a51880eb6372245f7ec/644_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=7a3cdf413192cd5d00d1a7b9f269ae88",
       "kategoriSumber": [
         "AI (artificial intelligence)",
         "Protest (US)",
@@ -1663,6 +1744,34 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/24/Final-bulu-tangkis-beregu-putra-Asian-Games-2026-240926-fzn-9.jpg"
     },
     {
+      "id": "056fc9449d0b",
+      "judul": "Xiaomi 18 Pro Resmi Meluncur, Usung Baterai Jumbo dan Kamera Mumpuni",
+      "tautan": "https://www.liputan6.com/tekno/read/8298898/xiaomi-18-pro-resmi-meluncur-usung-baterai-jumbo-dan-kamera-mumpuni",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-24T10:35:28.000Z",
+      "cuplikan": "Xiaomi resmi merilis Xiaomi 18 Pro dengan baterai jumbo 7.000 mAh, kamera Leica 200 MP, chipset Snapdragon 8 Elite Gen 6, serta fitur privacy screen.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/aYnrnYeDIwu_m8thLhw9CzFSyps=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9357365/original/087420300_1790243349-xiaomi-18-pro-colors-1-copy.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "131b9b12b861",
+      "judul": "Benarkah Main HP Saat Hamil Bisa Ganggu Detak Jantung Janin? Ini Kata Ahli",
+      "tautan": "https://www.liputan6.com/tekno/read/8298742/benarkah-main-hp-saat-hamil-bisa-ganggu-detak-jantung-janin-ini-kata-ahli",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-24T10:34:25.000Z",
+      "cuplikan": "Penggunaan HP saat hamil dikaitkan dengan perubahan fungsi jantung janin dalam sejumlah penelitian. Benarkah HP bisa memengaruhi kesehatan janin?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/J7pyqJWS_m7iPKWF0BNuCGaZq3M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4496723/original/082498100_1688964288-sylwia-bartyzel-m7HrMJJ0bW0-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
       "id": "861e01f1dc27",
       "judul": "PSSI kebut perbaikan Lapangan Sidolig Bandung untuk FIFA ASEAN Cup",
       "tautan": "https://www.antaranews.com/berita/5756869/pssi-kebut-perbaikan-lapangan-sidolig-bandung-untuk-fifa-asean-cup",
@@ -2039,7 +2148,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-09-24T09:19:28.000Z",
-      "cuplikan": "Former deputy PM now involved in tech industry says many within sector are ‘winding themselves up into a lather’ UK politics live – latest updates Nick Clegg has dismissed fears over AI’s “godlike power to exterminate humanity”, calling it…",
+      "cuplikan": "Former deputy PM now involved in tech industry says many within sector are ‘winding themselves up into a lather’ Nick Clegg has dismissed fears over AI’s “godlike power to exterminate humanity”, calling it a sign that tech bosses are…",
       "gambar": "https://i.guim.co.uk/img/media/08512db3c6c5392283771859f38473c090d637d5/686_0_5761_4608/master/5761.jpg?width=140&quality=85&auto=format&fit=max&s=b76dd2b8d105af3c9c9812033e875a68",
       "kategoriSumber": [
         "AI (artificial intelligence)",

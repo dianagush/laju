@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-24T18:06:07.343Z",
+  "diperbarui": "2026-09-25T01:05:07.836Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -230,28 +230,6 @@
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882869",
-          "liga": "esp.1",
-          "mulai": "2026-09-17T19:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Málaga",
-            "namaLengkap": "Málaga",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/99.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Villarreal",
-            "namaLengkap": "Villarreal",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/102.png&w=48&h=48",
-            "skor": 3,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882869/villarreal-malaga"
-        },
         {
           "id": "401882862",
           "liga": "esp.1",
