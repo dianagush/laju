@@ -1,32 +1,10 @@
 {
-  "diperbarui": "2026-09-26T06:57:00.087Z",
+  "diperbarui": "2026-09-26T12:36:32.962Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
       "nama": "Liga Inggris",
       "laga": [
-        {
-          "id": "401879269",
-          "liga": "eng.1",
-          "mulai": "2026-09-19T11:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Spurs",
-            "namaLengkap": "Tottenham Hotspur",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&w=48&h=48",
-            "skor": 2,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Aston Villa",
-            "namaLengkap": "Aston Villa",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/362.png&w=48&h=48",
-            "skor": 3,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879269/aston-villa-tottenham-hotspur"
-        },
         {
           "id": "401879274",
           "liga": "eng.1",
@@ -208,28 +186,6 @@
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882860",
-          "liga": "esp.1",
-          "mulai": "2026-09-19T12:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Osasuna",
-            "namaLengkap": "Osasuna",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/97.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Rayo",
-            "namaLengkap": "Rayo Vallecano",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/101.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882860/rayo-vallecano-osasuna"
-        },
         {
           "id": "401882866",
           "liga": "esp.1",
