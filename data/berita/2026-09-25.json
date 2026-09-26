@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-25",
-  "diperbarui": "2026-09-25T18:10:14.641Z",
+  "diperbarui": "2026-09-26T01:06:23.775Z",
   "berita": [
     {
       "id": "0fa6c977ec27",
@@ -322,6 +322,24 @@
       ]
     },
     {
+      "id": "0fc9c86402b3",
+      "judul": "Meta’s AI Tamagotchi bet is…working?",
+      "tautan": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T16:00:00.000Z",
+      "cuplikan": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "AI agents",
+        "consumer AI",
+        "Meta",
+        "muse"
+      ]
+    },
+    {
       "id": "b945ff690bf9",
       "judul": "Rapor Luke Vickery di Debut Timnas Indonesia, Selanjutnya Bidik Malaysia",
       "tautan": "https://www.liputan6.com/bola/read/8299902/rapor-luke-vickery-di-debut-timnas-indonesia-selanjutnya-bidik-malaysia",
@@ -420,6 +438,23 @@
       ]
     },
     {
+      "id": "a4cc95cb9f27",
+      "judul": "After seven years, a spacecraft company is releasing its Otters into the wild",
+      "tautan": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:35:23.000Z",
+      "cuplikan": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett-1152x648.png",
+      "kategoriSumber": [
+        "Space",
+        "otter",
+        "space",
+        "starfish space"
+      ]
+    },
+    {
       "id": "5964d1a0e861",
       "judul": "Klasemen Grup A: Malaysia puncak, Indonesia posisi kedua",
       "tautan": "https://www.antaranews.com/berita/5759067/klasemen-grup-a-malaysia-puncak-indonesia-posisi-kedua",
@@ -474,6 +509,22 @@
         "Elon Musk",
         "Tesla",
         "Tesla Semi"
+      ]
+    },
+    {
+      "id": "ad2dde791cc2",
+      "judul": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+      "tautan": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:21:55.000Z",
+      "cuplikan": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Geely-robot-charger-1152x648.jpg",
+      "kategoriSumber": [
+        "Cars",
+        "DC fast charging",
+        "Geely"
       ]
     },
     {
@@ -594,7 +645,7 @@
     },
     {
       "id": "b4712288a266",
-      "judul": "It’s going to take more than an email to a public inbox to protect Australians from potential AI doom",
+      "judul": "It’s going to take more than an email to a public inbox to protect Australians from potential AI doom | Tom McIlroy",
       "tautan": "https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders",
       "sumber": "The Guardian",
       "kanal": "guardian-tech",
@@ -740,6 +791,27 @@
       ]
     },
     {
+      "id": "dac2c0379fa6",
+      "judul": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+      "tautan": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T14:07:46.000Z",
+      "cuplikan": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-1152x648.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Space",
+        "astronomy",
+        "astrophysics",
+        "black holes",
+        "exoplanets",
+        "NASA",
+        "Prima"
+      ]
+    },
+    {
       "id": "ce17d2c4d07f",
       "judul": "Susunan Pemain Timnas Indonesia vs Singapura: Luke Vickery Debut",
       "tautan": "https://www.liputan6.com/bola/read/8299649/susunan-pemain-timnas-indonesia-vs-singapura-luke-vickery-debut",
@@ -874,6 +946,26 @@
       "terbit": "2026-09-25T13:47:07.000Z",
       "cuplikan": "Kantor Staf Presiden (KSP) menegaskan talenta olahraga sejak di bangku sekolah tidak semestinya dipaksa memilih antara ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/koni-ksp.jpeg"
+    },
+    {
+      "id": "d69a4fb8620f",
+      "judul": "Trump administration takes Musk’s side in fight over EU tech rules",
+      "tautan": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T13:45:49.000Z",
+      "cuplikan": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/x-eu-1152x648-1743790778.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "Digital Service Act",
+        "DSA",
+        "elon musk xai",
+        "EU",
+        "X",
+        "xAI"
+      ]
     },
     {
       "id": "576e36277f30",
@@ -1496,6 +1588,43 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/sva4ROtlp_457ZM4TpzrcnNxtL8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4613966/original/012898100_1697536047-levart_photographer-drwpcjkvxuU-unsplash.jpg",
       "kategoriSumber": [
         "Tekno"
+      ]
+    },
+    {
+      "id": "42742cbbb3a8",
+      "judul": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "tautan": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T11:00:28.000Z",
+      "cuplikan": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Features",
+        "Health",
+        "CMS",
+        "Medicare",
+        "seniors",
+        "trump administration",
+        "WISeR"
+      ]
+    },
+    {
+      "id": "c36ef5e5a6d6",
+      "judul": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
+      "tautan": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T11:00:10.000Z",
+      "cuplikan": "\"The customer got comfortable with a high reliability and a low price.\"",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+      "kategoriSumber": [
+        "Space",
+        "rocket report",
+        "space"
       ]
     },
     {

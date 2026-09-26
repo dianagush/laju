@@ -1,17 +1,65 @@
 {
   "tanggal": "2026-09-26",
-  "diperbarui": "2026-09-25T18:10:14.641Z",
+  "diperbarui": "2026-09-26T01:06:23.775Z",
   "berita": [
     {
+      "id": "10a1629a8638",
+      "judul": "Ole Romeny Ungkap Perasaannya Kembali Tampil di Depan Suporter Timnas Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1931205-ole-romeny-ungkap-perasaannya-kembali-tampil-di-depan-suporter-timnas-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T01:00:00.000Z",
+      "cuplikan": "Ole Romeny mengungkap perasaannya setelah kembali tampil bersama Timnas Indonesia di hadapan suporter. Ia menyebut momen tersebut terasa sangat spesial.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab69f116d6e4-penyerang-timnas-indonesia-ole-romeny-di-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "0bfd61d5af36",
+      "judul": "Tech Now",
+      "tautan": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-26T01:00:00.000Z",
+      "cuplikan": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+      "gambar": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"
+    },
+    {
+      "id": "029507b2b9f1",
+      "judul": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "tautan": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-26T00:48:30.000Z",
+      "cuplikan": "The company did not learn until recently that its technology had meddled with websites for the Education and Commerce Departments and the Securities and Exchange Commission.",
+      "gambar": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-openai-2-btmk/25biz-openai-2-btmk-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "United States Politics and Government",
+        "Computer Security",
+        "Regulation and Deregulation of Industry",
+        "Education Department (US)",
+        "Commerce Department",
+        "Securities and Exchange Commission",
+        "OpenAI Labs",
+        "Altman, Samuel H"
+      ]
+    },
+    {
       "id": "8fbccf26de21",
-      "judul": "Trump told Xi Jinping that China helping Iran is ‘unacceptable’, official says – live",
+      "judul": "US supreme court rejects Republican-drawn midterm map in Missouri for third time – live",
       "tautan": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
       "sumber": "The Guardian",
       "kanal": "guardian-tech",
       "lajur": "global",
-      "terbit": "2026-09-25T18:03:48.000Z",
-      "cuplikan": "Xi is expected to depart DC after touring the nation’s vault of records, where the Declaration of Independence, the Constitution and the Bill of Rights are held Sign up for US Breaking News emails Xi Jinping and his wife are back at the…",
-      "gambar": "https://i.guim.co.uk/img/media/70c7aeeec6b5d74e419adfcc2cc6d5a9ceed831a/544_0_4900_3922/master/4900.jpg?width=140&quality=85&auto=format&fit=max&s=fef3235577002dac800f22c1d5b6123c",
+      "terbit": "2026-09-26T00:41:44.000Z",
+      "cuplikan": "Long-running fight over Trump-backed maps takes another turn as absentee voting is already under way in Missouri Sign up for US Breaking News emails Xi Jinping and his wife are back at the White House for the final day of the Chinese…",
+      "gambar": "https://i.guim.co.uk/img/media/f56c9386312fca928956dfa8ac27216bea06f2e5/593_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=0e3bc67779670b4e9e7a98cb88100688",
       "kategoriSumber": [
         "Donald Trump",
         "Trump administration",
@@ -19,6 +67,786 @@
         "US foreign policy",
         "AI (artificial intelligence)",
         "US Congress"
+      ]
+    },
+    {
+      "id": "7b9e8af38544",
+      "judul": "Libas Singapura 2-0, John Herdman Sebut Timnas Indonesia Belum Mencapai Bentuk Terbaik",
+      "tautan": "https://www.viva.co.id/bola/1931204-libas-singapura-2-0-john-herdman-sebut-timnas-indonesia-belum-mencapai-bentuk-terbaik",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T00:30:00.000Z",
+      "cuplikan": "Timnas Indonesia menang 2-0 atas Singapura, tetapi John Herdman menilai skuad Garuda masih akan berkembang dan tampil lebih tajam seiring bertambahnya laga bersama.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/26/6ab6c989c1618-pemain-timnas-indonesia-luke-vickery-dan-mitchell-baker_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "22c8166b45dc",
+      "judul": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-26T00:24:43.000Z",
+      "cuplikan": "Disclosure reveals ⁠new area of privacy risk for the company and illustrates ​how difficult it is to inventory unauthorized activity tied to its agents Two ⁠months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT…",
+      "gambar": "https://i.guim.co.uk/img/media/01a09c7a797fe840f3618b3ad42adebb2b1c2108/647_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=07ff40b054daa2b832585d2ec242c4b5",
+      "kategoriSumber": [
+        "OpenAI",
+        "AI (artificial intelligence)",
+        "Hacking",
+        "ChatGPT",
+        "Technology",
+        "US news",
+        "Privacy"
+      ]
+    },
+    {
+      "id": "6c7096ff6fb5",
+      "judul": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "tautan": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-26T00:09:45.000Z",
+      "cuplikan": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg"
+    },
+    {
+      "id": "a8bad2a04046",
+      "judul": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+      "tautan": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-26T00:02:00.000Z",
+      "cuplikan": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
+      "gambar": "https://media.wired.com/photos/6ab6f36a22f26e9fe871007e/master/pass/Why-Buy-an-Away-When-Quince-Is-Half-the-Price-.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Lifestyle",
+        "Gear / Products / Outdoor"
+      ]
+    },
+    {
+      "id": "bd2b2d1a0586",
+      "judul": "Google Bikin Lemari Virtual Berbasis AI, Bisa Padu-Padankan Koleksi Pakaian",
+      "tautan": "https://www.jawapos.com/teknologi/2609260003/google-bikin-lemari-virtual-berbasis-ai-bisa-padu-padankan-koleksi-pakaian",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T00:00:55.000Z",
+      "cuplikan": "Google hadirkan lemari virtual AI di Google Photos untuk padu-padankan koleksi pakaian. Fitur ini tersedia di Amerika, Brasil, dan India",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/google-menghadirkan-fitur-berbasis-kecerdasan-artifisial-ai-yang-memungkinkan-pengguna-mengubah-koleksi-pakaian-dalam-foto-menjadi-lemari-virtual-techcrunch-5Twhn.webp"
+    },
+    {
+      "id": "1f1fcb721986",
+      "judul": "FIFA ASEAN Cup 2026: Ole Romeny Puji Kevin Diks yang Rela Berikan Kesempatan Cetak Gol",
+      "tautan": "https://www.liputan6.com/bola/read/8299968/fifa-asean-cup-2026-ole-romeny-puji-kevin-diks-yang-rela-berikan-kesempatan-cetak-gol",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T00:00:41.000Z",
+      "cuplikan": "Ole Romeny memuji kebesaran hati Diks yang memberikan kepada dirinya kesempatan mengeksekusi penalti saat timnas Indonesia melawan Singapura.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/ctJmGoHh9NrjR-hW2PdOSB5-8pk=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358509/original/083110600_1790355773-033A0083.jpg.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "567141421c2b",
+      "judul": "FIFA ASEAN Cup Berpotensi Digelar Lagi 4 Tahun Mendatang, Ini Kata Sekjen FIFA",
+      "tautan": "https://www.viva.co.id/bola/1931201-fifa-asean-cup-berpotensi-digelar-lagi-4-tahun-mendatang-ini-kata-sekjen-fifa",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T00:00:00.000Z",
+      "cuplikan": "Sekjen FIFA Mattias Grafstrom mengungkap FIFA sedang mempertimbangkan potensi menggelar kembali FIFA ASEAN Cup dalam kurun waktu empat tahun mendatang.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab668b7449cb-ketua-umum-pssi-erick-thohir-kiri-dan-sekjen-fifa-mattias-grafstrom-kanan_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "4c426a122355",
+      "judul": "Inside iconic horror game Silent Hill's Scottish makeover",
+      "tautan": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T23:34:20.000Z",
+      "cuplikan": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg"
+    },
+    {
+      "id": "553099fb99fe",
+      "judul": "Ole Romeny Ungkap Kenapa Pemain Baru Timnas Indonesia Bisa Cepat Nyetel",
+      "tautan": "https://www.viva.co.id/bola/1931200-ole-romeny-ungkap-kenapa-pemain-baru-timnas-indonesia-bisa-cepat-nyetel",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T23:30:00.000Z",
+      "cuplikan": "Penyerang Ole Romeny mengungkap alasan pemain baru Timnas Indonesia cepat beradaptasi. Ia menyebut peran pelatih dan suasana skuad yang sudah seperti keluarga.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/26/6ab6c0191d3c7-penyerang-timnas-indonesia-ole-romeny-di-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "d80659fed079",
+      "judul": "Penggemar Kecewa, Collector's Box GTA 6 Dijual Nyaris Rp 7,2 Juta Tanpa Game",
+      "tautan": "https://www.liputan6.com/tekno/read/8299277/penggemar-kecewa-collectors-box-gta-6-dijual-nyaris-rp-72-juta-tanpa-game",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-25T23:21:56.000Z",
+      "cuplikan": "Rockstar Games merilis Collector's Box GTA 6 seharga US$ 399,99 atau Rp 7,18 juta. Sayangnya, paket kolektor ini dijual tanpa game di dalamnya.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/FPKlCyCHKwB0wlvxYinmGvW_UaE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4674439/original/063778600_1701756971-Trailer_1_Illustration__16x9_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "303ad555831b",
+      "judul": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "tautan": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T23:11:10.000Z",
+      "cuplikan": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Transportation"
+      ]
+    },
+    {
+      "id": "54c4b4a4bd13",
+      "judul": "Automattic has a new board after failed attempt to put CEO on leave",
+      "tautan": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T23:04:34.000Z",
+      "cuplikan": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Media & Entertainment",
+        "Automattic",
+        "matt mullenweg",
+        "WordPress"
+      ]
+    },
+    {
+      "id": "ce7a13dea39f",
+      "judul": "Tiga Pemain Cedera Usai Timnas Indonesia Libas Singapura? Ini Kata John Herdman",
+      "tautan": "https://www.viva.co.id/bola/1931199-tiga-pemain-cedera-usai-timnas-indonesia-libas-singapura-ini-kata-john-herdman",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T23:00:00.000Z",
+      "cuplikan": "John Herdman mengungkap kondisi Emil Audero, Dean James dan Ragnar Oratmangoen yang dipantau setelah Timnas Indonesia menang 2-0 atas Singapura Jumat 25 September 2026.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/26/6ab6bf8f13b2b-skuad-timnas-indonesia-di-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "7a152bc41dc3",
+      "judul": "Teknologi Ini Mengubah Standar Performa",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1931207-teknologi-ini-mengubah-standar-performa",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-09-25T22:56:00.000Z",
+      "cuplikan": "Teknologi kini tak hanya berperan dalam menciptakan inovasi baru, tetapi juga menjaga performa dan usia pakai produk agar tetap optimal, efisien, dan berkelanjutan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/26/6ab6f9e644829-pt-schaeffler-solutions-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "1c2f9f8af614",
+      "judul": "Cristian Romero akan jadi kapten Argentina setelah Messi pensiun",
+      "tautan": "https://www.antaranews.com/berita/5759256/cristian-romero-akan-jadi-kapten-argentina-setelah-messi-pensiun",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T22:46:51.000Z",
+      "cuplikan": "Cristian Romero dipastikan menjadi kapten timnas Argentina setelah Lionel Messi pensiun dari sepak bola ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2023/06/19/100.gif"
+    },
+    {
+      "id": "33f57087cb23",
+      "judul": "Thailand, raja Asia Tenggara yang kini ingin lebih",
+      "tautan": "https://www.antaranews.com/berita/5759249/thailand-raja-asia-tenggara-yang-kini-ingin-lebih",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T22:41:51.000Z",
+      "cuplikan": "Sampai hari ketujuh Asian Games 2026, Thailand telah mengumpulkan 21 medali yang tujuh di antaranya merupakan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/26/AFP_20260925_C9D76PF_v1_HighRes_AthleticsAsiad2026.jpg"
+    },
+    {
+      "id": "36e0482beaad",
+      "judul": "Link Live Streaming Bulu Tangkis Asian Games 2026: 7 Wakil Indonesia Bertanding",
+      "tautan": "https://www.liputan6.com/bola/read/8299896/link-live-streaming-bulu-tangkis-asian-games-2026-7-wakil-indonesia-bertanding",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T22:30:36.000Z",
+      "cuplikan": "Anda bisa menyaksikan rangkaian bulu tangkis Asian Games 2026 lewat Vidio.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/2668gEXU4tHr0O3Oe9SSu_L2ZGk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355166/original/068181400_1790078150-WhatsApp_Image_2026-09-22_at_18.48.34.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "df19e6663c5f",
+      "judul": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "tautan": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T22:20:47.000Z",
+      "cuplikan": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "5422c79d97ec",
+      "judul": "Trump and Chinese president Xi end summit without major agreement on AI",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T22:11:52.000Z",
+      "cuplikan": "Xi’s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries’ AI arms race Donald Trump and Chinese president Xi Jinping wrapped up their Washington…",
+      "gambar": "https://i.guim.co.uk/img/media/dd96a7ac2aebddf0eba5644f06e8e33e6f1eb6ac/261_0_2596_2078/master/2596.jpg?width=140&quality=85&auto=format&fit=max&s=f21cd88a0544f7e038b78351798fa781",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Donald Trump",
+        "Xi Jinping",
+        "US news",
+        "US foreign policy",
+        "China",
+        "World news"
+      ]
+    },
+    {
+      "id": "df5308a0d834",
+      "judul": "Debut manis Zidane, timnas Prancis menang 1-0 atas Turki",
+      "tautan": "https://www.antaranews.com/berita/5759240/debut-manis-zidane-timnas-prancis-menang-1-0-atas-turki",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T22:10:35.000Z",
+      "cuplikan": "Zinedine Zidane mengawali kiprahnya sebagai pelatih tim nasional Prancis dengan manis usai Les Bleus meraih kemenangan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/26/1000063536.jpg"
+    },
+    {
+      "id": "9e1e34b44bc9",
+      "judul": "UEFA Nations League: Gol Mbappe Menangkan Prancis di Turki, Italia Takluk dari Belgia",
+      "tautan": "https://www.liputan6.com/bola/read/8299963/uefa-nations-league-gol-mbappe-menangkan-prancis-di-turki-italia-takluk-dari-belgia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T22:02:46.000Z",
+      "cuplikan": "Prancis menang 1-0 atas Turki berkat gol Kylian Mbappe. Italia kalah 0-2 dari Belgia di Roma; Belgia memimpin Grup 1 UEFA Nations League A.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/V3TVgdhNosLCTW2_lVbBAmkqCFo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358535/original/067231700_1790369916-000_C9ED3HG-Mbappe.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "bd06fbaa7e7d",
+      "judul": "Timnas Italia kalah 0-2 dari Belgia pada laga perdana Roberto Mancini",
+      "tautan": "https://www.antaranews.com/berita/5759239/timnas-italia-kalah-0-2-dari-belgia-pada-laga-perdana-roberto-mancini",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T21:28:49.000Z",
+      "cuplikan": "Roberto Mancini gagal menandai laga perdananya setelah kembali melatih timnas Italia dengan kemenangan usai Gli Azzurri ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/26/1000063520.jpg"
+    },
+    {
+      "id": "d34cf7a38c06",
+      "judul": "3 Pelatih Asal Indonesia yang Melatih Tim Bulu Tangkis Malaysia di Asian Games 2026, Nomor 1 Rexy Mainaky!",
+      "tautan": "https://sports.okezone.com/read/2026/09/25/40/3244167/3-pelatih-asal-indonesia-yang-melatih-tim-bulu-tangkis-malaysia-di-asian-games-2026-nomor-1-rexy-mainaky",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T21:12:18.000Z",
+      "cuplikan": "Berikut tiga pelatih asal Indonesia yang melatih Tim Bulu Tangkis Malaysia di Asian Games 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/25/40/3244167/berikut_tiga_pelatih_asal_indonesia_yang_melatih_tim_bulu_tangkis_malaysia_di_asian_games_2026-AnfQ_large.jpg",
+      "kategoriSumber": [
+        "Netting"
+      ]
+    },
+    {
+      "id": "2ecf70642472",
+      "judul": "John Herdman bangga Timnas Indonesia menang 2-0 atas Singapura",
+      "tautan": "https://www.antaranews.com/video/5759229/john-herdman-bangga-timnas-indonesia-menang-2-0-atas-singapura",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T20:51:50.000Z",
+      "cuplikan": "Pelatih kepala timnas Indonesia John Herdman mengaku bangga timnya menang 2-0 atas Singapura pada laga ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/AYM_JOHN-HERDMAN-BANGGA-TIMNAS-INDONESIA.jpg"
+    },
+    {
+      "id": "e3f46501291a",
+      "judul": "Erick Thohir: Indonesia harus juara FIFA Asean Cup 2026",
+      "tautan": "https://www.antaranews.com/video/5759227/erick-thohir-indonesia-harus-juara-fifa-asean-cup-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T20:46:14.000Z",
+      "cuplikan": "Ketua Umum PSSI Erick Thohir menyebut FIFA ASEAN Cup 2026 sebagai momentum penting bagi Indonesia untuk ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/AYM_ERICK-THOHIR-INDONESIA-HARUS-JUARA.jpg"
+    },
+    {
+      "id": "7fce1b956f11",
+      "judul": "How to stop Meta training its AI models on your smart glasses' visual data",
+      "tautan": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-25T20:35:15.000Z",
+      "cuplikan": "The setting affects whether workers can review photos and videos from your glasses.",
+      "gambar": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
+      "kategoriSumber": [
+        "Wearables",
+        "Meta"
+      ]
+    },
+    {
+      "id": "28eff29135c5",
+      "judul": "Meta opens early access program for new Muse features",
+      "tautan": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T20:34:53.000Z",
+      "cuplikan": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
+      ]
+    },
+    {
+      "id": "f164ba27b8e4",
+      "judul": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "tautan": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T20:33:58.000Z",
+      "cuplikan": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Social",
+        "TC",
+        "In Brief",
+        "NPR",
+        "social networking",
+        "Spotify"
+      ]
+    },
+    {
+      "id": "cfaa791365ad",
+      "judul": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "tautan": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-25T20:30:40.000Z",
+      "cuplikan": "They wanted the silicon. They got the sand.",
+      "gambar": "https://media.wired.com/photos/6ab6c8393be975e24c8d9909/master/pass/_DSC5425%20(1).jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Gear News and Events"
+      ]
+    },
+    {
+      "id": "bfebb110d168",
+      "judul": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector",
+      "tautan": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T20:26:49.000Z",
+      "cuplikan": "A new report by a Bay Area start-up called Parse adds details to an incident that has shocked the A.I. world and led to calls for closer government regulation.",
+      "gambar": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-openai-details-sam-altman-fmvc/25biz-openai-details-sam-altman-fmvc-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Computer Security",
+        "Cyberattacks and Hackers",
+        "Hugging Face Inc",
+        "OpenAI Labs",
+        "Parse"
+      ]
+    },
+    {
+      "id": "173239f01e96",
+      "judul": "Pelatih Singapura mengakui Indonesia tampil sangat bagus",
+      "tautan": "https://www.antaranews.com/berita/5759224/pelatih-singapura-mengakui-indonesia-tampil-sangat-bagus",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T20:15:18.000Z",
+      "cuplikan": "Pelatih kepala timnas Singapura Gavin Lee mengakui timnas Indonesia tampil sangat bagus menghadapi timnya pada laga ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/26/IMG_9720.jpeg"
+    },
+    {
+      "id": "f749bdfcf08f",
+      "judul": "New Mexico jury rules Meta misled state residents about data privacy",
+      "tautan": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-25T20:12:54.000Z",
+      "cuplikan": "The company is still paying for the Cambridge Analytica scandal.",
+      "gambar": "https://www.engadget.com/img/gallery/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/l-intro-1790367080.jpg",
+      "kategoriSumber": [
+        "Meta"
+      ]
+    },
+    {
+      "id": "532f3573b129",
+      "judul": "Alasan Pedro Acosta Jagokan Marc Marquez Juara Dunia MotoGP 2026",
+      "tautan": "https://sports.okezone.com/read/2026/09/25/38/3244162/alasan-pedro-acosta-jagokan-marc-marquez-juara-dunia-motogp-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T20:06:07.000Z",
+      "cuplikan": "Pedro Acosta punya alasan tersendiri menjagokan Marc Marquez juara dunia MotoGP 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/25/38/3244162/pedro_acosta_punya_alasan_tersendiri_menjagokan_marc_marquez_juara_dunia_motogp_2026-z3B8_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "74806344bd6b",
+      "judul": "HP Tecno Camon 40 Pro vs Honor 400 Lite, Mana yang Lebih Layak Dipertimbangkan untuk Jangka Panjang?",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1931143-hp-tecno-camon-40-pro-vs-honor-400-lite-mana-yang-lebih-layak-dipertimbangkan-untuk-jangka-panjang",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-09-25T20:06:00.000Z",
+      "cuplikan": "Tecno Camon 40 Pro vs Honor 400 Lite, mana yang lebih layak untuk jangka panjang? Simak perbandingan performa, kamera, layar, baterai, 5G, dan ketahanan sebelum membeli.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab678a453d66-hp-tecno-camon-40-pro-vs-honor-400-lite_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "79f4e38c121f",
+      "judul": "Ajang lari Jakarta Speed Race kembali digelar",
+      "tautan": "https://www.antaranews.com/berita/5759221/ajang-lari-jakarta-speed-race-kembali-digelar",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T20:05:27.000Z",
+      "cuplikan": "Jenama olahraga asal Jepang Asics kembali menggelar ajang lari Jakarta Speed Race yang tahun ini memasuki tahun kedua ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/26/ki-ka-Abiyoga-Prakoso-Yuya-Sugiyama-Gendis-Aulia-Coach-Andriyanto-dan-Bertha-Gani-dalam-Press-Conference-ASICS-Jakarta-Speed-Race-2026.jpg"
+    },
+    {
+      "id": "2ca472f2dbea",
+      "judul": "Mark Zuckerberg Is Trying Something On",
+      "tautan": "https://www.nytimes.com/2026/09/25/style/mark-zuckerberg-fashion-glasses.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T20:02:42.000Z",
+      "cuplikan": "Meta’s C.E.O. talks for the first time about his style evolution.",
+      "gambar": "https://static01.nyt.com/images/2026/09/25/multimedia/25ZUCKERBERG-FASHION-01-qcwp/25ZUCKERBERG-FASHION-01-qcwp-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Fashion and Apparel",
+        "Social Media",
+        "Wearable Computing",
+        "E-Commerce",
+        "Computers and the Internet",
+        "Shopping and Retail",
+        "Meta Platforms Inc",
+        "Zuckerberg, Mark E",
+        "Lake Tahoe (Nev)",
+        "your-feed-fashion"
+      ]
+    },
+    {
+      "id": "72271cef5e2c",
+      "judul": "Chatbots Are Not Your Friends",
+      "tautan": "https://www.nytimes.com/2026/09/25/well/ai-chatbots-artificial-intimacy.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T19:48:45.000Z",
+      "cuplikan": "Our cozy relationship with A.I. chatbots can lead to “artificial intimacy,” says one expert. Here’s how to keep it in check.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Content Type: Service",
+        "Artificial Intelligence",
+        "Social Media",
+        "Conversation",
+        "internal-sub-only-nl"
+      ]
+    },
+    {
+      "id": "4545b9153d6d",
+      "judul": "Hasil kualifikasi: Russell rebut pole position GP Azerbaijan 2026",
+      "tautan": "https://www.antaranews.com/berita/5759220/hasil-kualifikasi-russell-rebut-pole-position-gp-azerbaijan-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T19:35:47.000Z",
+      "cuplikan": "Pembalap Mercedes George Russell merebut pole position Formula 1 GP Azerbaijan 2026 setelah tampil dominan sepanjang ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/26/1000063506.jpg"
+    },
+    {
+      "id": "1d7ffbbb06c8",
+      "judul": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+      "tautan": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T19:34:42.000Z",
+      "cuplikan": "Better thermals and battery life make this iterative update nicer to use.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg",
+      "kategoriSumber": [
+        "Apple",
+        "A20 Pro",
+        "apple",
+        "iphone",
+        "iPhone 18 Pro",
+        "iphone duo",
+        "reviews",
+        "smartphone"
+      ]
+    },
+    {
+      "id": "42e056ad8a53",
+      "judul": "John Herdman paham betul rivalitas Indonesia dengan Malaysia",
+      "tautan": "https://www.antaranews.com/berita/5759216/john-herdman-paham-betul-rivalitas-indonesia-dengan-malaysia",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T19:29:08.000Z",
+      "cuplikan": "Pelatih tim nasional Indonesia John Herdman mengaku memahami besarnya rivalitas Indonesia dengan Malaysia ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/fifa-asean-cup-2026-indonesia-kalahkan-singapura-2871623.jpg"
+    },
+    {
+      "id": "d1c3567155af",
+      "judul": "Ole Romeny puji Diks-Idzes sebagai kapten yang utamakan tim",
+      "tautan": "https://www.antaranews.com/berita/5759215/ole-romeny-puji-diks-idzes-sebagai-kapten-yang-utamakan-tim",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T19:21:55.000Z",
+      "cuplikan": "Penyerang timnas Indonesia Ole Romeny memuji Kevin Diks dan Jay Idzes sebagai sosok kapten yang sangat baik karena ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/fifa-asean-cup-2026-indonesia-kalahkan-singapura-2871619.jpg"
+    },
+    {
+      "id": "e64ca2761612",
+      "judul": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "tautan": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T19:13:38.000Z",
+      "cuplikan": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "TC",
+        "Akamai",
+        "Cloud Computing",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "ff8bda4a60f0",
+      "judul": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "tautan": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T19:11:05.000Z",
+      "cuplikan": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "census",
+        "jobs",
+        "study",
+        "unemploymewnt"
+      ]
+    },
+    {
+      "id": "b97518582a39",
+      "judul": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "tautan": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T18:48:33.000Z",
+      "cuplikan": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Biotech & Health",
+        "Fintech",
+        "Fundraising",
+        "Media & Entertainment",
+        "Startups",
+        "Venture",
+        "TechCrunch Disrupt"
+      ]
+    },
+    {
+      "id": "6a29efdf307d",
+      "judul": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+      "tautan": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T18:42:57.000Z",
+      "cuplikan": "US judge reviews deal with California, says it must not be result of collusion.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "California",
+        "Paramount Skydance",
+        "warner bros. discovery"
+      ]
+    },
+    {
+      "id": "cc80a9033ae0",
+      "judul": "Cricut's new DIY machines let you print and cut your own stickers",
+      "tautan": "https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-25T18:39:54.000Z",
+      "cuplikan": "Surely my sticker budget will break even eventually.",
+      "gambar": "https://www.engadget.com/img/gallery/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers/l-intro-1790361456.jpg",
+      "kategoriSumber": [
+        "News"
+      ]
+    },
+    {
+      "id": "80eccf7491f7",
+      "judul": "Candy Crush maker signs collective bargaining agreement, averting strike",
+      "tautan": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-25T18:35:21.000Z",
+      "cuplikan": "That's one way to topple a King.",
+      "gambar": "https://www.engadget.com/img/gallery/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/l-intro-1790361098.jpg",
+      "kategoriSumber": [
+        "Gaming"
+      ]
+    },
+    {
+      "id": "e3ed29775d07",
+      "judul": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "tautan": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-25T18:33:59.000Z",
+      "cuplikan": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Venture",
+        "In Brief",
+        "nscale"
+      ]
+    },
+    {
+      "id": "bc9575a458f6",
+      "judul": "Is solar's growth finally slowing in the US?",
+      "tautan": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T18:27:18.000Z",
+      "cuplikan": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1486053188-1152x648.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Energy",
+        "green energy",
+        "power generation",
+        "renewable energy",
+        "US Grid"
+      ]
+    },
+    {
+      "id": "fb9d61a35435",
+      "judul": "Roku’s first OLED TVs are up to $400 off, starting at $699",
+      "tautan": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-25T18:18:57.000Z",
+      "cuplikan": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Deals",
+        "Gadgets",
+        "TVs",
+        "Verge Shopping"
+      ]
+    },
+    {
+      "id": "067306797c6f",
+      "judul": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
+      "tautan": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T18:17:03.000Z",
+      "cuplikan": "The Pentagon had “ample support for its conclusion” that the A.I. company’s products could pose a national security risk, according to a Washington appeals court.",
+      "gambar": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-anthropic-1-fjtc/25biz-anthropic-1-fjtc-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Anthropic AI LLC",
+        "Defense Department",
+        "Decisions and Verdicts",
+        "Artificial Intelligence",
+        "Regulation and Deregulation of Industry",
+        "Defense Contracts",
+        "Hegseth, Pete",
+        "Lin, Rita F",
+        "Computer Security",
+        "Blacklisting"
+      ]
+    },
+    {
+      "id": "a19e83bf15d9",
+      "judul": "Marco Bezzecchi dan Jorge Martin Berebut Gelar Juara Dunia MotoGP 2026, Aprilia Tegaskan Tak Ada Team Order",
+      "tautan": "https://sports.okezone.com/read/2026/09/25/38/3244159/marco-bezzecchi-dan-jorge-martin-berebut-gelar-juara-dunia-motogp-2026-aprilia-tegaskan-tak-ada-team-order",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-25T18:02:03.000Z",
+      "cuplikan": "Aprilia Racing membiarkan Marco Bezzecchi dan Jorge Martin bertarung sampai peluang juara dunia tertutup.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/25/38/3244159/aprilia_racing_membiarkan_marco_bezzecchi_dan_jorge_martin_bertarung_sampai_peluang_juara_dunia_tertutup-29i8_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
       ]
     },
     {
@@ -47,6 +875,25 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab69ec1e02ac-pelatih-timnas-indonesia-john-herdman-di-fifa-asean-cup-2026_gemini_665_374.jpg",
       "kategoriSumber": [
         "bola"
+      ]
+    },
+    {
+      "id": "469d8da91a36",
+      "judul": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "tautan": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-25T17:57:37.000Z",
+      "cuplikan": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Tech",
+        "copilot",
+        "laptops",
+        "microsoft",
+        "Microsoft Surface"
       ]
     },
     {
@@ -86,27 +933,6 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/26/6ab6add1e473c-laga-indonesia-vs-singapura-di-fifa-asean-cup-2026_gemini_665_374.jpg",
       "kategoriSumber": [
         "bola"
-      ]
-    },
-    {
-      "id": "067306797c6f",
-      "judul": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
-      "tautan": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
-      "sumber": "The New York Times",
-      "kanal": "nyt-tech",
-      "lajur": "global",
-      "terbit": "2026-09-25T17:46:01.000Z",
-      "cuplikan": "The Pentagon had “ample support for its conclusion” that the A.I. company’s products could pose a national security risk, according to a Washington appeals court ruling.",
-      "gambar": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-anthropic-1-fjtc/25biz-anthropic-1-fjtc-mediumSquareAt3X.jpg",
-      "kategoriSumber": [
-        "Anthropic AI LLC",
-        "Defense Department",
-        "Decisions and Verdicts",
-        "Artificial Intelligence",
-        "Regulation and Deregulation of Industry",
-        "Defense Contracts",
-        "Hegseth, Pete",
-        "Lin, Rita F"
       ]
     },
     {
@@ -154,7 +980,7 @@
     },
     {
       "id": "483f16612c3d",
-      "judul": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+      "judul": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
       "tautan": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
       "sumber": "TechCrunch",
       "kanal": "techcrunch",
@@ -165,7 +991,8 @@
       "kategoriSumber": [
         "Climate",
         "agriculture",
-        "Battlefield 200"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -213,7 +1040,10 @@
       "gambar": "",
       "kategoriSumber": [
         "AI",
-        "Astra"
+        "Anthropic",
+        "Astra",
+        "OpenAI",
+        "Opus"
       ]
     },
     {
@@ -284,7 +1114,7 @@
       "lajur": "olahraga",
       "terbit": "2026-09-25T17:18:03.000Z",
       "cuplikan": "11 pemain yang diturunkan timnas Indonesia melawan Singapura merupakan pemain yang lahir di luar negeri.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/rnt8aC53GpaMNSrVn93xw00HNdo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358513/original/063670200_1790356683-20260925_224117.jpg",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/hifYmtqnb0GtF7SAREooiZ4Ev9E=/0x306:3999x2560/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358513/original/063670200_1790356683-20260925_224117.jpg",
       "kategoriSumber": [
         "Bola"
       ]

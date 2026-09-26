@@ -733,5 +733,40 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-09-25T18:13:45.189Z"
+  },
+  "bd2b2d1a0586": {
+    "teks": "Google menghadirkan fitur lemari virtual berbasis kecerdasan artifisial di Google Photos untuk pengguna Android dan iOS di Amerika Serikat, Brasil, serta India. Fitur ini mengubah foto pakaian menjadi koleksi digital yang dapat dikategorikan dan dipadupadankan secara praktis. Google menjamin data busana pengguna tidak dibagikan kepada pihak ketiga, bersamaan dengan meluncurkan sejumlah pembaruan alat penyuntingan dan filter foto.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-26T01:06:41.468Z"
+  },
+  "7a152bc41dc3": {
+    "teks": "PT Schaeffler Solutions Indonesia memperkuat perannya dalam ekosistem otomotif nasional melalui partisipasi perdananya di Automechanika Jakarta 2026. Dalam ajang tersebut, perusahaan memperkenalkan lini produk aftermarket khusus kendaraan roda dua serta berbagai solusi perawatan kendaraan. Melalui divisi Vehicle Lifetime Solutions, Schaeffler juga menyediakan bantuan teknis dan pelatihan guna meningkatkan kompetensi para mitranya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-26T01:07:24.440Z"
+  },
+  "1f1fcb721986": {
+    "teks": "Tim nasional Indonesia mengawali FIFA ASEAN Cup 2026 dengan kemenangan 2-0 atas Singapura melalui gol Ragnar Oratmangoen dan penalti Ole Romeny. Hasil tersebut membawa tim asuhan John Herdman menduduki posisi kedua klasemen sementara Grup A. Usai laga, Romeny memuji jiwa kepemimpinan kapten Kevin Diks yang berbesar hati menyerahkan jatah eksekusi penalti kepadanya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-26T01:07:40.186Z"
+  },
+  "bd06fbaa7e7d": {
+    "teks": "Kembalinya Roberto Mancini sebagai pelatih timnas Italia diwarnai kekalahan 0-2 dari Belgia dalam laga Grup A UEFA Nations League di Stadio Olimpico. Belgia memastikan kemenangan berkat gol yang dicetak oleh Godts pada babak pertama dan Lukebakio setelah turun minum. Hasil negatif ini menempatkan Italia di dasar klasemen sementara grup.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-26T01:07:48.885Z"
+  },
+  "7fce1b956f11": {
+    "teks": "Meta menyediakan opsi baru di aplikasi Meta AI bagi pengguna kacamata pintar untuk menolak penggunaan data visual perangkat mereka dalam pelatihan kecerdasan buatan. Pengguna dapat menonaktifkan penyimpanan data tersebut melalui menu pengaturan kacamata yang terhubung dengan ponsel, meski langkah ini berpotensi membatasi fungsi beberapa fitur tertentu. Meta juga menjelaskan bahwa data visual yang dikumpulkan dari pengalaman AI dapat melalui proses peninjauan manual oleh manusia untuk meningkatkan produk.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-26T01:07:56.995Z"
   }
 }
