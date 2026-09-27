@@ -1,103 +1,14 @@
 {
-  "diperbarui": "2026-09-27T13:27:32.861Z",
+  "diperbarui": "2026-09-27T18:00:50.911Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
       "nama": "Liga Inggris",
-      "laga": [
-        {
-          "id": "401878777",
-          "liga": "eng.1",
-          "mulai": "2026-09-20T15:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Fulham",
-            "namaLengkap": "Fulham",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/370.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Man United",
-            "namaLengkap": "Manchester United",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401878777/manchester-united-fulham"
-        }
-      ]
+      "laga": []
     },
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882865",
-          "liga": "esp.1",
-          "mulai": "2026-09-20T14:15:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Atlético",
-            "namaLengkap": "Atlético Madrid",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Real Madrid",
-            "namaLengkap": "Real Madrid",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882865/real-madrid-atletico-madrid"
-        },
-        {
-          "id": "401882863",
-          "liga": "esp.1",
-          "mulai": "2026-09-20T16:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Deportivo",
-            "namaLengkap": "Deportivo",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/90.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Betis",
-            "namaLengkap": "Real Betis",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/244.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882863/real-betis-deportivo"
-        },
-        {
-          "id": "401882857",
-          "liga": "esp.1",
-          "mulai": "2026-09-20T16:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Villarreal",
-            "namaLengkap": "Villarreal",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/102.png&w=48&h=48",
-            "skor": 3,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Levante",
-            "namaLengkap": "Levante",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1538.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882857/levante-villarreal"
-        },
         {
           "id": "401882858",
           "liga": "esp.1",
@@ -126,28 +37,6 @@
       "nama": "Serie A",
       "laga": [
         {
-          "id": "401874757",
-          "liga": "ita.1",
-          "mulai": "2026-09-20T16:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Juventus",
-            "namaLengkap": "Juventus",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/111.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Atalanta",
-            "namaLengkap": "Atalanta",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874757/atalanta-juventus"
-        },
-        {
           "id": "401874944",
           "liga": "ita.1",
           "mulai": "2026-09-20T18:45:00.000Z",
@@ -173,100 +62,11 @@
     },
     "ger.1": {
       "nama": "Bundesliga",
-      "laga": [
-        {
-          "id": "401884788",
-          "liga": "ger.1",
-          "mulai": "2026-09-20T13:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Leverkusen",
-            "namaLengkap": "Bayer Leverkusen",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/131.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "RB Leipzig",
-            "namaLengkap": "RB Leipzig",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11420.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401884788/rb-leipzig-bayer-leverkusen"
-        },
-        {
-          "id": "401884783",
-          "liga": "ger.1",
-          "mulai": "2026-09-20T15:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Schalke",
-            "namaLengkap": "Schalke 04",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/133.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Elversberg",
-            "namaLengkap": "SV Elversberg",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10388.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401884783/sv-elversberg-schalke-04"
-        },
-        {
-          "id": "401884782",
-          "liga": "ger.1",
-          "mulai": "2026-09-20T17:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Paderborn",
-            "namaLengkap": "SC Paderborn 07",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3307.png&w=48&h=48",
-            "skor": 3,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Hoffenheim",
-            "namaLengkap": "TSG Hoffenheim",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7911.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401884782/tsg-hoffenheim-sc-paderborn-07"
-        }
-      ]
+      "laga": []
     },
     "fra.1": {
       "nama": "Ligue 1",
       "laga": [
-        {
-          "id": "401876452",
-          "liga": "fra.1",
-          "mulai": "2026-09-20T15:15:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Nice",
-            "namaLengkap": "Nice",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2502.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Lille",
-            "namaLengkap": "Lille",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/166.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876452/lille-nice"
-        },
         {
           "id": "401876449",
           "liga": "fra.1",

@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-25",
-  "diperbarui": "2026-09-27T13:27:31.364Z",
+  "diperbarui": "2026-09-27T18:00:49.469Z",
   "berita": [
     {
       "id": "0fa6c977ec27",
@@ -551,6 +551,29 @@
       "terbit": "2026-09-25T15:13:20.000Z",
       "cuplikan": "Timnas Indonesia mencetak kemenangan dengan skor 2-0 ketika berjumpa Timnas Singapura pada pertandingan Grup A Divisi 1 ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/25/fifa-asean-cup-2026-indonesia-kalahkan-singapura-2871627.jpg"
+    },
+    {
+      "id": "46e474f4f822",
+      "judul": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T15:12:38.000Z",
+      "cuplikan": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the…",
+      "gambar": "https://i.guim.co.uk/img/media/591b29c15ba606604fba069a81f2b12fb4d0bb4f/1208_0_6633_5307/master/6633.jpg?width=140&quality=85&auto=format&fit=max&s=94eb8a5328fd5e84a7c7275fa32edd5e",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Technology",
+        "Australia news",
+        "Australian politics",
+        "Anthony Albanese",
+        "Medicare Australia",
+        "OpenAI",
+        "Xi Jinping",
+        "Donald Trump",
+        "Trump administration"
+      ]
     },
     {
       "id": "31c1fa82e6d0",

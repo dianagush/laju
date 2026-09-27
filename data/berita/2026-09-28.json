@@ -1,0 +1,64 @@
+{
+  "tanggal": "2026-09-28",
+  "diperbarui": "2026-09-27T18:00:49.469Z",
+  "berita": [
+    {
+      "id": "ed2cbcca51ab",
+      "judul": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-27T17:21:07.000Z",
+      "cuplikan": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "News",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "ec18b64efeb3",
+      "judul": "Prediksi Starting XI Timnas Indonesia Vs Malaysia: Emil Audero Starter, Verdonk Kembali ke Posisi Asli",
+      "tautan": "https://www.viva.co.id/bola/1931524-prediksi-starting-xi-timnas-indonesia-vs-malaysia-emil-audero-starter-verdonk-kembali-ke-posisi-asli",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T17:18:00.000Z",
+      "cuplikan": "Prediksi starting XI Timnas Indonesia vs Malaysia di FIFA ASEAN Cup 2026. Emil Audero berpeluang menggantikan Maarten Paes sebagai starter di SUGBK Senin 28 September.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa6eb22100f3-kiper-timnas-indonesia-emil-audero_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a97b5f3f78a9",
+      "judul": "Jelang Timnas Indonesia Vs Malaysia, John Herdman Blak-blakan: Kami Belum Tampilkan Tim Terbaik",
+      "tautan": "https://www.viva.co.id/bola/1931515-jelang-timnas-indonesia-vs-malaysia-john-herdman-blak-blakan-kami-belum-tampilkan-tim-terbaik",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T17:02:00.000Z",
+      "cuplikan": "Jelang duel lawan Timnas Malaysia, Pelatih John Herdman blak-blakan sebut Timnas Indonesia belum tampilkan tim terbaik secara penuh di FIFA ASEAN Cup 2026.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/27/6ab940a6e7cb5-pelatih-timnas-indonesia-john-herdman_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "88a98c87efef",
+      "judul": "Kisah Inspiratif Atlet Balap Sepeda Gunung Indonesia Sayu Bella, Sukses Sumbang Medali Asian Games 2026 demi Siapkan Masa Depan",
+      "tautan": "https://sports.okezone.com/read/2026/09/27/43/3244499/kisah-inspiratif-atlet-balap-sepeda-gunung-indonesia-sayu-bella-sukses-sumbang-medali-asian-games-2026-demi-siapkan-masa-depan",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T17:01:06.000Z",
+      "cuplikan": "Kisah Inspiratif Atlet Balap Sepeda Gunung Indonesia Sayu Bella, Sukses Sumbang Medali Asian Games 2026 demi Siapkan Masa Depan",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/27/43/3244499/sayu_bella-czH5_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    }
+  ]
+}
