@@ -1,76 +1,10 @@
 {
-  "diperbarui": "2026-09-27T07:26:46.882Z",
+  "diperbarui": "2026-09-27T13:27:32.861Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
       "nama": "Liga Inggris",
       "laga": [
-        {
-          "id": "401879276",
-          "liga": "eng.1",
-          "mulai": "2026-09-20T13:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Bournemouth",
-            "namaLengkap": "AFC Bournemouth",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/349.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Liverpool",
-            "namaLengkap": "Liverpool",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&w=48&h=48",
-            "skor": 1,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879276/liverpool-afc-bournemouth"
-        },
-        {
-          "id": "401879273",
-          "liga": "eng.1",
-          "mulai": "2026-09-20T13:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Leeds",
-            "namaLengkap": "Leeds United",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/357.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "C Palace",
-            "namaLengkap": "Crystal Palace",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/384.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879273/crystal-palace-leeds-united"
-        },
-        {
-          "id": "401879272",
-          "liga": "eng.1",
-          "mulai": "2026-09-20T13:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Man City",
-            "namaLengkap": "Manchester City",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png&w=48&h=48",
-            "skor": 5,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Sunderland",
-            "namaLengkap": "Sunderland",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/366.png&w=48&h=48",
-            "skor": 3,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879272/sunderland-manchester-city"
-        },
         {
           "id": "401878777",
           "liga": "eng.1",
@@ -98,28 +32,6 @@
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882861",
-          "liga": "esp.1",
-          "mulai": "2026-09-20T12:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Getafe",
-            "namaLengkap": "Getafe",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2922.png&w=48&h=48",
-            "skor": 1,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Málaga",
-            "namaLengkap": "Málaga",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/99.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882861/malaga-getafe"
-        },
         {
           "id": "401882865",
           "liga": "esp.1",
@@ -213,72 +125,6 @@
     "ita.1": {
       "nama": "Serie A",
       "laga": [
-        {
-          "id": "401874934",
-          "liga": "ita.1",
-          "mulai": "2026-09-20T10:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Fiorentina",
-            "namaLengkap": "Fiorentina",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/109.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Napoli",
-            "namaLengkap": "Napoli",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/114.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874934/napoli-fiorentina"
-        },
-        {
-          "id": "401874752",
-          "liga": "ita.1",
-          "mulai": "2026-09-20T13:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Frosinone",
-            "namaLengkap": "Frosinone",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4057.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Como",
-            "namaLengkap": "Como",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2572.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874752/como-frosinone"
-        },
-        {
-          "id": "401874801",
-          "liga": "ita.1",
-          "mulai": "2026-09-20T13:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Parma",
-            "namaLengkap": "Parma",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/115.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Genoa",
-            "namaLengkap": "Genoa",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3263.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874801/genoa-parma"
-        },
         {
           "id": "401874757",
           "liga": "ita.1",
@@ -399,28 +245,6 @@
     "fra.1": {
       "nama": "Ligue 1",
       "laga": [
-        {
-          "id": "401876456",
-          "liga": "fra.1",
-          "mulai": "2026-09-20T13:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Auxerre",
-            "namaLengkap": "AJ Auxerre",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/172.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Brest",
-            "namaLengkap": "Brest",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6997.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876456/brest-aj-auxerre"
-        },
         {
           "id": "401876452",
           "liga": "fra.1",

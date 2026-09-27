@@ -1020,5 +1020,54 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-09-27T07:28:55.221Z"
+  },
+  "8095fe3679a6": {
+    "teks": "Google menyediakan layanan Find Hub untuk membantu pemilik ponsel Android melacak keberadaan perangkat mereka yang hilang dari jarak jauh. Pelacakan tersebut dapat diakses menggunakan perangkat Android lain, smartwatch Wear OS, atau browser komputer. Selain memantau lokasi, pengguna juga bisa mengunci perangkat serta menghapus seluruh data demi melindungi informasi pribadi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-27T13:27:48.668Z"
+  },
+  "937ddbb0a12f": {
+    "teks": "WhatsApp menghadirkan fitur resmi Companion Mode yang memungkinkan pengguna mengakses satu akun melalui dua ponsel sekaligus. Lewat fasilitas ini, nomor utama dapat dihubungkan ke gawai tambahan, tablet, maupun komputer tanpa harus mendaftar akun baru. Seluruh aktivitas seperti pesan, panggilan, dan status di perangkat utama akan tersinkronisasi secara otomatis ke perangkat sekunder.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-27T13:28:04.282Z"
+  },
+  "29c18760cbfc": {
+    "teks": "Samsung memperluas jangkauan pembaruan keamanan September 2026 untuk lini perangkat Galaxy setelah sempat mengalami penundaan. Pembaruan ini mengatasi 90 celah kerentanan yang mencakup perbaikan dari Google serta Samsung Mobile. Bersamaan dengan peningkatan keamanan tersebut, Samsung juga mulai merilis antarmuka One UI 9 secara bertahap.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-27T13:28:18.691Z"
+  },
+  "002c4f7001a3": {
+    "teks": "Tim esports Indonesia menyabet medali perak nomor Pokemon Unite pada Asian Games 2026 usai ditaklukkan Jepang dengan skor 1-3 di partai final. Meski sempat unggul pada gim pertama, Indonesia gagal membendung perlawanan tim lawan yang merebut tiga gim berikutnya. Sebelum melangkah ke partai puncak, Indonesia berhasil menumbangkan Singapura, Hong Kong, Malaysia, dan Filipina pada babak sebelumnya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-27T13:28:35.291Z"
+  },
+  "46c4adec8720": {
+    "teks": "Perusahaan robotika Yanxi Technology menciptakan robot humanoid Yansyn-X2 yang sanggup meneteskan air mata sesuai perintah. Robot tersebut memanfaatkan kecerdasan buatan untuk mengenali konteks emosional percakapan dan sistem mikrofluida guna mengeluarkan air mata. Inovasi ini dirancang agar interaksi antara manusia dan robot terasa lebih alami serta tepercaya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-27T13:28:50.721Z"
+  },
+  "2d7e1d6d7c1e": {
+    "teks": "Peluncuran ponsel lipat iPhone Duo memicu kritik karena namanya dianggap meniru Surface Duo milik Microsoft. Padahal, Apple sudah menggunakan penamaan tersebut sejak merilis PowerBook Duo pada 1992 dan MagSafe Duo Charger pada 2020. Lini Surface Duo milik Microsoft sendiri kini telah dihentikan akibat penerimaan produk yang buruk.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-27T13:29:27.291Z"
+  },
+  "7734754f80ad": {
+    "teks": "Inisiatif One Laptop Per Child dan laptop XO-1 berambisi menyediakan akses komputer bagi seluruh anak di dunia. Namun, proyek tersebut ternyata jauh lebih rumit dari perkiraan hingga akhirnya mengalami kegagalan. Episode podcast Version History membahas penyebab tidak berjalannya program ini serta pelajaran yang dapat dipetik dari desain inovatifnya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-27T13:30:11.672Z"
   }
 }
