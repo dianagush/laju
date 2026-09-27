@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-26",
-  "diperbarui": "2026-09-26T17:33:15.797Z",
+  "diperbarui": "2026-09-27T01:02:52.228Z",
   "berita": [
     {
       "id": "a1edf4272736",
@@ -2285,15 +2285,15 @@
       "gambar": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-anthropic-1-fjtc/25biz-anthropic-1-fjtc-mediumSquareAt3X.jpg",
       "kategoriSumber": [
         "Anthropic AI LLC",
-        "Defense Department",
         "Decisions and Verdicts",
-        "Artificial Intelligence",
-        "Regulation and Deregulation of Industry",
-        "Defense Contracts",
-        "Hegseth, Pete",
+        "Appeals Courts (US)",
+        "Federal Courts (US)",
         "Lin, Rita F",
-        "Computer Security",
-        "Blacklisting"
+        "Blacklisting",
+        "Defense Contracts",
+        "Defense Department",
+        "Hegseth, Pete",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -2421,16 +2421,16 @@
       "cuplikan": "The company did not learn until recently that its technology had meddled with websites for the Education and Commerce Departments and the Securities and Exchange Commission.",
       "gambar": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-openai-2-btmk/25biz-openai-2-btmk-mediumSquareAt3X.jpg",
       "kategoriSumber": [
+        "OpenAI Labs",
         "Artificial Intelligence",
+        "Cyberwarfare and Defense",
+        "Cyberattacks and Hackers",
         "Computers and the Internet",
-        "United States Politics and Government",
         "Computer Security",
         "Regulation and Deregulation of Industry",
+        "United States Politics and Government",
         "Education Department (US)",
-        "Commerce Department",
-        "Securities and Exchange Commission",
-        "OpenAI Labs",
-        "Altman, Samuel H"
+        "Commerce Department"
       ]
     },
     {

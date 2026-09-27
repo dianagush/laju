@@ -1,7 +1,581 @@
 {
   "tanggal": "2026-09-27",
-  "diperbarui": "2026-09-26T17:33:15.797Z",
+  "diperbarui": "2026-09-27T01:02:52.228Z",
   "berita": [
+    {
+      "id": "9e2308088d4f",
+      "judul": "Hasil Inggris Vs Spanyol: Lamine Yamal Cs Menang 3-2 di Wembley",
+      "tautan": "https://www.viva.co.id/bola/1931374-hasil-inggris-vs-spanyol-lamine-yamal-cs-menang-3-2-di-wembley",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T00:45:30.000Z",
+      "cuplikan": "Spanyol mengalahkan Inggris 3-2 pada laga perdana Grup C UEFA Nations League 2026-2027 di Wembley. Tiga Gol La Roja dicetak Lamine Yamal, Alex Baena, dan Mikel Oyarzabal.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/20/6a5d9b316ea1a-bintang-spanyol-lamine-yamal-usai-juara-piala-dunia-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "261662f659ad",
+      "judul": "Presiden Prabowo Langsung Video Call Rahmat Erwin Abdullah Usai Raih Emas Asian Games 2026 dan Pecahkan Rekor Dunia",
+      "tautan": "https://sports.okezone.com/read/2026/09/27/43/3244438/presiden-prabowo-langsung-video-call-rahmat-erwin-abdullah-usai-raih-emas-asian-games-2026-dan-pecahkan-rekor-dunia",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T00:31:21.000Z",
+      "cuplikan": "Presiden Prabowo Langsung Video Call Rahmat Erwin Abdullah Usai Raih Emas Asian Games 2026 dan Pecahkan Rekor Dunia",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/27/43/3244438/rahmat_erwin_abdullah-8FwA_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "509bdb11596e",
+      "judul": "Why we won't know how visible the iPhone Duo's crease is for a long time",
+      "tautan": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-27T00:30:00.000Z",
+      "cuplikan": "The iPhone Duo has an impressively minimal crease, but that's only how it looks at the start. We'll have to wait a while to see what develops over time.",
+      "gambar": "https://www.engadget.com/img/gallery/why-we-wont-know-how-visible-the-iphone-duos-crease-is-for-a-long-time/l-intro-1790182526.jpg",
+      "kategoriSumber": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "7ff15a611624",
+      "judul": "Highlight Perjuangan Eko Yuli Irawan di Angkat Besi 65 Kg Asian Games 2026",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8300363/highlight-perjuangan-eko-yuli-irawan-di-angkat-besi-65-kg-asian-games-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T00:11:16.000Z",
+      "cuplikan": "Highlight perjuangan Eko Yuli Irawan di cabang angkat besi Asian Games Aichi-Nagoya 2026. Tampil di kelas 65 kg putra, Eko mencatat angkatan snatch 135 kg dan clean & jerk 167 kg dengan total 302 kg dan finis di posisi keempat. (Editor…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/7zAew8tea6qw1X9BbtadnrS0oZI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9358933/original/063632800_1790434116-20260925_eko-yuli-irawan-horizontal-5cf4d5.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "f5781862d8e8",
+      "judul": "Jadwal Asian Games: Skateboard berpeluang kawinkan medali",
+      "tautan": "https://www.antaranews.com/berita/5760224/jadwal-asian-games-skateboard-berpeluang-kawinkan-medali",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T00:09:03.000Z",
+      "cuplikan": "Cabang olahraga skateboard berpeluang mengawinkan medali untuk Indonesia pada Asian Games Aichi-Nagoya 2026, Minggu, ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2024/01/21/pexels-allan-franca-carmo-3133685.jpg"
+    },
+    {
+      "id": "ca05028001d6",
+      "judul": "Jadwal Asian Games 2026: Timnas Voli Putra Indonesia Bertemu Thailand",
+      "tautan": "https://www.liputan6.com/bola/read/8300380/jadwal-asian-games-2026-timnas-voli-putra-indonesia-bertemu-thailand",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T00:00:17.000Z",
+      "cuplikan": "Timnas putra Indonesia dan Thailand bersaing pada Pool B Asian Games 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/3JIOVAZmDWxPkcY0XVb6xVBYNBk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9357331/original/073213200_1790242203-WhatsApp_Image_2026-09-24_at_16.02.49.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "6d21274fd4bf",
+      "judul": "Dedi Mulyadi Prediksi Skor Timnas Indonesia Vs Malaysia: Menang 2-1",
+      "tautan": "https://www.viva.co.id/bola/1931356-dedi-mulyadi-prediksi-skor-timnas-indonesia-vs-malaysia-menang-2-1",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-27T00:00:00.000Z",
+      "cuplikan": "Dedi Mulyadi memprediksi Timnas Indonesia menang 2-1 atas Malaysia pada laga Grup A FIFA ASEAN Cup 2026 setelah menyaksikan kemenangan atas Singapura.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/23/6a8b16df39c60-gubernur-jawa-barat-dedi-mulyadi_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "63cb8d8bb9cc",
+      "judul": "How powerful of a power bank do you need to safely charge a laptop?",
+      "tautan": "https://www.engadget.com/2266595/how-powerful-power-bank-needs-to-be-charge-laptop/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-27T00:00:00.000Z",
+      "cuplikan": "A power bank is more than its capacity. You also need to know how fast it can deliver power so your laptop doesn't drain while it's connected.",
+      "gambar": "https://www.engadget.com/img/gallery/how-powerful-of-a-power-bank-do-you-need-to-safely-charge-a-laptop/l-intro-1790180023.jpg",
+      "kategoriSumber": [
+        "Laptops"
+      ]
+    },
+    {
+      "id": "613090987f68",
+      "judul": "Your old GPU could be worth more than you think",
+      "tautan": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T23:45:00.000Z",
+      "cuplikan": "Your old GPU could be a goldmine thanks to the RAMaggedon.",
+      "gambar": "https://www.engadget.com/img/gallery/your-old-gpu-could-be-worth-more-than-you-think/l-intro-1789937270.jpg",
+      "kategoriSumber": [
+        "Computing"
+      ]
+    },
+    {
+      "id": "4eee1bddac19",
+      "judul": "Why your iPhone hates printer cables",
+      "tautan": "https://www.engadget.com/2266565/why-iphone-hates-printer-cables/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T23:30:00.000Z",
+      "cuplikan": "AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn't supported.",
+      "gambar": "https://www.engadget.com/img/gallery/why-your-iphone-hates-printer-cables/l-intro-1790179049.jpg",
+      "kategoriSumber": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "8ed35ea91446",
+      "judul": "Bill Gates: AI Picu 1 Miliar Kematian, Pemerintah Harus Turun Tangan",
+      "tautan": "https://www.liputan6.com/tekno/read/8300044/bill-gates-ai-picu-1-miliar-kematian-pemerintah-harus-turun-tangan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T23:23:46.000Z",
+      "cuplikan": "Bill Gates menilai pengawasan perusahaan AI saja tidak cukup karena teknologi ini bisa membawa risiko besar, termasuk kematian.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/UMnfBq1vb0YZ8MZn6iHGO9PibmM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1075017/original/015388800_1449200552-20151204-Bill-Gates-AFP-3.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "6f312848c8f5",
+      "judul": "Dua jempol untuk Rahmat Erwin Abdullah",
+      "tautan": "https://www.antaranews.com/berita/5760211/dua-jempol-untuk-rahmat-erwin-abdullah",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T23:12:18.000Z",
+      "cuplikan": "Rahmat Erwin Abdullah kembali mengangkat nama Indonesia ke podium tertinggi Asian Games. Tiga tahun setelah meraih ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/26/Rahmat-raih-emas-angkat-besi-75kg-Asian-Games-2026-260926-fzn-13_1.jpg"
+    },
+    {
+      "id": "bd98e5f710bb",
+      "judul": "Jelang Hadapi Malaysia, John Herdman Peringati Timnas Indonesia: Jangan Terbawa Suasana",
+      "tautan": "https://www.viva.co.id/bola/1931353-jelang-hadapi-malaysia-john-herdman-peringati-timnas-indonesia-jangan-terbawa-suasana",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T23:00:00.000Z",
+      "cuplikan": "Pelatih Timnas Indonesia, John Herdman mengingatkan anak-anak asuhnya agar tidak terbawa suasana jelang menghadapi Malaysia pada laga Grup A FIFA ASEAN Cup 2026.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/25/6ab69e7306070-pelatih-timnas-indonesia-john-herdman-di-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "adcb28a8b354",
+      "judul": "Skuad panjat tebing Indonesia di Asian Games 2026",
+      "tautan": "https://www.antaranews.com/infografik/5760208/skuad-panjat-tebing-indonesia-di-asian-games-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T23:00:00.000Z",
+      "cuplikan": "Indonesia mengirim sembilan atlet untuk berkompetisi pada cabang olahraga panjat tebing Asian Games 2026 dengan target ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/27/20260927-Skuad-panjat-tebing-Indonesia-di-Asian-Games-2026.jpg"
+    },
+    {
+      "id": "44c54e48c05a",
+      "judul": "How to factory reset your Google Home Mini",
+      "tautan": "https://www.engadget.com/2266523/how-to-factory-reset-google-home-mini/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T23:00:00.000Z",
+      "cuplikan": "Google Home Mini speakers may have been discontinued, but there are plenty still being used. If you have one, let's talk about how to reset it.",
+      "gambar": "https://www.engadget.com/img/gallery/how-to-factory-reset-your-google-home-mini/l-intro-1790177732.jpg",
+      "kategoriSumber": [
+        "Google"
+      ]
+    },
+    {
+      "id": "65e6b25a8c9e",
+      "judul": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+      "tautan": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T22:45:00.000Z",
+      "cuplikan": "The iPhone 18 Pro iterates on the iPhone 17 Pro while making some minor improvements, but what exactly is different?",
+      "gambar": "https://www.engadget.com/img/gallery/iphone-18-pro-vs-iphone-17-pro-whats-new/l-intro-1789752997.jpg",
+      "kategoriSumber": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "2f64ab196b32",
+      "judul": "UEFA Nations League: Gol Kilat Lamine Yamal, Spanyol Tundukkan Inggris di Wembley",
+      "tautan": "https://www.liputan6.com/bola/read/8300432/uefa-nations-league-gol-kilat-lamine-yamal-spanyol-tundukkan-inggris-di-wembley",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T22:30:11.000Z",
+      "cuplikan": "Spanyol menekuk Inggris di Wembley setelah gol kilat Lamine Yamal. Kroasia juga menang atas Rep. Ceska; keduanya memimpin Grup 3 UEFA Nations League.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/CF02O1WYJFnb4oeawpSL12PJ2CU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358989/original/013047500_1790461600-000_C9FV2GH-Spanyol.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "f72ef92c811c",
+      "judul": "Link Live Streaming Bulu Tangkis Asian Games 2026: 5 Wakil Indonesia Bidik 4 Besar",
+      "tautan": "https://www.liputan6.com/bola/read/8300406/link-live-streaming-bulu-tangkis-asian-games-2026-5-wakil-indonesia-bidik-4-besar",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T22:30:03.000Z",
+      "cuplikan": "Perempat final nomor perorangan bulu tangkis Asian Games 2026 bisa disaksikan melalui Vidio.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/ALLclRgJPkdPskAzYwJco6tHY5Y=/0x86:1040x672/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9356208/original/095691500_1790155286-WhatsApp_Image_2026-09-23_at_3.33.46_PM.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "411dd6310337",
+      "judul": "How high is too high for speakers in your home sound system?",
+      "tautan": "https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T22:30:00.000Z",
+      "cuplikan": "Too much height makes dialogue and fine details sound less direct.",
+      "gambar": "https://www.engadget.com/img/gallery/how-high-is-too-high-for-speakers-in-your-home-sound-system/l-intro-1789920049.jpg",
+      "kategoriSumber": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "f41ce3dd1f50",
+      "judul": "Swiss hantam Makedonia Utara, Slovenia imbangi Skotlandia",
+      "tautan": "https://www.antaranews.com/berita/5760207/swiss-hantam-makedonia-utara-slovenia-imbangi-skotlandia",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T22:02:51.000Z",
+      "cuplikan": "Tim nasional Swiss menghantam tim nasional Makedonia Utara, sedangkan tim nasional Slovenia mengimbangi tim nasional ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/27/AA-20260926-42581798-42581796-NORTH_MACEDONIA_V_SWITZERLAND_UEFA_NATIONS_LEAGUE.jpg"
+    },
+    {
+      "id": "19f34a8ef5bb",
+      "judul": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+      "tautan": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-26T22:00:47.000Z",
+      "cuplikan": "Pro-datacentre officials argue scale of Australia’s buildout is smaller, more regulated and less damaging than in US Australian politicians and business leaders are arguing that their populace’s growing resentment of AI datacentres is an…",
+      "gambar": "https://i.guim.co.uk/img/media/9c9ec69d76f8fe3ecc5633e32f9280cf5f31c95d/596_0_5955_4764/master/5955.jpg?width=140&quality=85&auto=format&fit=max&s=01353e0ddc0fc03ae707aafb4d165549",
+      "kategoriSumber": [
+        "Australia news",
+        "Datacentres",
+        "Protest",
+        "AI (artificial intelligence)",
+        "Technology",
+        "US news",
+        "World news",
+        "Protest (US)"
+      ]
+    },
+    {
+      "id": "cdfab2fbd2e8",
+      "judul": "Stop bringing your phone in the shower: How steam can ruin 'waterproof' phones",
+      "tautan": "https://www.engadget.com/2266522/why-steam-ruins-phone-more-than-water/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T22:00:00.000Z",
+      "cuplikan": "Phone manufacturers are pretty direct in their guidance on this one.",
+      "gambar": "https://www.engadget.com/img/gallery/stop-bringing-your-phone-in-the-shower-how-steam-can-ruin-waterproof-phones/l-intro-1789589462.jpg",
+      "kategoriSumber": [
+        "Smartphones"
+      ]
+    },
+    {
+      "id": "e59e77ce35d7",
+      "judul": "Mario Pasalic antar Kroasia taklukkan Republik Ceko",
+      "tautan": "https://www.antaranews.com/berita/5760205/mario-pasalic-antar-kroasia-taklukkan-republik-ceko",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T21:59:39.000Z",
+      "cuplikan": "Gol dari Mario Pasalic mengantarkan tim nasional Kroasia menaklukkan tim nasional Republik Ceko pada pertandingan Grup ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/27/fbl-eur-nations-cze-cro-1.jpg"
+    },
+    {
+      "id": "7597176acd00",
+      "judul": "Apple hit with $5.7 billion in damages over haptic patents",
+      "tautan": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-26T21:30:01.000Z",
+      "cuplikan": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apple",
+        "Law",
+        "News",
+        "Policy",
+        "Tech"
+      ]
+    },
+    {
+      "id": "feff97c72a9b",
+      "judul": "Drama lima gol warnai kemenangan Spanyol atas Inggris",
+      "tautan": "https://www.antaranews.com/berita/5760203/drama-lima-gol-warnai-kemenangan-spanyol-atas-inggris",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T21:26:55.000Z",
+      "cuplikan": "Drama lima gol mewarnai kemenangan tim nasional Spanyol atas tim nasional Inggris dengan skor 3-2 pada pertandingan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/27/spanyol.jpg"
+    },
+    {
+      "id": "5666844b3ece",
+      "judul": "Kata-Kata Rahmat Erwin Abdullah Setelah Raih Emas Asian Games 2026",
+      "tautan": "https://sports.okezone.com/read/2026/09/26/43/3244430/kata-kata-rahmat-erwin-abdullah-setelah-raih-emas-asian-games-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T21:05:14.000Z",
+      "cuplikan": "Rahmat Erwin Abdullah senang bukan main mempersembahkan emas bagi kontingen Indonesia di Asian Games 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/26/43/3244430/rahmat_erwin_abdullah_bangga_persembahkan_emas_bagi_indonesia_di_asian_games_2026_noc_indonesia-Chbl_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "d70ce2b78b06",
+      "judul": "Insurers claim AI is already increasing healthcare costs",
+      "tautan": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-26T21:02:06.000Z",
+      "cuplikan": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Biotech & Health",
+        "Blue Cross Blue Shield",
+        "Abridge"
+      ]
+    },
+    {
+      "id": "31b997b1e97a",
+      "judul": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "tautan": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-26T20:24:45.000Z",
+      "cuplikan": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "TikTok"
+      ]
+    },
+    {
+      "id": "64f232bde1bf",
+      "judul": "10 HP Rp1 Jutaan September 2026 Masih Menarik, Ini Pilihan yang Bisa Dipertimbangkan",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1931352-10-hp-rp1-jutaan-september-2026-masih-menarik-ini-pilihan-yang-bisa-dipertimbangkan",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T20:06:00.000Z",
+      "cuplikan": "10 HP Rp1 jutaan masih menarik pada September 2026. Simak pilihan dari Redmi, Samsung, vivo, Oppo, realme, TECNO, POCO, hingga Infinix beserta spesifikasi dan harganya.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/01/6a451b27720e2-ilustrasi-hp_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "8b4a62bef97f",
+      "judul": "This external GPU uses Wi-Fi to transform any device into a gaming rig",
+      "tautan": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T19:45:00.000Z",
+      "cuplikan": "The WiCi One is available for preorders starting at $1,999.",
+      "gambar": "https://www.engadget.com/img/gallery/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/l-intro-1790449011.jpg",
+      "kategoriSumber": [
+        "Computing"
+      ]
+    },
+    {
+      "id": "ab65af21b45a",
+      "judul": "Bukan Cuma Gaya-gayaan, Balap Gokart Karya Anak SMA Mulai Dilirik",
+      "tautan": "https://sports.okezone.com/read/2026/09/27/43/3244435/bukan-cuma-gaya-gayaan-balap-gokart-karya-anak-sma-mulai-dilirik",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T19:42:59.000Z",
+      "cuplikan": "Balap gokart karya anak SMA mulai dilirik.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/27/43/3244435/avenue_racing_series_2026_resmi_digelar-LlQr_large.jpeg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "6d6114d2a176",
+      "judul": "Decap is the man behind the drums behind your favorite song",
+      "tautan": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-26T19:30:00.000Z",
+      "cuplikan": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Entertainment",
+        "Interview",
+        "Music",
+        "Report"
+      ]
+    },
+    {
+      "id": "95c55ee63f93",
+      "judul": "Minecraft is getting a new dimension called The Sift in 2027",
+      "tautan": "https://www.engadget.com/2269867/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T19:19:53.000Z",
+      "cuplikan": "The Sift will first be released with Minecraft Dungeons 2 later this month before arriving in the base game.",
+      "gambar": "https://www.engadget.com/img/gallery/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027/l-intro-1790449860.jpg",
+      "kategoriSumber": [
+        "Gaming"
+      ]
+    },
+    {
+      "id": "738749df0145",
+      "judul": "Terpopuler: Timnas Indonesia Merosot di Rangking FIFA, Pengakuan Jujur Pelatih Singapura",
+      "tautan": "https://www.viva.co.id/bola/1931372-terpopuler-timnas-indonesia-merosot-di-rangking-fifa-pengakuan-jujur-pelatih-singapura",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-26T18:55:09.000Z",
+      "cuplikan": "Salah satunya adalah rangking Timnas Indonesia merosot meski berhasil mengalahkan Singapura pada laga pertama Grup A FIFA ASEAN Cup 2026 dengan skor 2-0 di Stadion Utama",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/23/6ab37c493cac5-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "cadf9a613602",
+      "judul": "What type of power cord does a PS5 use?",
+      "tautan": "https://www.engadget.com/2265348/playstation-power-cord-what-type/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T18:45:00.000Z",
+      "cuplikan": "You probably don't think much about your PlayStation's power cord unless it needs to be replaced. If that time comes, here's what to know.",
+      "gambar": "https://www.engadget.com/img/gallery/what-type-of-power-cord-does-a-ps5-use/l-intro-1790090799.jpg",
+      "kategoriSumber": [
+        "PlayStation"
+      ]
+    },
+    {
+      "id": "3a6bbfe05d4b",
+      "judul": "You can use your old laptop to make a smart home hub",
+      "tautan": "https://www.engadget.com/2265491/you-can-use-your-old-laptop-to-make-a-smart-home-hub/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T18:30:00.000Z",
+      "cuplikan": "An old netbook can automate the devices that otherwise aren't interested in talking to one another.",
+      "gambar": "https://www.engadget.com/img/gallery/you-can-use-your-old-laptop-to-make-a-smart-home-hub/l-intro-1789576732.jpg",
+      "kategoriSumber": [
+        "Accessories"
+      ]
+    },
+    {
+      "id": "086b1ba28e5b",
+      "judul": "HP Galaxy A55 vs Xiaomi 14T, Adu Kamera, Layar dan Performa: Mana yang Cocok untuk Dipakai Jangka Panjang?",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1931343-hp-galaxy-a55-vs-xiaomi-14t-adu-kamera-layar-dan-performa-mana-yang-cocok-untuk-dipakai-jangka-panjang",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T18:06:00.000Z",
+      "cuplikan": "Galaxy A55 dan Xiaomi 14T dibandingkan dari kamera, layar, performa, baterai, hingga dukungan software. Simak perbedaan keduanya untuk menentukan HP yang sesuai dipakai.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/26/6ab7d3e3937b2-hp-galaxy-a55-vs-xiaomi-14t_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "5a0f79cff3de",
+      "judul": "How to properly clean your laptop fan",
+      "tautan": "https://www.engadget.com/2266513/how-to-clean-laptop-fan/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-26T18:00:00.000Z",
+      "cuplikan": "Start with the vents before you reach for a screwdriver.",
+      "gambar": "https://www.engadget.com/img/gallery/how-to-properly-clean-your-laptop-fan/l-intro-1789839734.jpg",
+      "kategoriSumber": [
+        "Laptops"
+      ]
+    },
+    {
+      "id": "fcf88b0cd278",
+      "judul": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "tautan": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-26T17:44:00.000Z",
+      "cuplikan": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Social",
+        "Alex Gibney",
+        "Elon Musk",
+        "Meta",
+        "tiktok us",
+        "X",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "3d8c5d848800",
+      "judul": "Kids turned the comment section of an NPR podcast into a group chat",
+      "tautan": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-26T17:32:35.000Z",
+      "cuplikan": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Culture",
+        "Entertainment",
+        "Internet Culture",
+        "News",
+        "Tech"
+      ]
+    },
     {
       "id": "a939ab0b1eb9",
       "judul": "Jadwal Asian Games 2026: 5 Wakil Indonesia Jaga Asa di Perorangan Bulu Tangkis",
@@ -38,7 +612,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-09-26T17:09:28.000Z",
-      "cuplikan": "The tech giant has launched a cute ‘little guy’ that can answer emails, book travel or do your weekly food shop After the recent backlash against Meta’s so-called “pervert” smartglasses, this week Mark Zuckerberg launched a much cuter…",
+      "cuplikan": "The tech giant has launched a cute ‘little guy’ that can answer emails, book travel or do your weekly food shop After the recent backlash against Meta’s so-called “pervert” smart glasses, this week Mark Zuckerberg launched a much cuter…",
       "gambar": "https://i.guim.co.uk/img/media/7403739f4d673b03a56c00cbb964dbe8ed0cad58/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=409d724da5c485be1e42096a9c8b514f",
       "kategoriSumber": [
         "Fashion",
