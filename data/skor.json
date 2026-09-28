@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-09-27T18:00:50.911Z",
+  "diperbarui": "2026-09-28T01:20:34.409Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -8,57 +8,11 @@
     },
     "esp.1": {
       "nama": "LaLiga",
-      "laga": [
-        {
-          "id": "401882858",
-          "liga": "esp.1",
-          "mulai": "2026-09-20T19:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Valencia",
-            "namaLengkap": "Valencia",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/94.png&w=48&h=48",
-            "skor": 2,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Real Sociedad",
-            "namaLengkap": "Real Sociedad",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/89.png&w=48&h=48",
-            "skor": 3,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882858/real-sociedad-valencia"
-        }
-      ]
+      "laga": []
     },
     "ita.1": {
       "nama": "Serie A",
-      "laga": [
-        {
-          "id": "401874944",
-          "liga": "ita.1",
-          "mulai": "2026-09-20T18:45:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Milan",
-            "namaLengkap": "AC Milan",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png&w=48&h=48",
-            "skor": 3,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Lecce",
-            "namaLengkap": "Lecce",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/113.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874944/lecce-ac-milan"
-        }
-      ]
+      "laga": []
     },
     "ger.1": {
       "nama": "Bundesliga",
@@ -66,30 +20,7 @@
     },
     "fra.1": {
       "nama": "Ligue 1",
-      "laga": [
-        {
-          "id": "401876449",
-          "liga": "fra.1",
-          "mulai": "2026-09-20T18:45:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Marseille",
-            "namaLengkap": "Marseille",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/176.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "PSG",
-            "namaLengkap": "Paris Saint-Germain",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876449/paris-saint-germain-marseille"
-        }
-      ]
+      "laga": []
     }
   }
 }
