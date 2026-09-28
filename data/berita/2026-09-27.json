@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-27",
-  "diperbarui": "2026-09-28T08:04:34.361Z",
+  "diperbarui": "2026-09-28T18:20:28.628Z",
   "berita": [
     {
       "id": "3173dcb4b7c3",
@@ -421,7 +421,7 @@
       "lajur": "olahraga",
       "terbit": "2026-09-27T15:09:44.000Z",
       "cuplikan": "Pembalap Indonesia Muhammad Kiandra Ramadhipa memperbaiki posisinya di klasemen pembalap sementara Kejuaraan Dunia ...",
-      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/04/Foto_01.jpg"
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/28/Foto_01.jpg"
     },
     {
       "id": "e55567ea3902",
@@ -1100,15 +1100,15 @@
       "gambar": "https://static01.nyt.com/images/2026/09/26/business/ai-governance-illo/ai-governance-illo-mediumSquareAt3X.jpg",
       "kategoriSumber": [
         "Artificial Intelligence",
-        "Computers and the Internet",
+        "Regulation and Deregulation of Industry",
         "Computer Security",
         "Cyberwarfare and Defense",
-        "Regulation and Deregulation of Industry",
         "United States Politics and Government",
         "Politics and Government",
         "Innovation",
         "European Commission",
-        "Anthropic AI LLC"
+        "Anthropic AI LLC",
+        "OpenAI Labs"
       ]
     },
     {

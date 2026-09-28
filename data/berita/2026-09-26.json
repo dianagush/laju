@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-26",
-  "diperbarui": "2026-09-28T08:04:34.361Z",
+  "diperbarui": "2026-09-28T18:20:28.628Z",
   "berita": [
     {
       "id": "a1edf4272736",
@@ -386,6 +386,20 @@
       "terbit": "2026-09-26T14:24:41.000Z",
       "cuplikan": "Perkembangan kecerdasan buatan atau AI tidak hanya mengubah cara masyarakat mencari dan membuat informasi. Teknologi tersebut juga mulai memengaruhi informasi.",
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/08/26/68adb4d440063-ilustrasi-ai-masuk-kantor_665_374.jpeg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "9e6b7a0b3386",
+      "judul": "Kompetisi Kedokteran Jadi Ajang Mengasah Pola Pikir Klinis Mahasiswa",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1931344-kompetisi-kedokteran-jadi-ajang-mengasah-pola-pikir-klinis-mahasiswa",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T14:24:41.000Z",
+      "cuplikan": "Kompetisi ilmiah tidak hanya menjadi ajang bagi mahasiswa kedokteran untuk mengejar prestasi, tetapi juga dapat menjadi ruang untuk mengasah kemampuan berpikir kritis.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/03/09/62284cf81d700-ilustrasi-otak_665_374.jpg",
       "kategoriSumber": [
         "lifestyle"
       ]
@@ -1391,7 +1405,7 @@
       "kanal": "wired",
       "lajur": "global",
       "terbit": "2026-09-26T09:30:00.000Z",
-      "cuplikan": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth's rotation.",
+      "cuplikan": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth’s rotation.",
       "gambar": "https://media.wired.com/photos/6ab57aedee39eece457c3eb4/master/pass/962321400",
       "kategoriSumber": [
         "Science",
@@ -2142,7 +2156,7 @@
       "judul": "Cara dan syarat nonton BRI Super League Rp1",
       "tautan": "https://www.antaranews.com/berita/5759416/cara-dan-syarat-nonton-bri-super-league-rp1",
       "sumber": "ANTARA",
-      "kanal": "antara-liga-indonesia",
+      "kanal": "antara-bola",
       "lajur": "olahraga",
       "terbit": "2026-09-26T03:51:46.000Z",
       "cuplikan": "Menonton langsung pertandingan BRI Super League menjadi pilihan bagi pencinta sepak bola untuk merasakan atmosfer ...",
@@ -2495,6 +2509,17 @@
       ]
     },
     {
+      "id": "0bfd61d5af36",
+      "judul": "Tech Now",
+      "tautan": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-26T01:00:13.000Z",
+      "cuplikan": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+      "gambar": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"
+    },
+    {
       "id": "10a1629a8638",
       "judul": "Ole Romeny Ungkap Perasaannya Kembali Tampil di Depan Suporter Timnas Indonesia",
       "tautan": "https://www.viva.co.id/bola/1931205-ole-romeny-ungkap-perasaannya-kembali-tampil-di-depan-suporter-timnas-indonesia",
@@ -2507,17 +2532,6 @@
       "kategoriSumber": [
         "bola"
       ]
-    },
-    {
-      "id": "0bfd61d5af36",
-      "judul": "Tech Now",
-      "tautan": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
-      "sumber": "BBC News",
-      "kanal": "bbc-tech",
-      "lajur": "global",
-      "terbit": "2026-09-26T01:00:00.000Z",
-      "cuplikan": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
-      "gambar": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg"
     },
     {
       "id": "d4a1e00b838e",
@@ -2689,6 +2703,17 @@
         "boom supersonic",
         "crusoe"
       ]
+    },
+    {
+      "id": "de895e80d6a4",
+      "judul": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "tautan": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-25T23:05:40.000Z",
+      "cuplikan": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d538/live/369f0e30-b903-11f1-83cd-2998f68d9572.jpg"
     },
     {
       "id": "54c4b4a4bd13",
