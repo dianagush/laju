@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-28",
-  "diperbarui": "2026-09-28T18:20:28.628Z",
+  "diperbarui": "2026-09-29T02:26:43.991Z",
   "berita": [
     {
       "id": "34af743b1e28",
@@ -304,7 +304,7 @@
     },
     {
       "id": "454053dd947b",
-      "judul": "NASA, for the time being, is unable to move the space station's large robotic arm",
+      "judul": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
       "tautan": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
       "sumber": "Ars Technica",
       "kanal": "ars",
@@ -501,6 +501,7 @@
       "kategoriSumber": [
         "Hardware",
         "edge computing",
+        "In Brief",
         "SiMa.ai"
       ]
     },
@@ -512,7 +513,7 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-09-28T15:26:46.000Z",
-      "cuplikan": "Accounting staffing company MAVI emerges from stealth with $4million in funding.",
+      "cuplikan": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
       "gambar": "",
       "kategoriSumber": [
         "Startups",
@@ -644,8 +645,8 @@
       "gambar": "",
       "kategoriSumber": [
         "AI",
-        "TC",
-        "Battlefield 200"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -717,11 +718,12 @@
       "cuplikan": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
       "gambar": "",
       "kategoriSumber": [
-        "Security",
         "Government & Policy",
+        "Security",
         "FBI",
         "cybersecurity",
-        "data breach"
+        "data breach",
+        "shinyhunters"
       ]
     },
     {
