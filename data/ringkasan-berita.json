@@ -1349,5 +1349,26 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-09-29T11:05:29.358Z"
+  },
+  "f154be7b7635": {
+    "teks": "Sebanyak 69 persen pekerja di Indonesia telah memanfaatkan kecerdasan buatan dalam setahun terakhir, melampaui tingkat adopsi global. Pemanfaatan teknologi ini menjadi solusi atas kendala 88 persen pekerja yang merasa kekurangan waktu untuk mengurus tugas administratif. Meski pengguna harian generative AI baru mencapai 16 persen, intensitas pemakaian tersebut terbukti berhubungan erat dengan persepsi peningkatan produktivitas kerja.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-29T19:04:03.222Z"
+  },
+  "dd862970d495": {
+    "teks": "Valuasi Meta Platforms melonjak mendekati dua triliun dolar AS seiring besarnya minat investor terhadap agen kecerdasan buatan terbaru mereka, Muse. Kesuksesan inovasi tersebut mendorong saham Meta naik 36 persen sepanjang September dan memicu peningkatan rekomendasi dari analis. Meskipun sentimen pasar membaik, perusahaan masih menghadapi tantangan dari tingginya biaya belanja modal serta potensi arus kas negatif hingga 2027.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-09-29T19:04:20.125Z"
+  },
+  "df8c03bbaec0": {
+    "teks": "Meta memperkenalkan versi terbaru dari agen AI miliknya yang dirancang khusus untuk membantu pemilik usaha kecil di platform mereka. Fitur baru ini memungkinkan agen tersebut terhubung dengan akun profesional, data analitik, serta berbagai layanan pihak ketiga untuk mengelola kampanye iklan dan tugas bisnis lainnya. Layanan ini sebagian besar dapat digunakan secara gratis, sementara penggunaan yang lebih intensif akan memerlukan langganan berbayar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-09-29T19:04:56.087Z"
   }
 }

@@ -1,0 +1,627 @@
+{
+  "tanggal": "2026-09-30",
+  "diperbarui": "2026-09-29T19:03:32.933Z",
+  "berita": [
+    {
+      "id": "593165f424f8",
+      "judul": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models",
+      "tautan": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:52:33.000Z",
+      "cuplikan": "Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did not listen.",
+      "gambar": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-openai-security-sam-promo-hpcz/29biz-openai-security-sam-promo-hpcz-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Research",
+        "Security and Warning Systems",
+        "Computer Security",
+        "Start-ups",
+        "Cyberattacks and Hackers",
+        "Innovation",
+        "OpenAI Labs",
+        "Brockman, Greg"
+      ]
+    },
+    {
+      "id": "0bcc431eb8e7",
+      "judul": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "tautan": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:48:03.000Z",
+      "cuplikan": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Social",
+        "Startups",
+        "TechCrunch Disrupt"
+      ]
+    },
+    {
+      "id": "6bdd76c9971e",
+      "judul": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+      "tautan": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:45:01.000Z",
+      "cuplikan": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
+      "gambar": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
+      "kategoriSumber": [
+        "Russian Invasion of Ukraine (2022)",
+        "Science and Technology",
+        "Research",
+        "Drones (Pilotless Planes)",
+        "Kyiv (Ukraine)"
+      ]
+    },
+    {
+      "id": "66cf3fca4ff1",
+      "judul": "Apple Pay set to launch in India with Axis Bank today, sources say",
+      "tautan": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:45:00.000Z",
+      "cuplikan": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Fintech",
+        "Apple",
+        "Exclusive",
+        "Apple Pay",
+        "apple wallet",
+        "Axis Bank"
+      ]
+    },
+    {
+      "id": "141534a4cffe",
+      "judul": "There's now an official US government AI chatbot",
+      "tautan": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:43:58.000Z",
+      "cuplikan": "The administration wants America.gov to be the main portal for federal services.",
+      "gambar": "https://www.engadget.com/img/gallery/theres-now-an-official-us-government-ai-chatbot/l-intro-1790707301.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "447bf1aab007",
+      "judul": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "tautan": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:35:00.000Z",
+      "cuplikan": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "gambar": "",
+      "kategoriSumber": [
+        "TC",
+        "AI",
+        "nvidia",
+        "Exclusive",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "c675d15af83c",
+      "judul": "Gemini and Find Hub can help you locate your important documents — here's how",
+      "tautan": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:30:00.000Z",
+      "cuplikan": "You can use Find Hub and Gemini to keep track of your documents without the need for a compatible tag.",
+      "gambar": "https://www.engadget.com/img/gallery/gemini-and-find-hub-can-help-you-locate-your-important-documents-heres-how/l-intro-1789834269.jpg",
+      "kategoriSumber": [
+        "Google"
+      ]
+    },
+    {
+      "id": "4c27c014fb60",
+      "judul": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
+      "tautan": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:29:40.000Z",
+      "cuplikan": "The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology.",
+      "gambar": "",
+      "kategoriSumber": [
+        "OpenAI Labs",
+        "Altman, Samuel H",
+        "Artificial Intelligence",
+        "Science and Technology",
+        "Computer Security",
+        "Computers and the Internet",
+        "Brockman, Greg",
+        "Anthropic AI LLC"
+      ]
+    },
+    {
+      "id": "5e9b7edfbcf4",
+      "judul": "Away’s New Series 3 Luggage Plays It Safe—That’s the Point",
+      "tautan": "https://www.wired.com/story/away-launches-series-3-luggage/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:29:17.000Z",
+      "cuplikan": "Away’s third generation of its iconic luggage retains the familiar design while introducing invisible tech, such as a new wheel system and an improved telescoping handle.",
+      "gambar": "https://media.wired.com/photos/6abc01b2adb8c46babb74ab2/master/pass/Away%E2%80%99s-New-Series-3-Luggage-Plays-It-Safe%E2%80%94That%E2%80%99s-the-Point.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "Gear / Products / Lifestyle"
+      ]
+    },
+    {
+      "id": "39e77ec600ec",
+      "judul": "2 Bulan Absen, Maverick Vinales Girang Comeback di MotoGP Jepang 2026",
+      "tautan": "https://sports.okezone.com/read/2026/09/29/38/3244842/2-bulan-absen-maverick-vinales-girang-comeback-di-motogp-jepang-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-29T18:11:52.000Z",
+      "cuplikan": "Maverick Vinales girang bakalan kembali balapan di MotoGP Jepang 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/29/38/3244842/maverick_vinales_girang_bakalan_kembali_balapan_di_motogp_jepang_2026-jzPH_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "c83b565fc251",
+      "judul": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
+      "tautan": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:06:01.000Z",
+      "cuplikan": "In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.",
+      "gambar": "https://static01.nyt.com/images/2026/06/30/multimedia/30nat-pope-anthropic-wfkz/30nat-pope-anthropic-wfkz-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Religion and Belief",
+        "Ethics (Personal)",
+        "Popes",
+        "Computers and the Internet",
+        "Christians and Christianity",
+        "Anthropic AI LLC",
+        "Roman Catholic Church",
+        "Leo XIV",
+        "Olah, Christopher"
+      ]
+    },
+    {
+      "id": "177d14bdfc44",
+      "judul": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "tautan": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:03:01.000Z",
+      "cuplikan": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "gambar": "https://media.wired.com/photos/6abbc40baa4c41ce1b0d6fa0/master/pass/092926-AI%20Science%20Discovery.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Science / Biotech"
+      ]
+    },
+    {
+      "id": "4600d2585700",
+      "judul": "Apple's new iPhone and iPad security feature can protect you from scammers",
+      "tautan": "https://www.engadget.com/2271157/apple-iphone-ipad-impersonator-risk-detection-new-security-feature/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-29T18:00:00.000Z",
+      "cuplikan": "One of iOS 27's coolest security features didn't make headlines, but it could stop you from falling for a scam.",
+      "gambar": "https://www.engadget.com/img/gallery/apples-new-iphone-and-ipad-security-feature-can-protect-you-from-scammers/l-intro-1790621299.jpg",
+      "kategoriSumber": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "537504999ce6",
+      "judul": "Smart ring maker Oura puts off initial public offering due to market ‘uncertainty’",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/29/oura-ring-public-offering",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:57:01.000Z",
+      "cuplikan": "Researchers say the IPO market was off to a solid start but tailed off in the third quarter Smart ring maker Oura Inc says it is postponing a planned initial public offering due to market “uncertainty”. In a Tuesday press release, Oura…",
+      "gambar": "https://i.guim.co.uk/img/media/d9c3639d4b0ee7c53c4c4294589323a684835597/312_0_2420_1936/master/2420.jpg?width=140&quality=85&auto=format&fit=max&s=25f74c9a1a5e00412cef28db2846e669",
+      "kategoriSumber": [
+        "Technology",
+        "IPOs",
+        "AI (artificial intelligence)",
+        "Business",
+        "US news"
+      ]
+    },
+    {
+      "id": "b6f078daefc5",
+      "judul": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "tautan": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:45:51.000Z",
+      "cuplikan": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "ChatGPT",
+        "Microsoft",
+        "OpenAI",
+        "Salesforce"
+      ]
+    },
+    {
+      "id": "10e6f9ff5fe3",
+      "judul": "Putusan Komisi Premier League: Manchester City Bersalah atas 115 Dakwaan Finansial",
+      "tautan": "https://www.liputan6.com/bola/read/8302496/putusan-komisi-premier-league-manchester-city-bersalah-atas-115-dakwaan-finansial",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-29T17:37:53.000Z",
+      "cuplikan": "Komisi independen Premier League menyatakan Manchester City bersalah atas 115 dakwaan pelanggaran finansial periode 2009/2010–2017/2018. Sanksi belum diputuskan.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/2jp2lJM4g1-2GaJAggjItJWMrl4=/1x225:1080x833/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4921600/original/086801400_1723999695-Manchester_City_-_Ilustrasi_Logo_Man_City_copy.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5726e15c5cb8",
+      "judul": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:35:03.000Z",
+      "cuplikan": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Anthropic",
+        "Google",
+        "News",
+        "OpenAI",
+        "Tech"
+      ]
+    },
+    {
+      "id": "ec2768a9046b",
+      "judul": "Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says",
+      "tautan": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:29:14.000Z",
+      "cuplikan": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237457256-1152x648.jpg",
+      "kategoriSumber": [
+        "Apple",
+        "Policy",
+        "censorship",
+        "Department of Homeland Security",
+        "Donald Trump",
+        "First Amendment",
+        "government censorship",
+        "ice",
+        "iceblock",
+        "immigration and customs enforcement"
+      ]
+    },
+    {
+      "id": "cbc20ec61d8d",
+      "judul": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "tautan": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:27:09.000Z",
+      "cuplikan": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach",
+        "FBI",
+        "hacking",
+        "shinyhunters"
+      ]
+    },
+    {
+      "id": "7880523c2dd7",
+      "judul": "AI-powered app maker Wabi pivots to a messaging experience",
+      "tautan": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:20:00.000Z",
+      "cuplikan": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Apps",
+        "Wabi"
+      ]
+    },
+    {
+      "id": "5f7055a3afc3",
+      "judul": "Razer’s low-latency wireless gaming keyboard is almost half off",
+      "tautan": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:19:07.000Z",
+      "cuplikan": "Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and low-profile linear…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Deals",
+        "Gadgets",
+        "Gaming",
+        "PC Gaming",
+        "Verge Shopping"
+      ]
+    },
+    {
+      "id": "572dce99347e",
+      "judul": "OpenAI launches Dots, its bubbly agentic avatar",
+      "tautan": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:17:15.000Z",
+      "cuplikan": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "TC",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "6d801d46362d",
+      "judul": "Oura pulls $15bn stock market listing days after announcement",
+      "tautan": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:17:07.000Z",
+      "cuplikan": "The wearable technology company had been expected to list its shares in the US.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc0e/live/21da3ca0-bc1d-11f1-a9cf-939723882d7f.jpg"
+    },
+    {
+      "id": "7562a8743449",
+      "judul": "OpenAI launches Dots, its Muse competitor",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:15:00.000Z",
+      "cuplikan": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Apps",
+        "News",
+        "OpenAI",
+        "Tech"
+      ]
+    },
+    {
+      "id": "e2bf069c3bf0",
+      "judul": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "tautan": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:15:00.000Z",
+      "cuplikan": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "codex",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "914354df0074",
+      "judul": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "tautan": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:15:00.000Z",
+      "cuplikan": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "e277d681e197",
+      "judul": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "tautan": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:15:00.000Z",
+      "cuplikan": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Apps",
+        "plugins",
+        "OpenAI",
+        "ChatGPT"
+      ]
+    },
+    {
+      "id": "04e15d4b0a76",
+      "judul": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "tautan": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:15:00.000Z",
+      "cuplikan": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+      "gambar": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Gear News and Events"
+      ]
+    },
+    {
+      "id": "c937e3d8a7fe",
+      "judul": "ChatGPT Space is a shared hub for work projects and personal AI agents",
+      "tautan": "https://www.engadget.com/2272248/chatgpt-space-for-work/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:15:00.000Z",
+      "cuplikan": "ChatGPT is coming to Slack and Microsoft Teams too.",
+      "gambar": "https://www.engadget.com/img/gallery/chatgpt-space-for-work/l-intro-1790702303.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "483f04ef5f52",
+      "judul": "OpenAI adds $500(!) Pro subscription, nerfs its existing $200 tier",
+      "tautan": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:15:00.000Z",
+      "cuplikan": "How long until every other AI company does the same?",
+      "gambar": "https://www.engadget.com/img/gallery/openai-adds-500-pro-subscription-nerfs-its-existing-200-tier/l-intro-1790697735.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "c56eeed4ae0a",
+      "judul": "Dots are OpenAI's new personal agents and soon you'll be able to control several of them",
+      "tautan": "https://www.engadget.com/2272230/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:15:00.000Z",
+      "cuplikan": "Sure, seems safe.",
+      "gambar": "https://www.engadget.com/img/gallery/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/l-intro-1790701640.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "13cfd55ec784",
+      "judul": "Protesters gather at OpenAI’s DevDay",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:12:27.000Z",
+      "cuplikan": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "OpenAI",
+        "Report"
+      ]
+    },
+    {
+      "id": "008a68ccf2b3",
+      "judul": "Media Belanda Soroti Kartu Merah Thom Haye saat Lawan Malaysia",
+      "tautan": "https://www.viva.co.id/bola/1931965-media-belanda-soroti-kartu-merah-thom-haye-saat-lawan-malaysia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-29T17:10:00.000Z",
+      "cuplikan": "Media Belanda menyoroti kartu merah Thom Haye saat Timnas Indonesia vs Malaysia. Skuad Garuda dipuji tetap tampil impresif meski bermain dengan 10 pemain.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/29/6abbd5caa0acc-pemain-timnas-indonesia-thom-haye_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "af76fd63feec",
+      "judul": "Terpopuler: Nama Shin Tae-yong Bergema di SUGBK, Erick Thohir Sebut Masih Ada Kesempatan",
+      "tautan": "https://www.viva.co.id/bola/1931944-terpopuler-nama-shin-tae-yong-bergema-di-sugbk-erick-thohir-sebut-masih-ada-kesempatan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-29T17:04:00.000Z",
+      "cuplikan": "Berita terpopuler VIVA Bola Selasa 29 September 2026 membahas target Kevin Diks, peluang Timnas Indonesia, dan pernyataan Erick Thohir usai ditahan Malaysia.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/03/6a706add528ed-ketua-umum-pssi-erick-thohir-tengah_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "f98ce9af175b",
+      "judul": "KTM Sebut Pedro Acosta Berambisi Kalahkan Marc Marquez dengan Motor yang Sama",
+      "tautan": "https://sports.okezone.com/read/2026/09/29/38/3244838/ktm-sebut-pedro-acosta-berambisi-kalahkan-marc-marquez-dengan-motor-yang-sama",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-29T17:03:59.000Z",
+      "cuplikan": "Pedro Acosta hanya peduli bagaimana mengalahkan Marc Marquez dengan motor yang sama.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/29/38/3244838/pedro_acosta_hanya_peduli_bagaimana_mengalahkan_marc_marquez_dengan_motor_yang_sama-k2Uq_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "62a5e0d5a8ff",
+      "judul": "Nama Shin Tae-yong Bergema di SUGBK, Tak Lama Kemudian Eks Pelatih Timnas Unggah Pesan Ini",
+      "tautan": "https://www.viva.co.id/bola/1931936-nama-shin-tae-yong-bergema-di-sugbk-tak-lama-kemudian-eks-pelatih-timnas-unggah-pesan-ini",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-29T17:02:00.000Z",
+      "cuplikan": "Usai namanya bergema di SUGBK usai laga Indonesia vs Malaysia, mantan pelatih Timnas Indonesia Shin Tae-yong mengunggah pesan singkat di Instagram miliknya.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/29/6abba563a7577-pelatih-persija-jakarta-shin-tae-yong_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "fce7d1a62f90",
+      "judul": "Soroti Taktik John Herdman, Pengamat: Indonesia Sudah Kalah dari Malaysia Sejak 11 Lawan 11",
+      "tautan": "https://www.viva.co.id/bola/1931955-soroti-taktik-john-herdman-pengamat-indonesia-sudah-kalah-dari-malaysia-sejak-11-lawan-11",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-29T17:02:00.000Z",
+      "cuplikan": "Pengamat sepak bola Bung Binder menilai taktik John Herdman bermasalah sejak 11 lawan 11 saat Timnas Indonesia ditahan Malaysia 0-0 di GBK pada FIFA ASEAN Cup 2026.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/29/6abaab1bda098-laga-indonesia-vs-malaysia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "5e6a2097462c",
+      "judul": "McDonald's is reportedly using AI to \"dynamically\" price its burgers",
+      "tautan": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-29T17:00:25.000Z",
+      "cuplikan": "Its food isn't the only thing leaving a bad taste in customers' mouths.",
+      "gambar": "https://www.engadget.com/img/gallery/mcdonalds-is-reportedly-using-ai-to-surge-price-its-burgers/l-intro-1790701141.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    }
+  ]
+}
