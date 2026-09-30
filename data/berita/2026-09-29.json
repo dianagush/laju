@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-29",
-  "diperbarui": "2026-09-29T19:03:32.933Z",
+  "diperbarui": "2026-09-30T01:47:00.944Z",
   "berita": [
     {
       "id": "d012ac1e215c",
@@ -10,13 +10,15 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-09-29T16:55:56.000Z",
-      "cuplikan": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "cuplikan": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
         "Government & Policy",
         "Google",
-        "Trump"
+        "gemini",
+        "Trump",
+        "In Brief"
       ]
     },
     {
@@ -232,15 +234,14 @@
       "gambar": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-college-investors-zfcb/29biz-college-investors-zfcb-mediumSquareAt3X.jpg",
       "kategoriSumber": [
         "Venture Capital",
-        "Dormitories",
         "Start-ups",
         "Colleges and Universities",
         "Artificial Intelligence",
         "Computers and the Internet",
         "Entrepreneurship",
+        "Dorm Room Fund LLC",
         "First Round Capital",
-        "Cursor (Anysphere Inc)",
-        "Dorm Room Fund"
+        "Cursor (Anysphere Inc)"
       ]
     },
     {
@@ -394,7 +395,8 @@
         "Biotech & Health",
         "Startups",
         "Startup Battlefield 200",
-        "TechCrunch Disrupt"
+        "TechCrunch Disrupt",
+        "Uhura Bionics"
       ]
     },
     {
@@ -2211,7 +2213,7 @@
       "lajur": "olahraga",
       "terbit": "2026-09-29T08:02:38.000Z",
       "cuplikan": "Atlet selancar ombak Indonesia I Made Pajar Ariyana raih medali perak nomor shortboard putra Asian Games Aichi-Nagoya ...",
-      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/29/IMG_1895.jpeg"
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/30/IMG_1895.jpg"
     },
     {
       "id": "f41c59e387bd",
