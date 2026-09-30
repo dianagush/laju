@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-26",
-  "diperbarui": "2026-09-30T07:48:35.202Z",
+  "diperbarui": "2026-09-30T14:29:38.485Z",
   "berita": [
     {
       "id": "a1edf4272736",
@@ -17,6 +17,17 @@
       "id": "6f3658e2ab35",
       "judul": "YouTube Bakal Bikin Algoritma Sesuai Maumu, Cukup Tulis Video yang Ingin Ditonton",
       "tautan": "https://www.jawapos.com/teknologi/2609260392/youtube-bakal-bikin-algoritma-sesuai-maumu-cukup-tulis-video-yang-ingin-ditonton",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T16:56:57.000Z",
+      "cuplikan": "YouTube luncurkan fitur custom feeds pakai AI. Kamu bisa buat feed sesuai keinginan dan preferensi menonton di aplikasi dan web.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/24/ilustrasi-youtube-google-for-developer-uifoh.webp"
+    },
+    {
+      "id": "7ae386bb3ccc",
+      "judul": "YouTube Bakal Bikin Algoritma Sesuai Maumu, Cukup Tulis Video yang Ingin Ditonton",
+      "tautan": "https://jawapos.com/teknologi/2609260392/youtube-bakal-bikin-algoritma-sesuai-maumu-cukup-tulis-video-yang-ingin-ditonton",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -791,6 +802,17 @@
       "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/18/logo-openai-ditampilkan-dalam-ilustrasi-terkait-perkembangan-teknologi-kecerdasan-buatan-foto-the-guardian-HcxLa.webp"
     },
     {
+      "id": "7bf29387f4c1",
+      "judul": "OpenAI Ungkap 53 Gambar Pengguna Sempat Diunggah ke Situs Hosting Publik",
+      "tautan": "https://jawapos.com/teknologi/2609260287/openai-ungkap-53-gambar-pengguna-sempat-diunggah-ke-situs-hosting-publik",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T12:28:08.000Z",
+      "cuplikan": "OpenAI ungkap 53 gambar pengguna sempat diunggah ke situs hosting publik. Simak update terbaru dan upaya perlindungan data pengguna dari OpenAI.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/18/logo-openai-ditampilkan-dalam-ilustrasi-terkait-perkembangan-teknologi-kecerdasan-buatan-foto-the-guardian-HcxLa.webp"
+    },
+    {
       "id": "92222bc8bc60",
       "judul": "Rekomendasi 5 Tools AI Terbaik untuk Bikin Konten Digital, dari Naskah Hingga Video",
       "tautan": "https://www.liputan6.com/tekno/read/8299676/rekomendasi-5-tools-ai-terbaik-untuk-bikin-konten-digital-dari-naskah-hingga-video",
@@ -1206,6 +1228,17 @@
       "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/peserta-rog-ai-masterclass-di-malang-mengikuti-sesi-praktik-pemanfaatan-teknologi-ai-asus-indonesia-gaIcK.webp"
     },
     {
+      "id": "faa0ee9db738",
+      "judul": "Pekerja Kreatif di Malang Diajak Bedah Tuntas Potensi AI lewat Masterclass",
+      "tautan": "https://jawapos.com/teknologi/2609260272/pekerja-kreatif-di-malang-diajak-bedah-tuntas-potensi-ai-lewat-masterclass",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T10:34:01.000Z",
+      "cuplikan": "Pekerja kreatif di Malang diajak bedah potensi AI lewat masterclass. Dapatkan pemahaman praktis dan tingkatkan produktivitas kerja dengan teknologi AI",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/peserta-rog-ai-masterclass-di-malang-mengikuti-sesi-praktik-pemanfaatan-teknologi-ai-asus-indonesia-gaIcK.webp"
+    },
+    {
       "id": "83d85005063a",
       "judul": "Jose Mourinho Ungkap Syarat Utama untuk Pemain Real Madrid: Jangan Khianati Saya",
       "tautan": "https://www.liputan6.com/bola/read/8300258/jose-mourinho-ungkap-syarat-utama-untuk-pemain-real-madrid-jangan-khianati-saya",
@@ -1305,6 +1338,17 @@
       "id": "882362fddfd6",
       "judul": "Google Photos Tambah Fitur AI, Kini Bisa Sensor Pelat Nomor hingga Buat Katalog Pakaian",
       "tautan": "https://www.jawapos.com/teknologi/2609260262/google-photos-tambah-fitur-ai-kini-bisa-sensor-pelat-nomor-hingga-buat-katalog-pakaian",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T10:06:02.000Z",
+      "cuplikan": "Google Photos hadirkan fitur AI sensor pelat nomor dan buat katalog pakaian. Fitur baru ini bantu edit dan kelola foto mudah di Android dan iOS.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/googlephotos-istimewa-6xqkT.webp"
+    },
+    {
+      "id": "a1f2053fd6f9",
+      "judul": "Google Photos Tambah Fitur AI, Kini Bisa Sensor Pelat Nomor hingga Buat Katalog Pakaian",
+      "tautan": "https://jawapos.com/teknologi/2609260262/google-photos-tambah-fitur-ai-kini-bisa-sensor-pelat-nomor-hingga-buat-katalog-pakaian",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -1455,6 +1499,17 @@
       "id": "457f902e88cd",
       "judul": "Microsoft Perbarui Copilot, Kini Punya Tab Home, Code, dan Autopilot",
       "tautan": "https://www.jawapos.com/teknologi/2609260248/microsoft-perbarui-copilot-kini-punya-tab-home-code-dan-autopilot",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T09:21:27.000Z",
+      "cuplikan": "Microsoft perbarui Copilot dengan tab Home, Code, dan Autopilot baru. Fitur AI makin canggih untuk bisnis dan pekerjaan sehari-hari.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/microsoft-copilot-dok-microsoft-5DgZj.webp"
+    },
+    {
+      "id": "dc41c8e4a30d",
+      "judul": "Microsoft Perbarui Copilot, Kini Punya Tab Home, Code, dan Autopilot",
+      "tautan": "https://jawapos.com/teknologi/2609260248/microsoft-perbarui-copilot-kini-punya-tab-home-code-dan-autopilot",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -1795,9 +1850,31 @@
       "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/suasana-pameran-broco-smart-yang-berlangsung-di-emporium-pluit-mall-jakarta-utara-pada-21-27-september-2026-istimewa-wd7sf.webp"
     },
     {
+      "id": "89964d4ed011",
+      "judul": "Pengunjung Pameran Smart Home Bisa Lihat Cara Rumah Dikendalikan dari Smartphone",
+      "tautan": "https://jawapos.com/teknologi/2609260222/pengunjung-pameran-smart-home-bisa-lihat-cara-rumah-dikendalikan-dari-smartphone",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T06:33:55.000Z",
+      "cuplikan": "Pameran Smart Home di Jakarta tawarkan teknologi kendali rumah lewat smartphone. Simak perangkat pintar dan aplikasi BroConnect terbaru",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/suasana-pameran-broco-smart-yang-berlangsung-di-emporium-pluit-mall-jakarta-utara-pada-21-27-september-2026-istimewa-wd7sf.webp"
+    },
+    {
       "id": "103021d0292d",
       "judul": "Elon Musk Soroti Kekuatan Manufaktur Tiongkok dan Peran Shanghai bagi Tesla",
       "tautan": "https://www.jawapos.com/teknologi/2609260218/elon-musk-soroti-kekuatan-manufaktur-tiongkok-dan-peran-shanghai-bagi-tesla",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T06:16:48.000Z",
+      "cuplikan": "Elon Musk memuji kekuatan manufaktur Tiongkok dan menyebut Gigafactory Shanghai sebagai “permata” bagi Tesla.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/elon-musk-ceo-tesla-memuji-kekuatan-manufaktur-tiongkok-dan-menyebut-pabrik-tesla-di-shanghai-sebagai-permata-bbc-bF76C.webp"
+    },
+    {
+      "id": "458be152741a",
+      "judul": "Elon Musk Soroti Kekuatan Manufaktur Tiongkok dan Peran Shanghai bagi Tesla",
+      "tautan": "https://jawapos.com/teknologi/2609260218/elon-musk-soroti-kekuatan-manufaktur-tiongkok-dan-peran-shanghai-bagi-tesla",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -1820,6 +1897,17 @@
       "id": "ee9bdee25071",
       "judul": "AS Tolak Usulan OpenAI dan Anthropic, Standar AI Global Terancam Buntu",
       "tautan": "https://www.jawapos.com/teknologi/2609260214/as-tolak-usulan-openai-dan-anthropic-standar-ai-global-terancam-buntu",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T06:06:11.000Z",
+      "cuplikan": "Sam Altman dari OpenAI dan Dario Amodei dari Anthropic menyerukan standar keselamatan AI yang berlaku secara nasional dan internasional di tengah pesatnya perkembangan teknologi.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/sam-altman-dari-openai-menjadi-salah-satu-tokoh-penting-dalam-perkembangan-teknologi-kecerdasan-buatan-bbc-PLfoc.webp"
+    },
+    {
+      "id": "f59a8d13d6e9",
+      "judul": "AS Tolak Usulan OpenAI dan Anthropic, Standar AI Global Terancam Buntu",
+      "tautan": "https://jawapos.com/teknologi/2609260214/as-tolak-usulan-openai-dan-anthropic-standar-ai-global-terancam-buntu",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -2613,6 +2701,17 @@
       "id": "bd2b2d1a0586",
       "judul": "Google Bikin Lemari Virtual Berbasis AI, Bisa Padu-Padankan Koleksi Pakaian",
       "tautan": "https://www.jawapos.com/teknologi/2609260003/google-bikin-lemari-virtual-berbasis-ai-bisa-padu-padankan-koleksi-pakaian",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-26T00:00:55.000Z",
+      "cuplikan": "Google hadirkan lemari virtual AI di Google Photos untuk padu-padankan koleksi pakaian. Fitur ini tersedia di Amerika, Brasil, dan India",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/26/google-menghadirkan-fitur-berbasis-kecerdasan-artifisial-ai-yang-memungkinkan-pengguna-mengubah-koleksi-pakaian-dalam-foto-menjadi-lemari-virtual-techcrunch-5Twhn.webp"
+    },
+    {
+      "id": "2365efe24007",
+      "judul": "Google Bikin Lemari Virtual Berbasis AI, Bisa Padu-Padankan Koleksi Pakaian",
+      "tautan": "https://jawapos.com/teknologi/2609260003/google-bikin-lemari-virtual-berbasis-ai-bisa-padu-padankan-koleksi-pakaian",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
