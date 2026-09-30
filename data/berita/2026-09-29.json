@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-29",
-  "diperbarui": "2026-09-30T01:47:00.944Z",
+  "diperbarui": "2026-09-30T07:48:35.202Z",
   "berita": [
     {
       "id": "d012ac1e215c",
@@ -2732,6 +2732,26 @@
       "kategoriSumber": [
         "AI",
         "Anthropic"
+      ]
+    },
+    {
+      "id": "37818405e5e9",
+      "judul": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you | Chris Stokel-Walker",
+      "tautan": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-29T05:00:54.000Z",
+      "cuplikan": "The need for independent regulation grows more obvious by the day. We must keep this tech in check before it’s too late OpenAI scraps release of new model over safety concerns in internal testing Fool me once, shame on you. Fool me twice…",
+      "gambar": "https://i.guim.co.uk/img/media/98b619549daa4e6766e712611b34c9a9ddb4c0db/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=603a4d85375e6e4a3729bf5f0806464d",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Computing",
+        "OpenAI",
+        "Anthropic",
+        "Technology",
+        "Data and computer security",
+        "Hacks"
       ]
     },
     {
