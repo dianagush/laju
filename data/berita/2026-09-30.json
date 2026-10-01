@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-09-30",
-  "diperbarui": "2026-10-01T08:08:05.079Z",
+  "diperbarui": "2026-10-01T17:13:20.105Z",
   "berita": [
     {
       "id": "022ee57ecc86",
@@ -359,6 +359,20 @@
       ]
     },
     {
+      "id": "f302ad248487",
+      "judul": "Tempat Menonton Indonesia vs Bangladesh di FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8303307/tempat-menonton-indonesia-vs-bangladesh-di-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:45:14.000Z",
+      "cuplikan": "Duel timnas Indonesia vs Bangladesh bisa disaksikan langsung melalui SCTV, Indosiar, Moji, Vidio, hingga Nex.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Qy7hrGH5Ft1PrhvMpydlXRyjIuw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9362349/original/008118700_1790774725-Training_Indonesia_240926-41.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
       "id": "09dd323822a9",
       "judul": "Rizky Ridho sebut pemain siap jalankan taktik kalahkan Bangladesh",
       "tautan": "https://www.antaranews.com/berita/5765555/rizky-ridho-sebut-pemain-siap-jalankan-taktik-kalahkan-bangladesh",
@@ -667,6 +681,26 @@
       "terbit": "2026-09-30T14:54:04.000Z",
       "cuplikan": "Pelatih Kepala Timnas Indonesia John Herdman mengungkap kondisi gelandang Thom Haye yang harus absen melawan Banglades ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/30/Latihan-resmi-Timnas-Indonesia-300926-MRH-9.jpg"
+    },
+    {
+      "id": "bf9152691eb2",
+      "judul": "More than 44,000 file legal objections to Palantir NHS platform handling their data",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/30/legal-objections-palantir-nhs-platform-handling-data",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:51:08.000Z",
+      "cuplikan": "Exclusive: Campaign comes amid backlash against tech company’s involvement with Israeli military and Trump’s ICE crackdown UK politics live – latest updates Tens of thousands of people have formally demanded NHS England blocks the…",
+      "gambar": "https://i.guim.co.uk/img/media/ed060329a91fc7880904c6696c790bf114840c32/1119_334_4888_3911/master/4888.jpg?width=140&quality=85&auto=format&fit=max&s=c162e628345c74ae7d39313e0f699580",
+      "kategoriSumber": [
+        "Palantir",
+        "Data protection",
+        "NHS",
+        "Health",
+        "Society",
+        "UK news",
+        "Technology"
+      ]
     },
     {
       "id": "c40803f1cbdc",
@@ -2269,13 +2303,13 @@
     },
     {
       "id": "81b0464846e8",
-      "judul": "As AI images become common, the threat to elections draws alarm: ‘How will voters know what’s true?’",
+      "judul": "A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?",
       "tautan": "https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
       "sumber": "The Guardian",
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-09-30T10:00:22.000Z",
-      "cuplikan": "Deepfakes and misinformation driven by artificial intelligence have become a point of deep concern for legislators, advocates and the public An image of College Park, Georgia mayor Bianca Motley Broom kissing a man – who was not her…",
+      "cuplikan": "Deepfakes and misinformation driven by artificial intelligence have become a point of deep concern for legislators, advocates and the public An image of Bianca Motley Broom, the mayor of College Park, Georgia, kissing a man who was not her…",
       "gambar": "https://i.guim.co.uk/img/media/90205fdbc5bfd3b26f6750ebb29f52c206fa979a/0_140_3400_2720/master/3400.jpg?width=140&quality=85&auto=format&fit=max&s=b299aa5006faba6ea546094ae9e7f4ea",
       "kategoriSumber": [
         "AI (artificial intelligence)",
@@ -3863,7 +3897,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-09-29T21:25:33.000Z",
-      "cuplikan": "Company’s product comes weeks after Meta introduced its own artificially intelligent agent Muse Less than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model over safety concerns, the company…",
+      "cuplikan": "Company’s product comes weeks after Meta introduced its own artificial intelligence agent Muse Less than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model over safety concerns, the company…",
       "gambar": "https://i.guim.co.uk/img/media/574125f5ec0bf8c27cdf6cdc227a4cf62416512a/583_0_5827_4663/master/5827.jpg?width=140&quality=85&auto=format&fit=max&s=9cc15bd2dd177a2e9f9a25b868529cc5",
       "kategoriSumber": [
         "OpenAI",
