@@ -1524,5 +1524,19 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-01T01:45:44.333Z"
+  },
+  "418e4263a2f4": {
+    "teks": "Samsung meluncurkan Galaxy Tab S12+ dan Galaxy Tab S12 Ultra di Indonesia untuk mendukung produktivitas pengguna melalui fitur berbasis kecerdasan buatan. Kedua tablet ini ditenagai chipset MediaTek Dimensity 9500 serta mengusung layar Dynamic AMOLED 2X berukuran 12,6 inci dan 14,6 inci. Dijual mulai dari harga Rp21.999.000 hingga Rp27.999.000, paket penjualannya sudah termasuk aksesori S Pen dan Book Cover Keyboard Slim.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-01T08:09:02.782Z"
+  },
+  "2731f1f41bca": {
+    "teks": "Menteri Komunikasi dan Digital Meutya Hafid menekankan pentingnya merancang keamanan anak sejak awal pembuatan layanan digital. Dalam pertemuannya dengan The LEGO Group, ia menyatakan bahwa pemberian akses fitur kepada anak membutuhkan persetujuan orang tua demi menjaga pengawasan. Pemerintah pun mendukung kehadiran perusahaan tersebut di Indonesia selama mematuhi aturan pelindungan anak yang berlaku.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-01T08:09:53.098Z"
   }
 }
