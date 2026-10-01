@@ -1489,5 +1489,40 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-09-30T14:33:13.053Z"
+  },
+  "2211b0aae2fd": {
+    "teks": "Persaingan ponsel pintar kelas atas pada 2026 diramaikan oleh kehadiran Xiaomi 18 Pro dan iPhone 18 Pro yang mengusung keunggulan masing-masing. Xiaomi mengedepankan spesifikasi hardware agresif melalui chip Snapdragon 8 Elite Gen 6, baterai 7.000 mAh, dan kamera Leica beresolusi 200 MP. Sementara itu, Apple mengandalkan optimasi ekosistem lewat chip A20 Pro serta sistem kamera 48 MP Pro Fusion pada iPhone 18 Pro.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-01T01:44:38.078Z"
+  },
+  "7eb2d10aae1c": {
+    "teks": "Ponsel yang lambat tidak selalu menandakan perangkat harus segera diganti baru. Menurut Google, penurunan kinerja ponsel Android umumnya disebabkan oleh kapasitas penyimpanan yang tersisa kurang dari 10 persen, adanya aplikasi bermasalah, atau sistem yang belum diperbarui. Pengguna disarankan untuk mengelola ruang penyimpanan, menghapus aplikasi pemicu gangguan, serta memeriksa pembaruan perangkat lunak terlebih dahulu.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-01T01:44:54.226Z"
+  },
+  "e9fb059e467d": {
+    "teks": "Reddit akan membatasi akses antarmuka Old Reddit hanya bagi pengguna yang tercatat menggunakannya dalam enam bulan terakhir. Langkah ini diambil untuk mencegah penyalahgunaan AI scraping, meski para moderator tetap dikecualikan. Selain itu, platform tersebut juga bakal menghentikan dukungan RSS feeds mulai 13 November mendatang untuk alasan pencegahan yang sama.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-01T01:45:28.100Z"
+  },
+  "556e1e4b03fe": {
+    "teks": "Google memperkenalkan model AI terbaru bernama Gemini 4 Argon yang diklaim unggul dalam bidang pemrograman, pekerjaan pengetahuan, dan keamanan siber. Model ini saat ini belum tersedia untuk umum dan baru diuji secara terbatas oleh para insinyur internal serta mitra terpilih. Meskipun belum merilis jadwal peluncuran resmi untuk konsumen umum, Google telah mengumumkan harga API dan berencana menyediakannya bagi pelanggan berbayar di masa mendatang.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-01T01:45:36.396Z"
+  },
+  "b401c2bf9b36": {
+    "teks": "Departemen Pertahanan Amerika Serikat membentuk inisiatif baru bernama Project Meridian untuk meneliti teknologi dan persenjataan yang dibutuhkan dalam perang masa depan. Proyek tersebut akan dipimpin oleh Elon Musk, Palmer Luckey, dan Newt Gingrich, yang semuanya tidak memiliki latar belakang militer. Meski demikian, dua tokoh di antaranya memimpin perusahaan teknologi yang telah memiliki kontrak bisnis bernilai besar dengan pihak Pentagon.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-01T01:45:44.333Z"
   }
 }

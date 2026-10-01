@@ -1,7 +1,753 @@
 {
   "tanggal": "2026-09-30",
-  "diperbarui": "2026-09-30T14:29:38.485Z",
+  "diperbarui": "2026-10-01T01:44:21.816Z",
   "berita": [
+    {
+      "id": "022ee57ecc86",
+      "judul": "An Analogue Pocket restock is coming October 2",
+      "tautan": "https://www.engadget.com/2273526/an-analogue-pocket-restock-is-coming-october-2/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:59:39.000Z",
+      "cuplikan": "It's sure to sell out fast again.",
+      "gambar": "https://www.engadget.com/img/gallery/an-analogue-pocket-restock-is-coming-october-2/l-intro-1790787523.jpg",
+      "kategoriSumber": [
+        "Gaming"
+      ]
+    },
+    {
+      "id": "604d4213bc35",
+      "judul": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+      "tautan": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:48:56.000Z",
+      "cuplikan": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1242530931-1024x648.jpg",
+      "kategoriSumber": [
+        "Space",
+        "eagle",
+        "federation",
+        "russia",
+        "space",
+        "spacecraft"
+      ]
+    },
+    {
+      "id": "46aa547c5c10",
+      "judul": "Asus won’t say how it escaped the US router ban",
+      "tautan": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:44:20.000Z",
+      "cuplikan": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Asus",
+        "Policy",
+        "Report",
+        "Tech"
+      ]
+    },
+    {
+      "id": "d97673586d9d",
+      "judul": "Sepak takraw putra dan putri Indonesia jaga dominasi pada fase grup",
+      "tautan": "https://www.antaranews.com/berita/5765637/sepak-takraw-putra-dan-putri-indonesia-jaga-dominasi-pada-fase-grup",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T16:43:22.000Z",
+      "cuplikan": "Tim sepak takraw putra dan putri Indonesia menjaga dominasi dengan kemenangan kedua pada babak penyisihan grup sepak ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/24/tempImage2xnhcW.jpg"
+    },
+    {
+      "id": "c3ba5bef793d",
+      "judul": "Nasib Thom Haye usai Kartu Merah Lawan Malaysia di FIFA ASEAN Cup",
+      "tautan": "https://www.viva.co.id/bola/1932182-nasib-thom-haye-usai-kartu-merah-lawan-malaysia-di-fifa-asean-cup",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T16:41:20.000Z",
+      "cuplikan": "Thom Haye absen lawan Bangladesh akibat kartu merah. John Herdman mengungkap kondisi sang gelandang sekaligus menjelaskan pelanggaran taktisnya saat lawan Malaysia.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/29/6abbd5caa0acc-pemain-timnas-indonesia-thom-haye_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "f59f9ed0e27c",
+      "judul": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "tautan": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:24:23.000Z",
+      "cuplikan": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Apps",
+        "Privacy",
+        "Security",
+        "Meta",
+        "muse"
+      ]
+    },
+    {
+      "id": "403ee42c7904",
+      "judul": "Tinder now offers group hangouts as an alternative to one-on-one dates",
+      "tautan": "https://www.engadget.com/2273422/tinder-now-offers-group-hangouts-as-an-alternative-to-one-on-one-dates/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:22:25.000Z",
+      "cuplikan": "At least in theory, it's a little less nerve-wracking.",
+      "gambar": "https://www.engadget.com/img/gallery/tinder-now-offers-group-hangouts-as-an-alternative-to-one-on-one-dates/l-intro-1790785232.jpg",
+      "kategoriSumber": [
+        "Apps"
+      ]
+    },
+    {
+      "id": "0746c71170e2",
+      "judul": "Jadwal FIFA ASEAN Cup 2026: Disiarkan Langsung SCTV, Indosiar, Moji, Vidio, dan Nex",
+      "tautan": "https://www.liputan6.com/bola/read/8303335/jadwal-fifa-asean-cup-2026-disiarkan-langsung-sctv-indosiar-moji-vidio-dan-nex",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T16:20:39.000Z",
+      "cuplikan": "Persaingan Grup A FIFA ASEAN Cup 2026 menghadirkan partai terakhir untuk mengetahui siapa yang menduduki peringkat pertama.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/HEhk7loOnJ0uRfKO_a8v_FO4Wuo=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358948/original/096846800_1790437562-0L5A0279.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a8914413a252",
+      "judul": "Jadwal Timnas Indonesia di FIFA ASEAN Cup 2026: Laga Hidup Mati Lawan Bangladesh",
+      "tautan": "https://www.liputan6.com/bola/read/8303331/jadwal-timnas-indonesia-di-fifa-asean-cup-2026-laga-hidup-mati-lawan-bangladesh",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T16:12:41.000Z",
+      "cuplikan": "Timnas Indonesia bertemu Bangladesh pada partai terakhir Grup A FIFA ASEAN Cup 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/MqAjqyZkjJU7whwiFW8RxvM2_sQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9362416/original/083223900_1790780994-Training_Indonesia_240926-179.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "275408c25e28",
+      "judul": "‘President of the Unites States’: White House’s AI accord includes spelling error",
+      "tautan": "https://www.theguardian.com/us-news/2026/sep/30/trump-ai-accord-spelling-error",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:11:58.000Z",
+      "cuplikan": "Donald Trump and six tech executives voluntarily signed the document, which included a misspelling, committing to safely developing AI The White House misspelled “United States” under the signature of Donald Trump on an accord he signed…",
+      "gambar": "https://i.guim.co.uk/img/media/a22fd96737cf5c914816a66cb558cbbf4255ff7b/1280_905_5751_4599/master/5751.jpg?width=140&quality=85&auto=format&fit=max&s=07055088a4aa785fbac626204bf08a74",
+      "kategoriSumber": [
+        "Donald Trump",
+        "AI (artificial intelligence)",
+        "Trump administration",
+        "US news",
+        "US politics",
+        "Technology"
+      ]
+    },
+    {
+      "id": "31f386ab19ee",
+      "judul": "Prediksi Timnas Indonesia vs Bangladesh: Cetak Gol Sebanyak Mungkin",
+      "tautan": "https://www.liputan6.com/bola/read/8303306/prediksi-timnas-indonesia-vs-bangladesh-cetak-gol-sebanyak-mungkin",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T16:08:57.000Z",
+      "cuplikan": "Duel timnas Indonesia vs Bangladesh menutup persaingan Grup A FIFA ASEAN Cup 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/7_XaXh_3hr3Ye6hUU8QgzZcm7pg=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358727/original/038444600_1790406860-033A9336.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "86a931a503bc",
+      "judul": "Xbox's disc-to-digital feature is now available for everyone",
+      "tautan": "https://www.engadget.com/2273385/xboxs-disc-to-digital-feature-is-now-available-for-everyone/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:07:24.000Z",
+      "cuplikan": "Many (if not all) Xbox Series X and Xbox One games are supported.",
+      "gambar": "https://www.engadget.com/img/gallery/xboxs-disc-to-digital-feature-is-now-available-for-everyone/l-intro-1790784009.jpg",
+      "kategoriSumber": [
+        "Xbox"
+      ]
+    },
+    {
+      "id": "312e18ecbf9b",
+      "judul": "Jakarta Running Festival 2026 Hadirkan Blue Line untuk Bantu Peserta Kejar Best Time",
+      "tautan": "https://www.liputan6.com/bola/read/8303318/jakarta-running-festival-2026-hadirkan-blue-line-untuk-bantu-peserta-kejar-best-time",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T16:06:55.000Z",
+      "cuplikan": "Jakarta Running Festival 2026 menghadirkan Blue Line, penanda jalur terpendek yang membantu pelari mengejar personal best di lintasan.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/mfk-4ID4ZTVIihRAm5OltdMo7hQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9362266/original/044622000_1790766079-IMG_7943.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a8ac4c3e2ab5",
+      "judul": "Erick Thohir Ingatkan Timnas Indonesia Jelang Lawan Bangladesh: Jangan Terlena",
+      "tautan": "https://www.viva.co.id/bola/1932175-erick-thohir-ingatkan-timnas-indonesia-jelang-lawan-bangladesh-jangan-terlena",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T16:05:51.000Z",
+      "cuplikan": "Erick Thohir mengingatkan Timnas Indonesia agar tidak terlena jelang menghadapi Bangladesh di FIFA ASEAN Cup 2026 dan meminta skuad Garuda tetap fokus.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/28/6a6889f8e5d82-menpora-erick-thohir-dalam-acara-konferensi-pers-indonesia-super-cup-2026-chelsea-vs-ac-milan_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "c1c0d3f81947",
+      "judul": "Google's early attempt to pay websites for AI answers is struggling",
+      "tautan": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:03:48.000Z",
+      "cuplikan": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Google",
+        "ai overviews",
+        "ai search",
+        "generative ai",
+        "google",
+        "google search",
+        "search"
+      ]
+    },
+    {
+      "id": "1a64bdd1bd9d",
+      "judul": "3.000 Pelari Ramaikan Cianjur, Olahraga Jadi Cara Kenalkan Kota Santri",
+      "tautan": "https://www.viva.co.id/sport/1932173-3000-pelari-ramaikan-cianjur-olahraga-jadi-cara-kenalkan-kota-santri",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T16:01:19.000Z",
+      "cuplikan": "Sekitar 3.000 pelari memadati Alun-Alun Cianjur, Jawa Barat, dalam Edelweiss Running Festival (ERF) 2026, Minggu, 27 September 2026. Ajang lari yang memasuki penyelengga",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/30/6abd322d74453-edelweiss-running-festival_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "4141c50f4da5",
+      "judul": "DoorDash launches an AI agent you can text to order food",
+      "tautan": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:00:24.000Z",
+      "cuplikan": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Apps",
+        "DoorDash",
+        "In Brief"
+      ]
+    },
+    {
+      "id": "8e63278d5d97",
+      "judul": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "tautan": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:00:00.000Z",
+      "cuplikan": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
+      ]
+    },
+    {
+      "id": "8f89799fcf72",
+      "judul": "Freckle's smartphone aims to get kids back outside on their own",
+      "tautan": "https://www.engadget.com/2273319/freckles-smartphone-aims-to-get-kids-back-outside-on-their-own/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-30T16:00:00.000Z",
+      "cuplikan": "Freckle's smartphone encourages kids to get outside. What a concept!",
+      "gambar": "https://www.engadget.com/img/gallery/freckles-smartphone-aims-to-get-kids-back-outside-on-their-own/l-intro-1790782748.jpg",
+      "kategoriSumber": [
+        "Smartphones"
+      ]
+    },
+    {
+      "id": "1018fb6c34fd",
+      "judul": "Round-up: Indonesia tambah satu medali emas dari panjat tebing",
+      "tautan": "https://www.antaranews.com/berita/5765587/round-up-indonesia-tambah-satu-medali-emas-dari-panjat-tebing",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:57:39.000Z",
+      "cuplikan": "Kontingen Indonesia menambah satu medali emas pada pada rangkaian pertandingan Asian Games Aichi-Nagoya 2026 hari ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/30/desak-made-raih-emas-panjat-tebing-asian-games-2026-2875001.jpg"
+    },
+    {
+      "id": "ab1a11a53923",
+      "judul": "Instinct’s new product recommendations are giving some users the ick",
+      "tautan": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:56:28.000Z",
+      "cuplikan": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Commerce",
+        "instinct"
+      ]
+    },
+    {
+      "id": "bae3c02ce114",
+      "judul": "Google figures out how to watermark AI-designed proteins",
+      "tautan": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:54:52.000Z",
+      "cuplikan": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Science",
+        "Biology",
+        "deepmind",
+        "protein design",
+        "proteins",
+        "watermarking"
+      ]
+    },
+    {
+      "id": "09dd323822a9",
+      "judul": "Rizky Ridho sebut pemain siap jalankan taktik kalahkan Bangladesh",
+      "tautan": "https://www.antaranews.com/berita/5765555/rizky-ridho-sebut-pemain-siap-jalankan-taktik-kalahkan-bangladesh",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:43:56.000Z",
+      "cuplikan": "Bek Timnas Indonesia Rizky Ridho menyebutkan para pemain skuad Garuda siap menjalankan taktik dari pelatih Jhon Herdman ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/30/59a2c1f3-cdb1-4a30-8609-9b72330caf51.jpeg"
+    },
+    {
+      "id": "e5a51968f5d9",
+      "judul": "Atlet panjat tebing Desak Made sumbang emas keempat untuk Indonesia",
+      "tautan": "https://www.antaranews.com/video/5765537/atlet-panjat-tebing-desak-made-sumbang-emas-keempat-untuk-indonesia",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:35:43.000Z",
+      "cuplikan": "Atlet Panjat Tebing Indonesia Desak Made Rita Kusuma Dewi berhasil meraih medali emas cabang olahraga panjat ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/AB_ATLET-PANJAT-TEBING-DESAK-MADE-SUMBANG-EMAS-KEEMPAT-UNTUK-INDONESIA.jpg"
+    },
+    {
+      "id": "9802670cde09",
+      "judul": "Affordable alternatives to DJI's Osmo Pocket 4",
+      "tautan": "https://www.engadget.com/2271706/affordable-alternatives-to-djis-osmo-pocket-4/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:30:00.000Z",
+      "cuplikan": "The best options when DJI's gimbal camera is too expensive or unavailable.",
+      "gambar": "https://www.engadget.com/img/gallery/affordable-alternatives-to-djis-osmo-pocket-4/l-intro-1790682008.jpg",
+      "kategoriSumber": [
+        "Buying Guides"
+      ]
+    },
+    {
+      "id": "ece582f1849f",
+      "judul": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+      "tautan": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:26:02.000Z",
+      "cuplikan": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Transportation",
+        "electric trucks",
+        "fedex",
+        "Harbinger",
+        "In Brief"
+      ]
+    },
+    {
+      "id": "c70064abb337",
+      "judul": "Nintendo's Mario Kart Tour mobile game is officially dead",
+      "tautan": "https://www.engadget.com/2273291/nintendos-mario-kart-tour-mobile-game-is-officially-dead/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:23:57.000Z",
+      "cuplikan": "It joins other smartphone titles in the graveyard, like Miitomo, Dr. Mario World and Dragalia Lost.",
+      "gambar": "https://www.engadget.com/img/gallery/nintendos-mario-kart-tour-mobile-game-is-officially-dead/l-intro-1790781523.jpg",
+      "kategoriSumber": [
+        "Nintendo"
+      ]
+    },
+    {
+      "id": "87593fed38c0",
+      "judul": "Panen Prestasi dan Lahirkan Skuad Muda, Klub Voli Jakarta LavAni Jalin Kemitraan Eksklusif",
+      "tautan": "https://www.liputan6.com/bola/read/8303298/panen-prestasi-dan-lahirkan-skuad-muda-klub-voli-jakarta-lavani-jalin-kemitraan-eksklusif",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:22:27.000Z",
+      "cuplikan": "Jakarta LavAni menjalin kemitraan strategis jangka panjang bersama brand perlengkapan olahraga.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/MWg3JVdpzwAEu9VKg_0vGdwaMT8=/0x491:1079x1099/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9362415/original/054888100_1790780971-Lavani_Bravo_vs_Japan_Youth_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "cbcc5b414c5e",
+      "judul": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
+      "tautan": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:22:25.000Z",
+      "cuplikan": "Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostage Business live – latest updates The governor of the Bank of England has called for the “right to intervene” in the AI industry amid growing…",
+      "gambar": "https://i.guim.co.uk/img/media/23b0ea2be283b07b648c19b8cc26c9fb9a6a40c8/61_0_3698_2958/master/3698.jpg?width=140&quality=85&auto=format&fit=max&s=959d75279ed826437e37e56beb59d70e",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Bank of England",
+        "Andrew Bailey",
+        "Business",
+        "Technology sector",
+        "UK news",
+        "Technology",
+        "World news"
+      ]
+    },
+    {
+      "id": "c1376318dd5f",
+      "judul": "Klasemen Perolehan Medali Asian Games 2026: Indonesia Naik ke Peringkat 13",
+      "tautan": "https://www.liputan6.com/bola/read/8303295/klasemen-perolehan-medali-asian-games-2026-indonesia-naik-ke-peringkat-13",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:16:06.000Z",
+      "cuplikan": "Desak Made Rita Kusuma Dewi merebut emas speed putri dengan 6,062 detik dan memecahkan rekor Asian Games. Indonesia naik ke peringkat 13 per 30/9/2026, 21.00 WIB.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/TqWvu_L3bDeT0LIPNhvyZd3Z5H0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9346358/original/089971100_1789126509-logo_asian_games.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "17b50b0d64c7",
+      "judul": "The PS5 hacking scene just took a big leap forward",
+      "tautan": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:12:46.000Z",
+      "cuplikan": "New exploit works on all but the most recently updated consoles.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2186493403-1024x648.jpg",
+      "kategoriSumber": [
+        "Gaming",
+        "console hack",
+        "hacking",
+        "jailbreak",
+        "PlayStation",
+        "ps5",
+        "Sony"
+      ]
+    },
+    {
+      "id": "1b03ef51b10e",
+      "judul": "Menang 0,002 Detik, Desak Made Rita Sempat Blank Usai Raih Emas Asian Games 2026",
+      "tautan": "https://sports.okezone.com/read/2026/09/30/43/3245211/menang-0-002-detik-desak-made-rita-sempat-blank-usai-raih-emas-asian-games-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:10:22.000Z",
+      "cuplikan": "Desak Made Rita Kusuma Dewi mengaku sempat blank usai raih emas Asian Games 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/09/30/43/3245211/desak_made_rita_kusuma_dewi_mengaku_sempat_blank_usai_raih_emas_asian_games_2026-GkM6_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "963b0a87d10f",
+      "judul": "Huawei Watch GT 7 Pro Bisa Deteksi Risiko Diabetes hingga Penyakit Jantung Koroner",
+      "tautan": "https://www.liputan6.com/tekno/read/8303136/huawei-watch-gt-7-pro-bisa-deteksi-risiko-diabetes-hingga-penyakit-jantung-koroner",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-30T15:03:28.000Z",
+      "cuplikan": "Huawei Watch GT 7 Pro memberikan pengguna kemudahan dalam mendeteksi risiko penyakit melalui alat canggihnya. Bagaimana caranya?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/O67MjMAGBnZTpSj_deck7efhtfw=/0x0:4032x3024/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9362277/original/087727200_1790766874-PXL_20260930_052430783_2.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "8546734b275a",
+      "judul": "John Herdman Pasang Target Gol Banyak dari Bangladesh, Timnas Indonesia Wajib Kejar Selisih Gol Malaysia",
+      "tautan": "https://www.viva.co.id/bola/1932163-john-herdman-pasang-target-gol-banyak-dari-bangladesh-timnas-indonesia-wajib-kejar-selisih-gol-malaysia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:02:19.000Z",
+      "cuplikan": "Menang atas Bangladesh belum tentu membawa Timnas Indonesia ke final FIFA ASEAN Cup 2026. Pelatih John Herdman meminta Garuda mengejar selisih gol Malaysia,",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/21/6a5e568ae7cf0-pelatih-timnas-indonesia-john-herdman_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "6a2563505989",
+      "judul": "Jakarta Running Festival 2026 Ukir Sejarah Sandang World Athletics Gold Label",
+      "tautan": "https://www.liputan6.com/bola/read/8303124/jakarta-running-festival-2026-ukir-sejarah-sandang-world-athletics-gold-label",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:02:15.000Z",
+      "cuplikan": "Jakarta Running Festival 2026 meraih World Athletics Gold Label untuk kategori Half Marathon dan meningkatkan standar penyelenggaraan.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/GyH3fRczgRRndr4mrW1HYxkuKno=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9362263/original/050962000_1790766078-IMG_7925.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d05d93eea5a1",
+      "judul": "Discord gives more advertisers more tools to target its users",
+      "tautan": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:01:40.000Z",
+      "cuplikan": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1244881649-1024x648.jpg",
+      "kategoriSumber": [
+        "Tech",
+        "ads",
+        "discord"
+      ]
+    },
+    {
+      "id": "b53672c02c80",
+      "judul": "Norwegia Berpeluang Jadi Negara Pertama yang Hapus VAR, Ini Alasannya",
+      "tautan": "https://www.liputan6.com/bola/read/8301870/norwegia-berpeluang-jadi-negara-pertama-yang-hapus-var-ini-alasannya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:01:06.000Z",
+      "cuplikan": "Norwegia berpeluang menjadi negara pertama yang menghapus VAR karena ketidakpuasan klub-klub Eliteserien terhadap penerapan teknologi tersebut.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/J3x_7VTOH0OQo11kZQ41q2FsRnU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9288050/original/077739700_1783289115-000_B9BX7KA-Haaland.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ab78e781ac08",
+      "judul": "What butterfly wings have in common with barbershop poles",
+      "tautan": "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-30T15:00:56.000Z",
+      "cuplikan": "Wing patterns, flight dynamics create \"motion dazzle\" effect, make it harder to gauge speed, direction.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/butterfly1-1152x648.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Biology",
+        "butterflies",
+        "butterfly wings",
+        "entomology",
+        "optical illusions",
+        "structural color"
+      ]
+    },
+    {
+      "id": "ea06b44cc2aa",
+      "judul": "Andre Drummond Perkuat New York Knicks di NBA 2026/2027",
+      "tautan": "https://www.liputan6.com/bola/read/8302981/andre-drummond-perkuat-new-york-knicks-di-nba-20262027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T15:00:46.000Z",
+      "cuplikan": "Juara bertahan NBA, New York Knicks, merekrut Andre Drummond dengan kontrak satu tahun senilai $3,9 juta untuk memperkuat posisi center.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/eFpysl59aenLy9vdtjAfHXSfPPo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3417386/original/079156600_1617268922-AP21091121057318.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "2d38f3228299",
+      "judul": "DoorDash drone deliveries are first coming to northern California with Chipotle and Popeyes on board",
+      "tautan": "https://www.engadget.com/2273249/doordash-drone-deliveries-are-first-coming-to-northern-california-with-chipotle-and-popeyes-on-board/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:59:17.000Z",
+      "cuplikan": "You can now text your DoorDash orders instead of using the app or website.",
+      "gambar": "https://www.engadget.com/img/gallery/doordash-drone-deliveries-are-first-coming-to-northern-california-with-chipotle-and-popeyes-on-board/l-intro-1790779758.jpg",
+      "kategoriSumber": [
+        "News"
+      ]
+    },
+    {
+      "id": "0bf7c4d3b36c",
+      "judul": "Pelatih ungkap kondisi Thom Haye yang harus absen akibat kartu merah",
+      "tautan": "https://www.antaranews.com/berita/5765504/pelatih-ungkap-kondisi-thom-haye-yang-harus-absen-akibat-kartu-merah",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T14:54:04.000Z",
+      "cuplikan": "Pelatih Kepala Timnas Indonesia John Herdman mengungkap kondisi gelandang Thom Haye yang harus absen melawan Banglades ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/30/Latihan-resmi-Timnas-Indonesia-300926-MRH-9.jpg"
+    },
+    {
+      "id": "c40803f1cbdc",
+      "judul": "Pledge signed by President Trump and top AI leaders misspells the United States",
+      "tautan": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:50:55.000Z",
+      "cuplikan": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Government & Policy",
+        "dario amodei",
+        "Donald Trump",
+        "Elon Musk",
+        "Jensen Huang",
+        "Mark Zuckerberg",
+        "sam altman"
+      ]
+    },
+    {
+      "id": "feb4d42e1817",
+      "judul": "Peralta nilai persaingan di ACC tidak akan mudah untuk Persib Bandung",
+      "tautan": "https://www.antaranews.com/berita/5765484/peralta-nilai-persaingan-di-acc-tidak-akan-mudah-untuk-persib-bandung",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T14:43:18.000Z",
+      "cuplikan": "Penyerang sayap Persib Bandung Mariano Peralta menilai persaingan pada kompetisi ASEAN Club Championship (ACC) ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/06/persib-bandung-kalahkan-psm-makassar-2858445.jpg"
+    },
+    {
+      "id": "11770b882ca1",
+      "judul": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
+      "tautan": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:42:58.000Z",
+      "cuplikan": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/P90657631_highRes_the-new-bmw-3-series-1152x648.jpg",
+      "kategoriSumber": [
+        "Cars",
+        "BMW 3 Series",
+        "BMW i3"
+      ]
+    },
+    {
+      "id": "999fe194d240",
+      "judul": "Madura United agendakan dua pertandingan uji coba pada masa jeda",
+      "tautan": "https://www.antaranews.com/berita/5765473/madura-united-agendakan-dua-pertandingan-uji-coba-pada-masa-jeda",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-09-30T14:40:06.000Z",
+      "cuplikan": "Klub BRI Super League Madura United mengagendakan dua pertandingan uji coba pada masa jeda kompetisi FIFA Matchday ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/19/madura-united-menang-atas-psim-18092026-ma-4.jpg"
+    },
+    {
+      "id": "d743aafca6d2",
+      "judul": "Google launches Fitbit Air in India, though its high price might deter the masses",
+      "tautan": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:32:03.000Z",
+      "cuplikan": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Gadgets",
+        "Hardware",
+        "fitbit",
+        "fitness trackers",
+        "Google",
+        "health tracking"
+      ]
+    },
+    {
+      "id": "d4b8033fa68e",
+      "judul": "Instagram rolls out an AI video assistant for creators",
+      "tautan": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:30:00.000Z",
+      "cuplikan": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apps",
+        "edits",
+        "Instagram"
+      ]
+    },
+    {
+      "id": "9b151766cc21",
+      "judul": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
+      "tautan": "https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:30:00.000Z",
+      "cuplikan": "The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a “moral imperative” to address hereditary diseases.",
+      "gambar": "https://media.wired.com/photos/6abbe05edfaa177dfd594822/master/pass/092926-Human%20Embryo%20Gene%20Editing.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Science / Biotech"
+      ]
+    },
+    {
+      "id": "f3ed178cf632",
+      "judul": "Meta introduces a new AI assistant for its Instagram creators",
+      "tautan": "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:30:00.000Z",
+      "cuplikan": "The Edits assistant offers personalized guidance based on your audience and best-performing content.",
+      "gambar": "https://www.engadget.com/img/gallery/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/l-intro-1790775050.jpg",
+      "kategoriSumber": [
+        "Meta"
+      ]
+    },
     {
       "id": "4a00c2f7a1bd",
       "judul": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
@@ -87,6 +833,24 @@
         "Autumn",
         "Winter",
         "Technology"
+      ]
+    },
+    {
+      "id": "c5683a0ff456",
+      "judul": "OpenAI delays IPO over AI safety concerns",
+      "tautan": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-09-30T14:06:15.000Z",
+      "cuplikan": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/sam-altman-1-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "AI apocalypse",
+        "ChatGPT",
+        "IPO",
+        "openai"
       ]
     },
     {
@@ -995,6 +1759,34 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/27/instalasi-helm-jelang-motogp-indonesia-2026-2872456.jpg"
     },
     {
+      "id": "3b313d1e31c2",
+      "judul": "AI Bikin Puluhan Ribu Masalah Keamanan, OpenAI dan Anthropic Gelar Investigasi",
+      "tautan": "https://www.liputan6.com/tekno/read/8301016/ai-bikin-puluhan-ribu-masalah-keamanan-openai-dan-anthropic-gelar-investigasi",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-30T11:44:29.000Z",
+      "cuplikan": "OpenAI dan Anthropic menyelidiki puluhan ribu insiden akibat perilaku AI yang tak terduga. Apa yang sebenarnya terjadi?",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/2QqQ5x6P69WScUmjmEx7qcYNpgk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1013672/original/079805700_1444276067-Glowing-strands-creating-a-head.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "bdb22c5c8fb5",
+      "judul": "Ketahui 7 Pengaturan Tersembunyi di iPhone Seri Lama",
+      "tautan": "https://www.liputan6.com/tekno/read/8302167/ketahui-7-pengaturan-tersembunyi-di-iphone-seri-lama",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-30T11:39:30.000Z",
+      "cuplikan": "Punya iPhone seri lama tapi mulai melambat? Coba 7 pengaturan iPhone ini.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Jjj0mw-h_y8VKuSf1VfooefwDq0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3295599/original/020580900_1605260335-New_Project__7_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
       "id": "29171cafd59d",
       "judul": "The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets",
       "tautan": "https://www.wired.com/story/gifts-for-book-lovers/",
@@ -1036,6 +1828,20 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/yGGKrlDNU6EIW-b-RxpxUEWs7t0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9307006/original/051020800_1784949237-ilhan_2.jpg",
       "kategoriSumber": [
         "Bola"
+      ]
+    },
+    {
+      "id": "ecc3e1fe6120",
+      "judul": "Dampak AI, Paksa Jutaan Warga AS Banting Setir Pekerjaan",
+      "tautan": "https://www.liputan6.com/tekno/read/8302825/dampak-ai-paksa-jutaan-warga-as-banting-setir-pekerjaan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-09-30T11:20:46.000Z",
+      "cuplikan": "Maraknya otomatisasi membuat banyak pekerja tersingkirkan oleh AI, sehingga warga AS pesimis.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/I-dy7QYenWCfEKdOOmSzj8IPNrY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9335452/original/023675900_1787985545-AI.jpg",
+      "kategoriSumber": [
+        "Tekno"
       ]
     },
     {
@@ -1217,27 +2023,6 @@
       "terbit": "2026-09-30T10:42:12.000Z",
       "cuplikan": "Dirut PT Kelompok Lari Anak Bangsa (KLAB) Dickie Widjaja mengatakan sebanyak 37 ribu pelari akan meramaikan myBCA ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/30/1000538421.jpg"
-    },
-    {
-      "id": "cbcc5b414c5e",
-      "judul": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
-      "tautan": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
-      "sumber": "The Guardian",
-      "kanal": "guardian-tech",
-      "lajur": "global",
-      "terbit": "2026-09-30T10:41:58.000Z",
-      "cuplikan": "Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostage Business live – latest updates The governor of the Bank of England has said authorities must retain the “right to intervene” in the AI…",
-      "gambar": "https://i.guim.co.uk/img/media/23b0ea2be283b07b648c19b8cc26c9fb9a6a40c8/61_0_3698_2958/master/3698.jpg?width=140&quality=85&auto=format&fit=max&s=959d75279ed826437e37e56beb59d70e",
-      "kategoriSumber": [
-        "AI (artificial intelligence)",
-        "Bank of England",
-        "Andrew Bailey",
-        "Business",
-        "Technology sector",
-        "UK news",
-        "Technology",
-        "World news"
-      ]
     },
     {
       "id": "8ce994a17c5b",
@@ -1637,20 +2422,6 @@
       ]
     },
     {
-      "id": "b53672c02c80",
-      "judul": "Norwegia Berpeluang Jadi Negara Pertama yang Hapus VAR, Ini Alasannya",
-      "tautan": "https://www.liputan6.com/bola/read/8301870/norwegia-berpeluang-jadi-negara-pertama-yang-hapus-var-ini-alasannya",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-09-30T09:00:59.000Z",
-      "cuplikan": "Norwegia berpeluang menjadi negara pertama yang menghapus VAR karena ketidakpuasan klub-klub Eliteserien terhadap penerapan teknologi tersebut.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/J3x_7VTOH0OQo11kZQ41q2FsRnU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9288050/original/077739700_1783289115-000_B9BX7KA-Haaland.jpg",
-      "kategoriSumber": [
-        "Bola"
-      ]
-    },
-    {
       "id": "651ee7f27edc",
       "judul": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
       "tautan": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
@@ -1661,13 +2432,15 @@
       "cuplikan": "Meta is exploiting a lucrative tax break intended to support research and experimentation. Its own accountants say the gambit is risky.",
       "gambar": "https://static01.nyt.com/images/2026/09/23/business/00rd-tax/00rd-tax-mediumSquareAt3X.jpg",
       "kategoriSumber": [
+        "Meta Platforms Inc",
         "Tax Credits, Deductions and Exemptions",
         "Corporate Taxes",
         "Artificial Intelligence",
         "Data Centers",
         "Tax Shelters",
         "Research",
-        "Meta Platforms Inc"
+        "Internal Revenue Service",
+        "Innovation"
       ]
     },
     {
@@ -2508,15 +3281,15 @@
       "gambar": "https://static01.nyt.com/images/2026/06/30/multimedia/30nat-pope-anthropic-wfkz/30nat-pope-anthropic-wfkz-mediumSquareAt3X.jpg",
       "kategoriSumber": [
         "Artificial Intelligence",
+        "Anthropic AI LLC",
         "Religion and Belief",
         "Ethics (Personal)",
-        "Popes",
-        "Computers and the Internet",
         "Christians and Christianity",
-        "Anthropic AI LLC",
         "Roman Catholic Church",
         "Leo XIV",
-        "Olah, Christopher"
+        "Olah, Christopher",
+        "Clergy",
+        "Philosophy"
       ]
     },
     {
@@ -2676,14 +3449,14 @@
       "kategoriSumber": [
         "United States Politics and Government",
         "Artificial Intelligence",
+        "Computer Security",
         "Regulation and Deregulation of Industry",
-        "Social Media",
-        "High Net Worth Individuals",
         "Anthropic AI LLC",
         "Amazon.com Inc",
         "Google Inc",
         "Meta Platforms Inc",
-        "Microsoft Corp"
+        "Microsoft Corp",
+        "OpenAI Labs"
       ]
     },
     {
@@ -3224,15 +3997,18 @@
       "sumber": "The New York Times",
       "kanal": "nyt-tech",
       "lajur": "global",
-      "terbit": "2026-09-29T19:55:20.000Z",
+      "terbit": "2026-09-29T19:55:21.000Z",
       "cuplikan": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
       "gambar": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
       "kategoriSumber": [
         "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces",
+        "Drones (Pilotless Planes)",
         "Science and Technology",
         "Research",
-        "Drones (Pilotless Planes)",
-        "Kyiv (Ukraine)"
+        "Kyiv (Ukraine)",
+        "Ukraine",
+        "Russia"
       ]
     },
     {
@@ -3400,13 +4176,8 @@
       "gambar": "",
       "kategoriSumber": [
         "OpenAI Labs",
-        "Altman, Samuel H",
         "Artificial Intelligence",
-        "Science and Technology",
-        "Computer Security",
-        "Computers and the Internet",
-        "Brockman, Greg",
-        "Anthropic AI LLC"
+        "Computer Security"
       ]
     },
     {
