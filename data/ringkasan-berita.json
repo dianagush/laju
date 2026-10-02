@@ -1615,5 +1615,40 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-02T01:56:55.728Z"
+  },
+  "9910a5391cf5": {
+    "teks": "Apple Music kini menghadirkan fitur untuk memindahkan musik dan playlist buatan pengguna secara langsung dari Spotify tanpa menghapus daftar lagu lama. Pengguna yang berlangganan hanya perlu mengaktifkan fitur Sync Library dan menghubungkan akun Spotify lewat menu pengaturan profil di aplikasi Apple Music versi terbaru. Sistem akan otomatis mencocokkan lagu dengan katalognya dan menyediakan opsi versi alternatif apabila lagu asli tidak tersedia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-02T07:51:47.600Z"
+  },
+  "dc63b1e9ba13": {
+    "teks": "Telkom Group bekerja sama dengan Danantara dan PLN menggelar lokakarya strategis untuk memperkuat infrastruktur AI nasional. Pertemuan ini berfokus memetakan kebutuhan kecerdasan buatan BUMN serta menyelaraskannya dengan kesiapan data center NeutraDC dan pasokan energi bersih PLN. Langkah ini menjadi fondasi awal untuk mewujudkan ekosistem AI yang berdaulat, andal, dan berkelanjutan di Indonesia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-02T07:52:03.700Z"
+  },
+  "8b270385364d": {
+    "teks": "Timnas Indonesia berhasil mengalahkan Bangladesh dengan skor 9-2 pada laga pamungkas Grup A FIFA ASEAN Cup 2026 berkat lima gol Mitchell Baker. Penyerang tersebut mendapat pujian dari Ole Romeny yang juga menyumbangkan empat umpan berbuah gol selama pertandingan. Hasil ini memastikan Indonesia menjuarai Grup A dan melangkah ke partai final untuk menghadapi Thailand.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-02T07:52:17.560Z"
+  },
+  "3a35bb25b27a": {
+    "teks": "Tim sepak takraw putri Indonesia meraih medali perunggu nomor kuadran pada Asian Games Aichi-Nagoya 2026 setelah takluk dari Thailand di babak semifinal. Capaian ini menambah perolehan cabang olahraga sepak takraw menjadi total tiga medali perunggu untuk Indonesia. Usai laga tersebut, skuad putri akan mengalihkan fokus persiapan untuk menghadapi ajang internasional lainnya, termasuk SEA Games di Malaysia tahun depan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-02T07:52:31.962Z"
+  },
+  "66fa9607967c": {
+    "teks": "Pasangan ganda putri padel Indonesia, Fitriani Sabatini dan Fadona Kusumawati, berhasil menembus babak final Asian Games 2026. Kemenangan ini diraih setelah mereka tampil dominan dan menaklukkan wakil Filipina, Danna Abad dan Joshea Malazarte, dua set langsung di Nagoya, Jepang. Menjelang laga puncak, pasangan tersebut bersiap tampil maksimal demi merebut medali emas serta berharap terciptanya final sesama wakil Indonesia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-02T07:52:47.303Z"
   }
 }

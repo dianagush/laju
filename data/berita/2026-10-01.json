@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-01",
-  "diperbarui": "2026-10-02T01:55:43.237Z",
+  "diperbarui": "2026-10-02T07:51:14.604Z",
   "berita": [
     {
       "id": "ffe0ea4b0248",
@@ -14,6 +14,20 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/zklR8xcBz4TNF0wmxKujRcWpD-k=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363449/original/013272700_1790862744-0L5A2762.jpeg",
       "kategoriSumber": [
         "Bola"
+      ]
+    },
+    {
+      "id": "0892d2c7edd8",
+      "judul": "Pelajar SMA Jabodetabek Manfaatkan AI dan Sensor Pintar untuk Atasi Krisis Lingkungan",
+      "tautan": "https://www.liputan6.com/tekno/read/8304250/pelajar-sma-jabodetabek-manfaatkan-ai-dan-sensor-pintar-untuk-atasi-krisis-lingkungan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-01T16:59:41.000Z",
+      "cuplikan": "Mengusung pendekatan STEAM, para pelajar SMA mengalihkan tantangan lingkungan di sekitar mereka menjadi inovasi yang berdampak positif.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/kYsFFYvvidovVff-pGUAQXtOrgE=/0x0:6240x3517/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9363541/original/082820800_1790873841-Foto_2.jpg.jpeg",
+      "kategoriSumber": [
+        "Tekno"
       ]
     },
     {
@@ -1648,6 +1662,20 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/01/6abe394edade5-timnas-indonesia_gemini_665_374.jpg",
       "kategoriSumber": [
         "bola"
+      ]
+    },
+    {
+      "id": "c4ed1947c281",
+      "judul": "OpenAI Rilis Dots, Agen AI yang Bekerja 24 Jam",
+      "tautan": "https://www.liputan6.com/tekno/read/8302573/openai-rilis-dots-agen-ai-yang-bekerja-24-jam",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-01T11:24:16.000Z",
+      "cuplikan": "Dalam ajang OpenAI DevDay 2026, perusahaan meluncurkan agen AI yang dapat bekerja secara mandiri selama 24 jam, Dots. Bagaimana cara kerjanya?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/bMy_09BmnDM2Nju8DRC3DTbZwbs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4838233/original/057874200_1716263381-AP24141612292346.jpg",
+      "kategoriSumber": [
+        "Tekno"
       ]
     },
     {
