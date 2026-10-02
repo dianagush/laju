@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-01",
-  "diperbarui": "2026-10-02T07:51:14.604Z",
+  "diperbarui": "2026-10-02T14:22:23.728Z",
   "berita": [
     {
       "id": "ffe0ea4b0248",
@@ -231,6 +231,24 @@
         "games",
         "hidden information",
         "strategy"
+      ]
+    },
+    {
+      "id": "2c0d5680aa10",
+      "judul": "SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’",
+      "tautan": "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-01T16:22:30.000Z",
+      "cuplikan": "Jessica Watkins, the first Black woman to lead a crew to orbit, is making her second trip to the space station Four astronauts rocketed into orbit on Thursday on a space station mission that will stretch until spring, among them a Canadian…",
+      "gambar": "https://i.guim.co.uk/img/media/6231a3945ccafdb5e0a1e2229d52219baf56e78e/949_882_3138_2510/master/3138.jpg?width=140&quality=85&auto=format&fit=max&s=6336abfd735538f2ea6830f10a69959c",
+      "kategoriSumber": [
+        "Florida",
+        "Nasa",
+        "SpaceX",
+        "US news",
+        "Space"
       ]
     },
     {
@@ -3376,6 +3394,29 @@
       "gambar": "https://img.okezone.com/okz/400/content/2026/10/01/43/3245264/nurisa_dian_arshifah-vfJU_large.jpg",
       "kategoriSumber": [
         "Sport Lain"
+      ]
+    },
+    {
+      "id": "3f0ff7023c00",
+      "judul": "Steve Hilton, Xavier Becerra clash in testy California governor’s race debate",
+      "tautan": "https://www.theguardian.com/us-news/2026/oct/01/steve-hilton-xavier-becerra-clash-california-governor-race-debate",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-01T04:02:58.000Z",
+      "cuplikan": "The candidates running to replace Gavin Newsom sparred over taxes, immigration and regulating AI Xavier Becerra and Steve Hilton , the candidates running to be California ’s next governor, clashed on Wednesday over taxes, immigration and…",
+      "gambar": "https://i.guim.co.uk/img/media/440889f9ea1e51ffe57f9fd5c9a51abfa63a35cc/131_0_1542_1233/master/1542.jpg?width=140&quality=85&auto=format&fit=max&s=36dca341a8b9e610c1870d02df917a33",
+      "kategoriSumber": [
+        "California",
+        "US politics",
+        "West Coast",
+        "Steve Hilton",
+        "US news",
+        "Republicans",
+        "Democrats",
+        "Gavin Newsom",
+        "Donald Trump",
+        "US midterm elections 2026"
       ]
     },
     {

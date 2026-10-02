@@ -1650,5 +1650,26 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-02T07:52:47.303Z"
+  },
+  "8748550f3c07": {
+    "teks": "Masyarakat yang mengalami kebocoran data pribadi dapat melapor melalui kanal Polisiber milik kepolisian dan Kementerian Komunikasi dan Digital. Selain melapor, warga disarankan meningkatkan keamanan akun dengan memperbarui kata sandi secara berkala dan mengaktifkan autentikasi dua faktor. Maraknya kebocoran ini mencerminkan kurangnya komitmen pengelola data, khususnya instansi pemerintah, dalam melindungi informasi publik.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-02T14:22:41.618Z"
+  },
+  "c7703b939487": {
+    "teks": "Apple dikabarkan sedang merencanakan peluncuran perangkat kamera rumah pintar yang memanfaatkan teknologi kecerdasan buatan untuk memantau aktivitas tanpa merekam video. Perangkat berbentuk silinder ini dirancang untuk mendeteksi pergerakan dan melakukan pengenalan wajah, lalu mengirimkan pemberitahuan berupa deskripsi teks demi menjaga privasi pengguna. Selain kamera tersebut, perusahaan juga berencana menghadirkan pusat kendali rumah pintar serta pembaruan perangkat HomePod mini dan Apple TV.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-02T14:23:28.762Z"
+  },
+  "845fec2dd1f0": {
+    "teks": "Pelacak kucing pintar seperti Fi Mini dan Tractive membantu pemilik memantau lokasi GPS serta indikator kesehatan hewan peliharaan. Fi Mini unggul pada daya tahan baterai hingga dua minggu dan ukuran yang ringkas, meski terkadang memicu peringatan zona aman yang keliru. Sementara itu, perangkat Tractive menawarkan pelacakan lokasi historis dan analisis kesehatan yang lebih mendetail, walaupun memerlukan pengisian daya lebih sering.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-02T14:24:24.542Z"
   }
 }
