@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-01",
-  "diperbarui": "2026-10-01T17:13:20.105Z",
+  "diperbarui": "2026-10-02T01:55:43.237Z",
   "berita": [
     {
       "id": "ffe0ea4b0248",
@@ -12,6 +12,20 @@
       "terbit": "2026-10-01T16:59:57.000Z",
       "cuplikan": "Timnas Indonesia menang telak atas Bangladesh 9-2. Namun perjuangan ke final FIFA ASEAN Cup 2026 begitu berat dan baru ditentukan di detik akhir.",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/zklR8xcBz4TNF0wmxKujRcWpD-k=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363449/original/013272700_1790862744-0L5A2762.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "42086e300ded",
+      "judul": "Cetak 5 Gol ke Gawang Bangladesh, Ini Kata Mitchell Baker",
+      "tautan": "https://www.liputan6.com/bola/read/8304251/cetak-5-gol-ke-gawang-bangladesh-ini-kata-mitchell-baker",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-01T16:59:32.000Z",
+      "cuplikan": "Timnas Indonesia melaju ke final FIFA ASEAN Cup 2026 usai menang 9-2 atas Bangladesh. Mitchell Baker mencetak lima gol.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/mkM55FYlsidLW7-MjTOfxx7oyWI=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363452/original/046132100_1790862827-0L5A2877.jpeg",
       "kategoriSumber": [
         "Bola"
       ]
@@ -69,6 +83,26 @@
       ]
     },
     {
+      "id": "2b987e463d75",
+      "judul": "Florida cops say they don't know who owns 11 unpermitted Flock cameras",
+      "tautan": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-01T16:49:33.000Z",
+      "cuplikan": "Floridians alarmed by 14 mysterious Flock cameras; 11 have no clear owner.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264289119-1152x648-1790870168.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "data privacy",
+        "flock safety",
+        "Flock!",
+        "Florida",
+        "police surveillance",
+        "stalking"
+      ]
+    },
+    {
       "id": "f85c4d066c1c",
       "judul": "Amazon releases its own Jev clone as decision models flood the web",
       "tautan": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
@@ -79,7 +113,8 @@
       "cuplikan": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
       "gambar": "",
       "kategoriSumber": [
-        "AI"
+        "AI",
+        "AWS"
       ]
     },
     {
@@ -99,34 +134,6 @@
         "AI (artificial intelligence)",
         "Anthropic",
         "OpenAI"
-      ]
-    },
-    {
-      "id": "428ca523c4be",
-      "judul": "Alasan Timnas Indonesia Ungguli Malaysia Meski Poin dan Selisih Gol Sama",
-      "tautan": "https://www.liputan6.com/bola/read/8304175/alasan-timnas-indonesia-ungguli-malaysia-meski-poin-dan-selisih-gol-sama",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-10-01T16:45:09.000Z",
-      "cuplikan": "Timnas Indonesia lolos dramatis ke final FIFA ASEAN Cup 2026, unggul statistik atas Malaysia pada klasemen Grup A.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/4OMJz59nYB1D2OEv54PXnAiR6Ac=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363437/original/075307200_1790861790-WhatsApp_Image_2026-10-01_at_8.32.57_PM.jpeg",
-      "kategoriSumber": [
-        "Bola"
-      ]
-    },
-    {
-      "id": "181f425e81f6",
-      "judul": "Misteri Berubahnya Tambahan Waktu di Laga Timnas Indonesia vs Bangladesh",
-      "tautan": "https://www.liputan6.com/bola/read/8304223/misteri-berubahnya-tambahan-waktu-di-laga-timnas-indonesia-vs-bangladesh",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-10-01T16:44:38.000Z",
-      "cuplikan": "Timnas Indonesia kalahkan Bangladesh 9-2 untuk melaju ke final FIFA ASEAN Cup 2026.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/Jus0oHXO1J9hR1-rPfPmN7Wxvk4=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363508/original/036962200_1790869903-0L5A3728.jpg",
-      "kategoriSumber": [
-        "Bola"
       ]
     },
     {
@@ -195,7 +202,7 @@
     },
     {
       "id": "decb5d86e744",
-      "judul": "With most information hidden, the game Stratego",
+      "judul": "With most information hidden, the game Stratego had stumped AI—until now",
       "tautan": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "sumber": "Ars Technica",
       "kanal": "ars",
@@ -252,11 +259,13 @@
       "cuplikan": "An ad produced by the manufacturing company SKF Group featured a digital version of the Swedish American actress, who died in 1990. Not all viewers found the replica convincing.",
       "gambar": "https://static01.nyt.com/images/2026/10/01/multimedia/01xp-garbo-wvbp-promo/01xp-garbo-wvbp-promo-mediumSquareAt3X-v2.jpg",
       "kategoriSumber": [
-        "Garbo, Greta",
         "Artificial Intelligence",
         "Advertising and Marketing",
+        "Video Recordings, Downloads and Streaming",
+        "Garbo, Greta",
         "Sweden",
-        "SKF Group"
+        "SKF AB",
+        "internal-eafs"
       ]
     },
     {
@@ -309,7 +318,7 @@
       "sumber": "Liputan6",
       "kanal": "liputan6-bola",
       "lajur": "olahraga",
-      "terbit": "2026-10-01T16:03:52.000Z",
+      "terbit": "2026-10-01T16:03:49.000Z",
       "cuplikan": "Timnas Indonesia mengungguli Malaysia pada klasemen akhir Grup A FIFA ASEAN Cup 2026.",
       "gambar": "https://cdn1-production-images-kly.akamaized.net/QRaYww4w19Inso0kP3fO_ddHzYA=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363511/original/061798900_1790869904-0L5A3524.jpg",
       "kategoriSumber": [
@@ -378,6 +387,20 @@
         "News",
         "Reviews",
         "Buying Guides"
+      ]
+    },
+    {
+      "id": "181f425e81f6",
+      "judul": "Misteri Berubahnya Tambahan Waktu di Laga Timnas Indonesia vs Bangladesh",
+      "tautan": "https://www.liputan6.com/bola/read/8304223/misteri-berubahnya-tambahan-waktu-di-laga-timnas-indonesia-vs-bangladesh",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-01T15:54:05.000Z",
+      "cuplikan": "Timnas Indonesia kalahkan Bangladesh 9-2 untuk melaju ke final FIFA ASEAN Cup 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Jus0oHXO1J9hR1-rPfPmN7Wxvk4=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363508/original/036962200_1790869903-0L5A3728.jpg",
+      "kategoriSumber": [
+        "Bola"
       ]
     },
     {
@@ -565,7 +588,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-10-01T15:00:53.000Z",
-      "cuplikan": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations Get our new political email , free app or daily news podcast AI giant Anthropic has urged the Albanese government…",
+      "cuplikan": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast…",
       "gambar": "https://i.guim.co.uk/img/media/31efcec88394baea455a820212d18a058f1a038e/241_0_4313_3453/master/4313.jpg?width=140&quality=85&auto=format&fit=max&s=c132cc3d34a8a2d43729b2a326b92725",
       "kategoriSumber": [
         "AI (artificial intelligence)",
@@ -617,6 +640,20 @@
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/01/FIFA-ASEAN-Cup-2026-Indonesia-melawan-Bangladesh-011026-MRH-6.jpg"
     },
     {
+      "id": "428ca523c4be",
+      "judul": "Alasan Timnas Indonesia Ungguli Malaysia Meski Poin dan Selisih Gol Sama",
+      "tautan": "https://www.liputan6.com/bola/read/8304175/alasan-timnas-indonesia-ungguli-malaysia-meski-poin-dan-selisih-gol-sama",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-01T14:50:26.000Z",
+      "cuplikan": "Timnas Indonesia lolos dramatis ke final FIFA ASEAN Cup 2026, unggul statistik atas Malaysia pada klasemen Grup A.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/4OMJz59nYB1D2OEv54PXnAiR6Ac=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363437/original/075307200_1790861790-WhatsApp_Image_2026-10-01_at_8.32.57_PM.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
       "id": "569e67f0e7cb",
       "judul": "NYC is now the first city in America that bans sketchy subscriptions",
       "tautan": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
@@ -631,20 +668,6 @@
         "Policy",
         "Politics",
         "Report"
-      ]
-    },
-    {
-      "id": "fd428a284253",
-      "judul": "Klasemen FIFA ASEAN Cup 2026: Sikut Malaysia, Timnas Indonesia Lolos ke Final",
-      "tautan": "https://www.liputan6.com/bola/read/8304176/klasemen-fifa-asean-cup-2026-sikut-malaysia-timnas-indonesia-lolos-ke-final",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-10-01T14:47:17.000Z",
-      "cuplikan": "Timnas Indonesia juara Grup A FIFA ASEAN Cup 2026 sehingga lolos ke final.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/mkM55FYlsidLW7-MjTOfxx7oyWI=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363452/original/046132100_1790862827-0L5A2877.jpeg",
-      "kategoriSumber": [
-        "Bola"
       ]
     },
     {
@@ -730,6 +753,20 @@
         "OpenAI",
         "Report",
         "Tech"
+      ]
+    },
+    {
+      "id": "fd428a284253",
+      "judul": "Klasemen FIFA ASEAN Cup 2026: Sikut Malaysia, Timnas Indonesia Lolos ke Final",
+      "tautan": "https://www.liputan6.com/bola/read/8304176/klasemen-fifa-asean-cup-2026-sikut-malaysia-timnas-indonesia-lolos-ke-final",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-01T14:36:31.000Z",
+      "cuplikan": "Timnas Indonesia juara Grup A FIFA ASEAN Cup 2026 sehingga lolos ke final.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/mkM55FYlsidLW7-MjTOfxx7oyWI=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363452/original/046132100_1790862827-0L5A2877.jpeg",
+      "kategoriSumber": [
+        "Bola"
       ]
     },
     {
@@ -1117,6 +1154,20 @@
       ]
     },
     {
+      "id": "9f5dbcd666c8",
+      "judul": "Jadwal Asian Games 2026: Timnas Voli Putra Indonesia Ditunggu Vietnam",
+      "tautan": "https://www.liputan6.com/bola/read/8304119/jadwal-asian-games-2026-timnas-voli-putra-indonesia-ditunggu-vietnam",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-01T12:54:52.000Z",
+      "cuplikan": "Timnas voli putra Indonesia bertemu Vietnam pada klasifikasi Asian Games 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/CkGbLpeq2zl5HtpAPiq8OgJ0uKE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9307797/original/089766900_1785079603-Timnas_Voli_Putra_Indonesia.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
       "id": "cb9eb693f55a",
       "judul": "Wamenpora apresiasi tim esports MLBB Indonesia raih perak Asian Games",
       "tautan": "https://www.antaranews.com/berita/5767161/wamenpora-apresiasi-tim-esports-mlbb-indonesia-raih-perak-asian-games",
@@ -1242,6 +1293,48 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/X_eOXMxhVOGqN3xazZ6rFZ1mU1A=/0x0:5712x3213/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363141/original/072710600_1790841589-IMG_0197.jpg",
       "kategoriSumber": [
         "Tekno"
+      ]
+    },
+    {
+      "id": "27ed9aa7a2d7",
+      "judul": "Link Live Streaming MotoGP Jepang 2026, Disiarkan Vidio",
+      "tautan": "https://www.liputan6.com/bola/read/8304046/link-live-streaming-motogp-jepang-2026-disiarkan-vidio",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-01T12:20:52.000Z",
+      "cuplikan": "Rangkaian MotoGP Jepang 2026 di Mobility Resort Motegi, Jumat (2/10/2026), bisa ditonton lewat Vidio.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/teRxPUXmnJ4auvTlH0C3iNvO22I=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5516893/original/030904200_1772362302-marquez_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "f4fc8a841a17",
+      "judul": "Jadwal MotoGP Jepang 2026, Jumat 2 Oktober: Bidik Tiket Q2",
+      "tautan": "https://www.liputan6.com/bola/read/8304047/jadwal-motogp-jepang-2026-jumat-2-oktober-bidik-tiket-q2",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-01T12:18:25.000Z",
+      "cuplikan": "MotoGP Jepang 2026 menggulirkan hari pertama di Mobility Resort Motegi, Jumat (2/10/2026).",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/kXz1-2hpGR54G1UdG4wxcGce5bo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353205/original/034322900_1789922137-marc_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "b4bd13f3d2db",
+      "judul": "Link Live Streaming Moto3 Jepang 2026, Tayang di Vidio",
+      "tautan": "https://www.liputan6.com/bola/read/8304048/link-live-streaming-moto3-jepang-2026-tayang-di-vidio",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-01T12:17:22.000Z",
+      "cuplikan": "Hari pertama Moto3 Jepang 2026 di Mobility Resort Motegi, Jumat (2/10/2026), menggulirkan dua sesi latihan.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/VaC79dQOcRY16YOeZa1ylqJLegI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8528388/original/056301100_1782459819-93197658-ef46-a51a-8102-10da5627dd1e.jpg",
+      "kategoriSumber": [
+        "Bola"
       ]
     },
     {
@@ -1567,6 +1660,34 @@
       "terbit": "2026-10-01T11:21:13.000Z",
       "cuplikan": "Chef de Mission (CdM) Indonesia untuk Asian Games Aichi-Nagoya 2026 Todotua Pasaribu mengingatkan bahwa perjuangan ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/01/photo_2026-10-01-15.27.40.jpeg"
+    },
+    {
+      "id": "98b11194ac3d",
+      "judul": "Jadwal MPL ID Hari Ini: GEEK vs BTR Berebut Poin Penting di Week 7",
+      "tautan": "https://www.liputan6.com/tekno/read/8303899/jadwal-mpl-id-hari-ini-geek-vs-btr-berebut-poin-penting-di-week-7",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-01T11:19:20.000Z",
+      "cuplikan": "Jadwal Week 7 mencantumkan “GEEK vs BTR” sebagai match pertama pada Jumat, 2 Oktober 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/vj7N19F6T6iA0r-dhOF0ew9iPNA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8258050/original/044201400_1781305086-Jadwal_Playoff_MPL_ID_S17_Hari_Ini_01.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "50f0ff18778d",
+      "judul": "Benarkah HP Android Murah Bikin Baterai Lama Mengisi? Ini Faktanya",
+      "tautan": "https://www.liputan6.com/tekno/read/8303970/benarkah-hp-android-murah-bikin-baterai-lama-mengisi-ini-faktanya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-01T11:17:21.000Z",
+      "cuplikan": "Hp Android murah tidak selalu menjadi faktor pengisian daya menjadi lambat. Lalu apa saja faktor-faktornya?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/RNMNFfA3UpPkcK6398_nNGELHic=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4851234/original/080755600_1717398156-Gambar_WhatsApp_2024-06-03_pukul_13.45.48_560228ad.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "89de220aeef7",
@@ -1982,17 +2103,18 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-10-01T10:00:34.000Z",
-      "cuplikan": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chat bots will edit images to remove the hijabs from Muslim women, a violation of one of the world’s most common…",
+      "cuplikan": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo When prompted, AI chatbots will edit images to remove the hijabs from Muslim women, a violation of one of the world’s most common…",
       "gambar": "https://i.guim.co.uk/img/media/976016b244ec75038c7b4d519a0cbce1e2e70696/0_103_3400_2720/master/3400.jpg?width=140&quality=85&auto=format&fit=max&s=a247cfc363b6adeb0b7a64d6d1432f3a",
       "kategoriSumber": [
-        "Technology",
+        "AI (artificial intelligence)",
+        "Chatbots",
         "ChatGPT",
         "OpenAI",
-        "Chatbots",
-        "AI (artificial intelligence)",
         "Islamophobia",
+        "Islam",
         "Computing",
-        "Islam"
+        "Technology",
+        "US news"
       ]
     },
     {
