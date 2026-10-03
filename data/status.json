@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-03T07:25:14.178Z",
+  "diperbarui": "2026-10-03T12:55:53.760Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -16,7 +16,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T05:05:45.000Z"
+      "terbaru": "2026-10-03T11:07:43.000Z"
     },
     {
       "id": "viva-digital",
@@ -26,11 +26,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 100,
-      "diterima": 37,
+      "diterima": 35,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 63,
+        "terlaluLama": 65,
         "masaDepan": 0
       },
       "terbaru": "2026-10-03T07:17:59.000Z"
@@ -50,7 +50,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T05:19:40.000Z"
+      "terbaru": "2026-10-03T11:27:42.000Z"
     },
     {
       "id": "okezone-techno",
@@ -118,7 +118,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T06:55:21.000Z"
+      "terbaru": "2026-10-03T12:48:12.000Z"
     },
     {
       "id": "viva-bola",
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T07:16:46.000Z"
+      "terbaru": "2026-10-03T12:17:00.000Z"
     },
     {
       "id": "viva-sport",
@@ -145,14 +145,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 100,
-      "diterima": 60,
+      "diterima": 63,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 40,
+        "terlaluLama": 37,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T04:54:59.000Z"
+      "terbaru": "2026-10-03T11:30:00.000Z"
     },
     {
       "id": "okezone-sports",
@@ -169,7 +169,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T07:06:06.000Z"
+      "terbaru": "2026-10-03T12:21:32.000Z"
     },
     {
       "id": "antara-bola",
@@ -203,7 +203,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T05:37:54.000Z"
+      "terbaru": "2026-10-03T07:54:21.000Z"
     },
     {
       "id": "antara-bola-dunia",
@@ -237,7 +237,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T07:10:00.000Z"
+      "terbaru": "2026-10-03T08:37:51.000Z"
     },
     {
       "id": "antara-bulutangkis",
@@ -288,7 +288,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T05:27:21.000Z"
+      "terbaru": "2026-10-03T10:19:22.000Z"
     },
     {
       "id": "bbc-tech",
@@ -331,15 +331,15 @@
       "lajur": "global",
       "ok": true,
       "galat": null,
-      "jumlahFeed": 26,
-      "diterima": 26,
+      "jumlahFeed": 27,
+      "diterima": 27,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-02T18:07:45.000Z"
+      "terbaru": "2026-10-03T12:46:44.000Z"
     },
     {
       "id": "ars",
@@ -356,7 +356,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-02T23:03:16.000Z"
+      "terbaru": "2026-10-03T11:15:33.000Z"
     },
     {
       "id": "verge",
@@ -373,7 +373,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-02T21:08:37.000Z"
+      "terbaru": "2026-10-03T12:00:00.000Z"
     },
     {
       "id": "techcrunch",
@@ -400,14 +400,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 50,
-      "diterima": 29,
+      "diterima": 31,
       "dibuang": {
-        "luarTopik": 21,
+        "luarTopik": 19,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T05:00:00.000Z"
+      "terbaru": "2026-10-03T12:00:00.000Z"
     },
     {
       "id": "mit-tr",
@@ -441,7 +441,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-03T02:10:16.000Z"
+      "terbaru": "2026-10-03T12:45:00.000Z"
     }
   ]
 }
