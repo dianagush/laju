@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-02",
-  "diperbarui": "2026-10-03T12:55:53.760Z",
+  "diperbarui": "2026-10-03T17:42:44.520Z",
   "berita": [
     {
       "id": "1f5ec19fdb07",
@@ -556,18 +556,18 @@
       "sumber": "The New York Times",
       "kanal": "nyt-tech",
       "lajur": "global",
-      "terbit": "2026-10-02T14:40:24.000Z",
+      "terbit": "2026-10-02T14:40:25.000Z",
       "cuplikan": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States.",
       "gambar": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-Russia-AI-Songs-1-fmbg/01biz-Russia-AI-Songs-1-fmbg-mediumSquareAt3X.jpg",
       "kategoriSumber": [
-        "Artificial Intelligence",
         "Russian Invasion of Ukraine (2022)",
-        "International Relations",
+        "Russia",
+        "Ukraine",
+        "Artificial Intelligence",
+        "Music",
         "Propaganda",
-        "Regulation and Deregulation of Industry",
-        "Russian-Americans",
         "Politics and Government",
-        "Computers and the Internet"
+        "United States"
       ]
     },
     {

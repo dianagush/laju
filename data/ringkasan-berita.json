@@ -1720,5 +1720,33 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-03T12:57:27.866Z"
+  },
+  "eeb1e40a4fdf": {
+    "teks": "Teknologi kecerdasan buatan kini semakin mudah diakses oleh usaha mikro, kecil, dan menengah untuk meningkatkan efisiensi operasional bisnis. Pemanfaatan teknologi tersebut memungkinkan berbagai tugas kreatif dan administratif, seperti pembuatan foto produk serta penulisan deskripsi, yang sebelumnya dikerjakan beberapa orang kini bisa diselesaikan sendirian. Perkembangan ini turut membuka kesempatan bagi pelaku usaha kecil untuk mengoptimalkan sumber daya yang terbatas agar setara dengan perusahaan besar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-03T17:43:33.271Z"
+  },
+  "0e8c13828ae1": {
+    "teks": "Perilaku belanja masyarakat kini semakin dipengaruhi oleh media sosial dan teknologi kecerdasan buatan dalam mencari hingga membeli produk. Platform media sosial tidak hanya menjadi sarana mencari inspirasi, melainkan juga tempat transaksi langsung bagi konsumen. Asisten AI pun kian sering dimanfaatkan untuk melihat ulasan serta penawaran, meskipun kekhawatiran terhadap keandalan informasi daring turut meningkat. Kendati demikian, sebagian besar konsumen masih tetap aktif berbelanja di toko fisik.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-03T17:44:23.441Z"
+  },
+  "e962484e8316": {
+    "teks": "Meta meluncurkan proyek sumber terbuka bernama Muse Gadgets untuk memungkinkan para pengembang membuat perangkat keras yang terhubung dengan agen AI Muse. Melalui program ini, perusahaan menyediakan perangkat lunak dasar, SDK berbasis Linux, dan ide proyek bagi para pengguna. Langkah tersebut mendukung strategi Meta untuk memperluas fungsi Muse dari sekadar chatbot menjadi ekosistem yang terhubung ke berbagai perangkat pintar hingga sektor bisnis.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-03T17:44:37.999Z"
+  },
+  "f1c80105d2f2": {
+    "teks": "Capcom berencana mengintegrasikan teknologi AI ke dalam alur kerja pengembangan guna meningkatkan efisiensi proses pembuatan gim. Pengembang Satoshi Ishida menjelaskan bahwa RE Engine akan diubah secara bertahap menjadi mesin gim berbasis AI untuk mengatasi kendala waktu pada proyek berskala besar seperti Resident Evil. Langkah ini mempertegas arah Capcom dalam menggarap gim bersama AI, meski sebelumnya berjanji tidak memakai aset buatan AI.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-03T17:44:54.071Z"
   }
 }
