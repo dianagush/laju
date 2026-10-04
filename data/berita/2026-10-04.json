@@ -1,7 +1,928 @@
 {
   "tanggal": "2026-10-04",
-  "diperbarui": "2026-10-04T10:50:46.891Z",
+  "diperbarui": "2026-10-04T15:36:09.707Z",
   "berita": [
+    {
+      "id": "d5a8ffd2dd50",
+      "judul": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-04T15:21:59.000Z",
+      "cuplikan": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Gaming",
+        "News",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "91a2f5309965",
+      "judul": "John Herdman Bicara Peluang Timnas Indonesia Juara FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8305804/john-herdman-bicara-peluang-timnas-indonesia-juara-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T15:20:44.000Z",
+      "cuplikan": "Herdman antusias jelang final Timnas Indonesia vs Thailand di SUGBK.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/ofRLworIxgFxD5N3Kt_wx0gKChQ=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363506/original/033009800_1790869902-0L5A3401.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "8aaa4b741173",
+      "judul": "Trump unveils his new Super Intelligence Force",
+      "tautan": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-04T15:15:10.000Z",
+      "cuplikan": "This new task force is Trump's latest response to the debate over AI safety.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Government & Policy",
+        "Donald Trump"
+      ]
+    },
+    {
+      "id": "98cdb89ae4b0",
+      "judul": "5 Barter Terbesar Sepak Bola: Manuver Barcelona Kurang Efektif",
+      "tautan": "https://www.liputan6.com/bola/read/8305451/5-barter-terbesar-sepak-bola-manuver-barcelona-kurang-efektif",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T15:00:38.000Z",
+      "cuplikan": "Daftar lima pertukaran pemain terbesar sepanjang sejarah klub sepak bola.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/xQzYlwByXibQBTWamaXAp5tBPFM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1845347/original/052899700_1516873356-Dilatih_Mourinho_dan_Guardiola_07.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a493c4e6a21f",
+      "judul": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "tautan": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-04T15:00:00.000Z",
+      "cuplikan": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Gadgets",
+        "Hands-on",
+        "Reviews",
+        "Tech"
+      ]
+    },
+    {
+      "id": "7dd13b0b2ba3",
+      "judul": "Anthony Hudson Puji Indonesia Jelang Final FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1933145-anthony-hudson-puji-indonesia-jelang-final-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:46:00.000Z",
+      "cuplikan": "Pelatih Timnas Thailand, Anthony Hudson, memuji Indonesia sebagai tuan rumah FIFA ASEAN Cup 2026 yang digelar di Jakarta dan Bandung. Hudson akan memimpin Thailand dalam",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/03/6ac0f0ddb9fae-pelatih-timnas-thailand-anthony-hudson_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "6cebceae7732",
+      "judul": "The pros and cons of enabling Wi-Fi calling",
+      "tautan": "https://www.engadget.com/2273956/wifi-calling-pros-cons/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-04T14:45:00.000Z",
+      "cuplikan": "Wi-Fi calling can help a lot if you're in an area with a weak cellular connection, but you should know the drawbacks before jumping in.",
+      "gambar": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-enabling-wi-fi-calling/l-intro-1790798871.jpg",
+      "kategoriSumber": [
+        "Mobile"
+      ]
+    },
+    {
+      "id": "dbbc0726813d",
+      "judul": "Malaysia vs Vietnam: Dion Cools Absen, Bergson Siap Main",
+      "tautan": "https://www.liputan6.com/bola/read/8305779/malaysia-vs-vietnam-dion-cools-absen-bergson-siap-main",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:36:20.000Z",
+      "cuplikan": "Malaysia menghadapi Vietnam di SUGBK pada perebutan tempat ketiga tanpa Dion Cools dan Faisal Halim.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/gDgaCzNrycEswhyfGjWFItOPyKo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9357498/original/059569700_1790251259-malay_1.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5d2dcfcd7ae4",
+      "judul": "Gawat, Pelatih Thailand Sudah Kantongi Kekuatan Timnas Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1933135-gawat-pelatih-thailand-sudah-kantongi-kekuatan-timnas-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:32:00.000Z",
+      "cuplikan": "Pelatih Timnas Thailand, Anthony Hudson, mengaku sudah mengetahui karakter permainan Timnas Indonesia jelang final FIFA ASEAN Cup 2026. Thailand akan menghadapi Indonesia",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac1def58d436-pelatih-timnas-thailand-anthony-hudson_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "81fa1dd9b9c1",
+      "judul": "Real Madrid Pantau Gelandang Premier League Ini?",
+      "tautan": "https://www.liputan6.com/bola/read/8305796/real-madrid-pantau-gelandang-premier-league-ini",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:24:38.000Z",
+      "cuplikan": "Real Madrid dilaporkan menaruh minat terhadap gelandang Bournemouth, Alex Scott.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/kP8D7MagEmIZnxsKKNmQWpwmn6I=/0x66:1280x787/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/6345218/original/031090400_1779219964-mateo-kovacic-alex-scott-afc-bournemouth-vs-manchester-city-english-premier-league.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "414f8a1929a1",
+      "judul": "EKSKLUSIF! Bola Break: Teeratep Winothai Kenang Duel Sengit Indonesia vs Thailand di Piala AFF 2008",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8305788/eksklusif-bola-break-teeratep-winothai-kenang-duel-sengit-indonesia-vs-thailand-di-piala-aff-2008",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:21:31.000Z",
+      "cuplikan": "Legenda Thailand, Teeratep Winothai, mengenang kembali duel panas Timnas Indonesia vs Thailand di semifinal Piala AFF 2008. Winothai bercerita tentang gol cepat Indonesia, atmosfer suporter yang luar biasa, hingga momen ketika Thailand…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/umPOKDd710i4mc922yvrz0Twblc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9365180/original/091074900_1791123178-20260923_teeratep-winothai_hub01-9d7a04.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "e98c5a606a1c",
+      "judul": "Carlos Baleba Kian Dekat dengan Debut di Manchester United",
+      "tautan": "https://www.liputan6.com/bola/read/8305791/carlos-baleba-kian-dekat-dengan-debut-di-manchester-united",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:17:28.000Z",
+      "cuplikan": "Carlos Baleba dilaporkan sudah semakin siap untuk mencatatkan debutnya di Manchester United.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/b7rD7bbweNQUAOo5G99_4IAohmc=/0x527:3072x2258/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9332437/original/064050800_1787675507-baleba.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "829da3b87aa2",
+      "judul": "How getting rid of some USB gadgets can improve your bad Wi-Fi",
+      "tautan": "https://www.engadget.com/2273916/removing-some-usb-gadgets-improve-wifi/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-04T14:15:00.000Z",
+      "cuplikan": "A bit of decluttering can go a long way toward improving your Wi-Fi.",
+      "gambar": "https://www.engadget.com/img/gallery/how-getting-rid-of-some-usb-gadgets-can-improve-your-bad-wi-fi/l-intro-1790521977.jpg",
+      "kategoriSumber": [
+        "Computing"
+      ]
+    },
+    {
+      "id": "f9b104ecd2ca",
+      "judul": "John Herdman termotivasi putus rekor buruk Indonesia lawan Thailand",
+      "tautan": "https://www.antaranews.com/berita/5770944/john-herdman-termotivasi-putus-rekor-buruk-indonesia-lawan-thailand",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:14:03.000Z",
+      "cuplikan": "Pelatih kepala Timnas Indonesia John Herdman termotivasi untuk memutus rekor buruk timnya melawan Thailand saat kedua ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/04/IMG_9894.jpeg"
+    },
+    {
+      "id": "82fcacdd246a",
+      "judul": "Ole Romeny Latihan Terpisah, John Herdman Bicara Peluang Main Lawan Thailand",
+      "tautan": "https://www.liputan6.com/bola/read/8305787/ole-romeny-latihan-terpisah-john-herdman-bicara-peluang-main-lawan-thailand",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:12:04.000Z",
+      "cuplikan": "Ole Romeny berlatih terpisah saat official training Timnas Indonesia di Stadion PTIK.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/V-bC7mlC2kAqsH-vyR14k3yssd4=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9360329/original/070542700_1790611124-0L5A1623.jpg.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "9dc6c83ff080",
+      "judul": "Pelatih Thailand: Saya Tak Pikirkan Omongan John Herdman",
+      "tautan": "https://www.viva.co.id/bola/1933130-pelatih-thailand-saya-tak-pikirkan-omongan-john-herdman",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:12:00.000Z",
+      "cuplikan": "Pelatih Timnas Thailand, Anthony Hudson, memilih tidak ambil pusing dengan komentar John Herdman jelang final FIFA ASEAN Cup 2026 melawan Timnas Indonesia. Sebelumnya, H",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/10/22/68f8c6024d220-anthony-hudson_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "63def3828b6f",
+      "judul": "Kevin Diks minta pemain-pemain Indonesia tak terbawa emosi",
+      "tautan": "https://www.antaranews.com/berita/5770937/kevin-diks-minta-pemain-pemain-indonesia-tak-terbawa-emosi",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:04:58.000Z",
+      "cuplikan": "Kapten Timnas Indonesia Kevin Diks meminta rekan-rekannya untuk tidak terbawa emosi saat menghadapi Thailand pada final ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/04/latihan-resmi-timnas-indonesia-jelang-final-fifa-asean-cup-2026-2877665.jpg"
+    },
+    {
+      "id": "4116bac2ef2a",
+      "judul": "Giovanni Leoni Masuk Radar Juventus, Berpeluang Tinggalkan Liverpool pada 2027",
+      "tautan": "https://www.liputan6.com/bola/read/8305781/giovanni-leoni-masuk-radar-juventus-berpeluang-tinggalkan-liverpool-pada-2027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T14:03:29.000Z",
+      "cuplikan": "Juventus berminat memboyong Giovanni Leoni dari Liverpool.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/7MIC4GpIm2StQfTSfRYengAIJgc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5360922/original/034783300_1758769845-liverpool.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "7fc25176fcae",
+      "judul": "Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’",
+      "tautan": "https://www.theguardian.com/australia-news/2026/oct/05/queensland-data-centre-anthropic-western-downs-dalby",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-04T14:00:29.000Z",
+      "cuplikan": "Residents of Dalby may soon live beside a $31bn datacentre. The premier sees ‘opportunity’ for the state – but others fear AI’s global creep From the veranda on his bush block, Denver Kanowski has watched resources companies come and go…",
+      "gambar": "https://i.guim.co.uk/img/media/36cbbf9fb26744a29b5effde66856b52ce6a6d4b/537_0_3345_2677/master/3345.jpg?width=140&quality=85&auto=format&fit=max&s=ce0d3b64d9e49ef58fc3a86c989600e4",
+      "kategoriSumber": [
+        "Queensland",
+        "Datacentres - Australia",
+        "AI (artificial intelligence)",
+        "Australia news",
+        "Technology",
+        "Anthropic",
+        "David Crisafulli",
+        "Queensland politics"
+      ]
+    },
+    {
+      "id": "95aedbdc11ed",
+      "judul": "Latihan resmi Timnas Indonesia jelang final FIFA ASEAN Cup 2026",
+      "tautan": "https://www.antaranews.com/foto/5770930/latihan-resmi-timnas-indonesia-jelang-final-fifa-asean-cup-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:55:29.000Z",
+      "cuplikan": "Sejumlah pesepak bola Timnas Indonesia mengikuti sesi latihan di Stadion PTIK, Jakarta, Minggu (4/10/2026). Latihan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/04/Latihan-resmi-Timnas-Indonesia-jelang-final-FIFA-ASEAN-Cup-2026-041026-RIV-4.jpg"
+    },
+    {
+      "id": "a19786ff2365",
+      "judul": "Perkiraan Pemain Timnas Indonesia vs Thailand: Thom Haye Kembali Starter",
+      "tautan": "https://www.liputan6.com/bola/read/8305777/perkiraan-pemain-timnas-indonesia-vs-thailand-thom-haye-kembali-starter",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:53:00.000Z",
+      "cuplikan": "Timnas Indonesia menghadapi Thailand di final FIFA ASEAN Cup 2026. Skema 3-4-3 diprediksi, Thom Haye kembali, Mitchell Baker starter, Maarten Paes jadi kiper.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/MSudWM5QYbltGmqoyVlyUbLhhq8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9360290/original/064881500_1790607428-timnas_6_tom.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "490a83696913",
+      "judul": "Why you shouldn't sync your phone to a rental car",
+      "tautan": "https://www.engadget.com/2273912/why-shouldnt-sync-phone-to-rental-car/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-04T13:45:00.000Z",
+      "cuplikan": "Unless you pay attention, your contacts could end up forever stored in the car.",
+      "gambar": "https://www.engadget.com/img/gallery/why-you-shouldnt-sync-your-phone-to-a-rental-car/l-intro-1790797303.jpg",
+      "kategoriSumber": [
+        "EVs and Transportation"
+      ]
+    },
+    {
+      "id": "9dcbaaab940e",
+      "judul": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+      "tautan": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-04T13:44:50.000Z",
+      "cuplikan": "Calyton said AI was a ‘gamechanger’ but it also posed ‘a threat’ during his DNI Senate confirmation hearing Donald Trump on Sunday named Jay Clayton, the director of national intelligence , to serve also as the new White House AI czar…",
+      "gambar": "https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/2296_881_2186_1748/master/2186.jpg?width=140&quality=85&auto=format&fit=max&s=c78eef28a6408c2241944a8febff928e",
+      "kategoriSumber": [
+        "Trump administration",
+        "AI (artificial intelligence)",
+        "Donald Trump",
+        "US news",
+        "US politics",
+        "Technology"
+      ]
+    },
+    {
+      "id": "7f406fa6b0b1",
+      "judul": "Jelang final, Ole Romeny diragukan tampil untuk Timnas Indonesia",
+      "tautan": "https://www.antaranews.com/berita/5770922/jelang-final-ole-romeny-diragukan-tampil-untuk-timnas-indonesia",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:40:17.000Z",
+      "cuplikan": "Pelatih kepala Timnas Indonesia John Herdman mengatakan dirinya belum dapat memastikan apakah penyerang Ole Romeny ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/01/fifa-asean-cup-2026-indonesia-melawan-bangladesh-2875996.jpg"
+    },
+    {
+      "id": "b61e2298604b",
+      "judul": "John Herdman: Indonesia akan memberikan segalanya di final",
+      "tautan": "https://www.antaranews.com/berita/5770918/john-herdman-indonesia-akan-memberikan-segalanya-di-final",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:37:27.000Z",
+      "cuplikan": "Pelatih kepala Timnas Indonesia John Herdman menegaskan, skuadnya akan memberikan segalanya saat ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/04/Latihan-resmi-Timnas-Indonesia-jelang-final-FIFA-ASEAN-Cup-2026-041026-RIV-2.jpg"
+    },
+    {
+      "id": "f2884572e6b1",
+      "judul": "John Herdman Ungkap Kondisi Terkini Ole Romeny Jelang Final FIFA ASEAN Cup: Belum Ada Jaminan Tampil",
+      "tautan": "https://www.viva.co.id/bola/1933161-john-herdman-ungkap-kondisi-terkini-ole-romeny-jelang-final-fifa-asean-cup-belum-ada-jaminan-tampil",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:36:53.000Z",
+      "cuplikan": "Pelatih Timnas Indonesia John Herdman membeberkan kondisi terkini Ole Romeny jelang laga final FIFA ASEAN Cup 2026 melawan Thailand di SUGBK, Senin (5/10/2026).",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac24a936858f-pelatih-timnas-indonesia-john-herdman-jelang-laga-final-fifa-asean-cup-2026-menghadapi-thailand_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "8620f1c1c70e",
+      "judul": "Asian Games 2026 Berakhir, CdM Bersyukur Bisa Lampaui Target Kemenpora",
+      "tautan": "https://www.liputan6.com/bola/read/8305769/asian-games-2026-berakhir-cdm-bersyukur-bisa-lampaui-target-kemenpora",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:30:34.000Z",
+      "cuplikan": "Asian Games 2026 resmi berakhir. Tim Indonesia menutup dengan raihan total lima medali emas, melebihi target.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/VXn-WydKwaED6gQg5WALdMQMtj4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9344958/original/098763900_1789013372-WhatsApp_Image_2026-09-10_at_10.03.02__1_.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "390ba8db6ea8",
+      "judul": "Internet speeds vs. bandwidth: What's the difference?",
+      "tautan": "https://www.engadget.com/2273852/internet-speeds-vs-bandwidth-differences/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-04T13:30:00.000Z",
+      "cuplikan": "Knowing your internet speed is important, but bandwidth is another important metric that many people overlook.",
+      "gambar": "https://www.engadget.com/img/gallery/internet-speeds-vs-bandwidth-whats-the-difference/l-intro-1790795278.jpg",
+      "kategoriSumber": [
+        "Computing"
+      ]
+    },
+    {
+      "id": "5004f90b5b68",
+      "judul": "Presiden FIFA Gianni Infantino Tiba di Indonesia Jelang Final FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1933158-presiden-fifa-gianni-infantino-tiba-di-indonesia-jelang-final-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:29:04.000Z",
+      "cuplikan": "Ketua Umum PSSI Erick Thohir menyambut kedatangan Presiden FIFA Gianni Infantino di Indonesia, sehari menjelang final FIFA ASEAN Cup 2026 antara Timnas Indonesia dan Thai",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/29/6a69fcb777b3e-presiden-fifa-gianni-infantino_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "34470beda3cd",
+      "judul": "Ada yang Menangis Usai Kalah dari Filipina, Anthony Hudson Ungkap Kondisi Tim Thailand Jelang Lawan Timnas Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1933122-ada-yang-menangis-usai-kalah-dari-filipina-anthony-hudson-ungkap-kondisi-tim-thailand-jelang-lawan-timnas-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:24:00.000Z",
+      "cuplikan": "Pelatih Timnas Thailand, Anthony Hudson, mengungkap alasan sejumlah pemainnya menangis setelah kalah 1-2 dari Filipina pada laga terakhir Grup B FIFA ASEAN Cup 2026.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/03/6ac0f0ddb9fae-pelatih-timnas-thailand-anthony-hudson_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a577a332ba18",
+      "judul": "Pesan Kevin Diks Jelang Duel Lawan Thailand di Final FIFA ASEAN Cup, Minta Skuad Garuda Tak Terpancing Emosi",
+      "tautan": "https://www.viva.co.id/bola/1933155-pesan-kevin-diks-jelang-duel-lawan-thailand-di-final-fifa-asean-cup-minta-skuad-garuda-tak-terpancing-emosi",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:19:05.000Z",
+      "cuplikan": "Pengakuan Kevin Diks jelang laga Timnas Indonesia vs Thailand di final FIFA ASEAN Cup 2026 di SUGBK, menyinggung kondisi fisik, pesan Jay Idzes, hingga kunci final.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac2498938e99-pemain-timnas-indonesia-kevin-diks-jelang-laga-final-fifa-asean-cup-2026-menghadapi-thailand_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a6c85e4639e8",
+      "judul": "What is infill in 3D printing and is it necessary?",
+      "tautan": "https://www.engadget.com/2273797/what-is-infill-3d-printing/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-04T13:15:00.000Z",
+      "cuplikan": "The infill settings you use for your 3D prints can make or break them - literally. Let's talk about what infill does and how you should use it.",
+      "gambar": "https://www.engadget.com/img/gallery/what-is-infill-in-3d-printing-and-is-it-necessary/l-intro-1790701740.jpg",
+      "kategoriSumber": [
+        "Science"
+      ]
+    },
+    {
+      "id": "fa571932e2ef",
+      "judul": "Kata-kata John Herdman Jelang Timnas Indonesia Vs Thailand di Final FIFA ASEAN Cup 2026, Singgung Peluang Cetak Sejarah",
+      "tautan": "https://www.viva.co.id/bola/1933153-kata-kata-john-herdman-jelang-timnas-indonesia-vs-thailand-di-final-fifa-asean-cup-2026-singgung-peluang-cetak-sejarah",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T13:06:22.000Z",
+      "cuplikan": "Kata-kata pelatih John Herdman jelang laga Timnas Indonesia vs Thailand di final FIFA ASEAN Cup 2026 di SUGBK, menyinggung fokus pemain hingga kondisi Ole Romeny.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac249d5d6d82-pelatih-timnas-indonesia-john-herdman-jelang-laga-final-fifa-asean-cup-2026-menghadapi-thailand_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "49686d557f92",
+      "judul": "Bukan Cuma Inflasi, Chipset dan RAM Disebut Bisa Jadi Penyebab Harga HP Naik",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1933131-bukan-cuma-inflasi-chipset-dan-ram-disebut-bisa-jadi-penyebab-harga-hp-naik",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-04T13:02:00.000Z",
+      "cuplikan": "Harga HP berpotensi naik bukan hanya akibat inflasi. Kenaikan harga RAM, NAND, chipset, dan tingginya permintaan komponen untuk AI ikut menekan biaya produksi smartphone.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/01/20/60080dce62b14-ilustrasi-chipset-smartphone_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "092e4e92b7a7",
+      "judul": "The AirPods Pro 3 are a fantastic deal at $179",
+      "tautan": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-04T13:00:00.000Z",
+      "cuplikan": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apple",
+        "Deals",
+        "Gadgets",
+        "Prime Day",
+        "Tech",
+        "Verge Shopping"
+      ]
+    },
+    {
+      "id": "ecd2f6e8395e",
+      "judul": "Customizing your Samsung Galaxy phone is a bit easier with One UI 9",
+      "tautan": "https://www.engadget.com/2273796/samsung-galaxy-one-ui-9-customization-updates/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-04T12:45:00.000Z",
+      "cuplikan": "Lots of new options just became available to Samsung phones with the latest update. Customize your Quick Panel, Edge Panel and much more.",
+      "gambar": "https://www.engadget.com/img/gallery/customizing-your-samsung-galaxy-phone-is-a-bit-easier-with-one-ui-9/l-intro-1790793218.jpg",
+      "kategoriSumber": [
+        "Smartphones",
+        "Samsung"
+      ]
+    },
+    {
+      "id": "9025532b34a0",
+      "judul": "The MacBook Air M5 is $200 off for the first time in months",
+      "tautan": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-04T12:34:01.000Z",
+      "cuplikan": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apple",
+        "Deals",
+        "Gadgets",
+        "Prime Day",
+        "Tech",
+        "Verge Shopping"
+      ]
+    },
+    {
+      "id": "2f66a93a4b1a",
+      "judul": "The iPad Mini is slightly cheaper again during Prime Day",
+      "tautan": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-04T12:31:50.000Z",
+      "cuplikan": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apple",
+        "Deals",
+        "Gadgets",
+        "Prime Day",
+        "Tech",
+        "Verge Shopping"
+      ]
+    },
+    {
+      "id": "e872228c963e",
+      "judul": "Cetak Sejarah, PB POBSI Apresiasi Albert-Irsal Tembus Semifinal WPA Menamp;rsquo;s Doubles 10-Ball World Championship",
+      "tautan": "https://sports.okezone.com/read/2026/10/04/43/3245937/cetak-sejarah-pb-pobsi-apresiasi-albert-irsal-tembus-semifinal-wpa-men-s-doubles-10-ball-world-championship",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T12:31:33.000Z",
+      "cuplikan": "PB POBSI mengapresiasi perjuangan Albert Januarta dan Irsal Nasution di ajang 2026 ISAK Billiard WPA Men?? s Doubles 10-Ball World Championship.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/04/43/3245937/pb_pobsi_mengapresiasi_perjuangan_albert_januarta_dan_irsal_nasution_di_ajang_2026_isak_billiard_wpa_mens_doubles_10_ball_world_championship-euPM_large.jpeg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "ca0a0a2d4eaf",
+      "judul": "How to use Android's Motion Assist feature to help with motion sickness",
+      "tautan": "https://www.engadget.com/2273792/how-to-use-android-motion-assist-feature-help-with-sickness/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-04T12:30:00.000Z",
+      "cuplikan": "Google's Motion Assist uses moving shapes on your Android's screen to help combat motion sickness. Here's how it works and how to enable it.",
+      "gambar": "https://www.engadget.com/img/gallery/how-to-use-androids-motion-assist-feature-to-help-with-motion-sickness/l-intro-1790790035.jpg",
+      "kategoriSumber": [
+        "Smartphones",
+        "Google",
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "eaf68d6e8862",
+      "judul": "Huawei Watch GT 7 Series rilis di Indonesia, ini spesifikasinya",
+      "tautan": "https://www.antaranews.com/berita/5770866/huawei-watch-gt-7-series-rilis-di-indonesia-ini-spesifikasinya",
+      "sumber": "ANTARA",
+      "kanal": "antara-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-04T12:26:25.000Z",
+      "cuplikan": "Huawei Watch GT 7 Series segera hadir di pasar Indonesia dengan membawa sejumlah pembaruan pada fitur kesehatan, ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/08/06/InShot_20260806_171443696.jpg"
+    },
+    {
+      "id": "73dcbdf986a1",
+      "judul": "Ole Romeny Latihan Terpisah dari Timnas Indonesia Jelang Final FIFA ASEAN Cup 2026, Benarkah Cedera?",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8305751/ole-romeny-latihan-terpisah-dari-timnas-indonesia-jelang-final-fifa-asean-cup-2026-benarkah-cedera",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T12:26:06.000Z",
+      "cuplikan": "Ole Romeny menjalani latihan terpisah saat Timnas Indonesia menggelar official training di Stadion PTIK, Jakarta Selatan, Minggu (4/10/2026) sore WIB, jelang final FIFA ASEAN Cup 2026 menghadapi Thailand. Dalam 15 menit awal latihan yang…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/B07MFcS2gQdk1uuDShGiRUlp-sY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9365165/original/056808400_1791116765-20261004_ot-timnas-indonesia-dan-ole-romeny-a185bf.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "574586f575cd",
+      "judul": "Komdigi Sebut Tak Ada Kewajiban Operator Terapkan 'Rollover' Sisa Kuota ke Paket Baru",
+      "tautan": "https://jawapos.com/teknologi/2610040199/komdigi-sebut-tak-ada-kewajiban-operator-terapkan-rollover-sisa-kuota-ke-paket-baru",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-04T12:15:26.000Z",
+      "cuplikan": "Penerapan mekanisme rollover memungkinkan penambahan sisa kuota internet dari periode langganan sebelumnya ke paket akses internet baru pelanggan.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/04/sekretaris-direktorat-jenderal-infrastruktur-digital-kementerian-komunikasi-dan-digital-evan-fathurokhman-adiwidjaja-antara-kXIC2.webp"
+    },
+    {
+      "id": "320f04bac40e",
+      "judul": "How much does DDR5 RAM speed matter for gaming?",
+      "tautan": "https://www.engadget.com/2273791/how-much-ddr5-ram-speed-matters-for-gaming/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-04T12:15:00.000Z",
+      "cuplikan": "Wondering whether DDR5 speed impacts your gaming performance? Dive into how memory bandwidth and latency influence frame rates and overall gameplay.",
+      "gambar": "https://www.engadget.com/img/gallery/how-much-does-ddr5-ram-speed-matter-for-gaming/l-intro-1790791086.jpg",
+      "kategoriSumber": [
+        "Gaming"
+      ]
+    },
+    {
+      "id": "2c5466779f1e",
+      "judul": "John Herdman Dapat Kabar Gembira Jelang Timnas Indonesia Vs Thailand",
+      "tautan": "https://www.viva.co.id/bola/1933118-john-herdman-dapat-kabar-gembira-jelang-timnas-indonesia-vs-thailand",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T12:12:00.000Z",
+      "cuplikan": "Kabar positif datang dari pemain muda Indonesia, Adrian Wibowo. Di tengah persiapan Timnas Indonesia menghadapi Thailand pada final FIFA ASEAN Cup 2026, Adrian kembali me",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/02/6abeafbe97b86-pelatih-timnas-indonesia-john-herdman-di-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "0422d58605a9",
+      "judul": "Barcelona Jegal Arsenal dan Real Madrid dalam Perburuan Bek Bundesliga",
+      "tautan": "https://www.liputan6.com/bola/read/8305651/barcelona-jegal-arsenal-dan-real-madrid-dalam-perburuan-bek-bundesliga",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T12:00:23.000Z",
+      "cuplikan": "Barcelona ikut memantau pemain Bundesliga yang menjadi bidikan Arsenal dan Real Madrid serta siap menikung mereka.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/42RPf-1nBKAKHTQXNkfrbIwvvgA=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/4662004/original/097412100_1700818198-20231124BL_Timnas_Spanyol_U-17_Jelang_Vs_Timnas_Jerman_U-17_di_Piala_Dunia_U-17_2023-06.JPG",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "9dbd12aff7f1",
+      "judul": "The forgotten Chromebook that started it all",
+      "tautan": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-04T12:00:00.000Z",
+      "cuplikan": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Gadgets",
+        "Laptops",
+        "Podcasts",
+        "Tech",
+        "Version History"
+      ]
+    },
+    {
+      "id": "1fe32bb8deff",
+      "judul": "The rise, fall, and rise of portable MP3 players",
+      "tautan": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-04T12:00:00.000Z",
+      "cuplikan": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in our subscribers'…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Column",
+        "Tech",
+        "The Stepback"
+      ]
+    },
+    {
+      "id": "5066a8faed65",
+      "judul": "Amazon’s colorful and sturdy new Kindles",
+      "tautan": "https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-04T12:00:00.000Z",
+      "cuplikan": "Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at the Installer homepage.) This week, I'm…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Installer",
+        "Tech"
+      ]
+    },
+    {
+      "id": "d1e24c2c5f18",
+      "judul": "Jorge Martin Jadikan MotoGP Mandalika Ajang Balas ke Marc Marquez",
+      "tautan": "https://www.viva.co.id/sport/1933138-jorge-martin-jadikan-motogp-mandalika-ajang-balas-ke-marc-marquez",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:56:17.000Z",
+      "cuplikan": "Pembalap Aprilia Racing, Jorge Martin, tetap percaya diri menghadapi Marc Marquez dalam persaingan perebutan gelar juara dunia MotoGP 2026. Keyakinan itu muncul setelah",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/19/6aae997bc2e0f-jorge-martin_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "17044c51ed1a",
+      "judul": "Kapten Thailand Paparkan Beda Timnas Indonesia Dulu dan Sekarang",
+      "tautan": "https://www.liputan6.com/bola/read/8305743/kapten-thailand-paparkan-beda-timnas-indonesia-dulu-dan-sekarang",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:51:05.000Z",
+      "cuplikan": "Kapten Thailand menilai skuad Garuda kini berbeda: banyak pemain keturunan dan berkarier di liga top Eropa. Ia antusias bertemu Indonesia di SUGBK.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/sDjuE_18LtDrWQyDyfJfw9k-vw0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9365061/original/034098700_1791099315-Chanathip_Songkrasin_3.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5706eeecba33",
+      "judul": "Menang di MotoGP Jepang, Marc Marquez Tempel Ketat Jorge Martin di Puncak Klasemen",
+      "tautan": "https://www.viva.co.id/sport/1933137-menang-di-motogp-jepang-marc-marquez-tempel-ketat-jorge-martin-di-puncak-klasemen",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:48:16.000Z",
+      "cuplikan": "Kemenangan Marc Marquez pada MotoGP Jepang 2026 membuat persaingan perebutan gelar juara dunia semakin ketat. Pembalap Ducati Lenovo itu kini hanya terpaut dua poin dari",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/13/6a2cfabd245c8-marc-marquez-juara-motogp-hungaria-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "6f78535d46e1",
+      "judul": "Bromo Jadi Panggung Ribuan Rider, Ekonomi Warga Ikut Bergeliat",
+      "tautan": "https://www.viva.co.id/sport/1933136-bromo-jadi-panggung-ribuan-rider-ekonomi-warga-ikut-bergeliat",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:46:20.000Z",
+      "cuplikan": "Utusan Khusus Presiden Bidang Ketahanan Pangan Muhamad Mardiono menilai gelaran Malang Adventure Trail (MAT) 14 di kawasan Bromo, Pasuruan, Jawa Timur, tidak sekadar menj",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac23c58ddbff-ukp-mardiono-dorong-mat-14-jadi-penggerak-ekonomi-dan-ketahanan-pangan-daerah_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "13d53f3bbdbf",
+      "judul": "67 Ribu Tiket Timnas Indonesia vs Thailand Habis",
+      "tautan": "https://www.liputan6.com/bola/read/8305739/67-ribu-tiket-timnas-indonesia-vs-thailand-habis",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:36:08.000Z",
+      "cuplikan": "Panitia memastikan 67 ribu tiket final FIFA ASEAN Cup 2026 Timnas Indonesia vs Thailand di SUGBK ludes.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/7_XaXh_3hr3Ye6hUU8QgzZcm7pg=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358727/original/038444600_1790406860-033A9336.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "eb20c7bda6a1",
+      "judul": "Klasemen Akhir Medali Asian Games 2026: Indonesia Turun dari 2022",
+      "tautan": "https://www.liputan6.com/bola/read/8305575/klasemen-akhir-medali-asian-games-2026-indonesia-turun-dari-2022",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:27:51.000Z",
+      "cuplikan": "Indonesia merebut lima emas, 11 perak, dan 23 perunggu pada klasemen medali Asian Games 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/KA9KmPe4x-vHQR2iMmDxr3z-0FY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9362445/original/008334600_1790783408-AP26273453240370.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "0a963684acc0",
+      "judul": "Media Italia Terkesima Lihat Timnas Indonesia ke Final, Singgung Tragedi Kanjuruhan",
+      "tautan": "https://www.viva.co.id/bola/1933116-media-italia-terkesima-lihat-timnas-indonesia-ke-final-singgung-tragedi-kanjuruhan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:22:00.000Z",
+      "cuplikan": "Timnas Indonesia memastikan tiket ke final FIFA ASEAN Cup 2026 setelah melewati pertandingan penuh drama melawan Bangladesh. Skuad Garuda menang telak 9-2 dalam",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac1fc4a07fc5-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "1e584567c2d1",
+      "judul": "Tips Bikin Fitur Anti-Intip Sendiri di iPhone iOS 27, Mudah dan Cepat",
+      "tautan": "https://www.liputan6.com/tekno/read/8305390/tips-bikin-fitur-anti-intip-sendiri-di-iphone-ios-27-mudah-dan-cepat",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-04T11:20:24.000Z",
+      "cuplikan": "iOS 27 belum dibekali fitur layar privasi bawaan. Simak trik mudah mengombinasikan Fitur Aksesibilitas dan aplikasi Pintasan untuk cegah layar iPhone diintip.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/AVQK9jVN2dZ1eQ5DZZo-p0l8qiA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5309535/original/020649900_1754631823-b973f4ed-7887-4788-9e7c-79e7e8d59d02__1_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "c72efc33c9f2",
+      "judul": "Asian Games Aichi-Nagoya 2026 resmi ditutup",
+      "tautan": "https://www.antaranews.com/berita/5770797/asian-games-aichi-nagoya-2026-resmi-ditutup",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:19:16.000Z",
+      "cuplikan": "Asian Games Aichi-Nagoya 2026 resmi ditutup setelah Presiden Olympic Council of Asia (OCA) Sheikh Joaan Bin Hamad Al ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/04/tempImageMotOb9.jpg"
+    },
+    {
+      "id": "f1b921a70e64",
+      "judul": "Asian Games Aichi-Nagoya 2026 cetak lebih dari 350 rekor",
+      "tautan": "https://www.antaranews.com/berita/5770792/asian-games-aichi-nagoya-2026-cetak-lebih-dari-350-rekor",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:17:01.000Z",
+      "cuplikan": "Asian Games Aichi-Nagoya 2026 mencatat lebih dari 350 rekor sepanjang penyelenggaraan yang berlangsung sejak 19 ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/04/tempImagejIsKYr.jpg"
+    },
+    {
+      "id": "d146faf88ec0",
+      "judul": "Kenakan Prada Bali, Meydiana Laviola Reinnamah Jadi Flag Bearer Indonesia di Closing Ceremony Asian Games 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/04/43/3245923/kenakan-prada-bali-meydiana-laviola-reinnamah-jadi-flag-bearer-indonesia-di-closing-ceremony-asian-games-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T11:15:36.000Z",
+      "cuplikan": "Meydiana Laviola Reinnamah terpilih sebagai pembawa bendera atau flag bearer Kontingen Indonesia di Closing Ceremony Asian Games 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/04/43/3245923/meydiana_laviola_reinnamah_terpilih_sebagai_pembawa_bendera_atau_flag_bearer_kontingen_indonesia_di_closing_ceremony_asian_games_2026-AMTr_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "4594e1656659",
+      "judul": "All hail electrification. But let’s talk about the hard part.",
+      "tautan": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-04T11:05:53.000Z",
+      "cuplikan": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1463437040-1152x648.jpg",
+      "kategoriSumber": [
+        "Science",
+        "electrification",
+        "International Energy Agency",
+        "syndication"
+      ]
+    },
+    {
+      "id": "87d999a4b982",
+      "judul": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "tautan": "https://www.wired.com/gallery/best-office-chairs/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-04T11:03:00.000Z",
+      "cuplikan": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "gambar": "https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Lifestyle",
+        "Gear / Products / Home Office"
+      ]
+    },
+    {
+      "id": "4f7f4716409b",
+      "judul": "The Best Gifts Under $25 for Everyone on Your List (2026)",
+      "tautan": "https://www.wired.com/story/best-gifts-under-25-2026/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-04T11:00:00.000Z",
+      "cuplikan": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
+      "gambar": "https://media.wired.com/photos/6ac027cfd5ba006200028110/master/pass/Best%20Gifts%20Under%20$25%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Buying Guides"
+      ]
+    },
+    {
+      "id": "554a917fabbb",
+      "judul": "Chanathip Songkrasin Ungkap Misi Besar Thailand, Tak Hanya Incar Gelar Raja ASEAN tapi Juga Piala Asia 2027",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8305723/chanathip-songkrasin-ungkap-misi-besar-thailand-tak-hanya-incar-gelar-raja-asean-tapi-juga-piala-asia-2027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T10:54:32.000Z",
+      "cuplikan": "Kapten Timnas Thailand, Chanathip Songkrasin, mengungkap misi besar timnya jelang menghadapi Timnas Indonesia di final FIFA ASEAN Cup 2026. Bagi Chanathip, Thailand tidak hanya ingin menciptakan sejarah dengan menjadi juara edisi perdana…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/fbj6KPk1FDkobpvl_EOGLYju6nk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9365147/original/047111600_1791111271-20261004_chanathip-songkrasin_pressconf-dc3b72.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
     {
       "id": "29eb3ab9fa7e",
       "judul": "Mengapa listrik sering padam saat petir menyambar?",
@@ -921,20 +1842,6 @@
       "terbit": "2026-10-04T05:04:40.000Z",
       "cuplikan": "Tim voli pantai putra Indonesia, Bintang Akbar/Sofyan Rachman Efendi, tampil luar biasa pada semifinal Asian Games 2026. Menghadapi pasangan tuan rumah Jepang, Kota Kurosawa/Taito Mizumachi, Bintang/Sofyan menang dua set langsung 21-19…",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/vzMUmLijcbWmAx5A1dvGLZ7Mx_w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9364854/original/077131100_1791072403-20261002_cabang-voli-pantai-semifinal-indo-vs-japan-horizontal-faf20e.png",
-      "kategoriSumber": [
-        "Bola"
-      ]
-    },
-    {
-      "id": "eb20c7bda6a1",
-      "judul": "Klasemen Akhir Medali Asian Games 2026: Indonesia Turun dari 2022",
-      "tautan": "https://www.liputan6.com/bola/read/8305575/klasemen-akhir-medali-asian-games-2026-indonesia-turun-dari-2022",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-10-04T05:03:11.000Z",
-      "cuplikan": "Indonesia merebut lima emas, 11 perak, dan 23 perunggu pada klasemen medali Asian Games 2026.",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/KA9KmPe4x-vHQR2iMmDxr3z-0FY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9362445/original/008334600_1790783408-AP26273453240370.jpg",
       "kategoriSumber": [
         "Bola"
       ]
