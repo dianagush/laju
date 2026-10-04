@@ -1748,5 +1748,40 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-03T17:44:54.071Z"
+  },
+  "0e397d267460": {
+    "teks": "Penggunaan jaringan Wi-Fi publik memiliki risiko keamanan seperti DNS spoofing yang dapat mengalihkan pengguna ke situs palsu. Pengguna perangkat Android dapat mengantisipasinya dengan mengaktifkan fitur Private DNS berbasis DNS-over-TLS untuk mengenkripsi permintaan koneksi. Demi perlindungan ekstra, penggunaan VPN terpercaya dan fitur keamanan bawaan seperti Google Safe Browsing juga sangat disarankan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-04T02:19:22.433Z"
+  },
+  "d6ada00f4dac": {
+    "teks": "Memasuki Oktober 2026, pasar ponsel pintar Indonesia diramaikan oleh berbagai pilihan produk dari realme dan Poco untuk kebutuhan harian maupun gaming. Model yang ditawarkan merentang dari kelas terjangkau mulai Rp1 jutaan seperti realme C71 dan Poco C71, hingga kelas menengah seperti Poco M7 Pro. Selain itu, segmen performa tinggi diisi oleh perangkat unggulan seperti realme GT 7 dan realme 16 Pro Plus dengan harga mencapai Rp9,3 jutaan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-04T02:19:38.480Z"
+  },
+  "a17cbb98ecdf": {
+    "teks": "Poco F7 dan iQOO Neo 10 bersaing di pasar ponsel kelas menengah atas dengan sama-sama ditenagai prosesor Snapdragon 8s Gen 4. Keduanya menawarkan keunggulan berbeda, di mana Poco F7 mengandalkan kapasitas baterai lebih besar serta layar yang sangat cerah, sedangkan iQOO Neo 10 fokus pada performa gaming berkat tambahan chip khusus dan refresh rate layar yang lebih tinggi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-04T02:19:46.391Z"
+  },
+  "394ad10e83a7": {
+    "teks": "Timnas Indonesia dipastikan melaju ke final FIFA ASEAN Cup 2026 dan akan menghadapi Thailand. Skuad Garuda melangkah ke partai puncak setelah keluar sebagai juara Grup A usai mengalahkan Bangladesh di laga terakhir. Pertandingan penentuan gelar juara tersebut dijadwalkan berlangsung di Stadion Utama Gelora Bung Karno.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-04T02:19:54.709Z"
+  },
+  "c8ca51977d25": {
+    "teks": "Perangkat pemutar media Nvidia Shield TV Pro mengalami kenaikan harga sebesar 100 dolar AS sehingga kini dibanderol menjadi 299,99 dolar AS. Nvidia menyatakan bahwa lonjakan biaya komponen industri, terutama akibat perkembangan kecerdasan buatan, menjadi alasan utama di balik penyesuaian harga tersebut. Meskipun masih diproduksi dan terjual habis, banderol baru ini membuat perangkat tersebut menjadi kurang menarik bagi konsumen yang hanya memerlukan fungsi penayangan video dasar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-04T02:20:02.973Z"
   }
 }
