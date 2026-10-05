@@ -1881,5 +1881,47 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-04T15:38:56.829Z"
+  },
+  "4bdc9109a1ec": {
+    "teks": "Ponsel sederhana berfitur aksesibilitas memadai kerap lebih cocok bagi lansia dibanding ponsel flagship berspesifikasi tinggi. Pengguna lanjut usia umumnya lebih membutuhkan layar yang mudah dibaca, navigasi praktis, dan baterai tahan lama untuk berkomunikasi. Selain itu, menyederhanakan tampilan halaman utama hanya dengan aplikasi penting dapat mencegah kebingungan saat mengoperasikan perangkat tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-05T01:28:42.751Z"
+  },
+  "f14a23cd961a": {
+    "teks": "Samsung Galaxy A08 dan Xiaomi Redmi Note 17 4G bersaing di pasar ponsel terjangkau Indonesia dengan menawarkan baterai berkapasitas besar serta kamera 50 MP. Samsung Galaxy A08 dipasarkan mulai dari Rp2.999.000 dengan mengandalkan layar PLS LCD 6,7 inci dan baterai 6.000 mAh. Sementara itu, Xiaomi Redmi Note 17 4G hadir seharga Rp3.549.000 dengan keunggulan layar AMOLED 6,99 inci ber-refresh rate 120Hz serta baterai 7.700 mAh.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-05T01:28:50.689Z"
+  },
+  "9dcbaaab940e": {
+    "teks": "Presiden Donald Trump menunjuk Kepala Intelijen Nasional Jay Clayton sebagai pemimpin baru urusan kecerdasan buatan di Gedung Putih. Clayton akan mengepalai Super Intelligence Force yang bertugas mengoordinasikan hubungan pemerintah dengan berbagai pihak terkait. Penunjukan ini mendapat tanggapan beragam, termasuk dari Senator Mark Warner yang menekankan pentingnya pengamanan dan pengawasan terhadap risiko keamanan nasional dari teknologi tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-05T01:28:58.660Z"
+  },
+  "1060f4453878": {
+    "teks": "Penggunaan dua monitor memberikan ruang layar yang lebih luas untuk menjalankan berbagai aplikasi secara bersamaan tanpa harus sering berpindah tab. Pengaturan ini sangat berguna untuk meningkatkan produktivitas dalam berbagai pekerjaan, mulai dari multitasking dokumen, komunikasi, hingga bermain gim. Selain itu, penambahan layar kedua dapat mengurangi kebutuhan cetak dokumen fisik dan membantu menata alur kerja menjadi lebih efisien.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-05T01:29:06.579Z"
+  },
+  "cf36261cec89": {
+    "teks": "Sebelum era GPU modern, konsol lawas mengandalkan cip khusus dengan fungsi tetap yang dipasok oleh CPU untuk memproses grafik baris demi baris, seperti pada NES dan Atari 2600. Perubahan besar terjadi ketika Xbox pertama meluncur pada tahun 2001 dengan mengusung cip grafis berbasis PC yang memungkinkan pengembang memprogram shader sendiri. Sejak saat itu, industri konsol secara bertahap beralih menggunakan perangkat keras bergaya PC hingga akhirnya menyatukan komponen prosesor dan grafik dalam satu cip yang efisien.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-05T01:29:14.741Z"
+  },
+  "ecd88fe5720e": {
+    "teks": "Harga Mac mini yang lebih terjangkau dibandingkan lini laptop Apple disebabkan oleh ketiadaan komponen layar, baterai, serta perangkat masukan seperti papan tik dan tetikus dalam paket penjualannya. Selain itu, desain perangkat komputer meja ini tidak menuntut biaya tinggi untuk aspek portabilitas, penipisan bodi, maupun efisiensi daya ekstrem seperti halnya laptop. Faktor-faktor rekayasa dan pemangkasan suku cadang bawaan tersebut membuat biaya produksi Mac mini menjadi lebih rendah.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-05T01:29:23.005Z"
   }
 }
