@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-04",
-  "diperbarui": "2026-10-05T08:05:13.103Z",
+  "diperbarui": "2026-10-05T19:28:02.839Z",
   "berita": [
     {
       "id": "dad38151ef1d",
@@ -352,13 +352,13 @@
     },
     {
       "id": "3116e977cb80",
-      "judul": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+      "judul": "Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife",
       "tautan": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
       "sumber": "Ars Technica",
       "kanal": "ars",
       "lajur": "global",
       "terbit": "2026-10-04T15:34:14.000Z",
-      "cuplikan": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+      "cuplikan": "Wunmi Mosaku ( Sinners , Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home .",
       "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/africa3-1152x648.jpg",
       "kategoriSumber": [
         "Culture",
@@ -397,6 +397,20 @@
       "terbit": "2026-10-04T15:20:44.000Z",
       "cuplikan": "Herdman antusias jelang final Timnas Indonesia vs Thailand di SUGBK.",
       "gambar": "https://cdn1-production-images-kly.akamaized.net/ofRLworIxgFxD5N3Kt_wx0gKChQ=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9363506/original/033009800_1790869902-0L5A3401.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d07ac2424551",
+      "judul": "Tempat Menonton Timnas Indonesia vs Thailand di Final FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8305810/tempat-menonton-timnas-indonesia-vs-thailand-di-final-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-04T15:19:06.000Z",
+      "cuplikan": "Final FIFA ASEAN Cup 2026 Timnas Indonesia vs Thailand bisa disaksikan melalui SCTV, Indosiar, Moji, Vidio, atau Nex.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/HEhk7loOnJ0uRfKO_a8v_FO4Wuo=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358948/original/096846800_1790437562-0L5A0279.jpg",
       "kategoriSumber": [
         "Bola"
       ]
@@ -1632,7 +1646,7 @@
     },
     {
       "id": "a28550ff89d0",
-      "judul": "Own a mobile phone? Then you’re paying the ‘app tax’. It’s a racket and it’s time the UK faced Apple and Google down | Chi Onwurah",
+      "judul": "Own a smartphone? Then you’re paying the ‘app tax’. It’s a racket and it’s time the UK faced Apple and Google down | Chi Onwurah",
       "tautan": "https://www.theguardian.com/commentisfree/2026/oct/04/app-tax-google-apple-smartphone-duopoly-cma",
       "sumber": "The Guardian",
       "kanal": "guardian-tech",
@@ -3221,6 +3235,7 @@
       "gambar": "",
       "kategoriSumber": [
         "Government & Policy",
+        "Privacy",
         "Security",
         "flock safety"
       ]
