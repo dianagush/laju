@@ -54,7 +54,9 @@ LAJU memakai GitHub Actions untuk jadwal otomatis dan GitHub Pages untuk hosting
 4. Buka tab **Actions → Perbarui berita → Run workflow** untuk menjalankan pertama kali.
 5. Situs tayang di `https://NAMA-AKUNMU.github.io/laju/`. Isi alamat ini ke `alamatSitus` di `laju.config.mjs` supaya feed RSS LAJU punya tautan yang benar.
 
-Setelah itu, situs diperbarui sendiri pukul 06.00, 09.00, 12.00, 15.00, 18.00, dan 21.00 WIB. Jadwal GitHub kadang terlambat beberapa menit saat server sedang ramai.
+Setelah itu, situs diperbarui sendiri pukul 08.00, 11.00, dan 15.00 WIB.
+
+Jadwal gratis GitHub berprioritas rendah: pembaruan sering tertunda (pengamatan 29 September–6 Oktober 2026: rata-rata sekitar 2 jam, terparah 5,5 jam) dan sesekali dilewati. Karena itu situs menulis "berikutnya sekitar …", dan jadwal dipasang pada menit ke-23, bukan menit ke-00 yang paling ramai.
 
 Kalau langkah "Simpan data ke repositori" gagal karena izin, buka **Settings → Actions → General → Workflow permissions** dan pilih **Read and write permissions**.
 
@@ -65,7 +67,7 @@ Tanpa kunci API, situs tetap jalan dan menampilkan **Sorotan**, yaitu cerita yan
 1. Buat kunci API di [console.anthropic.com](https://console.anthropic.com).
 2. Di repositori GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Nama: `ANTHROPIC_API_KEY`, isi: kuncimu.
 
-Ringkasan dibuat sekali sehari pada pembaruan pertama setelah pukul 06.00 WIB, memakai model Claude Opus 5. Satu ringkasan membaca sekitar 10 ribu token dan menulis beberapa ribu token. Perkiraan kasarnya US$0,10–0,20 per hari. Poin tanpa tautan sumber yang sah dibuang otomatis sebelum terbit.
+Ringkasan dibuat sekali sehari pada pembaruan pertama setelah pukul 08.00 WIB, memakai model Claude Opus 5. Satu ringkasan membaca sekitar 10 ribu token dan menulis beberapa ribu token. Perkiraan kasarnya US$0,10–0,20 per hari. Poin tanpa tautan sumber yang sah dibuang otomatis sebelum terbit.
 
 Untuk mencoba di komputer sendiri (PowerShell):
 
@@ -130,7 +132,7 @@ Skor **matchday terakhir** 5 liga teratas Eropa (Liga Inggris, LaLiga, Serie A, 
 - ESPN tidak menyertakan nomor pekan, jadi matchday disusun dari jadwal: dimulai dari laga terakhir yang sudah dimainkan, lalu diperluas selama tidak ada tim yang bermain dua kali dan tidak ada jeda lebih dari 60 jam. Laga susulan yang dimainkan sendirian di tengah minggu tidak dianggap matchday baru.
 
 - Tidak perlu kunci API. Papan skor ESPN ini tidak resmi, jadi formatnya bisa berubah; kalau gagal diambil, data terakhir tetap dipakai dan Actions menampilkan peringatan.
-- Skor pertandingan yang sedang berlangsung tidak real-time: hanya seakurat pembaruan terakhir. Laga Eropa umumnya selesai sebelum pukul 06.00 WIB, jadi hasilnya lengkap pada pembaruan pagi.
+- Skor pertandingan yang sedang berlangsung tidak real-time: hanya seakurat pembaruan terakhir. Laga Eropa umumnya selesai sebelum pagi WIB, jadi hasil lengkapnya tampil pada pembaruan pukul 08.00.
 - Liga, rentang hari, atau mematikan fitur ini: `laju.config.mjs` bagian `skor`. Kode liga ESPN lain misalnya `ned.1` (Belanda), `por.1` (Portugal), `idn.1` (Liga Indonesia).
 
 ## Berita yang sama dari beberapa media

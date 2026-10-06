@@ -7,9 +7,9 @@ export default {
   alamatSitus: 'https://dianagush.github.io/laju/',
 
   // Jam pembaruan (WIB). Harus sama dengan jadwal cron di .github/workflows/perbarui.yml.
-  jamPembaruan: [6, 9, 12, 15, 18, 21],
+  jamPembaruan: [8, 11, 15],
   // Ringkasan Pagi dibuat pada pembaruan pertama setelah jam ini (WIB).
-  jamRingkasan: 6,
+  jamRingkasan: 8,
 
   // Berita di beranda: hanya yang terbit dalam jendela ini.
   jendelaBerandaJam: 36,

@@ -2,9 +2,10 @@ name: Perbarui berita
 
 on:
   schedule:
-    # 06.00, 09.00, 12.00, 15.00, 18.00, 21.00 WIB (jam UTC = WIB − 7).
+    # 08.00, 11.00, dan 15.00 WIB (jam UTC = WIB − 7).
     # Samakan dengan jamPembaruan di laju.config.mjs bila diubah.
-    - cron: "0 23,2,5,8,11,14 * * *"
+    # Menit 23 dipilih karena jadwal GitHub paling sering tertunda pada menit 00.
+    - cron: "23 1,4,8 * * *"
   workflow_dispatch: {}
   push:
     branches: [main]

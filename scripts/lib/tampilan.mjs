@@ -98,7 +98,7 @@ export function halaman(ctx, { judul, deskripsi, aktif, isi, akar = '' }) {
 <div class="pita"><div class="bungkus">
 <span>${esc(tanggalPanjang(hariIni).toUpperCase())}</span>
 <div class="pita-kanan">
-${diperbarui ? `<span class="pita-status"><span class="titik-hidup"></span>Diperbarui ${diperbarui} WIB${berikut ? `<span class="pita-berikut">&nbsp;· berikutnya ${berikut}</span>` : ''}</span>` : ''}
+${diperbarui ? `<span class="pita-status"><span class="titik-hidup"></span>Diperbarui ${diperbarui} WIB${berikut ? `<span class="pita-berikut">&nbsp;· berikutnya sekitar ${berikut}</span>` : ''}</span>` : ''}
 <button type="button" class="tombol-tema" data-tema aria-pressed="false">${IKON.bulan}<span data-tema-teks>Mode gelap</span></button>
 </div>
 </div></div>
