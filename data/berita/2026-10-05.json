@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-05",
-  "diperbarui": "2026-10-05T19:28:02.839Z",
+  "diperbarui": "2026-10-06T02:37:55.623Z",
   "berita": [
     {
       "id": "cf94a559a112",
@@ -92,9 +92,9 @@
         "AI",
         "Enterprise",
         "Startups",
-        "ai agent",
         "Exclusive",
-        "HackerRank"
+        "HackerRank",
+        "ai agent"
       ]
     },
     {
@@ -346,7 +346,7 @@
         "Research",
         "Greenhouse Gas Emissions",
         "Bell Laboratories",
-        "Hanwha Group"
+        "Tandem PV Inc"
       ]
     },
     {
@@ -456,15 +456,15 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-05T15:14:24.000Z",
-      "cuplikan": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "cuplikan": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
         "Apps",
         "Adtech",
         "advertising",
-        "ChatGPT",
-        "OpenAI"
+        "OpenAI",
+        "ChatGPT"
       ]
     },
     {
@@ -622,10 +622,10 @@
       "gambar": "",
       "kategoriSumber": [
         "Security",
-        "cybersecurity",
+        "In Brief",
         "data breach",
-        "Denmark",
-        "In Brief"
+        "cybersecurity",
+        "Denmark"
       ]
     },
     {
@@ -762,11 +762,11 @@
       "cuplikan": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
       "gambar": "",
       "kategoriSumber": [
+        "AI",
         "Startups",
         "Venture",
-        "AI",
-        "TechCrunch Disrupt",
-        "Startup Battlefield 200"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -880,14 +880,14 @@
     },
     {
       "id": "be42e063cd73",
-      "judul": "OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of federal inquiry says",
+      "judul": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians’ private data",
       "tautan": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
       "sumber": "The Guardian",
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-10-05T14:00:27.000Z",
       "cuplikan": "Unions, employer groups, banks and industry experts will appear at the four-day hearings along with OpenAI, Anthropic, Microsoft and Google Get our new political email , free app or daily news podcast OpenAI must explain how they will stop…",
-      "gambar": "https://i.guim.co.uk/img/media/69055f70964b98cc9af9644e80b0b554671c4a5d/532_171_6666_5333/master/6666.jpg?width=140&quality=85&auto=format&fit=max&s=3c86d6bb05eb5450e6edddbb4829d29f",
+      "gambar": "https://i.guim.co.uk/img/media/918a628d20519d3cfe5f8c0d09987f2c4236e21d/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=61d0e22d18ccdc2bda14cc197037d003",
       "kategoriSumber": [
         "Australian politics",
         "Australia news",
@@ -918,9 +918,9 @@
       "cuplikan": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
       "gambar": "",
       "kategoriSumber": [
-        "Startups",
-        "Venture",
         "AI",
+        "Venture",
+        "Startups",
         "TechCrunch Disrupt",
         "Startup Battlefield 200"
       ]
@@ -1113,7 +1113,7 @@
       "lajur": "olahraga",
       "terbit": "2026-10-05T13:04:17.000Z",
       "cuplikan": "Sejumlah pembalap beserta kru yang akan mengikuti MotoGP Indonesia 2026 di Sirkuit Pertamina Mandalika mulai ...",
-      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/05/1006032028.jpg"
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/06/1006032028.jpg"
     },
     {
       "id": "ee413884f05c",
@@ -1146,7 +1146,9 @@
         "China",
         "South Korea",
         "Seoul (South Korea)",
-        "internal-eafs"
+        "internal-eafs",
+        "Innovation",
+        "Galaxy Corp"
       ]
     },
     {
@@ -1261,7 +1263,7 @@
       "lajur": "olahraga",
       "terbit": "2026-10-05T12:33:41.000Z",
       "cuplikan": "Tim nasional Indonesia melakukan sedikit perubahan susunan pemain ketika menghadapi tim nasional Thailand pada final ...",
-      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/05/latihan-resmi-timnas-indonesia-jelang-final-fifa-asean-cup-2026-1pof1-dom.jpg"
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/06/Latihan-resmi-Timnas-Indonesia-jelang-final-FIFA-ASEAN-Cup-2026-041026-RIV-4.jpg"
     },
     {
       "id": "d01f97c9630b",
@@ -1419,8 +1421,8 @@
       "kategoriSumber": [
         "AI",
         "Robotics",
-        "a16z speedrun",
         "Exclusive",
+        "a16z speedrun",
         "Shine Capital"
       ]
     },
