@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-05",
-  "diperbarui": "2026-10-06T02:37:55.623Z",
+  "diperbarui": "2026-10-06T07:46:30.848Z",
   "berita": [
     {
       "id": "cf94a559a112",
@@ -209,6 +209,29 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/05/6ac3bb153eb59-pemain-timnas-indonesia-dean-james-usai-cetak-gol-ke-gawang-thailand-di-final-fifa-asean-cup-2026_gemini_665_374.jpg",
       "kategoriSumber": [
         "bola"
+      ]
+    },
+    {
+      "id": "3da480fa8b65",
+      "judul": "Norway plans temporary ban on smart glasses in some public places",
+      "tautan": "https://www.theguardian.com/world/2026/oct/05/norway-temporary-ban-smart-glasses-public-places",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-05T16:11:31.000Z",
+      "cuplikan": "Camera-enabled Meta spectacles are already restricted in UK and US because of fears about covert recording Norway is planning a temporary ban on smart glasses in some public places, amid rising global concern at the spread of the…",
+      "gambar": "https://i.guim.co.uk/img/media/40af5768117abd5443d47eba0a698ad852dd88a1/451_0_4085_3270/master/4085.jpg?width=140&quality=85&auto=format&fit=max&s=2e845038893b3add40df99b0b6a94d69",
+      "kategoriSumber": [
+        "Norway",
+        "Wearable technology",
+        "Meta",
+        "Privacy",
+        "Europe",
+        "World news",
+        "Privacy & the media",
+        "Gadgets",
+        "Surveillance",
+        "Technology"
       ]
     },
     {
@@ -506,7 +529,7 @@
       "sumber": "The New York Times",
       "kanal": "nyt-tech",
       "lajur": "global",
-      "terbit": "2026-10-05T15:12:12.000Z",
+      "terbit": "2026-10-05T15:12:13.000Z",
       "cuplikan": "By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.",
       "gambar": "",
       "kategoriSumber": [

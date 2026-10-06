@@ -1,7 +1,589 @@
 {
   "tanggal": "2026-10-06",
-  "diperbarui": "2026-10-06T02:37:55.623Z",
+  "diperbarui": "2026-10-06T07:46:30.848Z",
   "berita": [
+    {
+      "id": "80af3fb66403",
+      "judul": "Bukan Thailand, Bukan Vietnam! Timnas Indonesia Jadi Satu-satunya Negara ASEAN yang Juara Turnamen FIFA",
+      "tautan": "https://www.viva.co.id/bola/1933645-bukan-thailand-bukan-vietnam-timnas-indonesia-jadi-satu-satunya-negara-asean-yang-juara-turnamen-fifa",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T07:42:18.000Z",
+      "cuplikan": "Timnas Indonesia mengukir sejarah setelah menjadi satu-satunya negara Asia Tenggara yang menjuarai turnamen bentukan FIFA usai juara FIFA ASEAN Cup 2026.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac4838ec037c-timnas-indonesia-juara-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "bbf75cb931c2",
+      "judul": "Jadwal Liga Inggris usai Jeda Internasional: Liverpool vs Manchester City",
+      "tautan": "https://www.liputan6.com/bola/read/8306555/jadwal-liga-inggris-usai-jeda-internasional-liverpool-vs-manchester-city",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T07:30:23.000Z",
+      "cuplikan": "Jadwal Liga Inggris pekan ke-6 musim 2026/2027 menampilkan duel Liverpool vs Manchester City.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/D1yZdWrFrkBcvPhkLDhEK02zkjg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5497784/original/098639200_1770688929-Gianluigi_Donnarumma.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "622211a44893",
+      "judul": "Justin Hubner Diserbu Netizen Thailand Gegara Diduga Provokasi Nattapong usai Gagal Penalti: Pemain Rendahan Belanda",
+      "tautan": "https://www.viva.co.id/bola/1933644-justin-hubner-diserbu-netizen-thailand-gegara-diduga-provokasi-nattapong-usai-gagal-penalti-pemain-rendahan-belanda",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T07:27:16.000Z",
+      "cuplikan": "Video Justin Hubner mencolek Nattapong Sayriya usai gagal mengeksekusi penalti Timnas Thailand viral. Suporter Thailand mengecam gestur bek Timnas Indonesia tersebut.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/05/6ac375117aef0-pemain-timnas-indonesia-justin-hubner_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "3235894eaaea",
+      "judul": "Jangan Asal Izinkan! 6 Permission Aplikasi Android yang Diwaspadai",
+      "tautan": "https://jawapos.com/teknologi/2610060251/jangan-asal-izinkan-6-permission-aplikasi-android-yang-diwaspadai",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T07:27:08.000Z",
+      "cuplikan": "Pelajari 6 permission aplikasi Android yang perlu diwaspadai agar keamanan data pribadi tetap terjaga.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/07/28/ilustrasi-hp-android-pexels-7cUxG.webp"
+    },
+    {
+      "id": "0a0263fdd890",
+      "judul": "Hands-on Poco F9 Pro, HP Flagship Killer yang Siap Libas Game Berat",
+      "tautan": "https://www.liputan6.com/tekno/read/8307031/hands-on-poco-f9-pro-hp-flagship-killer-yang-siap-libas-game-berat",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T07:08:38.000Z",
+      "cuplikan": "Hands-on Poco F9 Pro menunjukkan performa gaming yang stabil. Seperti apa pengalaman langsung dalam pengujian game berat?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/D8HZb1i-DJLV5t8IR6tkqKIzCC4=/0x0:1600x900/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9366488/original/008904500_1791268944-WhatsApp_Image_2026-10-06_at_13.25.00.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "a5a454568266",
+      "judul": "AS dan Tiongkok Perkuat Kolaborasi RISC-V di Tengah Rivalitas Teknologi Cip Canggih",
+      "tautan": "https://jawapos.com/teknologi/2610060241/as-dan-tiongkok-perkuat-kolaborasi-risc-v-di-tengah-rivalitas-teknologi-cip-canggih",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T07:08:03.000Z",
+      "cuplikan": "Kerja sama AS dan Tiongkok dalam pengembangan arsitektur cip RISC-V terus berkembang di tengah persaingan teknologi kedua negara.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/06/as-dan-tiongkok-perkuat-kolaborasi-risc-v-di-tengah-rivalitas-teknologi-cip-scmp-AeKfW.webp"
+    },
+    {
+      "id": "aff47e39ffe5",
+      "judul": "Duel HP Baru Oppo A7 Pro vs Honor X9e Pro, Mana yang Lebih Unggul di Kelasnya?",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1933625-duel-hp-baru-oppo-a7-pro-vs-honor-x9e-pro-mana-yang-lebih-unggul-di-kelasnya",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T07:04:00.000Z",
+      "cuplikan": "Oppo A7 Pro 5G vs Honor X9e Pro, dua HP baru dengan baterai jumbo, layar AMOLED 120Hz, kamera tajam, dan 5G. Simak perbandingan spesifikasi, fitur, serta harga Oktober.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac491a6f353c-ilustrasi-hp-oppo-a7-pro-vs-honor-x9e-pro_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "6971985b8e79",
+      "judul": "Wikimedia Kecolongan? Agen OpenAI Diduga Lakukan Penyuntingan Tanpa Izin",
+      "tautan": "https://jawapos.com/teknologi/2610060240/wikimedia-kecolongan-agen-openai-diduga-lakukan-penyuntingan-tanpa-izin",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T07:03:39.000Z",
+      "cuplikan": "Wikimedia Foundation mengungkap aktivitas tidak sah yang dilakukan agen OpenAI, termasuk penyuntingan tanpa izin dan pengambilan data.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/07/16/codex-micro-dok-open-ai-gTUOY.webp"
+    },
+    {
+      "id": "e56c63c40d94",
+      "judul": "Lego fraudster among last year's most high-profile insurance scammers",
+      "tautan": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-06T07:03:35.000Z",
+      "cuplikan": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e41/live/98c51960-c0ba-11f1-9475-67b7bb314be1.jpg"
+    },
+    {
+      "id": "c80434edd260",
+      "judul": "Pelatih Timnas Indonesia siap perkuat skuad hadapi Piala Asia 2027",
+      "tautan": "https://www.antaranews.com/berita/5773192/pelatih-timnas-indonesia-siap-perkuat-skuad-hadapi-piala-asia-2027",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T07:00:27.000Z",
+      "cuplikan": "Pelatih Timnas Indonesia John Herdman siap memperkuat skuadnya dengan memanggil beberapa pemain untuk persiapan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/01/Pawai-Kemenangan-Tim-Sepak-Bola-di-Stadion.png"
+    },
+    {
+      "id": "a1f37109a33f",
+      "judul": "Kisah Gila Valtteri Bottas, Pembalap F1 yang Pilih Gowes 350 Km dari Malaysia ke Singapura!",
+      "tautan": "https://sports.okezone.com/read/2026/10/06/37/3246271/kisah-gila-valtteri-bottas-pembalap-f1-yang-pilih-gowes-350-km-dari-malaysia-ke-singapura",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T06:54:52.000Z",
+      "cuplikan": "Simak kisah gila Valtteri Bottas yang memilih gowes ke Singapura dari Malaysia ketimbang terbang dengan pesawat!",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/06/37/3246271/simak_kisah_gila_valtteri_bottas_yang_memilih_gowes_ke_singapura_dari_malaysia_ketimbang_terbang_dengan_pesawat-T6Cq_large.jpg",
+      "kategoriSumber": [
+        "F1 & A1"
+      ]
+    },
+    {
+      "id": "e3f3cf6f4f17",
+      "judul": "Highlight Senam Ritmik Putri Asian Games 2026, Tri Wahyuni Tempati Posisi 20",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8306972/highlight-senam-ritmik-putri-asian-games-2026-tri-wahyuni-tempati-posisi-20",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T06:45:51.000Z",
+      "cuplikan": "Highlight penampilan Tri Wahyuni pada nomor individual all-around senam ritmik putri Asian Games Aichi-Nagoya 2026. Tri Wahyuni mencatatkan skor 80,600 dan menempati posisi ke-20 dalam klasemen kualifikasi. (Editor video: Intern/Daifan…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/3rpWvFIEEDsgMG1_Jeq1GG2Gyr4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9366395/original/008718800_1791265184-20261005_rythmic-gymnastic-horizontal-32c2db.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "60917f974fd4",
+      "judul": "Jarang Diketahui, 7 Fitur Android Ini Bisa Bikin HP Kamu Makin Praktis",
+      "tautan": "https://jawapos.com/teknologi/2610060227/jarang-diketahui-7-fitur-android-ini-bisa-bikin-hp-kamu-makin-praktis",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T06:45:36.000Z",
+      "cuplikan": "Temukan fitur-fitur tersembunyi di HP Android yang dapat memudahkan aktivitas sehari-hari, mulai dari split screen hingga find hub.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/08/22/ilustrasi-hp-android-pexelsmohi-syed-UQHqB.webp"
+    },
+    {
+      "id": "a828c3fff718",
+      "judul": "South Korea Investigates Possible Use of A.I. in Hacks on Its Banks",
+      "tautan": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-10-06T06:12:45.000Z",
+      "cuplikan": "The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating.",
+      "gambar": "https://static01.nyt.com/images/2026/10/06/multimedia/06xp-skorea-ai-jkbg/06xp-skorea-ai-jkbg-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Cyberattacks and Hackers",
+        "Politics and Government",
+        "Lee Jae-myung",
+        "South Korea",
+        "Banking and Financial Institutions",
+        "Police"
+      ]
+    },
+    {
+      "id": "633aea9e9d62",
+      "judul": "Justin Hubner Ngaku Keluarganya Dapat Ancaman Pembunuhan di Media Sosial",
+      "tautan": "https://www.viva.co.id/bola/1933624-justin-hubner-ngaku-keluarganya-dapat-ancaman-pembunuhan-di-media-sosial",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T06:11:16.000Z",
+      "cuplikan": "Bek Timnas Indonesia Justin Hubner mengaku bahwa keluarganya mendapatkan ancaman pembunuhan dari sejumlah pihak di media sosial saat dirinya membela Garuda",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/05/6ac375117aef0-pemain-timnas-indonesia-justin-hubner_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "6f299582350c",
+      "judul": "Skor AnTuTu Poco F9 Pro Diklaim Tembus 3,5 Juta",
+      "tautan": "https://www.liputan6.com/tekno/read/8306501/skor-antutu-poco-f9-pro-diklaim-tembus-35-juta",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T06:06:27.000Z",
+      "cuplikan": "Poco F9 Pro menggunakan Snapdragon 8 Elite Gen 5 V Series dan mencatat skor AnTuTu hingga 3.549.497. Bagaimana Performa HP ini untuk bermain game?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/c-UEhlXu0lF2HLWUOvd1u63M8Yw=/0x0:3469x1951/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9365884/original/021147900_1791199664-IMG_0335.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "db6cbc99a4db",
+      "judul": "Bukan Cuma Juara, PSSI Bisa Raup Puluhan Miliar dalam Semalam usai Timnas Indonesia Juara FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1933623-bukan-cuma-juara-pssi-bisa-raup-puluhan-miliar-dalam-semalam-usai-timnas-indonesia-juara-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T06:01:43.000Z",
+      "cuplikan": "Timnas Indonesia juara FIFA ASEAN Cup 2026. PSSI berpotensi meraup lebih dari Rp40 miliar dari tiket final, hadiah juara, serta participation fee di Jakarta.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac48dda8cc79-timnas-indonesia-juara-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "feee04dfa050",
+      "judul": "Persebaya Surabaya Diminta Abaikan Peringkat Isenmulang FC",
+      "tautan": "https://www.liputan6.com/bola/read/8306449/persebaya-surabaya-diminta-abaikan-peringkat-isenmulang-fc",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T06:00:24.000Z",
+      "cuplikan": "Persebaya Surabaya hadapi Isenmulang FC pada pekan keempat BRI Super League.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/-NpALkFgDgN2no6o_-yFa4zjzfE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9306465/original/055972000_1784879501-tavares.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "f1e34ec54a5b",
+      "judul": "POCO F9 Ultra dan F9 Pro Meluncur di Indonesia, Cek Spesifikasi dan Harganya",
+      "tautan": "https://ototekno.okezone.com/read/2026/10/06/16/3246258/poco-f9-ultra-dan-f9-pro-meluncur-di-indonesia-cek-spesifikasi-dan-harganya",
+      "sumber": "Okezone",
+      "kanal": "okezone-techno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T06:00:19.000Z",
+      "cuplikan": "POCO F9 hadir dalam varian Pro dan Ultra.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/06/16/3246258/poco_meluncurkan_f9_pro_dan_f9_ultra_di_indonesia-5VPH_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
+    },
+    {
+      "id": "483d2552d3ac",
+      "judul": "‘Pull the plug’: protesters resort to direct action against AI firms",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-06T06:00:04.000Z",
+      "cuplikan": "Campaign groups report surge in membership after a spate of AI safety alerts and apocalyptic warnings In a bar below Waterloo Bridge, a cell of a fast-growing anti-AI protest movement met last week to plot their latest move: disrupting a…",
+      "gambar": "https://i.guim.co.uk/img/media/c8e5d42e1a557862182577de9c2f72e61899aec2/237_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=50410ecbc4aae0a4f76cccb90aa790a3",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "UK news",
+        "Technology",
+        "OpenAI",
+        "Donald Trump",
+        "Computing",
+        "Activism"
+      ]
+    },
+    {
+      "id": "70875ec9fa81",
+      "judul": "Justin Hubner mengaku keluarganya dapat ancaman pembunuhan",
+      "tautan": "https://www.antaranews.com/berita/5773054/justin-hubner-mengaku-keluarganya-dapat-ancaman-pembunuhan",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T05:59:04.000Z",
+      "cuplikan": "Bek Timnas Indonesia Justin Hubner mengaku bahwa keluarganya mendapatkan ancaman pembunuhan dari sejumlah pihak di ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/01/FIFA-ASEAN-Cup-2026-Indonesia-melawan-Bangladesh-011026-MRH-12.jpg"
+    },
+    {
+      "id": "d153326c3935",
+      "judul": "Highlight Golf Putri Indonesia di Asian Games 2026, Elaine Widjaja Finis Posisi 25",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8306966/highlight-golf-putri-indonesia-di-asian-games-2026-elaine-widjaja-finis-posisi-25",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T05:56:43.000Z",
+      "cuplikan": "Highlight penampilan Elaine Widjaja pada nomor golf individu putri Asian Games Aichi-Nagoya 2026. Memasuki Round 3, Elaine mencatat total +9 dan berada di posisi ke-25 klasemen. Saksikan aksi Elaine Widjaja di lapangan golf Asian Games…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/c5bn0iruRfx4womCh0NaYyFcCuU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9366389/original/001899500_1791264415-20261005_golf-wanita-horizontal-13fef0.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "2e7f6322e750",
+      "judul": "Highlight Equestrian Jumping Team Asian Games 2026, Indonesia Finis di Peringkat 7",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8306896/highlight-equestrian-jumping-team-asian-games-2026-indonesia-finis-di-peringkat-7",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T05:56:24.000Z",
+      "cuplikan": "Highlight perjuangan tim equestrian jumping Indonesia pada Asian Games Aichi-Nagoya 2026. Indonesia finis di peringkat ketujuh dengan total 225,35 poin dan 69 penalti. Saksikan rangkaian momen pertandingan hingga hasil akhir perjuangan…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/shpT_A_Jk34Ew9GPK5fScyOeJRo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9366283/original/022248600_1791260652-20261005_berkuda-pria-horizontal-dec895.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "6adeff19d1da",
+      "judul": "Highlight Golf Beregu Putra Indonesia di Asian Games 2026, Bertahan di Posisi 9 Usai Round 3",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8306935/highlight-golf-beregu-putra-indonesia-di-asian-games-2026-bertahan-di-posisi-9-usai-round-3",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T05:56:09.000Z",
+      "cuplikan": "Highlight perjuangan tim golf beregu putra Indonesia pada Round 3 Asian Games Aichi-Nagoya 2026. Indonesia berada di posisi ke-9 dengan catatan total -2 setelah menyelesaikan putaran ketiga. Saksikan aksi dan perjuangan wakil Merah Putih…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dBQz-Fv2O7WS9LDKotrJkU5Oz5U=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9366332/original/061199800_1791263194-20261005_golf-pria-horizontal-77ead2.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "4ed29bdc22b3",
+      "judul": "Media Kanada Turut Bangga usai John Herdman Bawa Timnas Indonesia Juara FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1933622-media-kanada-turut-bangga-usai-john-herdman-bawa-timnas-indonesia-juara-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T05:54:42.000Z",
+      "cuplikan": "Media Kanada soroti sukses John Herdman membawa Timnas Indonesia juara FIFA ASEAN Cup 2026 setelah menaklukkan Thailand dramatis di Jakarta lewat adu penalti.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac48c412b3e1-pelatih-timnas-indonesia-john-herdman-jelang-laga-final-fifa-asean-cup-2026-menghadapi-thailand_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "2f6af1cb3934",
+      "judul": "Sony Music Minta Platform Digital Hapus Lagu yang Dibuat Pakai Deepfake",
+      "tautan": "https://ameera.republika.co.id/berita/tmh0pm425/sony-music-minta-platform-digital-hapus-lagu-yang-dibuat-pakai-deepfake",
+      "sumber": "Republika",
+      "kanal": "republika-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T05:32:10.000Z",
+      "cuplikan": "Sony Music meminta platform digital menghapus lebih dari 260 ribu lagu deepfake berbasis kecerdasan buatan (Al) hingga akhir September. Angka tersebut hampir dua kali lipat dibandingkan...",
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/mendengarkan-musik-di-platform-digital-ilustrasi-sony-music-meminta_261006122829-607.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "37afd2f66fc0",
+      "judul": "Perjalanan Lengkap Timnas Indonesia di FIFA ASEAN Cup 2026: Nyaris Gagal ke Final, Garuda Ukir Sejarah",
+      "tautan": "https://www.viva.co.id/bola/1933609-perjalanan-lengkap-timnas-indonesia-di-fifa-asean-cup-2026-nyaris-gagal-ke-final-garuda-ukir-sejarah",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T05:17:22.000Z",
+      "cuplikan": "Timnas Indonesia menjuarai FIFA ASEAN Cup 2026 setelah perjalanan dramatis, dari nyaris tersingkir di fase grup hingga menaklukkan Thailand lewat adu penalti.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac4838ec037c-timnas-indonesia-juara-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "6651f38d1db4",
+      "judul": "Pakai VR Ternyata Bisa Picu Seseorang Mengalami Pengalaman Mistis, Studi Ungkap Alasannya",
+      "tautan": "https://jawapos.com/teknologi/2610060205/pakai-vr-ternyata-bisa-picu-seseorang-mengalami-pengalaman-mistis-studi-ungkap-alasannya",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T04:56:51.000Z",
+      "cuplikan": "Studi terbaru menunjukkan penggunaan virtual reality (VR) dapat memicu pengalaman mistis pada sebagian pengguna, mulai dari rasa menyatu dengan lingkungan hingga perubahan persepsi terhadap waktu dan ruang.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/06/seseorang-menggunakan-headset-virtual-reality-vr-untuk-menjelajahi-lingkungan-digital-tiga-dimensi-psypost-jEqY4.webp"
+    },
+    {
+      "id": "2b6a1a3793ab",
+      "judul": "Anthropic says AI agents didn’t breach Australian government websites – video",
+      "tautan": "https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-06T04:52:12.000Z",
+      "cuplikan": "During a joint parliamentary hearing on artificial intelligence, Anthropic’s head of safeguards, Dave Orr, says that investigations of hundreds of millions of transcripts reveal no unauthorised interactions with Australian government…",
+      "gambar": "https://i.guim.co.uk/img/media/4f9c873763e1a897c9ab94c0dbc4b99b641ae5fb/555_181_1122_899/master/1122.jpg?width=140&quality=85&auto=format&fit=max&s=5f82b8f5a22de0691a353039f0289218",
+      "kategoriSumber": [
+        "Australian media",
+        "AI (artificial intelligence)",
+        "Australian politics",
+        "OpenAI",
+        "Medicare Australia"
+      ]
+    },
+    {
+      "id": "01f81c61f97e",
+      "judul": "Punya Rekor Bagus, Veda Ega Pratama Menangi Moto3 Mandalika 2026?",
+      "tautan": "https://sports.okezone.com/read/2026/10/06/38/3246240/punya-rekor-bagus-veda-ega-pratama-menangi-moto3-mandalika-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T04:38:02.000Z",
+      "cuplikan": "Veda Ega Pratama memiliki rekor bagus di Sirkuit Internasional Mandalika, tuan rumah Moto3 Mandalika 2026 akhir pekan ini.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/06/38/3246240/veda_ega_pratama-FyIm_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "1f6bd8a30825",
+      "judul": "Prediksi Pecco Bagnaia Soal Pertarungan Marc Marquez vs Jorge Martin",
+      "tautan": "https://www.liputan6.com/bola/read/8306540/prediksi-pecco-bagnaia-soal-pertarungan-marc-marquez-vs-jorge-martin",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T04:30:26.000Z",
+      "cuplikan": "MotoGP 2026 menyisakan enam seri.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/kXz1-2hpGR54G1UdG4wxcGce5bo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353205/original/034322900_1789922137-marc_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "7988639a0e2b",
+      "judul": "Cara Mudah Menyembunyikan Notifikasi Whatsapp",
+      "tautan": "https://ototekno.okezone.com/read/2026/10/06/16/3246239/cara-mudah-menyembunyikan-notifikasi-whatsapp",
+      "sumber": "Okezone",
+      "kanal": "okezone-techno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T04:29:32.000Z",
+      "cuplikan": "Berikut langkah-langkah yang perlu dilakukan untuk menyembunyikan notifikasi Whatsapp.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/06/16/3246239/ilustrasi-pHkW_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
+    },
+    {
+      "id": "824e8025c635",
+      "judul": "John Herdman berharap temukan Alphonso Davies versi Indonesia",
+      "tautan": "https://www.antaranews.com/berita/5772926/john-herdman-berharap-temukan-alphonso-davies-versi-indonesia",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T04:23:21.000Z",
+      "cuplikan": "Pelatih Kepala Timnas Indonesia John Herdman berharap bisa menemukan pemain muda Indonesia yang berkembang hingga mampu ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/30/Latihan-resmi-Timnas-Indonesia-300926-MRH-9.jpg"
+    },
+    {
+      "id": "b3735dec8172",
+      "judul": "UEFA Nations League: Italia tekuk Turki 3-1",
+      "tautan": "https://www.antaranews.com/foto/5772924/uefa-nations-league-italia-tekuk-turki-3-1",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T04:22:35.000Z",
+      "cuplikan": "Pesepak bola Italia Issa Doumbia (kiri) menendang bola ke arah gawang Turki pada babak penyisihan Grup A UEFA Nations ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/06/XxjpbeE000071_20261006_PEPFN0A001.jpg"
+    },
+    {
+      "id": "ed2b6756fb32",
+      "judul": "Top 3 Tekno: Pre-Order iPhone 18 Pro dan iPhone Duo di Indonesia",
+      "tautan": "https://www.liputan6.com/tekno/read/8306850/top-3-tekno-pre-order-iphone-18-pro-dan-iphone-duo-di-indonesia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T04:22:00.000Z",
+      "cuplikan": "Sejumlah reseller resmi Apple, termasuk iBox Indonesia, membuka pre-order untuk iPhone 18 Pro, iPhone 18 Pro, dan iPhone Duo mulai 7 Oktober 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/QBEt-CF_KSDq9iCxJjDwGTLbAFY=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9365567/original/092749000_1791185171-Pre-order_iPhone_18_Pro.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "b103a67ae76f",
+      "judul": "Bukan Bawa Kanada ke Piala Dunia, John Herdman Ngaku Bawa Indonesia Juara jadi Pengalaman Terbaik: Ada Ikatan Emosional",
+      "tautan": "https://www.viva.co.id/bola/1933593-bukan-bawa-kanada-ke-piala-dunia-john-herdman-ngaku-bawa-indonesia-juara-jadi-pengalaman-terbaik-ada-ikatan-emosional",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T03:54:14.000Z",
+      "cuplikan": "John Herdman menyebut juara FIFA ASEAN Cup bersama Indonesia sebagai pengalaman terbaik dalam kariernya. Ia mengungkap ikatan emosional dengan para pemain.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac46fc17f8fa-john-herdman-dan-elkan-baggott-usai-bawa-indonesia-juara-fifa-asean-cup_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "44dd0a13db69",
+      "judul": "Indonesia juara FIFA ASEAN Cup 2026",
+      "tautan": "https://www.antaranews.com/infografik/5772869/indonesia-juara-fifa-asean-cup-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T03:45:00.000Z",
+      "cuplikan": "Tim nasional sepak bola Indonesia menjuarai FIFA ASEAN Cup 2026 usai mengalahkan Thailand, Senin (5/10) malam. ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/06/20261006-Indonesia-juara-FIFA-ASEAN-Cup-2026.jpg"
+    },
+    {
+      "id": "665610bba27a",
+      "judul": "Persik Kediri manfaatkan jeda kompetisi untuk matangkan taktik",
+      "tautan": "https://www.antaranews.com/berita/5772881/persik-kediri-manfaatkan-jeda-kompetisi-untuk-matangkan-taktik",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T03:39:23.000Z",
+      "cuplikan": "Persik Kediri memanfaatkan jeda kompetisi untuk meningkatkan kemampuan skuad, dengan fokus latihan pekan ini diarahkan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/06/1001017117.jpg"
+    },
+    {
+      "id": "b63effc619a4",
+      "judul": "Jadwal Hyundai Hillstate di KOVO Cup 2026: Megawati Hangestri Langsung Sumbang Gelar Juara?",
+      "tautan": "https://sports.okezone.com/read/2026/10/06/43/3246217/jadwal-hyundai-hillstate-di-kovo-cup-2026-megawati-hangestri-langsung-sumbang-gelar-juara",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T03:27:40.000Z",
+      "cuplikan": "Simak jadwal Hyundai Hillstate di KOVO Cup 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/06/43/3246217/simak_jadwal_hyundai_hillstate_di_kovo_cup_2026-2euJ_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "a453126c1ec0",
+      "judul": "HP Kena Air Direndam Beras Justru Berbahaya, Ini Faktanya",
+      "tautan": "https://www.liputan6.com/tekno/read/8306425/hp-kena-air-direndam-beras-justru-berbahaya-ini-faktanya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-06T03:16:28.000Z",
+      "cuplikan": "Banyak orang akan langsung merendam HP di dalam beras ketika kena air. Nyatanya, metode ini akan membahayakan HP kamu. Kenapa?",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/f71X7tGuvKPi9VWx6VBa-hshoR8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3236202/original/035657400_1599930493-pierre-bamin--LdilhDx3sk-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "018aab8fb119",
+      "judul": "Top 3 Berita Bola: Timnas Indonesia Juara FIFA ASEAN Cup 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8306674/top-3-berita-bola-timnas-indonesia-juara-fifa-asean-cup-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T03:00:07.000Z",
+      "cuplikan": "Kabar dari FIFA ASEAN Cup 2026 dan Moto3 Indonesia 2026 memicu keingintahuan pembaca Kanal Bola Liputan6.com.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/jL2c6UxDUtqUBT6F4XKsFSNEYh0=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9365997/original/078923700_1791213878-selebrasi_3.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ef0c2edc63f4",
+      "judul": "Di Balik Sukses Bawa Indonesia Juara FIFA ASEAN Cup, John Herdman Ungkap Kisah Pilu Sang Adik",
+      "tautan": "https://www.viva.co.id/bola/1933578-di-balik-sukses-bawa-indonesia-juara-fifa-asean-cup-john-herdman-ungkap-kisah-pilu-sang-adik",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T02:53:44.000Z",
+      "cuplikan": "John Herdman ungkap kisah pilu sang adik setelah bawa Indonesia juara FIFA ASEAN Cup 2026. Ia menyebut gelar bersama Garuda sebagai pencapaian terbaiknya.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac45ff89e05a-john-herdman-kiri-usai-bawa-indonesia-juara-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "cf45ef012e77",
+      "judul": "Jelang Laga Perpisahan, Emiliano Martinez Ungkap Rencana Argentina untuk Lionel Messi",
+      "tautan": "https://www.liputan6.com/bola/read/8306807/jelang-laga-perpisahan-emiliano-martinez-ungkap-rencana-argentina-untuk-lionel-messi",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-06T02:49:19.000Z",
+      "cuplikan": "Emiliano Martinez mengungkap cara Argentina menyambut Lionel Messi jelang laga perpisahan. Skuad Albiceleste menyiapkan barbekyu bersama sang kapten.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/QtOYziTgtiJKGGebNJGLFJ956SQ=/0x99:2522x1520/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8296460/original/082795500_1782159766-Argentina_s_Lionel_Messi.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
     {
       "id": "2579ec0c6de9",
       "judul": "Manchester United Tegas Pertahankan Benjamin Sesko di Tengah Minat Barcelona dan Juventus",
