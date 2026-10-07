@@ -2,10 +2,11 @@ name: Perbarui berita
 
 on:
   schedule:
-    # 08.00, 11.00, dan 15.00 WIB (jam UTC = WIB − 7).
-    # Samakan dengan jamPembaruan di laju.config.mjs bila diubah.
+    # Tiap jam 08.23-16.23 WIB (jam UTC = WIB - 7). GitHub kerap melewati jadwal gratis,
+    # jadi dicoba tiap jam; langkah "Perlu diperbarui?" yang menjaga agar pembaruan tetap
+    # sekitar 3 kali sehari (jamPembaruan dan jedaMinimalMenit di laju.config.mjs).
     # Menit 23 dipilih karena jadwal GitHub paling sering tertunda pada menit 00.
-    - cron: "23 1,4,8 * * *"
+    - cron: "23 1-9 * * *"
   workflow_dispatch: {}
   push:
     branches: [main]
@@ -34,32 +35,44 @@ jobs:
           node-version: 22
           cache: npm
 
+      - name: Perlu diperbarui?
+        id: cek
+        run: node scripts/perlu-perbarui.mjs ${{ github.event_name != 'schedule' && '--paksa' || '' }}
+
       - run: npm ci
+        if: steps.cek.outputs.perlu == 'true'
 
       - name: Ambil berita
+        if: steps.cek.outputs.perlu == 'true'
         run: node scripts/ambil-berita.mjs
 
       - name: Ambil skor sepak bola
+        if: steps.cek.outputs.perlu == 'true'
         run: node scripts/ambil-skor.mjs
 
       - name: Ringkasan Pagi (dilewati bila ANTHROPIC_API_KEY belum diatur)
+        if: steps.cek.outputs.perlu == 'true'
         run: node scripts/ringkasan.mjs
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Bangun situs
+        if: steps.cek.outputs.perlu == 'true'
         run: node scripts/bangun.mjs
 
       - name: Ringkasan AI berita utama (dilewati bila kunci API belum diatur)
+        if: steps.cek.outputs.perlu == 'true'
         run: node scripts/ringkas-berita.mjs
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Bangun ulang dengan ringkasan
+        if: steps.cek.outputs.perlu == 'true'
         run: node scripts/bangun.mjs
 
       - name: Simpan data ke repositori
+        if: steps.cek.outputs.perlu == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -73,10 +86,13 @@ jobs:
           fi
 
       - uses: actions/configure-pages@v5
+        if: steps.cek.outputs.perlu == 'true'
 
       - uses: actions/upload-pages-artifact@v4
+        if: steps.cek.outputs.perlu == 'true'
         with:
           path: dist
 
       - id: terbit
+        if: steps.cek.outputs.perlu == 'true'
         uses: actions/deploy-pages@v4

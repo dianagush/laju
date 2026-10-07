@@ -56,7 +56,9 @@ LAJU memakai GitHub Actions untuk jadwal otomatis dan GitHub Pages untuk hosting
 
 Setelah itu, situs diperbarui sendiri pukul 08.00, 11.00, dan 15.00 WIB.
 
-Jadwal gratis GitHub berprioritas rendah: pembaruan sering tertunda (pengamatan 29 September–6 Oktober 2026: rata-rata sekitar 2 jam, terparah 5,5 jam) dan sesekali dilewati. Karena itu situs menulis "berikutnya sekitar …", dan jadwal dipasang pada menit ke-23, bukan menit ke-00 yang paling ramai.
+Jadwal gratis GitHub berprioritas rendah: pembaruan sering tertunda (pengamatan 29 September–7 Oktober 2026: rata-rata sekitar 2 jam, terparah 5,5 jam) dan sebagian dilewati sama sekali — pada 7 Oktober kedua jadwal pagi tidak jalan.
+
+Karena itu workflow dijadwalkan **tiap jam** pukul 08.23–16.23 WIB, lalu langkah pertamanya () memutuskan: pembaruan hanya dijalankan bila jarak dari pembaruan terakhir sudah melewati  (bawaan 150 menit). Hasilnya tetap sekitar tiga kali sehari seperti , tetapi jadwal yang terlewat langsung disusul jam berikutnya. Menjalankan lewat **Run workflow** selalu memperbarui tanpa menunggu jeda.
 
 Kalau langkah "Simpan data ke repositori" gagal karena izin, buka **Settings → Actions → General → Workflow permissions** dan pilih **Read and write permissions**.
 
