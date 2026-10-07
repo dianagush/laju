@@ -1,7 +1,36 @@
 {
   "tanggal": "2026-10-07",
-  "diperbarui": "2026-10-07T06:48:27.860Z",
+  "diperbarui": "2026-10-07T07:09:50.142Z",
   "berita": [
+    {
+      "id": "e3cbeaad67df",
+      "judul": "Spotify expands audiobooks to over 180 markets",
+      "tautan": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-07T07:00:00.000Z",
+      "cuplikan": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "gambar": "",
+      "kategoriSumber": [
+        "TC",
+        "Media & Entertainment",
+        "Apps",
+        "Spotify",
+        "audiobooks"
+      ]
+    },
+    {
+      "id": "f93c04401f21",
+      "judul": "Tak Cuma iPhone, Apple Siapkan Bel Pintu hingga Kamera Pintar Bareng LG",
+      "tautan": "https://jawapos.com/teknologi/2610070195/tak-cuma-iphone-apple-siapkan-bel-pintu-hingga-kamera-pintar-bareng-lg",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-07T06:56:15.000Z",
+      "cuplikan": "Apple dan LG berkolaborasi untuk menghadirkan perangkat rumah pintar baru, termasuk bel pintu pintar dan kamera keamanan.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/02/25/IMG_4635-3314941787.jpeg"
+    },
     {
       "id": "d8f06bc6faa1",
       "judul": "Pemerintah siapkan perhatian lebih untuk cabang menuju Olimpiade 2028",
