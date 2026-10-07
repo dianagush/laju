@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-07T06:42:01.304Z",
+  "diperbarui": "2026-10-07T06:48:27.860Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -237,7 +237,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-07T04:35:59.000Z"
+      "terbaru": "2026-10-07T06:46:44.000Z"
     },
     {
       "id": "antara-bulutangkis",
@@ -247,14 +247,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 7,
+      "diterima": 8,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 13,
+        "terlaluLama": 12,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-07T04:27:17.000Z"
+      "terbaru": "2026-10-07T06:42:47.000Z"
     },
     {
       "id": "antara-tenis",
@@ -441,7 +441,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-06T23:30:00.000Z"
+      "terbaru": "2026-10-07T00:00:00.000Z"
     }
   ]
 }

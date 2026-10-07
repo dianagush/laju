@@ -1,7 +1,29 @@
 {
   "tanggal": "2026-10-07",
-  "diperbarui": "2026-10-07T06:42:01.304Z",
+  "diperbarui": "2026-10-07T06:48:27.860Z",
   "berita": [
+    {
+      "id": "d8f06bc6faa1",
+      "judul": "Pemerintah siapkan perhatian lebih untuk cabang menuju Olimpiade 2028",
+      "tautan": "https://www.antaranews.com/berita/5774952/pemerintah-siapkan-perhatian-lebih-untuk-cabang-menuju-olimpiade-2028",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-07T06:46:44.000Z",
+      "cuplikan": "Wakil Menteri Pemuda dan Olahraga Taufik Hidayat mengatakan pemerintah menyiapkan perhatian lebih terhadap sejumlah ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/09/1000425445.jpg"
+    },
+    {
+      "id": "41c7d23ec8aa",
+      "judul": "Wamenpora: Efisiensi tak boleh mengganggu pembinaan atlet",
+      "tautan": "https://www.antaranews.com/berita/5774946/wamenpora-efisiensi-tak-boleh-mengganggu-pembinaan-atlet",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-07T06:42:47.000Z",
+      "cuplikan": "Wakil Menteri Pemuda dan Olahraga (Wamenpora) sekaligus Wakil Ketua Umum PP PBSI Taufik Hidayat menegaskan kebijakan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/07/taufik-hidayat.jpeg"
+    },
     {
       "id": "a71a29b3d677",
       "judul": "Badai Cedera yang Menghantam AC Milan",
@@ -740,6 +762,20 @@
       "kategoriSumber": [
         "Gear",
         "Gear / Gear News and Events"
+      ]
+    },
+    {
+      "id": "044544fb87ad",
+      "judul": "How long have wireless gaming controllers been around for?",
+      "tautan": "https://www.engadget.com/2278016/how-long-wireless-gaming-controllers-been-around/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-07T00:00:00.000Z",
+      "cuplikan": "Game controllers have experimented with losing the cords for longer than you'd think, but early attempts didn't have much success.",
+      "gambar": "https://www.engadget.com/img/gallery/how-long-have-wireless-gaming-controllers-been-around-for/l-intro-1791229163.jpg",
+      "kategoriSumber": [
+        "Gaming"
       ]
     },
     {
