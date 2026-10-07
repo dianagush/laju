@@ -1,12 +1,12 @@
 # LAJU
 
-Portal berita teknologi dan olahraga yang memperbarui dirinya sendiri. LAJU membaca RSS resmi media Indonesia enam kali sehari, membuang berita yang di luar topik, mengelompokkan berita yang membahas cerita yang sama, lalu menerbitkan situs statis. Setiap pagi, AI bisa menulis **Ringkasan Pagi**: 5 poin per lajur, masing-masing dengan tautan ke sumbernya.
+Portal berita teknologi dan olahraga yang memperbarui dirinya sendiri. LAJU membaca RSS resmi media Indonesia tiga kali sehari, membuang berita yang di luar topik, mengelompokkan berita yang membahas cerita yang sama, lalu menerbitkan situs statis. Setiap pagi, AI bisa menulis **Ringkasan Pagi**: 5 poin per lajur, masing-masing dengan tautan ke sumbernya.
 
 LAJU hanya menampilkan judul, cuplikan, gambar mini, nama sumber, dan waktu. Artikel lengkap selalu dibaca di situs aslinya.
 
 ## Menjalankan di komputer sendiri
 
-Butuh [Node.js](https://nodejs.org) versi 20 atau lebih baru. Tidak perlu `npm install` kecuali untuk Ringkasan Pagi.
+Butuh [Node.js](https://nodejs.org) versi 20 atau lebih baru. Tidak perlu `npm install` kecuali kalau penyedia AI-nya diubah ke Claude.
 
 ```bash
 npm run perbarui
@@ -58,24 +58,30 @@ Setelah itu, situs diperbarui sendiri pukul 08.00, 11.00, dan 15.00 WIB.
 
 Jadwal gratis GitHub berprioritas rendah: pembaruan sering tertunda (pengamatan 29 September–7 Oktober 2026: rata-rata sekitar 2 jam, terparah 5,5 jam) dan sebagian dilewati sama sekali — pada 7 Oktober kedua jadwal pagi tidak jalan.
 
-Karena itu workflow dijadwalkan **tiap jam** pukul 08.23–16.23 WIB, lalu langkah pertamanya () memutuskan: pembaruan hanya dijalankan bila jarak dari pembaruan terakhir sudah melewati  (bawaan 150 menit). Hasilnya tetap sekitar tiga kali sehari seperti , tetapi jadwal yang terlewat langsung disusul jam berikutnya. Menjalankan lewat **Run workflow** selalu memperbarui tanpa menunggu jeda.
+Karena itu workflow dijadwalkan **tiap jam** pukul 08.23–16.23 WIB, lalu langkah pertamanya (`scripts/perlu-perbarui.mjs`) memutuskan: pembaruan hanya dijalankan bila jarak dari pembaruan terakhir sudah melewati `jedaMinimalMenit` (bawaan 150 menit). Hasilnya tetap sekitar tiga kali sehari seperti `jamPembaruan`, tetapi jadwal yang terlewat langsung disusul jam berikutnya. Menjalankan lewat **Run workflow** selalu memperbarui tanpa menunggu jeda.
 
 Kalau langkah "Simpan data ke repositori" gagal karena izin, buka **Settings → Actions → General → Workflow permissions** dan pilih **Read and write permissions**.
 
 ## Mengaktifkan Ringkasan Pagi (AI)
 
-Tanpa kunci API, situs tetap jalan dan menampilkan **Sorotan**, yaitu cerita yang paling banyak diliput. Untuk ringkasan tulisan AI:
+Tanpa kunci API, situs tetap jalan dan menampilkan **Sorotan**, yaitu cerita yang paling banyak diliput. Untuk ringkasan tulisan AI cukup satu kunci: kunci yang sama dipakai Ringkasan Pagi dan [ringkasan AI berita utama](#ringkasan-ai-berita-utama).
 
-1. Buat kunci API di [console.anthropic.com](https://console.anthropic.com).
-2. Di repositori GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Nama: `ANTHROPIC_API_KEY`, isi: kuncimu.
+Gratis, dengan Gemini (bawaan):
 
-Ringkasan dibuat sekali sehari pada pembaruan pertama setelah pukul 08.00 WIB, memakai model Claude Opus 5. Satu ringkasan membaca sekitar 10 ribu token dan menulis beberapa ribu token. Perkiraan kasarnya US$0,10–0,20 per hari. Poin tanpa tautan sumber yang sah dibuang otomatis sebelum terbit.
+1. Buka [Google AI Studio](https://aistudio.google.com/apikey), masuk dengan akun Google, lalu **Create API key**.
+2. Di repositori GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Nama: `GEMINI_API_KEY`, isi: kuncinya.
+
+Ringkasan dibuat sekali sehari pada pembaruan pertama setelah pukul 08.00 WIB (`jamRingkasan`). Poin tanpa tautan sumber yang sah dibuang otomatis sebelum terbit.
+
+Pindah ke Claude (berbayar): ubah `penyedia` menjadi `'claude'` di bagian `ai` pada `laju.config.mjs`, buat kunci di [console.anthropic.com](https://console.anthropic.com), lalu isi secret `ANTHROPIC_API_KEY`. Satu Ringkasan Pagi membaca sekitar 10 ribu token dan menulis beberapa ribu token; perkiraan kasarnya US$0,10–0,20 per hari.
 
 Untuk mencoba di komputer sendiri (PowerShell):
 
 ```powershell
-npm install; $env:ANTHROPIC_API_KEY="kunci-kamu"; npm run ringkasan -- --paksa; npm run bangun
+$env:GEMINI_API_KEY="kunci-kamu"; npm run ringkasan -- --paksa; npm run bangun
 ```
+
+Pengaturan Ringkasan Pagi ada di `laju.config.mjs` bagian `ringkasanPagi`: `aktif`, `poinPerLajur` (bawaan 5), dan `kandidatPerLajur` (berapa cerita teratas per lajur yang disodorkan ke AI).
 
 ## Mengubah sumber, jadwal, dan saringan
 
@@ -93,10 +99,11 @@ Status tiap sumber (berapa berita diterima atau dibuang, dan apakah gagal diambi
 ```
 laju.config.mjs          pengaturan
 scripts/ambil-berita.mjs langkah 1–3: ambil RSS, saring, simpan per hari
-scripts/ringkasan.mjs    langkah 5: Ringkasan Pagi dengan Claude API
+scripts/ringkasan.mjs    langkah 5: Ringkasan Pagi dengan AI (Gemini atau Claude)
 scripts/bangun.mjs       langkah 6: bangun situs statis ke dist/
+scripts/ringkas-berita.mjs ringkasan AI satu paragraf untuk berita utama
 scripts/lihat.mjs        pratinjau lokal
-scripts/lib/             pembaca RSS, pengelompokan berita, waktu WIB, template HTML
+scripts/lib/             pembaca RSS, pengelompokan berita, waktu WIB, template HTML, penghubung AI
 public/                  CSS, JavaScript, ikon
 data/berita/             arsip berita per hari (diisi otomatis)
 data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
@@ -107,17 +114,14 @@ data/ringkasan/          Ringkasan Pagi per hari (diisi otomatis)
 
 Kartu utama dan tiga berita di bawahnya (tiap lajur, termasuk Global) bisa diberi **satu paragraf ringkasan** yang ditulis AI dari isi artikel, berlabel "Ringkasan AI". Berita Global diringkas dalam bahasa Indonesia. Hanya berita yang belum punya ringkasan yang dikirim ke AI; hasilnya disimpan di `data/ringkasan-berita.json`.
 
-Mengaktifkan (gratis, dengan Gemini):
-
-1. Buka [Google AI Studio](https://aistudio.google.com/apikey), masuk dengan akun Google, lalu **Create API key**.
-2. Di repositori GitHub: **Settings → Secrets and variables → Actions → New repository secret**. Nama: `GEMINI_API_KEY`, isi: kuncinya.
+Kuncinya sama dengan Ringkasan Pagi (`GEMINI_API_KEY`, atau `ANTHROPIC_API_KEY` bila `ai.penyedia` diubah ke `'claude'`), jadi sekali dipasang, kedua fitur langsung jalan.
 
 Catatan:
 
 - Kuota gratis Gemini dibatasi per hari; setiap pembaruan paling banyak meminta 12 ringkasan (`maksPerPembaruan`). Bila kuota habis, sisa berita diringkas pada pembaruan berikutnya dan sementara tampil dengan cuplikan biasa.
 - Di kuota gratis, teks yang dikirim dipakai Google untuk mengembangkan produknya. Yang dikirim hanya teks artikel berita publik.
 - Teks artikel diambil dari halaman berita (atau dari RSS bila halaman tidak terbaca, mis. Ars Technica). Berita berbayar seperti The New York Times dilewati.
-- Pindah ke Claude: ubah `penyedia` menjadi `'claude'` di bagian `ringkasanBerita` pada `laju.config.mjs`, lalu isi secret `ANTHROPIC_API_KEY` (berbayar).
+- Penyedia dan modelnya diatur di bagian `ai`; sisa pengaturan fitur ini (`beritaPerLajur`, `maksPerPembaruan`, `jedaDetik`, `maksKata`) di bagian `ringkasanBerita`.
 
 ## Kategori berita
 
@@ -176,7 +180,7 @@ Laporan ini tidak mengubah apa pun. Isinya: jumlah berita yang digabung, cerita 
 
 ## Catatan
 
-- Folder ini ada di OneDrive. Menjalankan `npm install` membuat folder `node_modules` berisi ratusan berkas yang ikut disinkronkan. Folder itu hanya dibutuhkan untuk Ringkasan Pagi di komputer sendiri. Di GitHub, pemasangan terjadi otomatis.
+- Folder ini ada di OneDrive. Menjalankan `npm install` membuat folder `node_modules` berisi ratusan berkas yang ikut disinkronkan. Folder itu hanya dibutuhkan bila penyedia AI-nya Claude (paket `@anthropic-ai/sdk`); dengan Gemini, LAJU jalan tanpa paket tambahan. Di GitHub, pemasangan terjadi otomatis.
 - Sumber yang dipakai: Liputan6, VIVA, Jawa Pos, Okezone, Republika, dan 8 kanal ANTARA (17 kanal) untuk lajur Teknologi dan Olahraga.
 - Halaman **Global** (`global.html`) berisi berita teknologi dari media luar negeri: BBC News, The Guardian, The New York Times, Ars Technica, The Verge, TechCrunch, WIRED, MIT Technology Review, dan Engadget, dalam bahasa aslinya (Inggris). Lajur ini ditandai `terpisah: true` di `laju.config.mjs`, jadi tidak ikut beranda, daftar Terbaru, topik hangat, Ringkasan Pagi, maupun arsip; beritanya tetap bisa dicari. Iklan dan kupon di feed mereka ("Promo Codes", "Deals") dibuang lewat `saring.global`.
 - Tidak dipakai: CNN Indonesia, CNBC Indonesia, dan detik memblokir server GitHub walau lancar dibuka dari komputer biasa. RSS Tempo dan ANTARA Olahraga (umum) jarang diperbarui.

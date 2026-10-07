@@ -93,19 +93,34 @@ export default {
     global: [],
   },
 
-  // Ringkasan satu paragraf untuk berita utama (kartu utama + 3 berita di bawahnya, tiap lajur),
-  // ditulis AI dari teks artikel. Tanpa kunci API, berita tampil dengan cuplikan biasa.
-  // - penyedia 'gemini': gratis dengan batas harian; kunci dari Google AI Studio, simpan sebagai
+  // Penyedia AI untuk dua fitur di bawah: Ringkasan Pagi dan ringkasan berita utama.
+  // - 'gemini': gratis dengan batas harian; kunci dari Google AI Studio, simpan sebagai
   //   GitHub secret GEMINI_API_KEY. Di kuota gratis, teks yang dikirim dipakai Google untuk
   //   mengembangkan produknya.
-  // - penyedia 'claude': berbayar; kunci dari console.anthropic.com sebagai secret ANTHROPIC_API_KEY.
-  ringkasanBerita: {
-    aktif: true,
+  // - 'claude': berbayar; kunci dari console.anthropic.com sebagai secret ANTHROPIC_API_KEY
+  //   (butuh `npm install`).
+  // Tanpa kunci, kedua fitur dilewati dan situs tetap terbit tanpa teks AI.
+  ai: {
     penyedia: 'gemini',
     modelGemini: 'gemini-3.6-flash',
-    // Dipakai bila model utama tidak tersedia atau kuotanya habis.
+    // Dipakai bila model utama tidak tersedia, sedang sibuk, atau kuotanya habis.
     modelGeminiCadangan: 'gemini-3.5-flash-lite',
     modelClaude: 'claude-opus-5',
+  },
+
+  // Ringkasan Pagi: poin terpenting tiap lajur dari berita 24 jam terakhir, dibuat sekali sehari
+  // pada pembaruan pertama setelah jamRingkasan. Tanpa kunci API, beranda menampilkan "Sorotan".
+  ringkasanPagi: {
+    aktif: true,
+    poinPerLajur: 5,
+    // Cerita teratas per lajur yang disodorkan ke AI sebagai bahan.
+    kandidatPerLajur: 30,
+  },
+
+  // Ringkasan satu paragraf untuk berita utama (kartu utama + 3 berita di bawahnya, tiap lajur),
+  // ditulis AI dari teks artikel. Tanpa kunci API, berita tampil dengan cuplikan biasa.
+  ringkasanBerita: {
+    aktif: true,
     beritaPerLajur: 4,
     // Batas panggilan AI per pembaruan, supaya kuota gratis tidak cepat habis.
     maksPerPembaruan: 12,

@@ -278,7 +278,7 @@ function halamanRingkasan(r, akar) {
   const judul = r.ai ? `${n} hal yang perlu kamu tahu pagi ini` : 'Cerita yang paling banyak diliput hari ini';
   const dek = r.ai
     ? 'Kabar teknologi dan olahraga dari 24 jam terakhir, dirangkum otomatis oleh AI dari judul dan cuplikan media sumber. Klik nama sumber untuk membaca artikel lengkap.'
-    : `Ringkasan AI untuk hari ini belum ada; biasanya terbit pukul ${jamRingkasan} WIB setelah kunci API Claude dipasang. Sementara itu, berikut cerita yang paling banyak diberitakan.`;
+    : `Ringkasan AI untuk hari ini belum ada; biasanya terbit pukul ${jamRingkasan} WIB setelah kunci API dipasang. Sementara itu, berikut cerita yang paling banyak diberitakan.`;
   return halaman(ctx, {
     judul: r.ai ? `Ringkasan Pagi ${tanggalRingkas(r.tanggal)}` : 'Sorotan',
     deskripsi: judul,

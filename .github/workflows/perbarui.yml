@@ -50,10 +50,11 @@ jobs:
         if: steps.cek.outputs.perlu == 'true'
         run: node scripts/ambil-skor.mjs
 
-      - name: Ringkasan Pagi (dilewati bila ANTHROPIC_API_KEY belum diatur)
+      - name: Ringkasan Pagi (dilewati bila kunci API belum diatur)
         if: steps.cek.outputs.perlu == 'true'
         run: node scripts/ringkasan.mjs
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Bangun situs
