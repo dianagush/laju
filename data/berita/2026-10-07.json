@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-07",
-  "diperbarui": "2026-10-08T04:00:21.498Z",
+  "diperbarui": "2026-10-08T08:00:22.036Z",
   "berita": [
     {
       "id": "ab078596da3f",
@@ -149,6 +149,20 @@
       "terbit": "2026-10-07T16:04:26.000Z",
       "cuplikan": "Veda Ega Pratama coba memutar momentum pada Moto3 Indonesia 2026.",
       "gambar": "https://cdn1-production-images-kly.akamaized.net/aKEm90iNyqz-JqINHnHvtlDPaEA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5535816/original/097111200_1774143223-unnamed__66_.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "dd69521b64ee",
+      "judul": "Jadwal MotoGP Indonesia 2026 di Mandalika, 9-11 Oktober",
+      "tautan": "https://www.liputan6.com/bola/read/8308359/jadwal-motogp-indonesia-2026-di-mandalika-9-11-oktober",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-07T16:01:00.000Z",
+      "cuplikan": "MotoGP Indonesia 2026 menjadi seri ke-17 pada persaingan musim ini.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/8CZKZrgzaWemT25kXKW6SgcO_GU=/0x465:5657x3653/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5371443/original/090307800_1759655308-000_77QL4RK.jpg",
       "kategoriSumber": [
         "Bola"
       ]
