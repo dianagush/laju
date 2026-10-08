@@ -1,88 +1,4 @@
 {
-  "db91b8c846c9": {
-    "teks": "Telkomsel sukses menutup program Terpujilah Guru 2026 yang bertujuan meningkatkan kemampuan digital para tenaga pendidik dalam menghadapi perkembangan kecerdasan buatan. Inisiatif yang melibatkan ribuan guru tingkat menengah ini mencakup rangkaian pelatihan daring, pendampingan, hingga sesi luring bagi para finalis terbaik di Jakarta. Melalui program ini, para pendidik dibekali keterampilan teknologi dan pembuatan konten kreatif agar materi pembelajaran tetap relevan dengan kebutuhan siswa.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-23T18:09:20.013Z"
-  },
-  "1752bdab6ba4": {
-    "teks": "Penurunan performa ponsel saat digunakan untuk aktivitas harian tidak selalu mengharuskan pengguna segera membawanya ke tempat servis. Pabrikan seperti Google, Apple, dan Samsung merekomendasikan beberapa cara pemecahan masalah mandiri, seperti memastikan kapasitas penyimpanan tidak hampir penuh dengan menyisakan ruang kosong yang cukup. Selain itu, pengguna dapat mencoba memulai ulang perangkat guna menutup proses latar belakang atau menghapus cache pada aplikasi tertentu yang mengalami kendala.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-23T18:10:03.554Z"
-  },
-  "bd66678465c3": {
-    "teks": "Lima teknisi AC terbaik Indonesia terpilih untuk bertanding dalam ajang Grand Final ASEAN di Cina setelah menyelesaikan kompetisi nasional di Jakarta. Para pemenang yang berasal dari beberapa kota ini menyisihkan peserta lain melalui serangkaian uji kemampuan instalasi, kecepatan, ketepatan, serta standar keselamatan kerja. Ajang tingkat internasional tersebut mempertemukan para teknisi andal dari berbagai negara di Asia Tenggara.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-23T18:10:15.225Z"
-  },
-  "168bee504eab": {
-    "teks": "Pasangan ganda putra Leo Rolly Carnando dan Daniel Marthin berhasil melaju ke babak puncak Asian Games 2026 setelah menaklukkan wakil Thailand, Chaloempon Charoenkitamorn dan Worrapol Thongsa-Nga. Bertanding di Ichinomiya City Municipal Gymnasium, Jepang, ganda Indonesia tersebut menang dua gim langsung dengan skor 21-15 dan 21-13. Kemenangan ini sekaligus memastikan langkah tim bulu tangkis Indonesia menuju babak final.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-23T18:10:23.161Z"
-  },
-  "a2bdf9f662cd": {
-    "teks": "Tim bulu tangkis beregu putra Indonesia memimpin 2-1 atas Thailand dalam semifinal Asian Games Aichi-Nagoya 2026. Keunggulan tersebut dipastikan oleh Alwi Farhan yang sukses menundukkan Puritat Arree dua gim langsung dengan skor 21-15 dan 21-13 di Ichinomiya, Jepang. Kemenangan ini membawa Indonesia semakin dekat menuju babak final demi memperebutkan target medali emas.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-23T18:10:44.271Z"
-  },
-  "a97ff2f154e1": {
-    "teks": "Logitech memperbarui mikrofon USB klasik melalui peluncuran model terbaru yang dilengkapi sensor kedekatan tiga dimensi, peredam kebisingan berbasis kecerdasan buatan, serta layar LED. Perangkat ini dirancang untuk memudahkan pengaturan suara secara otomatis dan mengurangi gangguan latar belakang bagi pembuat konten. Mikrofon tersebut kini sudah tersedia di pasaran dalam pilihan warna hitam dan putih.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-23T18:11:10.041Z"
-  },
-  "c9966fc1fe33": {
-    "teks": "Kondisi dan sisa umur HP Android dapat diperiksa melalui menu pengaturan bawaan, fitur diagnostik perangkat, hingga pemantauan siklus pengisian daya. Merek seperti Google Pixel dan Samsung menyediakan akses pemeriksaan kesehatan baterai serta fungsi komponen secara langsung. Perubahan kinerja dan daya yang cepat habis menjadi indikator bagi pengguna untuk mempertimbangkan penggantian baterai atau membeli perangkat baru.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-24T01:00:01.641Z"
-  },
-  "3ea4bc852ca3": {
-    "teks": "Huawei memperkenalkan laptop bisnis Qingyun L420z sebagai pesaing MacBook Neo dengan menawarkan layar sentuh OLED 14,2 inci beresolusi tinggi serta baterai berkapasitas 70 Wh. Perangkat ini memiliki bobot sedikit lebih berat dari pesaingnya, namun dibekali pilihan port yang lebih lengkap untuk mendukung produktivitas kerja. Meski demikian, detail harga maupun jadwal ketersediaan global perangkat tersebut masih belum diumumkan secara resmi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-24T01:00:19.878Z"
-  },
-  "311a81281bd9": {
-    "teks": "Xiaomi resmi memasarkan Redmi Note 17 Pro 5G dan Redmi Note 17 Pro Max 5G di Indonesia dengan harga mulai dari Rp5,6 jutaan hingga Rp8,4 jutaan. Meskipun memiliki ukuran layar AMOLED yang identik, kedua ponsel kelas menengah atas ini mengusung chipset serta kapasitas baterai yang berbeda. Versi Max hadir dengan spesifikasi yang lebih tinggi, mencakup baterai yang lebih besar, teknologi pengisian daya yang lebih cepat, serta resolusi kamera depan yang lebih tinggi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-24T01:00:28.584Z"
-  },
-  "5b3915b552e5": {
-    "teks": "Discord mulai meluncurkan sistem verifikasi usia global yang memperkirakan kelompok usia pengguna secara otomatis berdasarkan aktivitas akun. Kebijakan baru ini direvisi dari rencana awal untuk mengakomodasi masukan terkait privasi setelah sempat menuai penolakan pengguna. Pengguna yang memerlukan konfirmasi tambahan kini dapat memilih berbagai metode verifikasi alternatif yang diproses oleh vendor pihak ketiga tanpa membagikan data identitas pribadi secara langsung kepada pihak platform.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-24T01:00:36.845Z"
-  },
-  "128eb8e71a7e": {
-    "teks": "Dalam ajang Connect, Meta memperkenalkan Muse Charm, perangkat berbentuk mirip Tamagotchi yang memuat teknologi kecerdasan buatan Muse. Pengguna dapat berinteraksi dengan avatar animasi dan suara waktu nyata melalui sensor sidik jari pada gawai berukuran gantungan kunci tersebut. Meta berencana merilis perangkat ini pada Desember mendatang meskipun desain serta komponennya masih dalam tahap penyempurnaan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-24T01:00:44.919Z"
-  },
-  "f14add291823": {
-    "teks": "Meta meluncurkan Ray-Ban Meta Audio, kacamata pintar tanpa kamera yang berfokus pada fitur audio dan kecerdasan buatan. Perangkat ini mendukung panggilan suara, pemutaran media, terjemahan langsung, serta akses Meta AI dengan daya tahan baterai hingga dua belas jam. Tanpa kehadiran kamera, kacamata ini memiliki desain yang lebih ringan, tampak seperti kacamata biasa, dan mulai dikirimkan pada 13 Oktober.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-24T01:00:52.877Z"
-  },
   "78dd24955012": {
     "teks": "Infinix meluncurkan laptop XBook 14 Neo di Indonesia dengan bobot 1,2 kg dan ketebalan 14 mm untuk mendukung mobilitas tinggi penggunanya. Perangkat ini dibekali sertifikasi ketahanan militer MIL-STD 810H serta layar yang dapat ditekuk hingga 180 derajat. Laptop tersebut ditenagai prosesor Intel Core i3-1315U atau i5-1335U, serta menyediakan opsi ekspansi RAM hingga 64GB dan SSD hingga 2TB.",
     "penyedia": "gemini",
@@ -1741,5 +1657,47 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-07T14:47:03.340Z"
+  },
+  "9cb8645dddcc": {
+    "teks": "Generasi Z kembali menggunakan earphone kabel karena aksesori tersebut menjadi tren gaya retro yang populer di media sosial. Selain itu, perangkat ini dianggap lebih praktis karena langsung bisa dipakai tanpa perlu mengisi daya atau melakukan penyambungan Bluetooth. Keberadaan kabel juga berfungsi sebagai isyarat agar tidak diganggu, sekaligus menawarkan kualitas audio yang stabil tanpa latensi serta investasi yang lebih tahan lama.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-08T03:04:21.517Z"
+  },
+  "0b2c3f78b31f": {
+    "teks": "WhatsApp resmi menghentikan dukungan untuk perangkat Android yang masih menggunakan versi 5.0 dan 5.1, sehingga pengguna memerlukan sistem operasi minimal Android 6.0. Penentuan ini didasarkan pada versi perangkat lunak yang terpasang, bukan pada merek atau model ponsel tertentu. Selain itu, aturan untuk pengguna iPhone juga akan mengalami peningkatan batas minimum sistem operasi yang berlaku pada akhir November.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-08T03:04:29.757Z"
+  },
+  "27d59325eea4": {
+    "teks": "Persib Bandung akan melakoni debutnya di ajang ASEAN Club Championship dengan menghadapi Port FC di Thailand. Pelatih Igor Tolic menyatakan timnya telah melakukan persiapan matang dan membawa modal pengalaman dari kompetisi Asia sebelumnya. Menghadapi jadwal yang padat, skuad Maung Bandung memilih untuk fokus menjalani pertandingan secara bertahap tanpa memasang target yang muluk.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-08T03:04:38.342Z"
+  },
+  "3827a5c45b95": {
+    "teks": "Pelatih Persija Jakarta, Shin Tae-yong, mengaku kesulitan menilai performa lima anak asuhnya di Timnas Indonesia pada ajang FIFA ASEAN Cup 2026 karena kurangnya kesempatan bermain. Dari kelima pemain tersebut, hanya Rizky Ridho, Rayhan Hannan, dan Shayne Pattynama yang sempat turun ke lapangan dengan durasi terbatas, sementara Jordi Amat serta Nadeo Argawinata sama sekali tidak tampil. Menurut Shin, pemain yang masuk menjelang akhir laga kesulitan menunjukkan kemampuan terbaiknya karena pertandingan sudah harus selesai.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-08T03:04:46.807Z"
+  },
+  "2d807dea4609": {
+    "teks": "Microsoft bersiap mengungkap informasi lebih lanjut mengenai Surface Laptop Ultra dan inovasi Windows terbaru dalam acara khusus di San Francisco. Perusahaan dijadwalkan menampilkan jajaran pimpinan termasuk CEO Satya Nadella dan CEO NVIDIA Jensen Huang dalam presentasi berdurasi sekitar satu jam. Perangkat yang sebelumnya sempat diperkenalkan tersebut ditenagai oleh superchip NVIDIA RTX Spark serta dilengkapi layar mini LED berukuran 15 inci.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-08T03:04:54.782Z"
+  },
+  "21f1bc38b49a": {
+    "teks": "Badai Tropis Isaias terpantau bergerak di Teluk Meksiko dengan kecepatan angin mendekati ambang batas badai dan berpotensi menguat di atas perairan hangat. Pusat Badai Nasional Amerika Serikat telah mengeluarkan status siaga badai untuk wilayah pesisir Mississippi, Alabama, serta sebagian Florida Panhandle. Badai ini diperkirakan membawa curah hujan tinggi, potensi gelombang badai, hingga ancaman angin tornado sebelum akhirnya melemah dan mendarat di Pantai Teluk.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-08T03:05:02.764Z"
   }
 }
