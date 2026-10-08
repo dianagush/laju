@@ -1,12 +1,14 @@
 # Memasang pemicu lokal LAJU: satu salinan khusus repositori + satu tugas di Penjadwal Tugas Windows.
 # Tugasnya mengecek tiap 30 menit (dan saat kamu login) apakah jam pembaruan sudah lewat tanpa
-# pembaruan; bila ya, ia memicu workflow GitHub lewat commit kosong (scripts/pemicu-lokal.mjs).
+# pembaruan; bila ya, ia memicu workflow GitHub lewat commit kecil pada pemicu.txt (scripts/pemicu-lokal.mjs).
 #
 # Pasang  : powershell -ExecutionPolicy Bypass -File scripts\pasang-pemicu-lokal.ps1
 # Copot   : powershell -ExecutionPolicy Bypass -File scripts\pasang-pemicu-lokal.ps1 -Copot
 # Tanpa hak Administrator. Tugas hanya berjalan saat kamu login.
+# Folder salinan sengaja BUKAN di AppData: aplikasi berpaket (mis. aplikasi desktop Claude)
+# mengalihkan penulisan AppData ke folder paketnya, sehingga Penjadwal Tugas tidak melihat berkasnya.
 param(
-  [string]$Folder = (Join-Path $env:LOCALAPPDATA 'laju-pemicu'),
+  [string]$Folder = (Join-Path $env:USERPROFILE 'laju-pemicu'),
   [string]$Repo = 'https://github.com/dianagush/laju.git',
   [switch]$Copot
 )
@@ -45,7 +47,9 @@ if (-not (Test-Path (Join-Path $Folder 'scripts\pemicu-lokal.mjs'))) {
 }
 
 # conhost --headless menjalankan Node tanpa jendela yang berkedip tiap 30 menit.
-$aksi = New-ScheduledTaskAction -Execute 'conhost.exe' -Argument "--headless `"$node`" scripts\pemicu-lokal.mjs --tarik" -WorkingDirectory $Folder
+# Jalur skrip absolut: skripnya menemukan foldernya sendiri, jadi folder kerja tidak diperlukan.
+$skripLengkap = Join-Path $Folder 'scripts\pemicu-lokal.mjs'
+$aksi = New-ScheduledTaskAction -Execute 'conhost.exe' -Argument "--headless `"$node`" `"$skripLengkap`" --tarik"
 
 $harian = New-ScheduledTaskTrigger -Daily -At '08:00'
 $ulang = New-ScheduledTaskTrigger -Once -At '08:00' -RepetitionInterval (New-TimeSpan -Minutes 30) -RepetitionDuration (New-TimeSpan -Hours 15)

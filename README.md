@@ -76,13 +76,13 @@ Jangan menaruh token itu di repositori atau di chat. Jadwal bawaan GitHub boleh 
 
 ### Pemicu lokal (tugas terjadwal Windows)
 
-Alternatif tanpa akun dan tanpa token baru, tetapi hanya jalan saat PC menyala dan kamu login. Tugas terjadwal mengecek tiap 30 menit (08.00–23.00) dan saat login: bila sebuah jam di `jamPembaruan` sudah lewat dan belum ada pembaruan sesudahnya (dari mana pun), ia mendorong satu commit kosong ke GitHub. Push itu menjalankan workflow seperti **Run workflow**. Karena yang dihitung adalah pembaruan terakhir di `data/status.json`, pemicu ini tidak pernah menghasilkan pembaruan ganda bersama jadwal GitHub atau pemicu eksternal.
+Alternatif tanpa akun dan tanpa token baru, tetapi hanya jalan saat PC menyala dan kamu login. Tugas terjadwal mengecek tiap 30 menit (08.00–23.00) dan saat login: bila sebuah jam di `jamPembaruan` sudah lewat dan belum ada pembaruan sesudahnya (dari mana pun), ia mendorong satu commit kecil yang mengubah `pemicu.txt` ke GitHub. Push itu menjalankan workflow seperti **Run workflow**. (Commit yang benar-benar kosong tidak dipakai karena tidak memicu workflow: aturan `paths-ignore` menganggapnya tanpa berkas yang berubah.) Karena yang dihitung adalah pembaruan terakhir di `data/status.json`, pemicu ini tidak pernah menghasilkan pembaruan ganda bersama jadwal GitHub atau pemicu eksternal.
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File scripts\pasang-pemicu-lokal.ps1
 ```
 
-Pemasang membuat salinan khusus repositori di `%LOCALAPPDATA%\laju-pemicu` (di luar OneDrive dan di luar folder kerja) dan tugas **LAJU pemicu pembaruan**. Skripnya menolak berjalan di folder yang kotor, jadi folder kerjamu aman. Mencopot: tambahkan `-Copot`.
+Pemasang membuat salinan khusus repositori di `%USERPROFILE%\laju-pemicu` (di luar OneDrive dan di luar folder kerja) dan tugas **LAJU pemicu pembaruan**. Folder itu sengaja bukan di `AppData`: aplikasi berpaket seperti aplikasi desktop Claude mengalihkan penulisan `AppData` ke folder paketnya, sehingga Penjadwal Tugas tidak melihat berkasnya. Skripnya menolak berjalan di folder yang kotor, jadi folder kerjamu aman. Mencopot: tambahkan `-Copot`.
 
 Bila login GitHub kedaluwarsa atau dicabut, push ditolak. Skrip lalu menampilkan notifikasi Windows dan membuka halaman masuk GitHub di browser lewat Git Credential Manager; setelah kamu masuk, push diulang otomatis. Halaman masuk dibuka paling sering sekali per 4 jam. Putusnya jaringan tidak dianggap login kedaluwarsa: skrip cukup mencoba lagi 30 menit kemudian.
 

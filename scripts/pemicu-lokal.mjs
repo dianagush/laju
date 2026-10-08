@@ -1,7 +1,7 @@
 // Pemicu lokal: cadangan untuk jadwal GitHub yang sering dilewati.
 // Dipanggil berkala oleh Penjadwal Tugas Windows (dipasang scripts/pasang-pemicu-lokal.ps1) dari
 // SALINAN KHUSUS repositori, bukan dari folder kerja. Bila sebuah jam di `jamPembaruan` sudah lewat
-// dan belum ada pembaruan sesudahnya, skrip ini mendorong satu commit kosong ke GitHub. Push itu
+// dan belum ada pembaruan sesudahnya, skrip ini mendorong satu commit kecil (mengubah pemicu.txt) ke GitHub. Push itu
 // menjalankan workflow "Perbarui berita", yang untuk event push selalu memperbarui.
 //
 // Login GitHub kedaluwarsa: push dicoba tanpa jendela apa pun. Bila ditolak karena login (bukan karena
@@ -158,9 +158,15 @@ if (uji) {
 
 // ---------- Memicu ----------
 
+// Commit KOSONG tidak memicu workflow: aturan paths-ignore di perbarui.yml menganggapnya "tidak ada berkas
+// yang berubah" (terbukti 8 Oktober 2026). Karena itu yang dikirim adalah perubahan kecil pada pemicu.txt,
+// berkas yang tidak termasuk daftar yang diabaikan.
 const pesanCommit = `Pemicu lokal ${tanggalWIB()} ${pukul(new Date())} WIB`;
-const commit = git(['commit', '--allow-empty', '-q', '-m', pesanCommit]);
+fs.writeFileSync(path.join(AKAR, 'pemicu.txt'), `Dipicu oleh pemicu lokal pada ${new Date().toISOString()}\n`);
+const commit = git(['add', 'pemicu.txt']).ok ? git(['commit', '-q', '-m', pesanCommit]) : { ok: false, keluar: 'git add gagal' };
 if (!commit.ok) {
+  git(['reset', '--hard', '-q', 'HEAD']);
+  git(['clean', '-fq', '--', 'pemicu.txt']);
   catat(`Gagal membuat commit pemicu: ${commit.keluar.slice(0, 200)}`);
   selesai(1);
 }
@@ -198,5 +204,5 @@ if (!hasil.ok) {
 }
 
 keadaan.dipicu = new Date().toISOString();
-catat(`Dipicu: ${putusan.alasan}. Commit kosong terkirim; workflow "Perbarui berita" berjalan di GitHub.`);
+catat(`Dipicu: ${putusan.alasan}. Perubahan pemicu.txt terkirim; workflow "Perbarui berita" berjalan di GitHub.`);
 selesai(0);
