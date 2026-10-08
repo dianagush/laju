@@ -8,7 +8,7 @@ export default {
 
   // Jam pembaruan (WIB). Harus sama dengan jadwal cron di .github/workflows/perbarui.yml.
   jamPembaruan: [8, 11, 15],
-  // GitHub sering melewati jadwal gratis, jadi workflow dicoba tiap jam 08.00–16.00 WIB dan
+  // GitHub sering melewati jadwal gratis, jadi workflow dicoba tiap 30 menit 08.00–16.30 WIB dan
   // pembaruan baru benar-benar dijalankan bila jarak dari pembaruan terakhir sudah melewati ini.
   // Hasilnya tetap sekitar 3 kali sehari, tetapi jadwal yang terlewat langsung disusul jam berikutnya.
   jedaMinimalMenit: 150,

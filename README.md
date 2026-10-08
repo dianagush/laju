@@ -56,9 +56,23 @@ LAJU memakai GitHub Actions untuk jadwal otomatis dan GitHub Pages untuk hosting
 
 Setelah itu, situs diperbarui sendiri pukul 08.00, 11.00, dan 15.00 WIB.
 
-Jadwal gratis GitHub berprioritas rendah: pembaruan sering tertunda (pengamatan 29 September–7 Oktober 2026: rata-rata sekitar 2 jam, terparah 5,5 jam) dan sebagian dilewati sama sekali — pada 7 Oktober kedua jadwal pagi tidak jalan.
+Jadwal gratis GitHub berprioritas rendah: pembaruan sering tertunda (pengamatan 25 September–8 Oktober 2026: kerap telat berjam-jam) dan sebagian dilewati sama sekali. Mencoba tiap jam tidak menolong: dari sekitar 13 jadwal sejak 7 Oktober siang hanya satu yang jalan (dan telat 5 jam). Jadwal bawaan GitHub hanya cocok sebagai jaring pengaman.
 
-Karena itu workflow dijadwalkan **tiap jam** pukul 08.23–16.23 WIB, lalu langkah pertamanya (`scripts/perlu-perbarui.mjs`) memutuskan: pembaruan hanya dijalankan bila jarak dari pembaruan terakhir sudah melewati `jedaMinimalMenit` (bawaan 150 menit). Hasilnya tetap sekitar tiga kali sehari seperti `jamPembaruan`, tetapi jadwal yang terlewat langsung disusul jam berikutnya. Menjalankan lewat **Run workflow** selalu memperbarui tanpa menunggu jeda.
+Jaring pengamannya: workflow dijadwalkan **tiap 30 menit** pukul 08.07–16.37 WIB, lalu langkah pertamanya (`scripts/perlu-perbarui.mjs`) memutuskan: pembaruan hanya dijalankan bila jarak dari pembaruan terakhir sudah melewati `jedaMinimalMenit` (bawaan 150 menit). Menjalankan lewat **Run workflow** selalu memperbarui tanpa menunggu jeda.
+
+### Pemicu eksternal (yang andal)
+
+Supaya pembaruan benar-benar pukul 08.00, 11.00, dan 15.00 WIB, minta layanan cron gratis di luar GitHub (mis. [cron-job.org](https://cron-job.org)) memanggil workflow tepat waktu. Layanan itu cukup mengirim satu permintaan HTTP:
+
+1. Di GitHub: **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**. Pilih hanya repositori `laju`, izin **Actions: Read and write**, lalu salin tokennya. Token ini hanya bisa menjalankan workflow di repositori ini.
+2. Di layanan cron, buat tiga jadwal (zona waktu Asia/Jakarta: 08.00, 11.00, 15.00) dengan isi:
+   - URL: `https://api.github.com/repos/dianagush/laju/actions/workflows/perbarui.yml/dispatches`
+   - Metode: `POST`
+   - Header: `Accept: application/vnd.github+json`, `Authorization: Bearer TOKEN-KAMU`, `X-GitHub-Api-Version: 2022-11-28`
+   - Isi (body): `{"ref":"main"}`
+3. Balasan sukses adalah HTTP 204 tanpa isi. Pemicu ini diperlakukan seperti **Run workflow**, jadi selalu memperbarui tanpa menunggu jeda.
+
+Jangan menaruh token itu di repositori atau di chat. Jadwal bawaan GitHub boleh dibiarkan: bila pemicu eksternal sudah memperbarui, jadwal GitHub otomatis dilewati oleh jeda minimal.
 
 Kalau langkah "Simpan data ke repositori" gagal karena izin, buka **Settings → Actions → General → Workflow permissions** dan pilih **Read and write permissions**.
 

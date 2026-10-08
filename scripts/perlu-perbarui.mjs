@@ -1,5 +1,5 @@
 // Menentukan apakah pembaruan perlu dijalankan, dipakai workflow "Perbarui berita".
-// GitHub kerap melewati jadwal gratis, jadi workflow dijadwalkan tiap jam; skrip ini yang
+// GitHub kerap melewati jadwal gratis, jadi workflow dijadwalkan tiap 30 menit; skrip ini yang
 // menjaga agar pembaruan tetap sekitar jamPembaruan di laju.config.mjs.
 // Jalankan: node scripts/perlu-perbarui.mjs           -> "perlu=true/false" ke GITHUB_OUTPUT
 //           node scripts/perlu-perbarui.mjs --paksa   -> selalu true (dipakai Run workflow manual)
