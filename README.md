@@ -74,6 +74,26 @@ Supaya pembaruan benar-benar pukul 08.00, 11.00, dan 15.00 WIB, minta layanan cr
 
 Jangan menaruh token itu di repositori atau di chat. Jadwal bawaan GitHub boleh dibiarkan: bila pemicu eksternal sudah memperbarui, jadwal GitHub otomatis dilewati oleh jeda minimal.
 
+### Pemicu lokal (tugas terjadwal Windows)
+
+Alternatif tanpa akun dan tanpa token baru, tetapi hanya jalan saat PC menyala dan kamu login. Tugas terjadwal mengecek tiap 30 menit (08.00–23.00) dan saat login: bila sebuah jam di `jamPembaruan` sudah lewat dan belum ada pembaruan sesudahnya (dari mana pun), ia mendorong satu commit kosong ke GitHub. Push itu menjalankan workflow seperti **Run workflow**. Karena yang dihitung adalah pembaruan terakhir di `data/status.json`, pemicu ini tidak pernah menghasilkan pembaruan ganda bersama jadwal GitHub atau pemicu eksternal.
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\pasang-pemicu-lokal.ps1
+```
+
+Pemasang membuat salinan khusus repositori di `%LOCALAPPDATA%\laju-pemicu` (di luar OneDrive dan di luar folder kerja) dan tugas **LAJU pemicu pembaruan**. Skripnya menolak berjalan di folder yang kotor, jadi folder kerjamu aman. Mencopot: tambahkan `-Copot`.
+
+Bila login GitHub kedaluwarsa atau dicabut, push ditolak. Skrip lalu menampilkan notifikasi Windows dan membuka halaman masuk GitHub di browser lewat Git Credential Manager; setelah kamu masuk, push diulang otomatis. Halaman masuk dibuka paling sering sekali per 4 jam. Putusnya jaringan tidak dianggap login kedaluwarsa: skrip cukup mencoba lagi 30 menit kemudian.
+
+```bash
+node scripts/pemicu-lokal.mjs --uji      # tampilkan keputusan saja
+node scripts/pemicu-lokal.mjs --paksa    # picu sekarang
+node scripts/pemicu-lokal.mjs --login    # buka halaman masuk GitHub sekarang
+```
+
+Log dan keadaan terakhir ada di `.laju/pemicu.log` dan `.laju/pemicu.json` pada salinan khusus itu. Skrip ini tidak memanggil Claude atau AI mana pun.
+
 Kalau langkah "Simpan data ke repositori" gagal karena izin, buka **Settings → Actions → General → Workflow permissions** dan pilih **Read and write permissions**.
 
 ## Mengaktifkan Ringkasan Pagi (AI)
