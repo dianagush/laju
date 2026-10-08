@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-07",
-  "diperbarui": "2026-10-08T03:03:50.060Z",
+  "diperbarui": "2026-10-08T03:30:48.031Z",
   "berita": [
     {
       "id": "ab078596da3f",
@@ -1424,6 +1424,20 @@
       "gambar": "",
       "kategoriSumber": [
         "The Download"
+      ]
+    },
+    {
+      "id": "935ab5e3bd2d",
+      "judul": "Ubah Strategi Layanan, Biznet Fokus pada Pemerataan Akses Internet",
+      "tautan": "https://www.liputan6.com/tekno/read/8308199/ubah-strategi-layanan-biznet-fokus-pada-pemerataan-akses-internet",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-07T12:09:54.000Z",
+      "cuplikan": "Biznet mengandalkan lebih dari 300 kantor cabang yang tersebar di Indonesia untuk mengatasi kendala teknis.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/sTfAPmAEu24Fmk5wsJZdUbXLEAk=/0x0:4000x3000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9368036/original/077311800_1791371581-20261007_144730.jpg",
+      "kategoriSumber": [
+        "Tekno"
       ]
     },
     {
