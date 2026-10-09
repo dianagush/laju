@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-08",
-  "diperbarui": "2026-10-09T01:21:12.284Z",
+  "diperbarui": "2026-10-09T06:51:08.997Z",
   "berita": [
     {
       "id": "9995e8e3d58a",
@@ -78,6 +78,20 @@
       ]
     },
     {
+      "id": "2556129a46d8",
+      "judul": "Top 3 Berita Bola: Klasemen ASEAN Club Championship usai Persib Hajar Port FC",
+      "tautan": "https://www.liputan6.com/bola/read/8309214/top-3-berita-bola-klasemen-asean-club-championship-usai-persib-hajar-port-fc",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-08T16:31:48.000Z",
+      "cuplikan": "Informasi dari ASEAN Club Championship, timnas Indonesia, dan MotoGP Indonesia 2026 masuk top 3 berita terpopuler kanal bola.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/qH8OCJjNK8_PgL_0qqwH3RZq5d4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9369155/original/051730400_1791475465-persib.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
       "id": "6f982583b528",
       "judul": "Asos hackers took more personal details than first revealed, BBC finds",
       "tautan": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
@@ -87,6 +101,34 @@
       "terbit": "2026-10-08T16:29:33.000Z",
       "cuplikan": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
       "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef63/live/b1b98540-c30e-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "e566f70e07c4",
+      "judul": "Manchester United Mesti Hadapi Liverpool dalam Perburuan Bek Kiri Bournemouth",
+      "tautan": "https://www.liputan6.com/bola/read/8308701/manchester-united-mesti-hadapi-liverpool-dalam-perburuan-bek-kiri-bournemouth",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-08T16:27:05.000Z",
+      "cuplikan": "Manchester United dan Liverpool akan bersaing dalam memperebutkan bek kiri Bournemouth asal Prancis.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/k3c26Mv4OY2f7EMN9x0q3f2xYGM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9342818/original/034648800_1788832441-Adrien_Truffert.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "4c7775bad37b",
+      "judul": "Undian League Cup Untungkan PSIM Yogyakarta",
+      "tautan": "https://www.liputan6.com/bola/read/8309203/undian-league-cup-untungkan-psim-yogyakarta",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-08T16:26:51.000Z",
+      "cuplikan": "PSIM Yogyakarta masuk Grup E League Cup 2026/2027 bersama Persikad Depok dan Persiku Kudus. Dua laga fase grup digelar di Bantul, tanpa perlu tandang jauh.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/7ybCG6qhKFfy6l5gaSpanFPD8tU=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/5384016/original/011082900_1760710024-Persita_vs_PSIM_-14.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "84b808c606ce",
@@ -1472,6 +1514,20 @@
       "terbit": "2026-10-08T10:37:02.000Z",
       "cuplikan": "Pelatih kepala Timnas Futsal Indonesia Hector Souto memuji pelatih kepala Timnas Sepak Bola Indonesia John Herdman ...",
       "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/08/pemusatan-latihan-timnas-futsal-indonesia-2880521.jpg"
+    },
+    {
+      "id": "8374192eacae",
+      "judul": "Manchester United Bimbang Soal Situasi Kontrak Bruno Fernandes",
+      "tautan": "https://www.liputan6.com/bola/read/8308927/manchester-united-bimbang-soal-situasi-kontrak-bruno-fernandes",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-08T10:36:43.000Z",
+      "cuplikan": "Kapten Manchester United Bruno Fernandes masih menunggu keputusan klub terkait masa depannya.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Gy8-0wXvqcMlhk9Slhx7se5M3lA=/0x477:4623x3083/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336111/original/041186700_1788132197-Manchester_United_s_Bruno_Fernandes.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "b1ecf09d8849",
@@ -2874,7 +2930,7 @@
       "lajur": "global",
       "terbit": "2026-10-08T02:05:09.000Z",
       "cuplikan": "Prosecutors say Michael Smith flooded music-streaming platforms with bots that repeatedly streamed his A.I.-generated music, earning him as much as $8 million.",
-      "gambar": "https://static01.nyt.com/images/2026/10/07/multimedia/07cul-streaming-fraud-hpcg/07cul-streaming-fraud-hpcg-mediumSquareAt3X.jpg",
+      "gambar": "https://static01.nyt.com/images/2026/10/09/multimedia/07cul-streaming-fraud-hpcg/07cul-streaming-fraud-hpcg-mediumSquareAt3X.jpg",
       "kategoriSumber": [
         "Music",
         "Artificial Intelligence",
