@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-08T08:00:33.328Z",
+  "diperbarui": "2026-10-09T01:21:14.021Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -202,6 +202,28 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401879264/manchester-city-liverpool"
+        },
+        {
+          "id": "401879267",
+          "liga": "eng.1",
+          "mulai": "2026-10-12T19:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Coventry",
+            "namaLengkap": "Coventry City",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/388.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Newcastle",
+            "namaLengkap": "Newcastle United",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/361.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879267/newcastle-united-coventry-city"
         }
       ]
     },
@@ -405,6 +427,28 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401882850/valencia-racing-santander"
+        },
+        {
+          "id": "401882852",
+          "liga": "esp.1",
+          "mulai": "2026-10-12T19:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Levante",
+            "namaLengkap": "Levante",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1538.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Sevilla",
+            "namaLengkap": "Sevilla",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/243.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882852/sevilla-levante"
         }
       ]
     },
@@ -586,6 +630,50 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401874764/juventus-cagliari"
+        },
+        {
+          "id": "401875005",
+          "liga": "ita.1",
+          "mulai": "2026-10-12T16:30:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Atalanta",
+            "namaLengkap": "Atalanta",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Venezia",
+            "namaLengkap": "Venezia",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17530.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401875005/venezia-atalanta"
+        },
+        {
+          "id": "401874763",
+          "liga": "ita.1",
+          "mulai": "2026-10-12T18:45:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Torino",
+            "namaLengkap": "Torino",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/239.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Udinese",
+            "namaLengkap": "Udinese",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/118.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874763/udinese-torino"
         }
       ]
     },
