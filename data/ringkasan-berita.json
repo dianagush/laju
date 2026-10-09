@@ -1,39 +1,4 @@
 {
-  "37fa2e4d249e": {
-    "teks": "Bocoran terbaru mengungkapkan bahwa lini Samsung Galaxy S27 akan menghadirkan varian baru bernama Galaxy S27 Pro. Dua model tertinggi, Pro dan Ultra, diprediksi mengadopsi teknologi memori LPDDR6 dan UFS 5.1 yang lebih cepat serta efisien. Selain itu, varian Ultra dikabarkan menyediakan opsi RAM 16GB khusus untuk kapasitas penyimpanan 1TB. Kendati demikian, Samsung belum merilis konfirmasi resmi terkait spesifikasi penuh lini tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T13:09:59.293Z"
-  },
-  "ff2289cd4e9a": {
-    "teks": "Penipuan tiket konser daring di media sosial kian bervariasi, termasuk melalui situs tiruan dan iklan berbayar. Federal Trade Commission mengimbau calon pembeli agar tidak terkecoh oleh tampilan akun yang profesional atau banyaknya pengikut. Publik disarankan selalu memverifikasi tautan serta saluran penjualan langsung dari pihak penyelenggara resmi sebelum bertransaksi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T13:10:15.528Z"
-  },
-  "ce17d2c4d07f": {
-    "teks": "Pelatih timnas Indonesia, John Herdman, telah merilis daftar sebelas pemain pertama untuk laga pembuka Grup A Divisi 1 FIFA ASEAN Cup 2026 melawan Singapura di Stadion Utama Gelora Bung Karno. Mengingat Jay Idzes absen, benteng pertahanan dikawal oleh Kevin Diks, Elkan Baggott, dan Justin Hubner. Laga ini juga menjadi momen debut bagi Luke Vickery, sementara lini serang dipimpin Mitchell Baker dengan dukungan Ole Romeny serta Ragnar Oratmangoen.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T13:10:46.040Z"
-  },
-  "4c0c9728718d": {
-    "teks": "Microsoft memperbarui aplikasi Copilot dengan menghadirkan integrasi aplikasi Office serta antarmuka bertab baru. Tampilan baru ini menyediakan tab Home untuk mengarahkan permintaan pengguna secara cerdas dan tab Code guna membuat alur kerja dari perintah bahasa alami. Terakhir, tab Autopilot memungkinkan sistem menangani tugas berulang dan membalas pesan secara otomatis tanpa masukan pengguna.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T13:11:33.925Z"
-  },
-  "93b91a44c537": {
-    "teks": "Departemen Pertahanan Amerika Serikat mengajukan anggaran 30,3 juta dolar AS untuk mengembangkan pendeteksi kebohongan berbasis kecerdasan buatan dan sensor tanpa kontak. Sistem bernama Polygraph+ ini ditujukan untuk menyaring calon pegawai serta mendeteksi ancaman internal. Meski demikian, para ahli meragukan efektivitasnya karena teknologi pendeteksi kebohongan dinilai belum memiliki landasan ilmiah yang andal.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T13:11:59.162Z"
-  },
   "ef67d11a329c": {
     "teks": "Kegagalan pemindaian kode batang tiket konser digital sering kali disebabkan oleh penggunaan tangkapan layar yang tidak berlaku pada aplikasi seperti Ticketmaster dan AXS. Untuk mengantisipasi gangguan koneksi internet di lokasi acara, penonton sebaiknya telah membuka tiket lebih awal atau menyimpannya ke Apple Wallet maupun Google Wallet. Selain itu, pastikan kecerahan layar ponsel cukup terang serta bebas dari notifikasi agar kode dapat terdeteksi dengan jelas oleh mesin pemindai.",
     "penyedia": "gemini",
@@ -1643,5 +1608,33 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-09T08:53:06.618Z"
+  },
+  "0c42662807ad": {
+    "teks": "Kemajuan teknologi digital membuat masyarakat kini dapat dengan mudah mengakses berbagai instrumen investasi langsung melalui telepon pintar. Kendati demikian, investor pemula diingatkan untuk tetap cermat dengan memahami karakteristik produk, risiko kerugian, serta legalitas penyedia layanan sebelum mulai berinvestasi. Otoritas Jasa Keuangan menekankan pentingnya mengenali profil risiko dan menyesuaikan pilihan instrumen dengan tujuan keuangan agar terhindar dari potensi kerugian.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-09T14:38:44.709Z"
+  },
+  "4af8217ee230": {
+    "teks": "Persib Bandung sukses meraih kemenangan tandang 3-1 atas Port FC dalam pertandingan perdana Grup B ASEAN Club Championship di Stadion Thammasat. Sempat tertinggal lebih dulu akibat gol penalti tuan rumah pada babak kedua, skuad Maung Bandung bangkit di pengujung laga. Tiga gol penentu kemenangan tim tamu masing-masing dicetak oleh Mariano Peralta, Berguinho, dan Luka Menalo pada menit-menit akhir pertandingan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-09T14:39:07.955Z"
+  },
+  "c941101a792d": {
+    "teks": "Perusahaan kecerdasan buatan Anthropic meluncurkan layanan pemindaian gratis bernama OSS Scanner untuk membantu pengembang perangkat lunak sumber terbuka mendeteksi celah keamanan secara berkala. Layanan opt-in ini sepenuhnya menggunakan model AI terkuat perusahaan tanpa tinjauan manusia demi memberikan peringatan dini yang lebih cepat. Langkah ini terinspirasi dari pemindai serupa milik Google dan OpenSSF, mengingat pentingnya keamanan kode sumber terbuka yang banyak diandalkan industri teknologi global.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-09T14:39:16.026Z"
+  },
+  "825fbf555123": {
+    "teks": "Netflix merilis cuplikan miniseri delapan episode berjudul The Altruists yang mengisahkan perjalanan dan kejatuhan bursa kripto FTX. Serial tersebut dijadwalkan tayang perdana pada 19 November dan dibintangi oleh Anthony Boyle serta Julia Garner sebagai tokoh utamanya. Kisah ini menyoroti pendiri FTX Sam Bankman-Fried dan Caroline Ellison yang akhirnya tersandung kasus hukum terkait penyalahgunaan dana nasabah.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-09T14:39:24.027Z"
   }
 }
