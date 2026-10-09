@@ -1,7 +1,396 @@
 {
   "tanggal": "2026-10-09",
-  "diperbarui": "2026-10-09T06:51:08.997Z",
+  "diperbarui": "2026-10-09T08:51:08.180Z",
   "berita": [
+    {
+      "id": "218f5349a8d6",
+      "judul": "Robert Pires senang dapatkan sambutan hangat dari fans di Indonesia",
+      "tautan": "https://www.antaranews.com/berita/5778518/robert-pires-senang-dapatkan-sambutan-hangat-dari-fans-di-indonesia",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T08:48:48.000Z",
+      "cuplikan": "Legenda Arsenal Robert Pires mengaku senang mendapatkan sambutan hangat dari fans di Indonesia setelah ia tiba di ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/09/IMG-20261009-WA0001_1.jpg"
+    },
+    {
+      "id": "1919f509ebbc",
+      "judul": "Waspada 31 Ribu Email Penipuan Beredar, Penjahat Siber Manfaatkan Layanan Resmi Microsoft",
+      "tautan": "https://jawapos.com/teknologi/2610090239/waspada-31-ribu-email-penipuan-beredar-penjahat-siber-manfaatkan-layanan-resmi-microsoft",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-09T08:47:06.000Z",
+      "cuplikan": "Kaspersky memblokir lebih dari 31 ribu email penipuan yang menyalahgunakan layanan Microsoft. Kenali modus phishing dan cara menghindarinya.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/09/ilustrasi-kejahatan-siber-phishing-istimewa-tssLH.webp"
+    },
+    {
+      "id": "56767ba5a082",
+      "judul": "Hasil Practice MotoGP Mandalika 2026: Marc Marquez Posisi 5, Aprilia Kuasai 3 Besar",
+      "tautan": "https://sports.okezone.com/read/2026/10/09/38/3246931/hasil-practice-motogp-mandalika-2026-marc-marquez-posisi-5-aprilia-kuasai-3-besar",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T08:45:27.000Z",
+      "cuplikan": "Raul Fernandez jadi pembalap tercepat di Practice MotoGP Mandalika 2026 sementara Marc Marquez posisi lima.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/09/38/3246931/raul_fernandez_jadi_pembalap_tercepat_di_practice_motogp_mandalika_2026_sementara_marc_marquez_posisi_lima-hjUV_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "5b0c4e1ccbef",
+      "judul": "Pakai Jersey Timnas Indonesia, Fermin Aldeguer Berubah Nama Jadi Firman",
+      "tautan": "https://www.viva.co.id/bola/1934493-pakai-jersey-timnas-indonesia-fermin-aldeguer-berubah-nama-jadi-firman",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T08:39:09.000Z",
+      "cuplikan": "Pembalap Gresini Racing, Fermin Aldeguer, mencuri perhatian menjelang Pertamina Grand Prix of Indonesia 2026 di Sirkuit Mandalika, Lombok, Nusa Tenggara Barat. Pembalap a",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/09/6ac8a7b803a44-pembalap-gresini-fermin-aldeguer_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "22f3af824ca3",
+      "judul": "Seberapa Bising Mesin MotoGP? Begini Suaranya Langsung dari Sirkuit Mandalika!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8309639/seberapa-bising-mesin-motogp-begini-suaranya-langsung-dari-sirkuit-mandalika",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T08:35:35.000Z",
+      "cuplikan": "Seberapa bising suara mesin motor MotoGP saat digeber di lintasan? Bola.com menghadirkan sensasi mendengar langsung raungan mesin motor balap dari Sirkuit Mandalika, Nusa Tenggara Barat, Jumat (9/10/2026). Lewat video ini, kalian bisa…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/6SDJWRJ4JVScKwjQ8TBSoX5cPrM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9369688/original/011515600_1791533918-20261009_hk_knalpot-motor-motogp-60850f.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "e940878f17ab",
+      "judul": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
+      "tautan": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-09T08:30:18.000Z",
+      "cuplikan": "SpaceX has revealed its plans to become a major mobile carrier.",
+      "gambar": "https://www.engadget.com/img/gallery/spacex-wants-to-become-a-major-mobile-carrier-with-low-band-spectrum-acquisition/l-intro-1791534538.jpg",
+      "kategoriSumber": [
+        "Mobile"
+      ]
+    },
+    {
+      "id": "35e22bfd7b8c",
+      "judul": "Kaspersky Blokir 31.000 Email Penipuan yang Manfaatkan Sistem Autentikasi Microsoft",
+      "tautan": "https://jawapos.com/teknologi/2610090217/kaspersky-blokir-31000-email-penipuan-yang-manfaatkan-sistem-autentikasi-microsoft",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-09T08:30:09.000Z",
+      "cuplikan": "Kaspersky mendeteksi 31.000 email penipuan yang memanfaatkan autentikasi Microsoft, meningkatkan risiko bagi pengguna.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2024/04/24/abstract_mail_blue-1200x600-1399692517.jpg"
+    },
+    {
+      "id": "49be3bd07416",
+      "judul": "Fired OpenAI safety researchers dispute their dismissals in open letter",
+      "tautan": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-09T08:25:18.000Z",
+      "cuplikan": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees.",
+      "gambar": "https://www.engadget.com/img/gallery/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/l-intro-1791534127.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "ab9822964361",
+      "judul": "Artis Arie Untung Ikut Senang Datangnya Legenda MU dan Arsenal: Momen Tepat",
+      "tautan": "https://www.liputan6.com/bola/read/8309646/artis-arie-untung-ikut-senang-datangnya-legenda-mu-dan-arsenal-momen-tepat",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T08:25:17.000Z",
+      "cuplikan": "Para pemain legenda Manchaster United (MU) dan Arsenal disambut para penggemar saat tiba di Indonesia, Kamis (8/10).",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/5bUO73Kp2-Xo_Salvt0gaBsAd6w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9369701/original/059769400_1791534317-IMG-20261009-WA0001.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "6b224c14316e",
+      "judul": "John Herdman Dapat Kabar Gembira dari Mees Hilgers",
+      "tautan": "https://www.viva.co.id/bola/1934486-john-herdman-dapat-kabar-gembira-dari-mees-hilgers",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T08:18:26.000Z",
+      "cuplikan": "Bek Timnas Indonesia, Mees Hilgers, turut bahagia melihat skuad Garuda menjuarai FIFA ASEAN Cup 2026. Namun, pemain yang masih menjalani pemulihan cedera itu juga menyimp",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac48c412b3e1-pelatih-timnas-indonesia-john-herdman-jelang-laga-final-fifa-asean-cup-2026-menghadapi-thailand_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "15e825ddfa01",
+      "judul": "Marco Bezzecchi Puncaki FP1 MotoGP Mandalika 2026, Marc Marquez Tepat di Belakang",
+      "tautan": "https://www.liputan6.com/bola/read/8309633/marco-bezzecchi-puncaki-fp1-motogp-mandalika-2026-marc-marquez-tepat-di-belakang",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T08:13:38.000Z",
+      "cuplikan": "Marco Bezzecchi mencatat 1 menit 30,132 detik untuk memimpin FP1 MotoGP Mandalika 2026. Marc Marquez kedua, Jorge Martin ketiga.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/qBUaD5zAa8tkutLNkinr0vTft_g=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5540765/original/022510800_1774827014-000_A4AM32M.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a805377deb6b",
+      "judul": "Domain .ai.id Resmi Dibuka untuk Umum, Apa Syaratnya?",
+      "tautan": "https://www.liputan6.com/tekno/read/8309592/domain-aiid-resmi-dibuka-untuk-umum-apa-syaratnya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-09T08:08:43.000Z",
+      "cuplikan": "Domain .ai.id memasuki fase General Availability, yang menandakan pendaftarannya dapat diakses secara bebas oleh masyarakat umum.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/I-ypI_QCSY1b62NcWSYqVYO2z4g=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9369608/original/052626700_1791531417-Domain_.ai.id.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "3d8bd3900535",
+      "judul": "OpenAI projected to bring in $20bn less in revenue than expected",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-09T08:06:09.000Z",
+      "cuplikan": "Questions raised over AI growth as ChatGPT maker forecasts this year’s revenue at $50bn, way below the $70bn signalled before OpenAI has revealed that it is making about $20bn less in projected revenue than it had recently indicated to…",
+      "gambar": "https://i.guim.co.uk/img/media/3433ad629edc6fc8336d5bdd159016ad273ae9f8/1094_240_6444_5155/master/6444.jpg?width=140&quality=85&auto=format&fit=max&s=57ceccabd3c84211b27b3fcd5ef6656f",
+      "kategoriSumber": [
+        "OpenAI",
+        "ChatGPT",
+        "Technology",
+        "AI (artificial intelligence)",
+        "Technology sector",
+        "Business",
+        "Anthropic",
+        "Computing",
+        "US news"
+      ]
+    },
+    {
+      "id": "fdcf70e00b76",
+      "judul": "Kuota Internet Cepat Habis? Ini 7 Cara Hemat Data di HP Android",
+      "tautan": "https://jawapos.com/teknologi/2610090216/kuota-internet-cepat-habis-ini-7-cara-hemat-data-di-hp-android",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-09T08:00:01.000Z",
+      "cuplikan": "Temukan 7 cara efektif untuk menghemat kuota internet di HP Android tanpa mengurangi aktivitas sehari-hari.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2024/04/08/images-2024-04-06T232227162-2023545431.jpeg"
+    },
+    {
+      "id": "b96136db0e22",
+      "judul": "Segini Kisaran Hadiah Juara MotoGP Mandalika 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/09/38/3246914/segini-kisaran-hadiah-juara-motogp-mandalika-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:59:25.000Z",
+      "cuplikan": "Segini Kisaran Hadiah Juara MotoGP Mandalika 2026",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/09/38/3246914/marc_marquez-xYuN_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "a569635a8604",
+      "judul": "Russell akan tampil maksimal terlepas terkena penalti di GP Singapura",
+      "tautan": "https://www.antaranews.com/berita/5778434/russell-akan-tampil-maksimal-terlepas-terkena-penalti-di-gp-singapura",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:57:03.000Z",
+      "cuplikan": "Pembalap Mercedes George Russell berjanji akan tampil semaksimal mungkin terlepas terkena penalti di Grand Prix ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/05/AFP_20261004_D27926N_v1_MidRes_AutoPrixF1BrnMas.jpg"
+    },
+    {
+      "id": "f1495a35d8d8",
+      "judul": "Dimulai pekan depan, berikut jadwal lengkap Liga Putri Indonesia 2026",
+      "tautan": "https://www.antaranews.com/berita/5778385/dimulai-pekan-depan-berikut-jadwal-lengkap-liga-putri-indonesia-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:35:15.000Z",
+      "cuplikan": "Liga Putri Indonesia atau Indonesia Womens League 2026 akan dimulai pada pekan depan, tepatnya pada Minggu (18/10) di ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/08/21/timnas-garuda-pertiwi-melaju-final-210826-aaa-6.jpg"
+    },
+    {
+      "id": "39ff25a10128",
+      "judul": "Meski sudah kunci gelar juara, Bulega berambisi untuk pecahkan rekor",
+      "tautan": "https://www.antaranews.com/berita/5778374/meski-sudah-kunci-gelar-juara-bulega-berambisi-untuk-pecahkan-rekor",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:31:07.000Z",
+      "cuplikan": "Meski sudah mengunci gelar juara dunia World SBK, pembalap Aruba.it Racing Ducati Nicolo Bulega masih berambisi untuk ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2023/03/05/86.jpg"
+    },
+    {
+      "id": "64c81cafb0cb",
+      "judul": "Manchester United Mengintai, River Plate Susun Rencana Pagari Kiper Argentina",
+      "tautan": "https://www.liputan6.com/bola/read/8309222/manchester-united-mengintai-river-plate-susun-rencana-pagari-kiper-argentina",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:30:20.000Z",
+      "cuplikan": "Manchester United mengincar Santiago Beltran, tetapi kiper River Plate itu dikabarkan segera mendapat kontrak baru di tengah minat klub-klub Eropa.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/0_AVwoN_XNEAUXisvLBHAlk2TaM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9363961/original/083109700_1790926953-Seguimos__riverplate_____________.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ada0e67e1d0a",
+      "judul": "Perjalanan Karier Mitchel Bakker Sebelum Resmi Gabung Mantan Klub Calvin Verdonk",
+      "tautan": "https://www.viva.co.id/bola/1934468-perjalanan-karier-mitchel-bakker-sebelum-resmi-gabung-mantan-klub-calvin-verdonk",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:30:00.000Z",
+      "cuplikan": "Merekam perjalanan karier Mitchel Bakker dari Ajax, PSG, Leverkusen, hingga Atalanta sebelum resmi bergabung dengan mantan klub Calvin Verdonk, NEC Nijmegen.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/09/6ac7d7420d7ac-mitchel-bakker-resmi-gabung-mantan-klub-calvin-verdonk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "706ee3ee31da",
+      "judul": "Bezzecchi tercepat pada FP1 MotoGP Indonesia 2026",
+      "tautan": "https://www.antaranews.com/berita/5778362/bezzecchi-tercepat-pada-fp1-motogp-indonesia-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:25:24.000Z",
+      "cuplikan": "Pembalap Aprilia Racing Marco Bezzecchi menjadi yang tercepat pada sesi latihan bebas pertama (FP1) MotoGP Indonesia ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/09/sesi-latihan-bebas-1-motogp-mandalika-2026-2880958.jpg"
+    },
+    {
+      "id": "64d5e738793b",
+      "judul": "Palantir’s Tom Watson says ‘mob rule’ must not dictate awarding of government contracts",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-09T07:20:33.000Z",
+      "cuplikan": "Former Labour deputy leader says tech firm would work with a Reform UK government on immigration crackdowns Tom Watson, the former Labour deputy leader who recently joined Palantir, has warned against “mob rule” when it comes to awarding…",
+      "gambar": "https://i.guim.co.uk/img/media/feaa93bb4c00e44a655ff9ed1d226f783dc7d75c/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=463595922b7a8989f804ca98047a7b1e",
+      "kategoriSumber": [
+        "Palantir",
+        "Tom Watson",
+        "Public services policy",
+        "NHS",
+        "Metropolitan police",
+        "Sadiq Khan",
+        "Andy Burnham",
+        "UK news",
+        "Technology",
+        "Society"
+      ]
+    },
+    {
+      "id": "a8d11081687a",
+      "judul": "POV Masuk Paddock VR46 Racing Team di MotoGP Mandalika 2026, Sedekat Ini dengan Fabio Di Giannantonio dan Franco Morbidelli!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8309581/pov-masuk-paddock-vr46-racing-team-di-motogp-mandalika-2026-sedekat-ini-dengan-fabio-di-giannantonio-dan-franco-morbidelli",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:18:34.000Z",
+      "cuplikan": "Bola.com merasakan pengalaman berada di paddock Pertamina Enduro VR46 Racing Team saat menjalani sesi free practice di Sirkuit Mandalika, Nusa Tenggara Barat, Jumat (9/10/2026) siang WITA. Dari dekat, terlihat aktivitas Fabio Di…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/rqCTpGuM7GFqs2KRt_sP4tmSmsE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9369584/original/046156900_1791530312-20261009_hk_paddock-vr46-14e6c2.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "225886f79cf3",
+      "judul": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "tautan": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-09T07:14:32.000Z",
+      "cuplikan": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Microsoft",
+        "News",
+        "Tech"
+      ]
+    },
+    {
+      "id": "49bf4939d077",
+      "judul": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "tautan": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-09T07:14:30.000Z",
+      "cuplikan": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg"
+    },
+    {
+      "id": "09bd5efb9684",
+      "judul": "'Careless use of AI is the real threat - not the ghost stories'",
+      "tautan": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-09T07:05:01.000Z",
+      "cuplikan": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/208feab0-bc0f-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "id": "14f420c3e083",
+      "judul": "Usai Bawa Timnas Indonesia Juara, Calvin Verdonk Titip Pesan Menyentuh untuk Anak-anak",
+      "tautan": "https://www.viva.co.id/bola/1934455-usai-bawa-timnas-indonesia-juara-calvin-verdonk-titip-pesan-menyentuh-untuk-anak-anak",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:02:00.000Z",
+      "cuplikan": "Calvin Verdonk beri pesan menyentuh untuk anak-anak usai bawa Indonesia juara Piala ASEAN FIFA 2026 dan hapus catatan kelam adu penalti atas Thailand.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/09/6ac8826142395-bek-kiri-timnas-indonesia-calvin-verdonk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "b4a5fd37f0dc",
+      "judul": "Dony Tri Pamungkas optimistis Persija kembali dapatkan tiga poin",
+      "tautan": "https://www.antaranews.com/berita/5778324/dony-tri-pamungkas-optimistis-persija-kembali-dapatkan-tiga-poin",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T07:01:55.000Z",
+      "cuplikan": "Pemain Persija Jakarta Dony Tri Pamungkas optimistis timnya bisa kembali mendapatkan kemenangan atau tiga poin saat ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2025/12/29/super-league-persija-lawan-bhayangkara-presisi-2697919.jpeg"
+    },
+    {
+      "id": "d43045f4d37f",
+      "judul": "Dony dan Kwon pulih, Persija bidik kemenangan keempat di markas PSIM",
+      "tautan": "https://www.antaranews.com/berita/5778310/dony-dan-kwon-pulih-persija-bidik-kemenangan-keempat-di-markas-psim",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T06:55:56.000Z",
+      "cuplikan": "Persija Jakarta membidik kemenangan keempat berturut-turut pada Super League 2026/2027 saat bertandang ke markas PSIM ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/04/11/persija-jakarta-kalahkan-persebaya-surabaya-2770655.jpg"
+    },
     {
       "id": "e0a70029b618",
       "judul": "Pemain Keturunan Indonesia Disamakan dengan Hakim Ziyech, Klub Belanda Mulai Melirik",
@@ -353,17 +742,6 @@
       ]
     },
     {
-      "id": "49bf4939d077",
-      "judul": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "tautan": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "sumber": "BBC News",
-      "kanal": "bbc-tech",
-      "lajur": "global",
-      "terbit": "2026-10-09T04:06:23.000Z",
-      "cuplikan": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg"
-    },
-    {
       "id": "25f262f1c325",
       "judul": "Veda Pratama yakin bisa tampil bagus di Mandalika",
       "tautan": "https://www.antaranews.com/berita/5778033/veda-pratama-yakin-bisa-tampil-bagus-di-mandalika",
@@ -609,6 +987,24 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/28/6aba341a80d14-skuad-timnas-indonesia-di-fifa-asean-cup-2026_gemini_665_374.jpg",
       "kategoriSumber": [
         "bola"
+      ]
+    },
+    {
+      "id": "92505e3b0d54",
+      "judul": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-09T01:25:42.000Z",
+      "cuplikan": "A spokesperson behind the tech company’s AI chatbot has not yet specified what counts as abusive or cruel content Anthropic has barred users from exhibiting “sustained and needless abusive or cruel behavior” toward its models, as the…",
+      "gambar": "https://i.guim.co.uk/img/media/6e190063ccfe8ce226fbe77ca8498af1a2fd082b/9_0_2975_2380/master/2975.jpg?width=140&quality=85&auto=format&fit=max&s=057f38247ed24a0c3ccfba3b7fa7b591",
+      "kategoriSumber": [
+        "Anthropic",
+        "AI (artificial intelligence)",
+        "Technology",
+        "Chatbots",
+        "Dario Amodei"
       ]
     },
     {

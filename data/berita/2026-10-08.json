@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-08",
-  "diperbarui": "2026-10-09T06:51:08.997Z",
+  "diperbarui": "2026-10-09T08:51:08.180Z",
   "berita": [
     {
       "id": "9995e8e3d58a",
@@ -1614,6 +1614,26 @@
       "gambar": "https://img.okezone.com/okz/400/content/2026/10/08/38/3246741/fermin_aldeguer_ingin_tampil_kompetitif_di_motogp_mandalika_2026_ferminaldeguer54-ng7S_large.jpg",
       "kategoriSumber": [
         "MotoGP"
+      ]
+    },
+    {
+      "id": "a64f10125a1b",
+      "judul": "Sam Altman says AI will make ‘bad things’ happen. Exhibit A: needless death | Moustafa Bayoumi",
+      "tautan": "https://www.theguardian.com/commentisfree/2026/oct/08/ai-death-war-sam-altman",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-08T10:00:16.000Z",
+      "cuplikan": "AI is already implicated in violent deaths and nearly started world war three. Those bad things? They only happen to other people Sam Altman, the chief executive of OpenAI, has some words for you about his company and the future of…",
+      "gambar": "https://i.guim.co.uk/img/media/90288b1f06112f1896ef17d3810cae7de6215bea/249_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7aa59c2831fbae32f4450b35bed769f1",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Sam Altman",
+        "Technology",
+        "OpenAI",
+        "Meta",
+        "Nvidia",
+        "Mark Zuckerberg"
       ]
     },
     {

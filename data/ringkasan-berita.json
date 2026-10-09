@@ -1,32 +1,4 @@
 {
-  "e0bb71f05abb": {
-    "teks": "Pembeli iPhone 18 Pro dan Pro Max dari luar negeri perlu memperhitungkan pajak impor serta pendaftaran IMEI saat membawa perangkat ke Indonesia. Meski dijual mulai S$1.899 di Singapura, Bea Cukai hanya memberikan pembebasan nilai pabean barang pribadi sebesar USD500 per penumpang. Kelebihan harga dari batas pembebasan tersebut nantinya dikenakan bea masuk 10 persen dan PPN 12 persen.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T06:59:33.728Z"
-  },
-  "0ec616d1b903": {
-    "teks": "Kanal Tekno Liputan6.com merangkum tiga berita terpopuler yang meliputi kehadiran puluhan fitur kecerdasan buatan pada Samsung Galaxy S26 FE untuk mendukung kreativitas pengguna. Topik lainnya mencakup temuan komentar rasis dalam transkrip pengujian fitur panggilan AI agent Muse oleh Meta, serta peluncuran Redmi Note 17 Pro Max 5G dari Xiaomi yang mengandalkan baterai berkapasitas besar.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T06:59:42.377Z"
-  },
-  "c441800da9ab": {
-    "teks": "Kementerian Komunikasi dan Digital menyambut baik komitmen penanaman modal Microsoft di tanah air untuk memperluas sektor teknologi dan kecerdasan artifisial. Pemerintah meminta agar dana tersebut disertai dengan alih pengetahuan, peningkatan kemampuan sumber daya manusia, serta penguatan ekosistem digital nasional. Selain itu, kerja sama ini juga diharapkan mampu mendukung keamanan ruang digital bagi anak-anak melalui penerapan regulasi yang berlaku.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T06:59:52.608Z"
-  },
-  "f0603f27c16a": {
-    "teks": "Pebulutangkis muda Moh Zaki Ubaidillah memastikan medali emas pertama bagi Indonesia di Asian Games 2026 setelah menaklukkan wakil China di partai final beregu putra. Meskipun menempati peringkat dunia di bawah lawannya, atlet jebolan PB Djarum tersebut tampil tenang dan menang dua gim langsung. Keberhasilan ini melengkapi rekam jejak positifnya setelah sebelumnya menorehkan berbagai prestasi penting di level junior.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-25T07:00:01.213Z"
-  },
   "37fa2e4d249e": {
     "teks": "Bocoran terbaru mengungkapkan bahwa lini Samsung Galaxy S27 akan menghadirkan varian baru bernama Galaxy S27 Pro. Dua model tertinggi, Pro dan Ultra, diprediksi mengadopsi teknologi memori LPDDR6 dan UFS 5.1 yang lebih cepat serta efisien. Selain itu, varian Ultra dikabarkan menyediakan opsi RAM 16GB khusus untuk kapasitas penyimpanan 1TB. Kendati demikian, Samsung belum merilis konfirmasi resmi terkait spesifikasi penuh lini tersebut.",
     "penyedia": "gemini",
@@ -1643,5 +1615,33 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-09T06:52:26.090Z"
+  },
+  "35e22bfd7b8c": {
+    "teks": "Kaspersky telah menghentikan lebih dari 31.000 pesan elektronik palsu yang menyalahgunakan fitur autentikasi Microsoft. Pelaku kejahatan siber memanipulasi tautan pengalihan serta notifikasi resmi guna menjebak target agar membuka situs berbahaya atau mengunduh program jahat. Mengingat modus ini sangat sulit dikenali secara kasat mata, penggunaan perangkat lunak dengan perlindungan anti-phishing sangat dianjurkan bagi pengguna individu maupun organisasi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-09T08:51:37.135Z"
+  },
+  "e940878f17ab": {
+    "teks": "SpaceX berencana menjadi operator seluler utama dengan menyetujui akuisisi portofolio spektrum 800 MHz milik Grain Management yang kini menunggu persetujuan FCC. Spektrum pita rendah ini memungkinkan sinyal Starlink menembus dinding dan menjangkau pelanggan di dalam bangunan melalui mayoritas perangkat seluler. Didukung konstelasi satelit Gen2, SpaceX akan menyediakan layanan internet cepat yang andal hingga ke lokasi terpencil.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-09T08:52:03.687Z"
+  },
+  "49be3bd07416": {
+    "teks": "Tiga peneliti keselamatan OpenAI yang dipecat membantah tuduhan pelanggaran penanganan informasi sensitif melalui surat terbuka. Mereka menegaskan bahwa komunikasi dengan pihak luar dilakukan sesuai norma perusahaan dan telah dikoordinasikan dengan jajaran pimpinan. Ketiganya juga mengkhawatirkan cara pemecatan tersebut memicu rasa takut bagi staf yang tersisa untuk menyuarakan masalah keselamatan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-09T08:52:30.473Z"
+  },
+  "c4dbc5506246": {
+    "teks": "Anthropic memperbarui kebijakan penggunaan dengan melarang perilaku kasar atau kejam yang berkepanjangan terhadap model AI mereka. Aturan yang berlaku untuk kasus ekstrem ini muncul setelah proyek penyiksaan bot percakapan memicu kecaman. Perusahaan tersebut juga memperbarui kebijakan pemilu untuk mencegah manipulasi proses demokrasi serta menyesuaikan aturan penargetan pemilih.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-09T08:53:06.618Z"
   }
 }
