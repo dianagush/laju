@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-09",
-  "diperbarui": "2026-10-10T06:59:29.038Z",
+  "diperbarui": "2026-10-10T13:34:41.728Z",
   "berita": [
     {
       "id": "dc88b7120052",
@@ -3898,6 +3898,26 @@
         "In Brief",
         "Netflix",
         "Sam Bankman-Fried"
+      ]
+    },
+    {
+      "id": "e546fe027600",
+      "judul": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-08T18:23:47.000Z",
+      "cuplikan": "Vice-president also says Adobe is barred from visa program that allows high-skilled workers to apply for US residency Microsoft is suspended from applying for permanent residency for workers employed through a US visa program for…",
+      "gambar": "https://i.guim.co.uk/img/media/0a5876855694163b01d022271607a1f87c8c496a/758_255_3012_2410/master/3012.jpg?width=140&quality=85&auto=format&fit=max&s=190dffb4f94317823062ce7106f575d9",
+      "kategoriSumber": [
+        "Microsoft",
+        "Technology",
+        "US immigration",
+        "JD Vance",
+        "Trump administration",
+        "US politics",
+        "US news"
       ]
     },
     {
