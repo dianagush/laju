@@ -1,0 +1,132 @@
+{
+  "tanggal": "2026-10-10",
+  "dibuat": "2026-10-10T06:59:31.300Z",
+  "penyedia": "gemini",
+  "model": "gemini-3.6-flash",
+  "tekno": [
+    {
+      "teks": "Meta melarang iklan TikTok di tujuh negara, termasuk Indonesia, demi melindungi platform dari pesaing.",
+      "sumber": [
+        {
+          "judul": "Meta Larang Iklan TikTok di 7 Negara, Termasuk Indonesia",
+          "tautan": "https://jawapos.com/teknologi/2610100001/meta-larang-iklan-tiktok-di-7-negara-termasuk-indonesia",
+          "sumber": "Jawa Pos",
+          "terbit": "2026-10-09T17:00:39.000Z"
+        }
+      ]
+    },
+    {
+      "teks": "Kaspersky mendeteksi puluhan ribu email penipuan yang memanfaatkan sistem autentikasi resmi Microsoft.",
+      "sumber": [
+        {
+          "judul": "Kaspersky Blokir 31.000 Email Penipuan yang Manfaatkan Sistem Autentikasi Microsoft",
+          "tautan": "https://jawapos.com/teknologi/2610090217/kaspersky-blokir-31000-email-penipuan-yang-manfaatkan-sistem-autentikasi-microsoft",
+          "sumber": "Jawa Pos",
+          "terbit": "2026-10-09T08:30:09.000Z"
+        }
+      ]
+    },
+    {
+      "teks": "Domain .ai.id resmi dibuka untuk masyarakat umum setelah memasuki fase General Availability.",
+      "sumber": [
+        {
+          "judul": "Domain .ai.id Resmi Dibuka untuk Umum, Apa Syaratnya?",
+          "tautan": "https://www.liputan6.com/tekno/read/8309592/domain-aiid-resmi-dibuka-untuk-umum-apa-syaratnya",
+          "sumber": "Liputan6",
+          "terbit": "2026-10-09T08:08:43.000Z"
+        }
+      ]
+    },
+    {
+      "teks": "Samsung dikabarkan akan memangkas produksi ponsel pintar hingga tiga puluh persen.",
+      "sumber": [
+        {
+          "judul": "Samsung bakal Pangkas Produksi HP hingga 30 Persen, Apa Penyebabnya?",
+          "tautan": "https://www.liputan6.com/tekno/read/8309630/samsung-bakal-pangkas-produksi-hp-hingga-30-persen-apa-penyebabnya",
+          "sumber": "Liputan6",
+          "terbit": "2026-10-10T05:11:47.000Z"
+        }
+      ]
+    },
+    {
+      "teks": "Google memperbarui Gemini menjadi agen AI yang mampu bekerja mandiri berhari-hari meski laptop ditutup.",
+      "sumber": [
+        {
+          "judul": "Google Bikin Gemini Bisa Lembur Berhari-hari",
+          "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1934668-google-bikin-gemini-bisa-lembur-berhari-hari",
+          "sumber": "VIVA",
+          "terbit": "2026-10-10T01:33:49.000Z"
+        }
+      ]
+    }
+  ],
+  "olahraga": [
+    {
+      "teks": "Pembalap Indonesia Veda Ega Pratama dipastikan memulai balapan Moto3 Mandalika 2026 dari posisi start ketujuh.",
+      "sumber": [
+        {
+          "judul": "Hasil Kualifikasi Moto3 Mandalika 2026: Veda Ega Pratama Start Ketujuh, Hakim Danish Paling Belakang!",
+          "tautan": "https://sports.okezone.com/read/2026/10/10/38/3247060/hasil-kualifikasi-moto3-mandalika-2026-veda-ega-pratama-start-ketujuh-hakim-danish-paling-belakang",
+          "sumber": "Okezone",
+          "terbit": "2026-10-10T05:39:58.000Z"
+        }
+      ]
+    },
+    {
+      "teks": "Raul Fernandez merebut posisi start terdepan di MotoGP Mandalika sekaligus memecahkan rekor lap Sirkuit Mandalika.",
+      "sumber": [
+        {
+          "judul": "Raul Fernandez amankan pole position GP Indonesia",
+          "tautan": "https://www.antaranews.com/berita/5779726/raul-fernandez-amankan-pole-position-gp-indonesia",
+          "sumber": "ANTARA",
+          "terbit": "2026-10-10T05:19:15.000Z"
+        },
+        {
+          "judul": "Raul Fernandez pecahkan rekor lap Sirkuit Mandalika",
+          "tautan": "https://www.antaranews.com/berita/5778744/raul-fernandez-pecahkan-rekor-lap-sirkuit-mandalika",
+          "sumber": "ANTARA",
+          "terbit": "2026-10-09T10:24:14.000Z"
+        }
+      ]
+    },
+    {
+      "teks": "Para legenda Manchester United dan Arsenal berkumpul di Jakarta untuk memeriahkan laga reuni di Gelora Bung Karno.",
+      "sumber": [
+        {
+          "judul": "Para legenda kenang rivalitas panas MU vs Arsenal di masa lalu",
+          "tautan": "https://www.antaranews.com/berita/5779366/para-legenda-kenang-rivalitas-panas-mu-vs-arsenal-di-masa-lalu",
+          "sumber": "ANTARA",
+          "terbit": "2026-10-09T16:04:14.000Z"
+        },
+        {
+          "judul": "Robert Pires Tersanjung Sambutan Hangat di Jakarta, Siap Turun di Laga Legenda MU Vs Arsenal",
+          "tautan": "https://www.liputan6.com/bola/read/8309837/robert-pires-tersanjung-sambutan-hangat-di-jakarta-siap-turun-di-laga-legenda-mu-vs-arsenal",
+          "sumber": "Liputan6",
+          "terbit": "2026-10-09T11:01:36.000Z"
+        }
+      ]
+    },
+    {
+      "teks": "Marco Bezzecchi menjadi pembalap tercepat pada sesi latihan bebas MotoGP Mandalika 2026.",
+      "sumber": [
+        {
+          "judul": "Hasil Latihan Bebas 2 MotoGP Mandalika 2026: Marc Marquez Ketiga, Marco Bezzecchi Tercepat",
+          "tautan": "https://sports.okezone.com/read/2026/10/10/38/3247039/hasil-latihan-bebas-2-motogp-mandalika-2026-marc-marquez-ketiga-marco-bezzecchi-tercepat",
+          "sumber": "Okezone",
+          "terbit": "2026-10-10T02:52:31.000Z"
+        }
+      ]
+    },
+    {
+      "teks": "Cristiano Ronaldo terancam sanksi larangan membela timnas Portugal selama enam bulan karena meninggalkan pemusatan latihan tanpa izin.",
+      "sumber": [
+        {
+          "judul": "Cristiano Ronaldo terancam hukuman enam bulan dari timnas Portugal",
+          "tautan": "https://www.antaranews.com/berita/5779500/cristiano-ronaldo-terancam-hukuman-enam-bulan-dari-timnas-portugal",
+          "sumber": "ANTARA",
+          "terbit": "2026-10-09T23:07:12.000Z"
+        }
+      ]
+    }
+  ]
+}

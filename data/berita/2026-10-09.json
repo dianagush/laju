@@ -1,7 +1,423 @@
 {
   "tanggal": "2026-10-09",
-  "diperbarui": "2026-10-09T14:37:55.482Z",
+  "diperbarui": "2026-10-10T06:59:29.038Z",
   "berita": [
+    {
+      "id": "dc88b7120052",
+      "judul": "Zheng Qinwen singkirkan Svitolina untuk capai semifinal China Open",
+      "tautan": "https://www.antaranews.com/berita/5779416/zheng-qinwen-singkirkan-svitolina-untuk-capai-semifinal-china-open",
+      "sumber": "ANTARA",
+      "kanal": "antara-tenis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:50:55.000Z",
+      "cuplikan": "Petenis China Zheng Qinwen melaju ke semifinal turnamen tenis China Open kategori WTA 1000 di Beijing setelah ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/09/upscalemedia-transformed-5.jpeg"
+    },
+    {
+      "id": "85830e7c520e",
+      "judul": "Kompany akui tetap bangga dengan prestasinya di Manchester City",
+      "tautan": "https://www.antaranews.com/berita/5779410/kompany-akui-tetap-bangga-dengan-prestasinya-di-manchester-city",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:47:03.000Z",
+      "cuplikan": "Pelatih Bayern Muenchen, Vincent Kompany, menegaskan dirinya tetap bangga dengan prestasi yang diraih bersama ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/03/11/IMG_20260311_152512.jpg.jpeg"
+    },
+    {
+      "id": "edf79715fb8e",
+      "judul": "Danu Robotics’ fight to build a better recycling robot",
+      "tautan": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-09T16:45:00.000Z",
+      "cuplikan": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Hardware",
+        "Robotics",
+        "recycling",
+        "TechCrunch Disrupt",
+        "Battlefield 200"
+      ]
+    },
+    {
+      "id": "304a6e318051",
+      "judul": "We can’t help treating AI like it’s human. But should we?",
+      "tautan": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-09T16:40:14.000Z",
+      "cuplikan": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Robotics",
+        "Exclusive"
+      ]
+    },
+    {
+      "id": "81cc1be5a12a",
+      "judul": "Fadia/Tiwi cari momentum bangkit di tur Eropa",
+      "tautan": "https://www.antaranews.com/berita/5779384/fadia-tiwi-cari-momentum-bangkit-di-tur-eropa",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:23:40.000Z",
+      "cuplikan": "Ganda putri Indonesia Siti Fadia Silva Ramadhanti/Amallia Cahaya Pratiwi membidik kebangkitan pada rangkaian tur Eropa ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/06/03/Tiwi-Fadia-lolos-ke-babak-16-besar-030626-fzn-9.jpg"
+    },
+    {
+      "id": "7e48874e004c",
+      "judul": "Aldila Sutjiadi melaju ke semifinal WTA 1000 Beijing",
+      "tautan": "https://www.antaranews.com/berita/5779378/aldila-sutjiadi-melaju-ke-semifinal-wta-1000-beijing",
+      "sumber": "ANTARA",
+      "kanal": "antara-tenis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:21:26.000Z",
+      "cuplikan": "Petenis putri Indonesia Aldila Sutjiadi bersama pasangannya, Erin Routliffe, melaju ke semifinal ganda turnamen tenis ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/08/09/XxjpbeE000052_20260808_PEPFN0A001.jpg"
+    },
+    {
+      "id": "3ea4fcd37288",
+      "judul": "Devin/Faathir mulai petualangan di level Super 750",
+      "tautan": "https://www.antaranews.com/berita/5779374/devin-faathir-mulai-petualangan-di-level-super-750",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:19:13.000Z",
+      "cuplikan": "Ganda putra muda Indonesia Devin Artha Wahyudi/Ali Faathir Rayhan akan menghadapi ujian baru ketika mulai bersaing pada ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/01/WhatsApp-Image-2026-06-09-at-16.46.34.jpeg"
+    },
+    {
+      "id": "7eb0723a5f7c",
+      "judul": "Indonesia terhenti di semifinal Piala Suhandinata 2026",
+      "tautan": "https://www.antaranews.com/berita/5779372/indonesia-terhenti-di-semifinal-piala-suhandinata-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:15:51.000Z",
+      "cuplikan": "Tim bulu tangkis junior Indonesia terhenti pada semifinal Piala Suhandinata 2026 setelah harus mengakui keunggulan ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2022/09/03/badminton-1.jpg"
+    },
+    {
+      "id": "1b1a495cc1c2",
+      "judul": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson",
+      "tautan": "https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-09T16:09:08.000Z",
+      "cuplikan": "The Justice Department is considering a perjury and obstruction-of-justice case against Cassidy Hutchinson, a former White House aide who testified against Donald Trump to the January 6 committee.",
+      "gambar": "https://media.wired.com/photos/6ac8ddd09e3491cd7012831f/master/pass/Cassidy%20Hutchinson.jpg",
+      "kategoriSumber": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "6149627e14ff",
+      "judul": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+      "tautan": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-09T16:07:26.000Z",
+      "cuplikan": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Transportation",
+        "Elon Musk",
+        "FSD",
+        "full self-driving",
+        "Tesla"
+      ]
+    },
+    {
+      "id": "ea414f366018",
+      "judul": "Indonesia bawa 14 wakil buka rangkaian tur Eropa",
+      "tautan": "https://www.antaranews.com/berita/5779368/indonesia-bawa-14-wakil-buka-rangkaian-tur-eropa",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:06:26.000Z",
+      "cuplikan": "Indonesia akan membawa 14 wakil untuk membuka rangkaian tur Eropa melalui Denmark Open 2026 di Odense, Denmark, 13-18 ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/09/27/Mens-doubles.jpg"
+    },
+    {
+      "id": "16b5a85cb661",
+      "judul": "Para legenda kenang rivalitas panas MU vs Arsenal di masa lalu",
+      "tautan": "https://www.antaranews.com/berita/5779366/para-legenda-kenang-rivalitas-panas-mu-vs-arsenal-di-masa-lalu",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:04:14.000Z",
+      "cuplikan": "Dua legenda Manchester United (MU), Rio Ferdinand dan Ryan Giggs, dan dua legenda Arsenal, Gilberto Silva dan Robert ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/09/IMG_0069.jpeg"
+    },
+    {
+      "id": "513c53e7f755",
+      "judul": "Turun Gunung di Seri Mandalika 2026, Legenda MotoGP Puji Mentalitas Jorge Martin",
+      "tautan": "https://www.liputan6.com/bola/read/8309783/turun-gunung-di-seri-mandalika-2026-legenda-motogp-puji-mentalitas-jorge-martin",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T16:00:59.000Z",
+      "cuplikan": "Pembalap senior MotoGP yang akan kembali balapan di Mandalika memuji mentalitas Jorge Martin dan timnya.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/60YKgHbg08X-hrlvByfzaMwnG2U=/0x59:1024x636/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5669116/original/088674600_1778418113-000_B2EA6N7.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "725b75f082ee",
+      "judul": "Vinales tingkatkan konsistensi performa untuk hadapi GP Indonesia 2026",
+      "tautan": "https://www.antaranews.com/berita/5779357/vinales-tingkatkan-konsistensi-performa-untuk-hadapi-gp-indonesia-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T15:56:15.000Z",
+      "cuplikan": "Pembalap Red Bull KTM Tech3 Maverick Vinales mengatakan bahwa dirinya tengah berupaya meningkatkan konsistensi performa ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/09/1000549206.jpg"
+    },
+    {
+      "id": "ddcad6307472",
+      "judul": "Remember Orkut? Its founder wants to bring it back",
+      "tautan": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-09T15:56:15.000Z",
+      "cuplikan": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Social",
+        "Orkut"
+      ]
+    },
+    {
+      "id": "d49493149e8e",
+      "judul": "Legenda MU vs Arsenal di GBK, Rio Ferdinand targetkan kemenangan",
+      "tautan": "https://www.antaranews.com/berita/5779354/legenda-mu-vs-arsenal-di-gbk-rio-ferdinand-targetkan-kemenangan",
+      "sumber": "ANTARA",
+      "kanal": "antara-bola-dunia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T15:54:02.000Z",
+      "cuplikan": "Legenda Manchester United (MU) Rio Ferdinand menargetkan kemenangan dalam laga para legenda bertajuk \"Champions ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/09/IMG_0048.jpeg"
+    },
+    {
+      "id": "b7942fed5b9f",
+      "judul": "a16z’s Olivia Moore on the state of consumer AI",
+      "tautan": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-09T15:43:33.000Z",
+      "cuplikan": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "TC",
+        "Andreessen Horowitz",
+        "consumer AI",
+        "Exclusive"
+      ]
+    },
+    {
+      "id": "0be4f33f255d",
+      "judul": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "tautan": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-09T15:32:30.000Z",
+      "cuplikan": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "7041b606ea78",
+      "judul": "Isenmulang Kalteng FC Tak Pernah Menang, Persebaya Surabaya Perpanjang Penderitaan",
+      "tautan": "https://www.viva.co.id/bola/1934601-isenmulang-kalteng-fc-tak-pernah-menang-persebaya-surabaya-perpanjang-penderitaan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T15:26:16.000Z",
+      "cuplikan": "Isenmulang Kalteng FC belum mampu memutus tren tanpa kemenangan di Super League 2026/2027. Terbaru, tim berjuluk Laskar Isen Mulang itu harus mengakui keunggulan Persebay",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/04/6a7200d50508d-pemain-persebaya-surabaya-di-piala-presiden-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "5c3be6623c79",
+      "judul": "Hasil Undian IBL All Indonesian 2026, Diikuti 10 Klub",
+      "tautan": "https://www.liputan6.com/bola/read/8309993/hasil-undian-ibl-all-indonesian-2026-diikuti-10-klub",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T15:18:49.000Z",
+      "cuplikan": "IBL All Indonesian 2026 akan diikuti pemain lokal saja. Klub peserta 10 tim yang akan bertarung di GOR Laga Tangkas, Bogor.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/q76ooAAhnJjjQrSsKEqTEV8jpow=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9370146/original/008239600_1791559131-20261002192005-logo-all-indonesian-2026-2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "8745b70d62ae",
+      "judul": "Dimitar Berbatov hingga Santi Cazorla, Legenda MU dan Arsenal Latih Anak-Anak Indonesia di Jakarta",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8309964/dimitar-berbatov-hingga-santi-cazorla-legenda-mu-dan-arsenal-latih-anak-anak-indonesia-di-jakarta",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T15:14:21.000Z",
+      "cuplikan": "Sejumlah legenda Manchester United dan Arsenal memberikan coaching clinic untuk anak-anak di Stadion Madya, Jakarta, Jumat (9/10/2026). Deretan mantan pemain ternama seperti Dimitar Berbatov, Wes Brown, Ashley Cole, John O'Shea, Mikael…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Ij06Nt1LahdSJeeKcbOch655zGQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9370115/original/031538400_1791555613-20261009_coaching-clinic-mu-arsenal-legends-acb078.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "fb02fae35c54",
+      "judul": "Bezzecchi fokus amankan Q2 guna rebut pole position GP Indonesia 2026",
+      "tautan": "https://www.antaranews.com/berita/5779313/bezzecchi-fokus-amankan-q2-guna-rebut-pole-position-gp-indonesia-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T15:14:21.000Z",
+      "cuplikan": "Pembalap Aprilia Racing Marco Bezzecchi menilai hasil dalam rangkaian sesi latihan menjadi modal positif, namun fokus ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/09/1000549188.jpg"
+    },
+    {
+      "id": "67959f239875",
+      "judul": "Catat Tanggalnya! Edisi Ketiga SEAA Masters 2026 Hadir di GBK, Masyarakat Bisa Nonton Gratis",
+      "tautan": "https://www.liputan6.com/bola/read/8309990/catat-tanggalnya-edisi-ketiga-seaa-masters-2026-hadir-di-gbk-masyarakat-bisa-nonton-gratis",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T15:10:14.000Z",
+      "cuplikan": "SEAA Masters 2026 menghadirkan hampir 600 perenang dari lima negara. Masyarakat bisa menyaksikan persaingan mereka secara gratis di GBK.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/R2pavy3ZLIaAgZbFGFv6MYQvnZM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9370112/original/079555300_1791555244-366604c5-4a66-4ce7-8d03-acec0e851c04.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "e489e6273d79",
+      "judul": "Automattic interim CFO resigns just weeks after boardroom shakeup",
+      "tautan": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-09T15:02:30.000Z",
+      "cuplikan": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Media & Entertainment",
+        "Automattic",
+        "Exclusive",
+        "matt mullenweg",
+        "WordPress"
+      ]
+    },
+    {
+      "id": "7aef40527bf8",
+      "judul": "I’m Still Convinced the iPod Was the Perfect Gadget",
+      "tautan": "https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-09T15:00:00.000Z",
+      "cuplikan": "Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet.",
+      "gambar": "https://media.wired.com/photos/6abdb2233241c89b6aaeb7ab/master/pass/Backchannel-iPod-Anniversary-Business-678384.jpg",
+      "kategoriSumber": [
+        "Business",
+        "Business / Tech Culture"
+      ]
+    },
+    {
+      "id": "52bec9d35069",
+      "judul": "Kisah Pembalap Indonesia Abraham Hutapea, Berawal dari Hobi Masa Kecil hingga Tembus Kejuaraan Dunia Gokart di Italia",
+      "tautan": "https://sports.okezone.com/read/2026/10/09/43/3247011/kisah-pembalap-indonesia-abraham-hutapea-berawal-dari-hobi-masa-kecil-hingga-tembus-kejuaraan-dunia-gokart-di-italia",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T14:54:11.000Z",
+      "cuplikan": "Kisah Pembalap Indonesia Abraham Hutapea, Berawal dari Hobi Masa Kecil hingga Tembus Kejuaraan Dunia Gokart di Italia.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/09/43/3247011/abraham_hutapea-ZSni_large.jpeg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "1a4d2fa3afa6",
+      "judul": "Bhayangkara waspadai situasi bola mati Arema",
+      "tautan": "https://www.antaranews.com/berita/5779273/bhayangkara-waspadai-situasi-bola-mati-arema",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T14:46:57.000Z",
+      "cuplikan": "Pelatih Bhayangkara Presisi Lampung FC Oscar Bruzon mewaspadai skema bola mati yang menjadi salah satu kekuatan Arema ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/09/1001545119.jpg"
+    },
+    {
+      "id": "4cf3e870af9d",
+      "judul": "Bayu Adiwibowo Kembali Berkompetisi, Akui Jiwa Kompetitif Mantan Atlet Tak Padam",
+      "tautan": "https://www.liputan6.com/bola/read/8309970/bayu-adiwibowo-kembali-berkompetisi-akui-jiwa-kompetitif-mantan-atlet-tak-padam",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T14:44:47.000Z",
+      "cuplikan": "Bayu Adiwibowo mengungkapkan bahwa semangat bersaing tetap melekat pada mantan atlet, meski renang masters mengusung suasana menyenangkan.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/1REbgrFFq-P1u0XDVxO4EPOX7wE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9370118/original/087010200_1791556087-WhatsApp_Image_2026-10-09_at_21.22.08.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d7a1c9894fff",
+      "judul": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+      "tautan": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-09T14:42:34.000Z",
+      "cuplikan": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Media & Entertainment",
+        "Social",
+        "Startups",
+        "TechCrunch Disrupt"
+      ]
+    },
+    {
+      "id": "028aa8209b69",
+      "judul": "Pertamina Patra Niaga Dukung Perempuan Lombok Merajut Masa Depan Lewat Mina Tenun",
+      "tautan": "https://www.liputan6.com/bola/read/8309978/pertamina-patra-niaga-dukung-perempuan-lombok-merajut-masa-depan-lewat-mina-tenun",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T14:40:34.000Z",
+      "cuplikan": "Pertamina gelar program pemberdayaan masyarakat melalui Galeri Mina Tenun di Desa Sukarara.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Ccid06ywSBiLIs45yQoJky77690=/0x140:2560x1583/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9370129/original/095727300_1791556688-Foto_2.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5b6bc0fd259a",
+      "judul": "Alex Martins bawa Persebaya taklukkan Isenmulang",
+      "tautan": "https://www.antaranews.com/berita/5779261/alex-martins-bawa-persebaya-taklukkan-isenmulang",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T14:40:03.000Z",
+      "cuplikan": "Gol tunggal Alex Martins membawa Persebaya Surabaya menang 1-0 atas Isenmulang dalam laga Super League di Stadion ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/08/02/Alex-Martins.jpg"
+    },
     {
       "id": "5ad853800ceb",
       "judul": "Jorge Martin belum puas dengan performanya selama latihan di Mandalika",
@@ -407,6 +823,24 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/DqLXoetOmxlaqsktqY9-bx0sH9Y=/0x0:4088x2304/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8919784/original/010163300_1782953715-AP26183016209332.jpg",
       "kategoriSumber": [
         "Bola"
+      ]
+    },
+    {
+      "id": "c76b8fe471ba",
+      "judul": "Microsoft barred from sponsoring foreign workers for US residency",
+      "tautan": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-09T13:14:33.000Z",
+      "cuplikan": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights-1152x648.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "microsoft",
+        "syndication",
+        "Trump adm",
+        "visas"
       ]
     },
     {
@@ -1380,14 +1814,12 @@
       "kategoriSumber": [
         "Artificial Intelligence",
         "Computers and the Internet",
-        "Social Media",
         "Mobile Applications",
         "Computer Security",
-        "Innovation",
         "Meta Platforms Inc",
         "Wang, Alexandr (Technology Executive)",
         "Zuckerberg, Mark E",
-        "Nat Friedman"
+        "Friedman, Nat (1977- )"
       ]
     },
     {
@@ -2593,6 +3025,20 @@
       ]
     },
     {
+      "id": "c77ef1bf27a9",
+      "judul": "Kata 5 Pemain Persija usai Antar Timnas Indonesia Juara FIFA ASEAN Cup 2026",
+      "tautan": "https://www.viva.co.id/bola/1934616-kata-5-pemain-persija-usai-antar-timnas-indonesia-juara-fifa-asean-cup-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-09T00:30:00.000Z",
+      "cuplikan": "Lima pemain Persija Jakarta, termasuk Jordi Amat dan Rizky Ridho, mengungkapkan kebanggaan setelah Timnas Indonesia menjuarai FIFA ASEAN Cup 2026 dan mengakhiri penantian",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/09/6ac91c732ed41-pemain-persija-rayhan-hannan-rizky-ridho-nadeo-dan-jordi-amat-usai-antar-timnas-indonesia-juara-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
       "id": "6b98d737e30e",
       "judul": "Isenmulang FC vs Persebaya: Nestapa Tuan Rumah Bisa Berlanjut",
       "tautan": "https://www.liputan6.com/bola/read/8309227/isenmulang-fc-vs-persebaya-nestapa-tuan-rumah-bisa-berlanjut",
@@ -2766,15 +3212,19 @@
       "sumber": "The New York Times",
       "kanal": "nyt-tech",
       "lajur": "global",
-      "terbit": "2026-10-08T22:48:06.000Z",
+      "terbit": "2026-10-08T22:48:07.000Z",
       "cuplikan": "Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians.",
       "gambar": "https://static01.nyt.com/images/2026/09/09/multimedia/08SCI-MEDICAL-CHATBOT/00SCI-OPENAI-DATA-flbh-mediumSquareAt3X.jpg",
       "kategoriSumber": [
         "Artificial Intelligence",
-        "Medicine and Health",
+        "Doctors",
+        "Hospitals",
         "Beth Israel Deaconess Medical Center",
         "Clinical Trials",
-        "Google Inc"
+        "Medicine and Health",
+        "Google Inc",
+        "Lancet, The (Journal)",
+        "Research"
       ]
     },
     {
