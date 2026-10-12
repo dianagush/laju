@@ -1,7 +1,303 @@
 {
   "tanggal": "2026-10-12",
-  "diperbarui": "2026-10-12T01:20:23.446Z",
+  "diperbarui": "2026-10-12T04:19:57.485Z",
   "berita": [
+    {
+      "id": "b2da9afbfe15",
+      "judul": "Top 3 Tekno: Apple Pangkas Pesanan Komponen iPhone 18 Pro Tuai Perhatian",
+      "tautan": "https://www.liputan6.com/tekno/read/8310912/top-3-tekno-apple-pangkas-pesanan-komponen-iphone-18-pro-tuai-perhatian",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-12T04:12:27.000Z",
+      "cuplikan": "Apple disebut meminta sejumlah pemasok mengurangi produksi komponen untuk iPhone 18 Pro dan iPhone 18 Pro Max.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/TjdplQ-arkWGx6_YuzXZpcysv4E=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9349944/original/002165300_1789550158-iphone-18-pro-model-unselect-gallery-1-202609.webp",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "e737789a700d",
+      "judul": "Prediksi Galatasaray vs Barcelona: Blaugrana Lebih Diunggulkan",
+      "tautan": "https://www.liputan6.com/bola/read/8311043/prediksi-galatasaray-vs-barcelona-blaugrana-lebih-diunggulkan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T03:48:22.000Z",
+      "cuplikan": "Prediksi Galatasaray vs Barcelona di Liga Champions 2026-27, Rabu (14/10), dengan Blaugrana bermodal tren kemenangan dan ketajaman lini depan.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/xRGWflP8p8FYNmE9D3k7frI-L14=/0x230:2231x1487/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9344749/original/082859300_1788995428-Barcelona_s_Lamine_Yamal.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "49aafb337d0c",
+      "judul": "Kata Pelatih Dewa United Osmar Loss usai Imbang Lawan Persib 2-2, Akui Kehilangan Kendali",
+      "tautan": "https://www.viva.co.id/bola/1935060-kata-pelatih-dewa-united-osmar-loss-usai-imbang-lawan-persib-2-2-akui-kehilangan-kendali",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T03:34:00.000Z",
+      "cuplikan": "Dewa United gagal mempertahankan keunggulan 2-0 saat ditahan Persib Bandung 2-2. Pelatih Osmar Loss frustrasi setelah timnya kehilangan kendali pada babak kedua.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/02/6a455bd8c60dd-pelatih-brasil-osmar-loss-vieira_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "15049ec2464f",
+      "judul": "Anthropic Akui Agen Al-nya Coba Menyusup ke Situs Pemerintah AS",
+      "tautan": "https://ameera.republika.co.id/berita/tmrz2p425/anthropic-akui-agen-alnya-coba-menyusup-ke-situs-pemerintah-as",
+      "sumber": "Republika",
+      "kanal": "republika-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-12T03:30:25.000Z",
+      "cuplikan": "Anthropic menyatakan agen kecerdasan buatan (Al) miliknya mencoba menyusup dan mengutak-atik situs pemerintah Amerika Serikat di tingkat federal, negara bagian, hingga lokal. Hal itu terungkap dalam...",
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/arab-saudi-buka-suara-soal-isu-peretasan-ponsel-bos-_200122233535-216.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "db140f9e46b5",
+      "judul": "Pengakuan Igor Tolic usai Persib Ditahan Imbang Dewa United 2-2, Akui Buat Dua Kesalahan Fatal di Babak Pertama",
+      "tautan": "https://www.viva.co.id/bola/1935055-pengakuan-igor-tolic-usai-persib-ditahan-imbang-dewa-united-2-2-akui-buat-dua-kesalahan-fatal-di-babak-pertama",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T03:30:00.000Z",
+      "cuplikan": "Persib Bandung sukses bangkit dan tahan imbang Dewa United 2-2 di Stadion Si Jalak Harupat, Minggu (11/10/2026). Pelatih Igor Tolic puji kerja keras pemain.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/27/6a9024ab5a99c-pelatih-persib-bandung-igor-tolic_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "3629082241c8",
+      "judul": "Di Balik Comeback Dramatis Persib, Tersimpan Fakta Mengkhawatirkan yang Jarang Disadari Bobotoh",
+      "tautan": "https://www.viva.co.id/bola/1935058-di-balik-comeback-dramatis-persib-tersimpan-fakta-mengkhawatirkan-yang-jarang-disadari-bobotoh",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T03:18:03.000Z",
+      "cuplikan": "Persib Bandung selalu kebobolan lebih dulu dalam empat laga Super League 2026/2027. Total lima kali tertinggal di semua ajang menjadi alarm bagi Maung Bandung.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/12/6acc4fe263ea3-persib-usai-comback-dari-dewa-united_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "7138971830c7",
+      "judul": "Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried",
+      "tautan": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-10-12T03:00:20.000Z",
+      "cuplikan": "A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests.",
+      "gambar": "https://static01.nyt.com/images/2026/10/10/business/06biz-techfix/06biz-techfix-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "ChatGPT",
+        "Teenagers and Adolescence",
+        "Children and Childhood",
+        "Suicides and Suicide Attempts",
+        "Education (K-12)",
+        "Mental Health and Disorders",
+        "OpenAI Labs",
+        "Common Sense Media"
+      ]
+    },
+    {
+      "id": "813ea6585377",
+      "judul": "Kakang Dihujat usai Persib Ditahan Dewa United, Marc Klok Semprot Bobotoh: Tidak Normal",
+      "tautan": "https://www.viva.co.id/bola/1935050-kakang-dihujat-usai-persib-ditahan-dewa-united-marc-klok-semprot-bobotoh-tidak-normal",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T03:00:19.000Z",
+      "cuplikan": "Marc Klok pasang badan bela Kakang Rudianto dari hujatan suporter usai Persib imbang 2-2 kontra Dewa United, Minggu (11/10/2026). Sebut serangan mental tak adil.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9d075e0a31c-pemain-persib-bandung-marc-klok_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "5586c4299cc7",
+      "judul": "Luciano Spalletti Sindir Cagliari usai Juventus Gagal Raih Kemenangan",
+      "tautan": "https://www.liputan6.com/bola/read/8311013/luciano-spalletti-sindir-cagliari-usai-juventus-gagal-raih-kemenangan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T02:57:04.000Z",
+      "cuplikan": "Luciano Spalletti menyoroti kebiasaan Cagliari membuang waktu setelah Juventus bermain imbang 1-1. Ia juga menjelaskan taktik dan performa timnya.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/39EgMMinm_h5og_9c3e28XrdmA0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371098/original/082492000_1791752466-LUCIAN0.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "38750a174782",
+      "judul": "Media Asing Sebut Persija Ungguli Persib dalam Prediksi Juara, Peluang Macan Kemayoran Capai 41 Persen",
+      "tautan": "https://www.viva.co.id/bola/1935047-media-asing-sebut-persija-ungguli-persib-dalam-prediksi-juara-peluang-macan-kemayoran-capai-41-persen",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T02:55:34.000Z",
+      "cuplikan": "Media asing Footy Ranking menempatkan Persija sebagai favorit juara Super League 2026/2027 dengan peluang 41 persen, unggul atas Persib yang mencapai 36 persen.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/12/6acc4b63f0316-persija-jakarta_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "83955bef229d",
+      "judul": "Konten Kreator di Jogja Punya Destinasi Baru, Tempat Baru di Pakuwon Mall Jogja Ini Menarik Dikunjungi",
+      "tautan": "https://www.liputan6.com/tekno/read/8311011/konten-kreator-di-jogja-punya-destinasi-baru-tempat-baru-di-pakuwon-mall-jogja-ini-menarik-dikunjungi",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-12T02:53:44.000Z",
+      "cuplikan": "Ada Promo hingga 30 Oktober 2026, Penggemar Fotografi di Jogja Bisa Merapat ke DJI Store Yogyakarta di Pakuwon Mall.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/iFhGPg1tZrkEgZxxTOh-H26ZHNY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371174/original/037985600_1791773625-IMG_2556.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "a6f5959dcb78",
+      "judul": "3 Pelatih Top Dunia yang Bisa Jadi Pelatih Baru MU Jika Michael Carrick Dipecat Akibat Hasil Buruk Awal Musim",
+      "tautan": "https://www.viva.co.id/bola/1935046-3-pelatih-top-dunia-yang-bisa-jadi-pelatih-baru-mu-jika-michael-carrick-dipecat-akibat-hasil-buruk-awal-musim",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T02:50:27.000Z",
+      "cuplikan": "Performa buruk MU membuat posisi Michael Carrick disorot. Antonio Conte, Eddie Howe, dan Julian Nagelsmann jadi kandidat potensial pengganti di Old Trafford.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/12/6acc4a6e5b5cb-pelatih-mu-michael-carrick_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "001dfe0dcbeb",
+      "judul": "Ini Penampakan Aksi Memukau Koreo Suporter Persela Beri Penghormatan Kiper Legendaris Choirul Huda",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8311006/ini-penampakan-aksi-memukau-koreo-suporter-persela-beri-penghormatan-kiper-legendaris-choirul-huda",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T02:44:12.000Z",
+      "cuplikan": "Suporter Persela Lamongan memberikan tribut kepada kiper legendaris Choirul Huda pada lanjutan Pegadaian Championship 2026/27 kontra Deltras FC di Stadion Surajaya, Lamongan (11/10/2026). Mendiang yang selama kariernya hanya memperkuat…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/kVEWmWw9IWIFgkKEYWQ68q9UmTg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9371169/original/056672100_1791773051-koreo-lamongan-edfd97.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ca9288b2d156",
+      "judul": "Ruben Amorim Soroti Kesalahan AC Milan saat Ditahan Sassuolo",
+      "tautan": "https://www.liputan6.com/bola/read/8311005/ruben-amorim-soroti-kesalahan-ac-milan-saat-ditahan-sassuolo",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T02:41:10.000Z",
+      "cuplikan": "Ruben Amorim menyoroti kesalahan AC Milan saat ditahan Sassuolo 1-1 di Serie A. Ia menegaskan Rossoneri tidak boleh kebobolan dari situasi tendangan sudut.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/cEfKNKxCnKzs5N0bJeaxPsazPzU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353224/original/070356600_1789942916-amorim.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "9419df366a0c",
+      "judul": "Andoni Iraola Kritik Kartu Merah Ryan Gravenberch saat Liverpool Dihajar Manchester City",
+      "tautan": "https://www.liputan6.com/bola/read/8311001/andoni-iraola-kritik-kartu-merah-ryan-gravenberch-saat-liverpool-dihajar-manchester-city",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T02:25:26.000Z",
+      "cuplikan": "Andoni Iraola mengkritik kartu merah Ryan Gravenberch saat Liverpool kalah 0-3 dari Manchester City. Ia menilai kartu kuning pertama tidak tepat.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/vyNYiUGRXZFeme5iL_6C1nKEmLY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9331217/original/011327100_1787507486-000_C6C22UY.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "4e3959e039ac",
+      "judul": "Marc Marquez Bicara Peluang Marco Bezzecchi Juara MotoGP 2026 Setelah Kampiun MotoGP Mandalika 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/12/38/3247357/marc-marquez-bicara-peluang-marco-bezzecchi-juara-motogp-2026-setelah-kampiun-motogp-mandalika-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T02:24:10.000Z",
+      "cuplikan": "Marc Marquez menilai Marco Bezzecchi masih berpeluang juara MotoGP 2026, khususnya setelah kampiun MotoGP Mandalika 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/12/38/3247357/marc_marquez_sebut_marco_bezzecchi_masih_berpeluang_juara_motogp_2026_marcmarquez93-9jNr_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "d0299467cd6a",
+      "judul": "Hasil MPL ID S18 Week 8: RRQ Hoshi Gagal Lolos ke Babak Playoff Tiga Musim",
+      "tautan": "https://www.liputan6.com/tekno/read/8310981/hasil-mpl-id-s18-week-8-rrq-hoshi-gagal-lolos-ke-babak-playoff-tiga-musim",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-12T02:15:33.000Z",
+      "cuplikan": "Hasil MPL ID S18 Week 8 memastikan tiga tim gagal melaju ke babak playoffs. Tim apa saja itu?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/DnEz--KztWQBGm543hx-aaAKK-E=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371141/original/093058400_1791769235-Screenshot_2026-10-12_083524.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "488b4b6e1878",
+      "judul": "Terpopuler, RI lolos Piala Asia Putri hingga 120 WBP ke Nusakambangan",
+      "tautan": "https://www.antaranews.com/berita/5781420/terpopuler-ri-lolos-piala-asia-putri-hingga-120-wbp-ke-nusakambangan",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T02:12:02.000Z",
+      "cuplikan": "Sejumlah berita unggulan pada Senin untuk disimak, mulai dari bantai Singapura 5-0, Indonesia lolos ke Piala Asia Putri ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2025/10/14/2.png"
+    },
+    {
+      "id": "7d0d7ce98914",
+      "judul": "Bus Persib Diserang OTK di Rest Area Batang, Koper Dijarah dan Media Officer Alami Kekerasan",
+      "tautan": "https://www.viva.co.id/bola/1935037-bus-persib-diserang-otk-di-rest-area-batang-koper-dijarah-dan-media-officer-alami-kekerasan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T01:58:19.000Z",
+      "cuplikan": "Bus rombongan Persib U-18 diserang orang tak dikenal di Rest Area Batang KM 360, Minggu (11/10/2026). Klub pastikan tempuh jalur hukum atas perusakan dan penjarahan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/12/6acc3da831ee2-bus-persib-diserang-otk-di-rest-area-batang_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "97a7bae710af",
+      "judul": "BYD Ungkap Desain Robot Humanoid Ciptaannya, Dipersiapkan Untuk Dunia Pendidikan dan Industri",
+      "tautan": "https://jawapos.com/teknologi/2610120033/byd-ungkap-desain-robot-humanoid-ciptaannya-dipersiapkan-untuk-dunia-pendidikan-dan-industri",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-12T01:30:54.000Z",
+      "cuplikan": "- BYD mulai mengungkap arah pengembangan teknologi robot humanoid melalui publikasi desain robot berbasis kecerdasan buatan (AI) yang dikembangkan secara mandiri.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/12/ilustrasi-robot-humanoid-byd-walker-s1-dok-byd-yZMOU.webp"
+    },
+    {
+      "id": "636878b15179",
+      "judul": "Kata Media Korea Usai Persija Libas PSM 4-0, Puji Penampilan Cahya Supriadi: Gemilang",
+      "tautan": "https://www.viva.co.id/bola/1935032-kata-media-korea-usai-persija-libas-psm-4-0-puji-penampilan-cahya-supriadi-gemilang",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T01:21:46.000Z",
+      "cuplikan": "Media Korea puji penampilan gemilang kiper Cahya Supriadi usai Persija Jakarta bantai PSIM Yogyakarta dengan skor telak 4-0 dan kuasai puncak klasemen Super League.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/10/69af8601ec70a-pemain-psim-yogyakarta-cahya-supriadi_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
     {
       "id": "2d29eb06a6d8",
       "judul": "Samsung Galaxy S26 FE vs Galaxy S25 FE, Mana yang Layak Dibeli?",
