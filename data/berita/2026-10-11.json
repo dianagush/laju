@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-11",
-  "diperbarui": "2026-10-12T04:19:57.485Z",
+  "diperbarui": "2026-10-12T07:17:37.123Z",
   "berita": [
     {
       "id": "70688ea0e7a5",
@@ -57,6 +57,34 @@
       "gambar": "https://www.engadget.com/img/gallery/apples-smart-home-hub-will-reportedly-be-called-homeview/l-intro-1791735953.jpg",
       "kategoriSumber": [
         "Apple"
+      ]
+    },
+    {
+      "id": "4c7a615aece9",
+      "judul": "Denmark Open 2026: Jadwal, Daftar Wakil, dan Hasil Undian Jagoan Indonesia",
+      "tautan": "https://www.liputan6.com/bola/read/8310884/denmark-open-2026-jadwal-daftar-wakil-dan-hasil-undian-jagoan-indonesia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-11T16:22:30.000Z",
+      "cuplikan": "Denmark Open 2026 berlangsung 13-18 Oktober di SJF Bank Arena, Odense.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/QpP8utsLk_YK7Dyn4j_-j69eUEU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5384653/original/052911000_1760812445-Jonatan20_QF_DenmarkOpen2025_PBSI_20251017.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "62779e4d5b77",
+      "judul": "Jadwal Liga Champions, 13-15 Oktober: Atletico Madrid vs Manchester United",
+      "tautan": "https://www.liputan6.com/bola/read/8310845/jadwal-liga-champions-13-15-oktober-atletico-madrid-vs-manchester-united",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-11T16:22:22.000Z",
+      "cuplikan": "Tiga big match mewarnai persaingan Liga Champions tengah pekan ini.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/WlpLG0uUSbyl0fVoRClTYvBD7iQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3963940/original/093094100_1647388443-AP22074779666631.jpg",
+      "kategoriSumber": [
+        "Bola"
       ]
     },
     {
