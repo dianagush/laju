@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-12T07:17:37.123Z",
+  "diperbarui": "2026-10-12T08:20:02.687Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -43,11 +43,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 50,
-      "diterima": 47,
+      "diterima": 45,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 3,
+        "terlaluLama": 5,
         "masaDepan": 0
       },
       "terbaru": "2026-10-12T06:02:33.000Z"
@@ -60,14 +60,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 30,
-      "diterima": 11,
+      "diterima": 13,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 19,
+        "terlaluLama": 17,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-11T09:01:57.000Z"
+      "terbaru": "2026-10-12T08:14:53.000Z"
     },
     {
       "id": "republika-tekno",
@@ -94,14 +94,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 11,
+      "diterima": 12,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 9,
+        "terlaluLama": 8,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-12T06:45:37.000Z"
+      "terbaru": "2026-10-12T08:17:07.000Z"
     },
     {
       "id": "liputan6-bola",
@@ -118,7 +118,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-12T07:04:54.000Z"
+      "terbaru": "2026-10-12T07:30:23.000Z"
     },
     {
       "id": "viva-bola",
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-12T06:32:00.000Z"
+      "terbaru": "2026-10-12T08:05:40.000Z"
     },
     {
       "id": "viva-sport",
@@ -169,7 +169,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-12T06:44:05.000Z"
+      "terbaru": "2026-10-12T07:48:16.000Z"
     },
     {
       "id": "antara-bola",
@@ -264,14 +264,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 10,
+      "diterima": 11,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 10,
+        "terlaluLama": 9,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-11T17:47:52.000Z"
+      "terbaru": "2026-10-12T08:03:33.000Z"
     },
     {
       "id": "antara-balap",
@@ -288,7 +288,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-12T01:10:00.000Z"
+      "terbaru": "2026-10-12T07:24:38.000Z"
     },
     {
       "id": "bbc-tech",
@@ -305,7 +305,7 @@
         "terlaluLama": 6,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-11T23:07:35.000Z"
+      "terbaru": "2026-10-12T07:47:37.000Z"
     },
     {
       "id": "guardian-tech",
@@ -322,7 +322,7 @@
         "terlaluLama": 12,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-12T06:00:47.000Z"
+      "terbaru": "2026-10-12T07:52:46.000Z"
     },
     {
       "id": "nyt-tech",

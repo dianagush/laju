@@ -1,7 +1,154 @@
 {
   "tanggal": "2026-10-12",
-  "diperbarui": "2026-10-12T07:17:37.123Z",
+  "diperbarui": "2026-10-12T08:20:02.687Z",
   "berita": [
+    {
+      "id": "b925f514203c",
+      "judul": "Penyebab laptop cepat \"lemot\" dan cara mengatasinya",
+      "tautan": "https://www.antaranews.com/berita/5781848/penyebab-laptop-cepat-lemot-dan-cara-mengatasinya",
+      "sumber": "ANTARA",
+      "kanal": "antara-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-12T08:17:07.000Z",
+      "cuplikan": "Laptop yang awalnya terasa cepat bisa perlahan menjadi lemot setelah digunakan selama beberapa waktu. Membuka aplikasi ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2023/05/16/pexels-fauxels-3182792.jpg"
+    },
+    {
+      "id": "3707026a6493",
+      "judul": "Apple Dikabarkan Rilis MacBook Layar Sentuh Akhir Bulan Ini",
+      "tautan": "https://ototekno.okezone.com/read/2026/10/12/16/3247417/apple-dikabarkan-rilis-macbook-layar-sentuh-akhir-bulan-ini",
+      "sumber": "Okezone",
+      "kanal": "okezone-techno",
+      "lajur": "tekno",
+      "terbit": "2026-10-12T08:14:53.000Z",
+      "cuplikan": "MacBook layar sentuh akan menjadi inovasi baru di antara lini MacBook Apple.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/12/16/3247417/llustrasi-nR6w_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
+    },
+    {
+      "id": "25b824c98281",
+      "judul": "Mantan Pemain Kelas Dunia Berdarah Indonesia Ini Hanya Ingin Gabung Persija atau Bali United, tapi Takdir Berkata Lain",
+      "tautan": "https://www.viva.co.id/bola/1935135-mantan-pemain-kelas-dunia-berdarah-indonesia-ini-hanya-ingin-gabung-persija-atau-bali-united-tapi-takdir-berkata-lain",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T08:05:40.000Z",
+      "cuplikan": "Radja Nainggolan mengungkapkan bahwa dirinya semula hanya tertarik membela Persija Jakarta atau Bali United saat mendapat kesempatan berkarier di Indonesia. Namun, mantan",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2023/12/05/656eb7498f2ae-pemain-bhayangkara-fc-radja-nainggolan_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "af9ef52512fe",
+      "judul": "Janice Tjen melaju ke babak kedua WTA 1000 Wuhan",
+      "tautan": "https://www.antaranews.com/berita/5781830/janice-tjen-melaju-ke-babak-kedua-wta-1000-wuhan",
+      "sumber": "ANTARA",
+      "kanal": "antara-tenis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T08:03:33.000Z",
+      "cuplikan": "Petenis Indonesia Janice Tjen melaju ke babak kedua turnamen WTA 1000 Wuhan setelah meraih kemenangan dua set ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/05/22/Janice.jpg"
+    },
+    {
+      "id": "78767ab462d3",
+      "judul": "AI less regulated than milk, Microsoft president says in warning over safety",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-12T07:52:46.000Z",
+      "cuplikan": "Brad Smith adds to calls for tougher rules governing AI, including ‘kill switches’ and legal obligation to victims of rogue agents Business live – latest updates Artificial intelligence is less regulated than milk and washing machines, the…",
+      "gambar": "https://i.guim.co.uk/img/media/d1ca432dc28121d525a75920de232524abe78efc/0_0_3421_2737/master/3421.jpg?width=140&quality=85&auto=format&fit=max&s=77aec2b5b6bd2d624c935276043a61a6",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Technology sector",
+        "Computing",
+        "Microsoft",
+        "Business",
+        "Technology policy"
+      ]
+    },
+    {
+      "id": "cfabc9998951",
+      "judul": "Kisah Maximo Quiles, Anak Didik Marquez Bersaudara yang Raih Juara Dunia Moto3 di Mandalika 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/12/38/3247412/kisah-maximo-quiles-anak-didik-marquez-bersaudara-yang-raih-juara-dunia-moto3-di-mandalika-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T07:48:16.000Z",
+      "cuplikan": "Maximo Quiles total telah mengumpulkan 351 poin sehingga posisinya sudah tak mampu dikejar pesaing terdekatnya.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/12/38/3247412/maximo_quiles_juara_moto3_2026-q7aU_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "8424fb9459d6",
+      "judul": "AI is less regulated than milk, says Microsoft president",
+      "tautan": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-12T07:47:37.000Z",
+      "cuplikan": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/eacee500-c610-11f1-aae8-850c1751d51d.jpg"
+    },
+    {
+      "id": "bb0387afe5f0",
+      "judul": "Timnas Indonesia Berpotensi Diperkuat 3 Pemain Bernama Mirip, Siapa Saja?",
+      "tautan": "https://www.viva.co.id/bola/1935129-timnas-indonesia-berpotensi-diperkuat-3-pemain-bernama-mirip-siapa-saja",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T07:47:30.000Z",
+      "cuplikan": "Peluang menambah kekuatan Timnas Indonesia datang dari sejumlah pemain dengan latar belakang berbeda. Tiga nama yang menarik perhatian adalah Mitchel Bakker, Mitchell Bak",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/01/6abe858dbec89-pemain-timnas-indonesia-mitchell-baker_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "8a10ea3d1284",
+      "judul": "Bayern Munchen Bidik Erling Haaland, Harry Kane Bakal Tergusur?",
+      "tautan": "https://www.liputan6.com/bola/read/8311025/bayern-munchen-bidik-erling-haaland-harry-kane-bakal-tergusur",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T07:30:23.000Z",
+      "cuplikan": "Bayern Munchen membuka peluang merekrut Erling Haaland di masa depan. Striker Manchester City itu berpotensi menjadi opsi suksesor Harry Kane.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/vm-m17_MX2me4m2YaxgdhPNdjVE=/0x121:3494x2090/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9341454/original/078436100_1788620398-000_C7FA7XF.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "4a01fb65e5cb",
+      "judul": "Pengiriman Komputer Global Q3 2026 Anjlok 20,1 Persen, Lenovo Masih Memimpin",
+      "tautan": "https://ototekno.okezone.com/read/2026/10/12/16/3247406/pengiriman-komputer-global-q3-2026-anjlok-20-1-persen-lenovo-masih-memimpin",
+      "sumber": "Okezone",
+      "kanal": "okezone-techno",
+      "lajur": "tekno",
+      "terbit": "2026-10-12T07:25:53.000Z",
+      "cuplikan": "Tren penurunan ini berlanjut dari Q1 dan Q2 2026, bahkan semakin besar dari kuartal ke kuartal.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/12/16/3247406/ilustrasi-9whY_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
+    },
+    {
+      "id": "d1b908936523",
+      "judul": "Media Italia soroti Erick serahkan trofi ke Bezzecchi perkuat citra RI",
+      "tautan": "https://www.antaranews.com/berita/5781774/media-italia-soroti-erick-serahkan-trofi-ke-bezzecchi-perkuat-citra-ri",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-12T07:24:38.000Z",
+      "cuplikan": "Kementerian Pemuda dan Olahraga (Kemenpora) mengemukakan media Italia Sky Sport MotoGP yang menyoroti Menteri Pemuda ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/10/11/Marco-Bezzecchi-Juara-Motogp-Mandalika-111026-fik-2.jpg"
+    },
     {
       "id": "b838d215a8a2",
       "judul": "Oppo Find X10 dan Find X10 Pro Max Meluncur 21 Oktober 2026",
@@ -948,17 +1095,6 @@
       "kategoriSumber": [
         "bola"
       ]
-    },
-    {
-      "id": "8424fb9459d6",
-      "judul": "AI is less regulated than milk, says Microsoft president",
-      "tautan": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "sumber": "BBC News",
-      "kanal": "bbc-tech",
-      "lajur": "global",
-      "terbit": "2026-10-11T23:07:35.000Z",
-      "cuplikan": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d8b/live/700367c0-c60a-11f1-9a39-31b474234113.jpg"
     },
     {
       "id": "bd54737b8d3a",
