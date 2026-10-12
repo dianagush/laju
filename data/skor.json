@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-12T08:20:06.492Z",
+  "diperbarui": "2026-10-12T16:58:12.550Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -635,13 +635,13 @@
           "id": "401875005",
           "liga": "ita.1",
           "mulai": "2026-10-12T16:30:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "berlangsung",
+          "detail": "26'",
           "tuanRumah": {
             "nama": "Atalanta",
             "namaLengkap": "Atalanta",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png&w=48&h=48",
-            "skor": 0,
+            "skor": 2,
             "menang": false
           },
           "tamu": {
@@ -651,7 +651,7 @@
             "skor": 0,
             "menang": false
           },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401875005/venezia-atalanta"
+          "tautan": ""
         },
         {
           "id": "401874763",

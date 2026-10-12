@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-11",
-  "diperbarui": "2026-10-12T08:20:02.687Z",
+  "diperbarui": "2026-10-12T16:58:11.173Z",
   "berita": [
     {
       "id": "70688ea0e7a5",
@@ -173,10 +173,11 @@
       "cuplikan": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
       "gambar": "",
       "kategoriSumber": [
+        "Hardware",
         "Startups",
-        "TechCrunch Disrupt",
+        "Richualist",
         "Startup Battlefield 200",
-        "Richualist"
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -453,12 +454,13 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-11T15:00:00.000Z",
-      "cuplikan": "This Battlefield 200 startup has developed blood-purification tech to save children",
+      "cuplikan": "This Battlefield 200 startup has developed blood-purification tech to save children.",
       "gambar": "",
       "kategoriSumber": [
         "Biotech & Health",
-        "TechCrunch Disrupt",
-        "Startup Battlefield 200"
+        "Startups",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -491,7 +493,7 @@
       "kanal": "ars",
       "lajur": "global",
       "terbit": "2026-10-11T14:50:24.000Z",
-      "cuplikan": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
+      "cuplikan": "Also: New trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One .",
       "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NYCC1-1152x648-1791729996.jpg",
       "kategoriSumber": [
         "Culture",
@@ -527,8 +529,8 @@
       "sumber": "Liputan6",
       "kanal": "liputan6-bola",
       "lajur": "olahraga",
-      "terbit": "2026-10-11T14:39:06.000Z",
-      "cuplikan": "Timnas Indonesia U-17 Putri lolos ke putaran final Piala Asia 2027 usai menang 5-0 atas Singapura. Sapu bersih 9 poin; sebelumnya kalahkan Bahrain dan Arab Saudi.",
+      "terbit": "2026-10-11T14:38:06.000Z",
+      "cuplikan": "Timnas Indonesia U-17 Putri lolos ke putaran final Piala Asia 2027 usai menang 5-0 atas Singapura. Sapu bersih 9 poin; sebelumnya kalahkan Bahrain dan Arab Saud",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/QopQpCctv4vw1CULutJdGVbF8Cw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371032/original/042853500_1791728317-Timnas_Indonesia_U-17_Putri.jpg",
       "kategoriSumber": [
         "Bola"
@@ -635,9 +637,9 @@
       "gambar": "",
       "kategoriSumber": [
         "Media & Entertainment",
+        "evergreens",
         "Netflix",
-        "Warner Bros",
-        "evergreens"
+        "Warner Bros"
       ]
     },
     {
@@ -741,7 +743,7 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-11T14:00:00.000Z",
-      "cuplikan": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "cuplikan": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
@@ -3202,7 +3204,8 @@
       "kategoriSumber": [
         "AI",
         "Microsoft",
-        "Satya Nadella"
+        "Satya Nadella",
+        "In Brief"
       ]
     },
     {
@@ -3248,7 +3251,8 @@
         "Media & Entertainment",
         "Startups",
         "Apple",
-        "Huxe"
+        "Huxe",
+        "podcasts"
       ]
     },
     {
