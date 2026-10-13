@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-12",
-  "diperbarui": "2026-10-12T16:58:11.173Z",
+  "diperbarui": "2026-10-13T01:17:16.931Z",
   "berita": [
     {
       "id": "4f05eeb200ed",
@@ -215,11 +215,14 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-12T15:45:00.000Z",
-      "cuplikan": "Could AI actually make PR better?",
+      "cuplikan": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
       "gambar": "",
       "kategoriSumber": [
+        "AI",
+        "Media & Entertainment",
         "Startups",
-        "Media & Entertainment"
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -289,7 +292,7 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-12T15:31:19.000Z",
-      "cuplikan": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "cuplikan": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
@@ -336,8 +339,9 @@
       "gambar": "",
       "kategoriSumber": [
         "AI",
-        "TC",
-        "Battlefield 200"
+        "blueprints",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -366,10 +370,9 @@
       "gambar": "",
       "kategoriSumber": [
         "Hardware",
-        "TC",
         "fitbit",
         "Google",
-        "wearables"
+        "smartwatches"
       ]
     },
     {
@@ -575,6 +578,7 @@
       "kategoriSumber": [
         "Biotech & Health",
         "Startups",
+        "wearables",
         "abu dhabi",
         "ultrahuman"
       ]
@@ -1086,7 +1090,7 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-12T12:47:59.000Z",
-      "cuplikan": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "cuplikan": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to…",
       "gambar": "",
       "kategoriSumber": [
         "AI",
