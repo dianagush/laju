@@ -1,7 +1,46 @@
 {
   "tanggal": "2026-10-13",
-  "diperbarui": "2026-10-13T07:39:26.836Z",
+  "diperbarui": "2026-10-13T08:17:14.808Z",
   "berita": [
+    {
+      "id": "22b3d8723ad5",
+      "judul": "Russell melihat Verstappen bisa jadi ancaman di sisa musim",
+      "tautan": "https://www.antaranews.com/berita/5783422/russell-melihat-verstappen-bisa-jadi-ancaman-di-sisa-musim",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-13T08:09:07.000Z",
+      "cuplikan": "Pembalap Mercedes George Russell melihat pembalap Red Bull Max Verstappen bisa menjadi ancaman bagi timnya di sisa ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/06/28/HL6Gyu_WUAA8hih.jpg"
+    },
+    {
+      "id": "ff12e57cd2d9",
+      "judul": "Samsung Galaxy A18 Hadir dengan Jaminan Update Software 6 Tahun, Ini Harganya",
+      "tautan": "https://www.liputan6.com/tekno/read/8312101/samsung-galaxy-a18-hadir-dengan-jaminan-update-software-6-tahun-ini-harganya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-13T08:04:14.000Z",
+      "cuplikan": "Samsung Galaxy A18 resmi hadir di Indonesia dengan memberikan spesifikasi andal serta jaminan jangka panjang. Berikut daftar spesifikasi dan harganya.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/FDtVU5GyEFecLMYjKMW2Q1oJ274=/0x0:4032x3024/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9372370/original/024631500_1791877997-PXL_20261013_032950068_2.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "758c815856d9",
+      "judul": "Calvin Verdonk Berpeluang Cetak Sejarah, Jadi Pemain Indonesia Pertama Tampil di Liga Champions",
+      "tautan": "https://www.viva.co.id/bola/1935401-calvin-verdonk-berpeluang-cetak-sejarah-jadi-pemain-indonesia-pertama-tampil-di-liga-champions",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-13T08:00:00.000Z",
+      "cuplikan": "Calvin Verdonk berpeluang menjadi pemain Indonesia pertama yang tampil di Liga Champions saat Lille menghadapi Arsenal di Stadion Emirates, Rabu (14/10) dini hari WIB.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/09/6ac8826142395-bek-kiri-timnas-indonesia-calvin-verdonk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
     {
       "id": "617950b6b99b",
       "judul": "Verstappen kian termotivasi di sisa musim",
@@ -570,6 +609,29 @@
       ]
     },
     {
+      "id": "9e58dc30161b",
+      "judul": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "tautan": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-13T03:15:12.000Z",
+      "cuplikan": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across…",
+      "gambar": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=140&quality=85&auto=format&fit=max&s=64f8d89d1094aed1c2d57aeff5d62a4b",
+      "kategoriSumber": [
+        "Economics",
+        "Stock markets",
+        "Technology sector",
+        "International Monetary Fund (IMF)",
+        "Business",
+        "AI (artificial intelligence)",
+        "Technology",
+        "UK news",
+        "US news",
+        "World news"
+      ]
+    },
+    {
       "id": "3e6af94587d3",
       "judul": "Top 3 Berita Bola: Dominasi Aprilia di MotoGP Indonesia 2026",
       "tautan": "https://www.liputan6.com/bola/read/8311699/top-3-berita-bola-dominasi-aprilia-di-motogp-indonesia-2026",
@@ -595,6 +657,22 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/7-YO-ggkIGQnSewwwiym3JJIrIQ=/0x0:2860x1612/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9348308/original/011285300_1789431779-AP26257719673852.jpg",
       "kategoriSumber": [
         "Bola"
+      ]
+    },
+    {
+      "id": "6fe68399d92d",
+      "judul": "French supermarket director apologises after cyber-attack spoils fresh and frozen food - video",
+      "tautan": "https://www.theguardian.com/technology/video/2026/oct/13/french-supermarket-director-apologises-after-cyber-attack-spoils-fresh-and-frozen-food-video",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-13T02:57:06.000Z",
+      "cuplikan": "A cyber-attack caused refrigeration temperatures to soar to 50C overnight on Monday across several hundred French supermarkets, with widespread food losses reported. At Intermarché La Haye, the attack caused fridge temperatures to reach…",
+      "gambar": "https://i.guim.co.uk/img/media/c291890c724666e9093d77cec98d6646c997854f/90_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1e6d865ec2d6df9720b64b7b3d2f2ef6",
+      "kategoriSumber": [
+        "Cybercrime",
+        "Europe",
+        "France"
       ]
     },
     {
@@ -745,14 +823,14 @@
     },
     {
       "id": "34e3643232f2",
-      "judul": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "judul": "Dating app Bumble in $1bn takeover talks, say reports",
       "tautan": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
       "sumber": "BBC News",
       "kanal": "bbc-tech",
       "lajur": "global",
       "terbit": "2026-10-13T01:50:47.000Z",
-      "cuplikan": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
-      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3e/live/9d1f7420-c69f-11f1-8a85-c72eae042e5a.jpg"
+      "cuplikan": "The dating app which recently ditched its \"women-first\" chat rule could be bought by an investment firm.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f2/live/ea016980-c6d9-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "id": "ed58c4b59a55",

@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-13T07:39:26.836Z",
+  "diperbarui": "2026-10-13T08:17:14.808Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -16,7 +16,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-13T07:07:51.000Z"
+      "terbaru": "2026-10-13T08:04:14.000Z"
     },
     {
       "id": "viva-digital",
@@ -43,11 +43,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 50,
-      "diterima": 45,
+      "diterima": 43,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 5,
+        "terlaluLama": 7,
         "masaDepan": 0
       },
       "terbaru": "2026-10-13T07:17:03.000Z"
@@ -94,11 +94,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 16,
+      "diterima": 15,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 4,
+        "terlaluLama": 5,
         "masaDepan": 0
       },
       "terbaru": "2026-10-12T09:32:06.000Z"
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-13T07:36:44.000Z"
+      "terbaru": "2026-10-13T08:00:00.000Z"
     },
     {
       "id": "viva-sport",
@@ -288,7 +288,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-13T07:38:17.000Z"
+      "terbaru": "2026-10-13T08:09:07.000Z"
     },
     {
       "id": "bbc-tech",
