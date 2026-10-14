@@ -1,7 +1,465 @@
 {
   "tanggal": "2026-10-14",
-  "diperbarui": "2026-10-14T01:17:27.199Z",
+  "diperbarui": "2026-10-14T04:17:24.998Z",
   "berita": [
+    {
+      "id": "44942dc5f50b",
+      "judul": "Baru Kembali ke Korea, Megawati Hangestri Langsung Hadapi Ujian Berat",
+      "tautan": "https://www.viva.co.id/sport/1935648-baru-kembali-ke-korea-megawati-hangestri-langsung-hadapi-ujian-berat",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T04:12:00.000Z",
+      "cuplikan": "Megawati Hangestri Pertiwi akan menghadapi ujian pertamanya bersama Hyundai Hillstate di KOVO Cup 2026. Opposite hitter Timnas Voli Indonesia itu bakal berhadapan dengan",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9d5ff850c8a-pemain-hyundai-hillstate-megawati-hangestri_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "b1a39ddaeb9c",
+      "judul": "Persib Bandung Tidak Panik Hadapi Klaim Pelatih The Cong-Viettel",
+      "tautan": "https://www.liputan6.com/bola/read/8312709/persib-bandung-tidak-panik-hadapi-klaim-pelatih-the-cong-viettel",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T04:03:50.000Z",
+      "cuplikan": "Persib Bandung akan menghadapi The Cong-Viettel di Si Jalak Harupat (14/10/2026). Igor Tolic belum tentukan starter dan memberi waktu istirahat 24 jam.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/LGsiDbDtW9-HeEYggfI51rO1d08=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9337587/original/033943800_1788250880-peralta.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "53ecb10831a2",
+      "judul": "Top 3 Berita Bola: Sanksi Pengurangan Poin Mengintai untuk Klub yang Suporternya Berulah",
+      "tautan": "https://www.liputan6.com/bola/read/8312604/top-3-berita-bola-sanksi-pengurangan-poin-mengintai-untuk-klub-yang-suporternya-berulah",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T04:00:24.000Z",
+      "cuplikan": "PSSI siap memberikan sanksi berat kepada klub yang tidak mampu membina suporternya.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/MbQCwKkLYWsypAqeQMYEx_P9Ao0=/0x64:3999x2318/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9372445/original/092894200_1791879824-20261013_135715.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "11c174b6f09f",
+      "judul": "Hansi Flick Puji Lamine Yamal usai Barcelona Hajar Galatasaray 4-1",
+      "tautan": "https://www.liputan6.com/bola/read/8312730/hansi-flick-puji-lamine-yamal-usai-barcelona-hajar-galatasaray-4-1",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T04:00:02.000Z",
+      "cuplikan": "Hansi Flick memuji Lamine Yamal usai Barcelona menang 4-1 atas Galatasaray. Dua assist sang winger membantu Blaugrana meraih tiga poin.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/z2M5Ondwa4RzNcM7fsKxvchuePg=/0x53:1620x966/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5305908/original/073766300_1754369716-AP25212516133853.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a87fc9db7acb",
+      "judul": "Velizar Popov Terpukau Kekuatan Persib Bandung",
+      "tautan": "https://www.liputan6.com/bola/read/8312707/velizar-popov-terpukau-kekuatan-persib-bandung",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T03:48:23.000Z",
+      "cuplikan": "Pelatih The Cong-Viettel Velizar Popov memuji kualitas Persib setelah dua kemenangan tandang, menjelang laga Grup E AFC Champions League Two di Si Jalak Harupat",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/rNda3Jl9XJEgL-E6IbttPbfMSfk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9373037/original/002325700_1791947788-cong_4.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "92625471c2e9",
+      "judul": "Calvin Verdonk dapat Kabar Gembira meski Lille Dihancurkan Arsenal",
+      "tautan": "https://www.viva.co.id/bola/1935646-calvin-verdonk-dapat-kabar-gembira-meski-lille-dihancurkan-arsenal",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T03:44:00.000Z",
+      "cuplikan": "Kekalahan telak 0-3 dari Arsenal tak sepenuhnya menjadi kabar buruk bagi Calvin Verdonk. Bek Timnas Indonesia itu justru punya modal untuk bersaing merebut posisi reguler",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/24/69c23585e5b17-pemain-lille-calvin-verdonk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "eadafc7c322a",
+      "judul": "Mikel Arteta Soroti Kualitas Teknis Arsenal usai Menang 3-0 atas Lille",
+      "tautan": "https://www.liputan6.com/bola/read/8312694/mikel-arteta-soroti-kualitas-teknis-arsenal-usai-menang-3-0-atas-lille",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T03:31:41.000Z",
+      "cuplikan": "Mikel Arteta menyoroti kualitas teknis Arsenal usai menang 3-0 atas Lille. Pergantian pemain membantu The Gunners mencetak tiga gol dalam tujuh menit.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/MAg6tKhcY6DaBqkYL8lfszOLI9Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336912/original/074466500_1788217102-000_C6XZ86C.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "45f9029fbfca",
+      "judul": "Diduga Incar Rahasia Perusahaan, Insinyur OpenAI Sembunyikan Alat Perekam di Ruang Rapat",
+      "tautan": "https://jawapos.com/teknologi/2610140160/diduga-incar-rahasia-perusahaan-insinyur-openai-sembunyikan-alat-perekam-di-ruang-rapat",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T03:26:49.000Z",
+      "cuplikan": "Jaksa AS menangkap insinyur OpenAI, Abdulrahman Alfozan, karena diduga menyembunyikan perangkat perekam di kantor pusat di San Francisco.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/30/openai-hentikan-peluncuran-versi-terbaru-the-guardian-5FVD0.webp"
+    },
+    {
+      "id": "eca48bc55c50",
+      "judul": "Erick PSSI Blak-blakan Fakta Kualifikasi Indonesia di Piala Dunia 2030: Maunya Sih Langsung ...",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8312688/erick-pssi-blak-blakan-fakta-kualifikasi-indonesia-di-piala-dunia-2030-maunya-sih-langsung",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T03:26:10.000Z",
+      "cuplikan": "Ketua Umum PSSI, Erick Thohir mengungkapkan, persiapan besar demi meloloskan Timnas Indonesia ke Piala Dunia 2030. Persiapan intensif ini sengaja dilakukan sejak dini mengingat rangkaian babak kualifikasi akan segera bergulir mulai…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/NULs3DT8rSKhuY1Teq2jlsuQsy0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9373045/original/076717700_1791948369-erick-pildun-23fba7.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "799ed41ff90b",
+      "judul": "Penantian Panjang Berakhir! F1 Resmi Gelar Balapan di Afrika Mulai 2030-an",
+      "tautan": "https://sports.okezone.com/read/2026/10/14/37/3247774/penantian-panjang-berakhir-f1-resmi-gelar-balapan-di-afrika-mulai-2030-an",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T03:10:04.000Z",
+      "cuplikan": "F1 Resmi Kembali ke Afrika: Rwanda Jadi Tuan Rumah Grand Prix Mulai dekade Mendatang",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/14/37/3247774/f1_gp_rwanda-UxFz_large.jpg",
+      "kategoriSumber": [
+        "F1 & A1"
+      ]
+    },
+    {
+      "id": "6681a4966a4c",
+      "judul": "Kalah Lagi, Manchester United Diminta Tetap Pertahankan Michael Carrick",
+      "tautan": "https://www.liputan6.com/bola/read/8312675/kalah-lagi-manchester-united-diminta-tetap-pertahankan-michael-carrick",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T03:07:19.000Z",
+      "cuplikan": "Alan Shearer meminta Manchester United mempertahankan Michael Carrick meski sudah menelan empat kekalahan dalam sembilan laga awal musim.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/I68KmPBR-rLiWPX-4Cto2LnkM6s=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5483314/original/065158900_1769373256-AP26025609548736.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "53256525eff6",
+      "judul": "Pemain Bela Michael Carrick, Kritik Keras Petinggi Manchester United Usai Kalah dari Atletico Madrid",
+      "tautan": "https://www.liputan6.com/bola/read/8312647/pemain-bela-michael-carrick-kritik-keras-petinggi-manchester-united-usai-kalah-dari-atletico-madrid",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T03:00:50.000Z",
+      "cuplikan": "Lisandro Martinez meminta Carrick jangan dipecat. Menurutnya kesalahan sepenuhnya ada di petinggi Manchester United.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/xd0G1NntXFDLI-VNGJWero_nxXg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9372962/original/039475400_1791937692-lisandro_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "25f07370e93e",
+      "judul": "Nggak Perlu Takut Lupa Lagi! WhatsApp Siapkan Fitur Jadwal Chat Otomatis",
+      "tautan": "https://ameera.republika.co.id/berita/tmvmtv425/nggak-perlu-takut-lupa-lagi-whatsapp-siapkan-fitur-jadwal-chat-otomatis",
+      "sumber": "Republika",
+      "kanal": "republika-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T02:56:19.000Z",
+      "cuplikan": "WhatsApp menyiapkan fitur penjadwalan pesan yang memungkinkan pengguna mengirim pesan teks, tautan, foto, dan video secara otomatis pada waktu yang telah ditentukan. Fitur tersebut muncul dalam...",
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/094614000-1611743366-830-556.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "cddf180411c2",
+      "judul": "Jaringan Telkomsel di Batam Pulih 95 Persen Usai Blackout 15 Jam",
+      "tautan": "https://www.liputan6.com/tekno/read/8312668/jaringan-telkomsel-di-batam-pulih-95-persen-usai-blackout-15-jam",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T02:53:33.000Z",
+      "cuplikan": "Hingga saat ini, sekitar 95 persen jaringan Telkomsel di wilayah terdampak blackout Batam telah kembali beroperasi",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/ldiAHJW0tEJaAD-T-L1WUc292ZQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5255013/original/078001700_1750147003-Perluas_Jaringan_5G_2.JPG",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "faa4fbe34c2f",
+      "judul": "Michael Carrick Kecewa Manchester United Kalah dari Atletico Madrid: Laga Ini Seharusnya Bisa Dimenangkan",
+      "tautan": "https://www.liputan6.com/bola/read/8312664/michael-carrick-kecewa-manchester-united-kalah-dari-atletico-madrid-laga-ini-seharusnya-bisa-dimenangkan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T02:50:51.000Z",
+      "cuplikan": "Michael Carrick menilai Manchester United seharusnya bisa menang atas Atletico Madrid di Liga Champions. Empat peluang besar gagal dimaksimalkan Setan Merah.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/mdtPRoUZBiDn8khc5RyfW37DBbU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5567722/original/043828100_1777329074-000_A96H7VU.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "f0049dfe899e",
+      "judul": "Calvin Verdonk Ukir Sejarah, Pemain Indonesia Pertama yang Tampil di Liga Champions",
+      "tautan": "https://www.liputan6.com/bola/read/8312657/calvin-verdonk-ukir-sejarah-pemain-indonesia-pertama-yang-tampil-di-liga-champions",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T02:44:11.000Z",
+      "cuplikan": "Calvin Verdonk mencetak sejarah sebagai pemain Indonesia pertama yang berlaga di Liga Champions UEFA. Bek Lille ini debut saat melawan Arsenal.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/xNmiNADvVizaZuZ1Voq_f95tmk0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371682/original/044253200_1791799601-verdonk_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "910d11e56448",
+      "judul": "Pantas Saja Thom Haye Mengeluh, Begini Jadwal Neraka Persib Bandung Oktober 2026",
+      "tautan": "https://www.viva.co.id/bola/1935639-pantas-saja-thom-haye-mengeluh-begini-jadwal-neraka-persib-bandung-oktober-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T02:39:28.000Z",
+      "cuplikan": "Padatnya jadwal pertandingan Persib Bandung pada Oktober 2026 membuat para pemain harus bekerja ekstra untuk menjaga kebugaran. Dalam kurun waktu 14 hari, Maung Bandung d",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acb1e3c1b7af-gelandang-persib-thom-haye_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "c0087a0182df",
+      "judul": "Jaringan XLSmart Mulai Pulih Usai Sempat Lumpuh Akibat Blackout Batam",
+      "tautan": "https://www.liputan6.com/tekno/read/8312643/jaringan-xlsmart-mulai-pulih-usai-sempat-lumpuh-akibat-blackout-batam",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T02:21:22.000Z",
+      "cuplikan": "Layanan XLSmart di sejumlah wilayah Kota Batam, Kepulauan Riau, berangsur pulih pasca-insiden blackout.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/AqVrjCAj61x_KDvA37xlhgFLD9w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371859/original/075792000_1791817711-1001168644.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "6357f2dc134a",
+      "judul": "8 rekomendasi kamera mirrorless untuk pemula, pilih yang mana?",
+      "tautan": "https://www.antaranews.com/berita/5784953/8-rekomendasi-kamera-mirrorless-untuk-pemula-pilih-yang-mana",
+      "sumber": "ANTARA",
+      "kanal": "antara-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T02:13:20.000Z",
+      "cuplikan": "Belajar fotografi tidak harus langsung menggunakan kamera profesional dengan harga puluhan juta rupiah. Saat ini, ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2025/04/23/Canon.jpg"
+    },
+    {
+      "id": "382da6639898",
+      "judul": "NEC Boyong 3 Solusi Manufaktur Berbasis AI ke Indonesia, Apa Saja?",
+      "tautan": "https://www.liputan6.com/tekno/read/8312629/nec-boyong-3-solusi-manufaktur-berbasis-ai-ke-indonesia-apa-saja",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T02:09:39.000Z",
+      "cuplikan": "Solusi manufakturing berbasis AI ditujukan untuk mendukung pengembangan kapabilitas SDM sekaligus mempercepat terwujudnya visi Making Indonesia 4.0.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/3Kn3fm1ahzqB3wgAG1q5kuLGywE=/0x204:1079x812/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9372990/original/003520300_1791942728-NEC.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "db5abe69d817",
+      "judul": "Hasil MotoGP Mandalika 2026 Beri Marc Marquez Kebahagiaan Kecil",
+      "tautan": "https://sports.okezone.com/read/2026/10/14/38/3247760/hasil-motogp-mandalika-2026-beri-marc-marquez-kebahagiaan-kecil",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T02:02:43.000Z",
+      "cuplikan": "Marc Marquez merasakan kebahagiaan kecil dengan hasil MotoGP Mandalika 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/14/38/3247760/marc_marquez_merasakan_kebahagiaan_kecil_dengan_hasil_motogp_mandalika_2026-ZUAF_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "e29322b43070",
+      "judul": "Kebutuhan Komunikasi Global Dorong Perusahaan Kembangkan Talenta Berbasis AI",
+      "tautan": "https://jawapos.com/teknologi/2610140116/kebutuhan-komunikasi-global-dorong-perusahaan-kembangkan-talenta-berbasis-ai",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T02:01:42.000Z",
+      "cuplikan": "Kebutuhan komunikasi lintas negara mendorong perusahaan di industri sistem pembayaran memperkuat kompetensi bahasa Inggris karyawan.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-ai-bantu-proses-pembelajaran-school-of-modern-skills-Vy45B.webp"
+    },
+    {
+      "id": "b06ab0ec5905",
+      "judul": "Jadwal dan Tempat Menonton Denmark Open 2026, Rabu 14 Oktober",
+      "tautan": "https://www.liputan6.com/bola/read/8312549/jadwal-dan-tempat-menonton-denmark-open-2026-rabu-14-oktober",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T02:00:35.000Z",
+      "cuplikan": "Denmark Open 2026 masih menggulirkan babak 32 besar pada hari kedua penyelenggaraan, Rabu (14/10/2026).",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/2INlcbEvqW0x4YHFTbMjCYwzUAI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9372901/original/097334800_1791908220-Screenshot_2026-10-13_231538.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "99fb43130be6",
+      "judul": "Baru Juga Main, Persib Kembali Bertanding Hari Ini di ACL 2 Hadapi Wakil Vietnam",
+      "tautan": "https://www.viva.co.id/bola/1935621-baru-juga-main-persib-kembali-bertanding-hari-ini-di-acl-2-hadapi-wakil-vietnam",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T02:00:00.000Z",
+      "cuplikan": "Persib Bandung kembali melanjutkan perjuangannya di AFC Champions League Two (ACL 2) 2026/2027. Kali ini, Maung Bandung akan menjamu wakil Vietnam, The Cong Viettel FC, d",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acb81daadece-skuad-persib-bandung-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "8b99379969c9",
+      "judul": "Daftar 4 Pemain Asing Ingin Naturalisasi, Nomor Dua Jebolan Feyenoord Berharap Dipanggil John Herdman",
+      "tautan": "https://www.viva.co.id/bola/1935632-daftar-4-pemain-asing-ingin-naturalisasi-nomor-dua-jebolan-feyenoord-berharap-dipanggil-john-herdman",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T01:52:00.000Z",
+      "cuplikan": "Sejumlah pemain asing yang berkarier di sepak bola Indonesia mulai membuka peluang untuk mendapatkan status Warga Negara Indonesia (WNI). Ingin Bela Timnas Indonesia",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acafecd29339-taisei-marukawa_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "f227c93595cd",
+      "judul": "Era Baru Megawati Hangestri Dimulai, Ini Link Live Streaming Hyundai Hillstate vs Hi-Pass",
+      "tautan": "https://www.viva.co.id/sport/1935633-era-baru-megawati-hangestri-dimulai-ini-link-live-streaming-hyundai-hillstate-vs-hi-pass",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T01:50:20.000Z",
+      "cuplikan": "Megawati Hangestri Pertiwi berpeluang menjalani debut bersama Hyundai Hillstate saat menghadapi Gimcheon Expressway Hi-Pass dalam lanjutan penyisihan Grup B KOVO Cup 2026",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/13/6acdb6b3e4e51-megawati-hangestri_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "2ef78780165f",
+      "judul": "Timnas Indonesia Berpotensi Dapat Amunisi Baru, Gelandang Persija Pertimbangkan Naturalisasi",
+      "tautan": "https://www.viva.co.id/bola/1935630-timnas-indonesia-berpotensi-dapat-amunisi-baru-gelandang-persija-pertimbangkan-naturalisasi",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T01:42:00.000Z",
+      "cuplikan": "Gelandang Persija Jakarta, Fabio Calonego, membuka peluang untuk menjalani naturalisasi demi memperkuat Timnas Indonesia. Pemain asal Brasil itu mengaku sudah memikirkan",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/29/6a69911ab422c-pemain-persija-jakarta-radovan-pankov-kiri-dan-fabio-calonego-kanan_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "ed134a48289c",
+      "judul": "Keputusan Jitu Ancelotti Pilih Calvin Verdonk Hentikan Amukan Arsenal",
+      "tautan": "https://www.viva.co.id/bola/1935620-keputusan-jitu-ancelotti-pilih-calvin-verdonk-hentikan-amukan-arsenal",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T01:38:00.000Z",
+      "cuplikan": "Keputusan Davide Ancelotti memainkan Calvin Verdonk saat Lille menghadapi Arsenal di Liga Champions menjadi sorotan. Bek Timnas Indonesia itu masuk ketika timnya sudah te",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/09/26/68d5d80c4052a-bek-lille-calvin-verdonk_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "2fc1b0f3f252",
+      "judul": "Aston Villa Bidik Pemain Real Madrid di Bursa Transfer Januari 2027",
+      "tautan": "https://www.liputan6.com/bola/read/8311688/aston-villa-bidik-pemain-real-madrid-di-bursa-transfer-januari-2027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T01:35:11.000Z",
+      "cuplikan": "Aston Villa dikabarkan tertarik meminjam Endrick dari Real Madrid pada Januari 2027 menyusul minimnya waktu bermain sang striker di bawah Jose Mourinho.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/lTSHP1PMtgMh0dTH0icZUAvJ-AI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4946604/original/070508100_1726632536-AP24261760234199.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "c9d6760aa5aa",
+      "judul": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+      "tautan": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-10-14T01:33:22.000Z",
+      "cuplikan": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
+      "gambar": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "OpenAI Labs",
+        "Altman, Samuel H",
+        "Federal Bureau of Investigation",
+        "Artificial Intelligence",
+        "Science and Technology"
+      ]
+    },
+    {
+      "id": "018d1b6a7724",
+      "judul": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "tautan": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-14T01:30:42.000Z",
+      "cuplikan": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Security",
+        "CrowdStrike",
+        "cybersecurity",
+        "data breach",
+        "North Korea"
+      ]
+    },
+    {
+      "id": "06e5db6cf813",
+      "judul": "Demi Piala Asia 2027, John Herdman Ingin Timnas Indonesia Jajal Laga Tandang",
+      "tautan": "https://www.viva.co.id/bola/1935628-demi-piala-asia-2027-john-herdman-ingin-timnas-indonesia-jajal-laga-tandang",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T01:29:46.000Z",
+      "cuplikan": "Pelatih Timnas Indonesia, John Herdman, ingin skuad Garuda tetap menjalani pertandingan tandang pada FIFA Matchday November 2026. Keinginan tersebut berkaitan dengan pers",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/02/6abeafbe97b86-pelatih-timnas-indonesia-john-herdman-di-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "cb7b5d08e8cf",
+      "judul": "Jendi Pangabean bidik pertahankan emas di Nagoya",
+      "tautan": "https://www.antaranews.com/berita/5784869/jendi-pangabean-bidik-pertahankan-emas-di-nagoya",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-14T01:29:18.000Z",
+      "cuplikan": "Atlet para renang Indonesia Jendi Pangabean bertekad mempertahankan prestasinya pada Asian Para Games Aichi-Nagoya ...",
+      "gambar": "https://cdn.antaranews.com/cache/800x533/2026/02/09/Jendi.jpg"
+    },
     {
       "id": "1b14909d2026",
       "judul": "Ducati Bantah Bangun Motor MotoGP 2026 Sesuai Rikues Marc Marquez, Ini Faktanya!",
@@ -42,24 +500,6 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/lTSHP1PMtgMh0dTH0icZUAvJ-AI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4946604/original/070508100_1726632536-AP24261760234199.jpg",
       "kategoriSumber": [
         "Bola"
-      ]
-    },
-    {
-      "id": "c9d6760aa5aa",
-      "judul": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
-      "tautan": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
-      "sumber": "The New York Times",
-      "kanal": "nyt-tech",
-      "lajur": "global",
-      "terbit": "2026-10-14T00:35:15.000Z",
-      "cuplikan": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
-      "gambar": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg",
-      "kategoriSumber": [
-        "OpenAI Labs",
-        "Altman, Samuel H",
-        "Federal Bureau of Investigation",
-        "Artificial Intelligence",
-        "Science and Technology"
       ]
     },
     {
@@ -584,7 +1024,7 @@
       "lajur": "olahraga",
       "terbit": "2026-10-13T21:40:28.000Z",
       "cuplikan": "Barcelona sempat kecolongan lebih dulu sebelum membalas memberondong gawang Galatasaray di matchday kedua Liga Champions.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/ipkpNRZxjTjXuPnLHwSXNYH4KWM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9372935/original/017559800_1791927623-000_D37E9YC.jpg",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/u1wN83_oJVuNRYTaxizCQNhbqyk=/0x357:5340x3367/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9372935/original/017559800_1791927623-000_D37E9YC.jpg",
       "kategoriSumber": [
         "Bola"
       ]
