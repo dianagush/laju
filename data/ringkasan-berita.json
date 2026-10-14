@@ -1,25 +1,4 @@
 {
-  "f154be7b7635": {
-    "teks": "Sebanyak 69 persen pekerja di Indonesia telah memanfaatkan kecerdasan buatan dalam setahun terakhir, melampaui tingkat adopsi global. Pemanfaatan teknologi ini menjadi solusi atas kendala 88 persen pekerja yang merasa kekurangan waktu untuk mengurus tugas administratif. Meski pengguna harian generative AI baru mencapai 16 persen, intensitas pemakaian tersebut terbukti berhubungan erat dengan persepsi peningkatan produktivitas kerja.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-29T19:04:03.222Z"
-  },
-  "dd862970d495": {
-    "teks": "Valuasi Meta Platforms melonjak mendekati dua triliun dolar AS seiring besarnya minat investor terhadap agen kecerdasan buatan terbaru mereka, Muse. Kesuksesan inovasi tersebut mendorong saham Meta naik 36 persen sepanjang September dan memicu peningkatan rekomendasi dari analis. Meskipun sentimen pasar membaik, perusahaan masih menghadapi tantangan dari tingginya biaya belanja modal serta potensi arus kas negatif hingga 2027.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-09-29T19:04:20.125Z"
-  },
-  "df8c03bbaec0": {
-    "teks": "Meta memperkenalkan versi terbaru dari agen AI miliknya yang dirancang khusus untuk membantu pemilik usaha kecil di platform mereka. Fitur baru ini memungkinkan agen tersebut terhubung dengan akun profesional, data analitik, serta berbagai layanan pihak ketiga untuk mengelola kampanye iklan dan tugas bisnis lainnya. Layanan ini sebagian besar dapat digunakan secara gratis, sementara penggunaan yang lebih intensif akan memerlukan langganan berbayar.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-09-29T19:04:56.087Z"
-  },
   "9901945c1fa1": {
     "teks": "Sebanyak tiga belas video game dari berbagai era dinilai berjasa besar dalam membentuk arah industri permainan berkat inovasi desain, genre, serta cara pemain berinteraksi dengan dunia virtual. Berbagai judul klasik seperti Pac-Man, Tetris, hingga Minecraft memperkenalkan konsep unik yang kemudian menjadi fondasi dan acuan bagi karya-karya modern berikutnya. Warisan dari judul-judul pelopor tersebut tetap berdampak nyata terhadap perkembangan industri hiburan digital hingga saat ini.",
     "penyedia": "gemini",
@@ -1426,5 +1405,54 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-13T16:07:12.647Z"
+  },
+  "062f3c3ae2d4": {
+    "teks": "WhatsApp sedang menguji fitur baru bagi pengguna beta Android untuk mengirim pesan secara otomatis pada tanggal dan waktu tertentu. Fitur yang mendukung percakapan pribadi maupun grup ini memungkinkan pengiriman teks, tautan, foto, serta video meskipun perangkat dalam kondisi offline. Pengguna dapat menjadwalkan pesan hingga dua minggu ke depan melalui tombol kirim, serta bebas mengelola atau menghapusnya sebelum terkirim tanpa diketahui penerima.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T01:18:10.105Z"
+  },
+  "6faf97c3e17d": {
+    "teks": "Penerapan kecerdasan buatan di perusahaan tidak hanya bergantung pada kecanggihan teknologi, melainkan membutuhkan kesiapan data, keamanan, dan budaya kerja yang mendukung. Banyak perusahaan masih berada pada tahap uji coba atau terbatas pada divisi tertentu karena berbagai tantangan, termasuk hambatan budaya dalam tata kelola data. Oleh karena itu, kolaborasi antara unit bisnis dan teknologi, peningkatan literasi karyawan, serta pengelolaan data yang berkualitas menjadi kunci utama agar penggunaan teknologi ini dapat diperluas secara efektif.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T01:18:18.404Z"
+  },
+  "c45453fa5b81": {
+    "teks": "Pemesanan box fisik Grand Theft Auto VI (GTA 6) di Amazon Amerika Serikat sempat ludes menjelang peluncuran game pada November 2026. Kondisi tersebut memicu sindiran dari para gamer di Reddit karena produk kemasan tersebut hanya berisi kode unduhan tanpa kaset permainan. Meski edisi fisik di peritel mengalami kehabisan stok, pemain tetap dapat melakukan pembelian melalui toko digital resmi konsol.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T01:18:26.900Z"
+  },
+  "1ab0b18cba92": {
+    "teks": "Barcelona bertandang ke markas Galatasaray dalam laga lanjutan Liga Champions di RAMS Park, Rabu dini hari. Blaugrana datang dengan modal positif usai menang besar atas Feyenoord dan mendominasi La Liga, sementara tuan rumah bertekad bangkit setelah kalah di laga pembuka. Meski Barcelona lebih diunggulkan, dukungan suporter di kandang sendiri berpotensi menjadi kekuatan tambahan bagi Galatasaray untuk memberikan perlawanan ketat.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T01:18:35.294Z"
+  },
+  "cfa6ac36d3e4": {
+    "teks": "Pertandingan Liga Champions mempertemukan Atletico Madrid dan Manchester United di Estadio Metropolitano pada Rabu dini hari. Manchester United datang dengan tantangan berat karena belum meraih kemenangan dalam empat laga terakhir, sedangkan tuan rumah berada dalam tren positif berkat empat kemenangan beruntun. Perbedaan tren performa tersebut membuat Atletico lebih diunggulkan dalam duel ini. Pembaca dapat menyaksikan jalannya pertandingan melalui siaran langsung di SCTV atau layanan streaming Vidio.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T01:18:43.967Z"
+  },
+  "9f1b9170cbfe": {
+    "teks": "Apple meluncurkan HomePod mini 2 dengan harga yang lebih mahal dari generasi pertamanya. Model baru ini membawa sejumlah pembaruan internal, termasuk chip Apple S10 yang mendukung fitur Siri AI dan kehadiran Sound Glow yang dapat menyelaraskan cahaya lampu dengan musik. Perangkat pintar ini juga menawarkan peningkatan audio komputasional serta kemampuan konfigurasi tata suara terpusat bila dihubungkan dengan perangkat pendukung yang kompatibel.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T01:18:51.887Z"
+  },
+  "7e60f5237edd": {
+    "teks": "Google memperbarui Play Store dengan memperluas fitur pencarian berbasis kecerdasan buatan, termasuk peluncuran mesin rekomendasi game baru bernama Game Finder. Selain itu, platform tersebut segera memfasilitasi pengguna untuk menyimpan dan membagikan aplikasi buatan AI secara pribadi langsung dari AI Studio. Fitur ini memungkinkan pengguna mengelola aplikasi pribadi di perangkat tanpa memerlukan akun pengembang, dengan opsi untuk membagikannya kepada kelompok kecil.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T01:19:00.223Z"
   }
 }
