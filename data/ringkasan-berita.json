@@ -1440,5 +1440,33 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-14T08:19:38.752Z"
+  },
+  "75bee0576268": {
+    "teks": "Samsung memperbarui layanan Samsung Health secara bertahap mulai Oktober 2026 untuk mengoptimalkan pemantauan kesehatan pengguna. Aplikasi ini kini mempermudah analisis pola tidur hanya dari data tiga hari, mendukung impor rute lari dan bersepeda dari Strava, serta menambah pilihan Running Coach menjadi 12 tingkat latihan. Melalui pengembangan ini, pengguna dapat mengelola rutinitas kebugaran secara personal dan membagikan pencapaian olahraga mereka ke media sosial.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T11:45:28.112Z"
+  },
+  "37a89550e895": {
+    "teks": "Pengguna iPhone dapat menekan penggunaan kuota internet dengan mengaktifkan fitur Mode Hemat Data pada menu pengaturan seluler. Langkah ini membantu menurunkan kualitas tayangan media sekaligus membatasi pembaruan aplikasi di latar belakang. Selain itu, efisiensi data juga bisa dilakukan dengan mematikan akses seluler untuk aplikasi tertentu, menonaktifkan pemutaran otomatis video, serta mengunduh konten terlebih dahulu sebelum bepergian.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T11:45:42.742Z"
+  },
+  "e02167c25181": {
+    "teks": "Kapasitas pengisi daya portabel sebesar 10.000 mAh dinilai ideal untuk mengisi daya ponsel hingga beberapa kali dengan bodi yang mudah digenggam. Sejumlah produsen menawarkan beragam keunggulan, seperti ukuran ringkas, fitur fast charging, teknologi nirkabel MagSafe, hingga kabel bawaan. Pengguna disarankan memilih perangkat berkualitas yang sesuai dengan jenis ponsel dan kebutuhan mobilitas agar kesehatan baterai gawai tetap terjamin.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T11:45:59.107Z"
+  },
+  "47a31cbd8db3": {
+    "teks": "Pengendali 8BitDo Ultimate 2C seharga $30 menawarkan fitur utama seperti stik analog Hall effect, sensor gerak, dan getaran untuk pengguna Switch 2. Meski tidak dilengkapi lampu RGB maupun kemampuan membangunkan konsol, perangkat ini memiliki baterai berdaya tahan 15 jam. Produk ergonomis ini menjadi alternatif presisi yang jauh lebih terjangkau dibanding pengendali resmi Nintendo seharga $90.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-14T11:46:14.703Z"
   }
 }
