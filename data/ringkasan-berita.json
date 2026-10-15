@@ -1461,5 +1461,26 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-15T08:24:47.156Z"
+  },
+  "3cbf459f0e52": {
+    "teks": "Alibaba meluncurkan kacamata pintar Qwen Glasses N1 untuk menantang Meta dalam persaingan perangkat kecerdasan buatan. Perangkat baru ini menawarkan kamera beresolusi tinggi, baterai yang lebih tahan lama, serta fitur pelacakan mata yang terintegrasi dengan layanan digital perusahaan. Kehadiran produk tersebut memperketat kompetisi teknologi pintar sekaligus memberi tantangan baru bagi posisi Meta di pasar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-15T11:20:10.513Z"
+  },
+  "d90dc4de5674": {
+    "teks": "Perusahaan semikonduktor asal Amerika Serikat, Nvidia, memberikan daya komputasi senilai USD 250 juta untuk mendukung riset keamanan kecerdasan buatan di Inggris selama lima tahun ke depan. Bantuan ini disalurkan guna memperkuat penelitian berbagai lembaga di Inggris dalam menghadapi meningkatnya kekhawatiran terhadap agen AI mandiri. Pemerintah Inggris menilai dukungan tersebut sebagai bentuk kepercayaan terhadap keahlian riset di negaranya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-15T11:21:02.958Z"
+  },
+  "ff4bd3cae102": {
+    "teks": "Pelatih Persib Bandung, Igor Tolic, mengapresiasi penampilan Sandy Walsh yang bermain penuh pada laga debutnya di kompetisi Asia melawan The Cong Viettel. Tolic menilai timnya memiliki kualitas mumpuni untuk bersaing di tingkat domestik maupun Asia. Meski demikian, ia menekankan pentingnya menjaga kebugaran fisik para pemain di tengah jadwal pertandingan yang padat agar performa tim dapat maksimal.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-15T11:21:20.689Z"
   }
 }
