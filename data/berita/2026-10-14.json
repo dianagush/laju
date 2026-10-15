@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-14",
-  "diperbarui": "2026-10-15T01:52:59.343Z",
+  "diperbarui": "2026-10-15T04:23:00.316Z",
   "berita": [
     {
       "id": "0d28d5970fe8",
@@ -109,6 +109,20 @@
       "gambar": "https://www.engadget.com/img/gallery/netflix-to-lay-off-roughly-1000-employees-in-biggest-round-of-job-cuts-since-2022/l-intro-1791995698.jpg",
       "kategoriSumber": [
         "Streaming"
+      ]
+    },
+    {
+      "id": "a719caae5c9a",
+      "judul": "Aksara Nusantara Makin Eksis di Internet, Jawa hingga Pegon Masuk Standar Global",
+      "tautan": "https://www.liputan6.com/tekno/read/8313435/aksara-nusantara-makin-eksis-di-internet-jawa-hingga-pegon-masuk-standar-global",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T16:32:11.000Z",
+      "cuplikan": "ICANN baru saja menerbitkan Second-Level Reference Label Generation Rules (LGR) untuk Aksara Jawa.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Lsq8ccudVk1ZVrLiXeK0ZcVsTmA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9373891/original/008521700_1791995231-ICANN.jpeg",
+      "kategoriSumber": [
+        "Tekno"
       ]
     },
     {
