@@ -1,18 +1,4 @@
 {
-  "418e4263a2f4": {
-    "teks": "Samsung meluncurkan Galaxy Tab S12+ dan Galaxy Tab S12 Ultra di Indonesia untuk mendukung produktivitas pengguna melalui fitur berbasis kecerdasan buatan. Kedua tablet ini ditenagai chipset MediaTek Dimensity 9500 serta mengusung layar Dynamic AMOLED 2X berukuran 12,6 inci dan 14,6 inci. Dijual mulai dari harga Rp21.999.000 hingga Rp27.999.000, paket penjualannya sudah termasuk aksesori S Pen dan Book Cover Keyboard Slim.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-01T08:09:02.782Z"
-  },
-  "2731f1f41bca": {
-    "teks": "Menteri Komunikasi dan Digital Meutya Hafid menekankan pentingnya merancang keamanan anak sejak awal pembuatan layanan digital. Dalam pertemuannya dengan The LEGO Group, ia menyatakan bahwa pemberian akses fitur kepada anak membutuhkan persetujuan orang tua demi menjaga pengawasan. Pemerintah pun mendukung kehadiran perusahaan tersebut di Indonesia selama mematuhi aturan pelindungan anak yang berlaku.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-01T08:09:53.098Z"
-  },
   "ed91a830ef97": {
     "teks": "AiMOGA Robotics merancang kursi roda AiMOGA BCI yang dikendalikan melalui sinyal otak dengan perangkat electroencephalography. Inovasi ini menjuarai kompetisi BCI 2026 di Hangzhou, China, usai melintasi rintangan dalam waktu 2 menit 16 detik. Mengubah pola aktivitas pikiran menjadi perintah navigasi, teknologi tersebut dirancang untuk membantu mobilitas penderita keterbatasan gerak. Kursi roda ini juga dilengkapi opsi kendali manual serta sensor navigasi untuk penggunaan sehari-hari.",
     "penyedia": "gemini",
@@ -1447,5 +1433,33 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-15T04:24:01.926Z"
+  },
+  "d0709def5b9e": {
+    "teks": "Fenomena menyewa ponsel kelas atas untuk dokumentasi konser menjadi pilihan ekonomis yang menarik perhatian masyarakat kelas menengah. Sementara itu, jaringan Telkomsel di Batam mulai pulih pascapemadaman listrik yang melumpuhkan berbagai infrastruktur selama belasan jam. Di samping itu, peningkatan adopsi kecerdasan buatan memunculkan ancaman siber baru yang dapat melumpuhkan sistem cadangan data perusahaan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-15T08:23:32.928Z"
+  },
+  "e45f481f15f6": {
+    "teks": "Rockstar Games dikabarkan berencana merilis permainan GTA 6 untuk perangkat komputer pada awal tahun 2027. Berdasarkan laporan media yang bersumber dari orang dalam industri, peluncuran tersebut diprediksi terjadi antara bulan Januari hingga Maret. Kendati demikian, pihak pengembang belum memberikan tanggal pasti maupun konfirmasi resmi terkait jadwal peluncuran versi komputer tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-15T08:24:13.094Z"
+  },
+  "897a56c53208": {
+    "teks": "Valuasi Apple kembali melampaui US$ 5 triliun seiring menguatnya harga saham perusahaan di bursa. Peningkatan nilai pasar ini dipicu oleh besarnya minat masyarakat terhadap seri iPhone 18 Pro. Mantan CEO Tim Cook menegaskan bahwa keterbatasan pasokan murni disebabkan oleh tingginya antusiasme pembeli. Ke depan, pertumbuhan lini layanan dan pembaruan Siri AI diperkirakan akan terus menopang pendapatan Apple.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-15T08:24:31.682Z"
+  },
+  "3b143a78afdd": {
+    "teks": "Deezer akan menyediakan fitur pengalih pada akhir tahun ini untuk menyaring dan menghapus musik buatan kecerdasan buatan dari aplikasinya secara total. Fitur ini melayani permintaan pengguna yang ingin fokus pada karya manusia, di tengah melonjaknya proporsi lagu buatan AI hingga melampaui 50 persen dari total unggahan harian. Langkah tersebut memanfaatkan teknologi pendeteksi AI milik Deezer guna mengatasi maraknya konten otomatis sekaligus menekan penipuan pemutaran.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-15T08:24:47.156Z"
   }
 }
