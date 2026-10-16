@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-15T11:19:51.462Z",
+  "diperbarui": "2026-10-16T01:29:35.854Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -422,6 +422,28 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401878769/arsenal-nottingham-forest"
+        },
+        {
+          "id": "401879257",
+          "liga": "eng.1",
+          "mulai": "2026-10-19T19:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Spurs",
+            "namaLengkap": "Tottenham Hotspur",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Coventry",
+            "namaLengkap": "Coventry City",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/388.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879257/coventry-city-tottenham-hotspur"
         }
       ]
     },
@@ -717,7 +739,7 @@
         {
           "id": "401882846",
           "liga": "esp.1",
-          "mulai": "2026-10-17T16:30:00.000Z",
+          "mulai": "2026-10-17T16:00:00.000Z",
           "status": "pra",
           "detail": "Scheduled",
           "tuanRumah": {
@@ -845,6 +867,28 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401882839/sevilla-real-madrid"
+        },
+        {
+          "id": "401882842",
+          "liga": "esp.1",
+          "mulai": "2026-10-19T19:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Getafe",
+            "namaLengkap": "Getafe",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2922.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Rayo",
+            "namaLengkap": "Rayo Vallecano",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/101.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882842/rayo-vallecano-getafe"
         }
       ]
     },
@@ -1246,6 +1290,50 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401874765/lazio-juventus"
+        },
+        {
+          "id": "401874762",
+          "liga": "ita.1",
+          "mulai": "2026-10-19T16:30:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Monza",
+            "namaLengkap": "Monza",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4007.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Cagliari",
+            "namaLengkap": "Cagliari",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2925.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874762/cagliari-monza"
+        },
+        {
+          "id": "401874784",
+          "liga": "ita.1",
+          "mulai": "2026-10-19T18:45:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Parma",
+            "namaLengkap": "Parma",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/115.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Torino",
+            "namaLengkap": "Torino",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/239.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874784/torino-parma"
         }
       ]
     },

@@ -1,39 +1,4 @@
 {
-  "ed91a830ef97": {
-    "teks": "AiMOGA Robotics merancang kursi roda AiMOGA BCI yang dikendalikan melalui sinyal otak dengan perangkat electroencephalography. Inovasi ini menjuarai kompetisi BCI 2026 di Hangzhou, China, usai melintasi rintangan dalam waktu 2 menit 16 detik. Mengubah pola aktivitas pikiran menjadi perintah navigasi, teknologi tersebut dirancang untuk membantu mobilitas penderita keterbatasan gerak. Kursi roda ini juga dilengkapi opsi kendali manual serta sensor navigasi untuk penggunaan sehari-hari.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-01T17:13:44.428Z"
-  },
-  "79742ae6dd05": {
-    "teks": "OVO, Grab Indonesia, Komdigi, dan Universitas Terbuka menyelenggarakan Gebuk Judol Ronde 3 untuk mengajak masyarakat melaporkan akun OVO yang disalahgunakan untuk judi online. Pelaporan dibuka hingga 30 November melalui situs resmi atau aplikasi OVO dengan menyediakan total hadiah Rp60 juta bagi tiga pelapor terbanyak. Selain penindakan, program ini memperluas edukasi keamanan digital setelah berhasil memblokir lebih dari 7.000 akun pada dua ronde sebelumnya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-01T17:14:15.409Z"
-  },
-  "d4b963f616d0": {
-    "teks": "Dunia pendidikan mulai mendorong siswa memanfaatkan kecerdasan buatan dan analisis data berbasis STEAM untuk merancang solusi masalah lingkungan. Pendekatan ini memungkinkan siswa mengolah informasi nyata di sekitar mereka guna melatih pengambilan keputusan dan meningkatkan kepedulian lingkungan sesuai catatan OECD. Kendati AI membantu memproses data, penggunaannya tetap memerlukan pengawasan serta berpikir kritis agar tidak menghambat perkembangan kemampuan belajar siswa.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-01T17:15:06.433Z"
-  },
-  "9b7fdce879c8": {
-    "teks": "Sony Interactive Entertainment menghadirkan teknologi kecerdasan buatan untuk meningkatkan kualitas grafis pada konsol PS5 standar melalui fitur Quick Spectral Super Resolution. Fitur ini dirancang untuk memberikan peningkatan pada detail dan stabilitas gambar. Game Marvel’s Wolverine dan Ghost of Yōtei menjadi dua judul pertama yang mendukung teknologi baru tersebut melalui pembaruan grafis yang dirilis hari ini.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-01T17:16:02.565Z"
-  },
-  "70d8af3c31b8": {
-    "teks": "Amazon resmi meluncurkan jajaran e-reader Kindle terbaru yang mencakup model dasar, Paperwhite, dan Colorsoft dengan desain lebih tipis serta variasi warna baru. Perangkat-perangkat ini hadir dengan tampilan layar rata, pilihan bodi aluminium, baterai yang lebih tahan lama, dan performa yang lebih cepat. Model dasar kini sudah dijual di sejumlah kawasan, sedangkan varian Paperwhite dan Colorsoft mulai dibuka untuk sesi pra-pesan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-01T17:16:18.146Z"
-  },
   "4e35d0b38f3a": {
     "teks": "Para ahli menyarankan untuk menjauhi layar ponsel sebelum tidur demi menjaga kualitas istirahat. Mengaktifkan Mode Pesawat dianggap lebih efektif daripada Do Not Disturb karena memutus seluruh jaringan digital sepenuhnya tanpa mengganggu fungsi alarm. Langkah ini tidak hanya mencegah gangguan notifikasi untuk detoks digital, tetapi juga membantu menghemat daya baterai ponsel sepanjang malam.",
     "penyedia": "gemini",
@@ -1482,5 +1447,75 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-15T11:21:20.689Z"
+  },
+  "8ecae10feb52": {
+    "teks": "Pengujian jaringan 5G XLSmart di rute Yogyakarta sampai Solo menunjukkan kecepatan unduh maksimal mencapai 564 Mbps. Saat ini, cakupan jaringan tersebut telah melingkupi 23 kota dan kabupaten di Jawa Tengah serta DIY dengan dukungan lebih dari 9.600 BTS 5G. Perluasan ini dilakukan XLSmart guna meningkatkan kualitas konektivitas demi mendorong percepatan transformasi digital dan pertumbuhan ekonomi daerah.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:30:48.832Z"
+  },
+  "e14a12f398ae": {
+    "teks": "Layanan YouTube Music mulai menyematkan label khusus pada musik yang sebagian besar diciptakan menggunakan kecerdasan buatan. Penentuan ini dilakukan melalui alat pendeteksi internal serta laporan mitra musik guna memberikan transparansi kepada pendengar. Kebijakan tersebut menyusul langkah platform lain, seperti Apple Music dan Spotify, yang turut menandai konten berbasis AI.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:31:05.974Z"
+  },
+  "dbba271a64ac": {
+    "teks": "LinkedIn memperkenalkan beragam fitur baru guna mendukung pengguna yang memiliki pekerjaan sampingan, kreator, dan pemilik usaha. Pembaruan tersebut meliputi uji coba network feed, kartu nama digital, hingga layanan konsultasi berbayar Advice Sessions untuk pelanggan Business Premium di Amerika Serikat. Platform ini juga menyediakan dasbor analitik baru serta memperluas pembagian pendapatan iklan video bagi kreator. Inovasi ini dihadirkan menyusul melonjaknya tren pengguna yang memulai bisnis dan memegang beberapa peran sekaligus.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:31:38.873Z"
+  },
+  "f052d9252f73": {
+    "teks": "Pebulu tangkis tunggal putra Alwi Farhan menembus babak perempat final Denmark Open 2026 usai mengalahkan Jonatan Christie. Dalam pertandingan dua gim langsung dengan skor 21-14 dan 21-19, Alwi mampu mengendalikan emosinya saat menghadapi sang idola. Jonatan pun mengapresiasi permainan juniornya yang dinilai tampil semakin siap, matang, dan memiliki arah permainan yang jelas.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:31:54.944Z"
+  },
+  "6901ec75a3e6": {
+    "teks": "Timnas futsal Indonesia menelan kekalahan tiga gol tanpa balas dari Brasil dalam pertandingan pembuka Grup A Copa das Nacoes de Futsal 2026. Skuad asuhan Hector Souto sempat tampil disiplin dan menahan imbang tuan rumah sebelum akhirnya kebobolan lewat aksi Cleber dan Fabinho pada paruh pertama. Memasuki babak kedua, Brasil menambah satu gol melalui Rufino untuk memastikan kemenangan, sementara Indonesia dijadwalkan menghadapi Tanjung Verde pada laga berikutnya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:32:03.562Z"
+  },
+  "bbd18e35172a": {
+    "teks": "Bek Manchester United, Lisandro Martinez, dikabarkan enggan memperpanjang kontraknya menyusul kritik terbuka yang ia layangkan kepada manajemen klub terkait minimnya investasi skuad. Hubungan yang merenggang ini membuat masa depan pemain asal Argentina tersebut di Old Trafford menjadi tidak pasti. Di tengah situasi tersebut, Atletico Madrid muncul sebagai salah satu destinasi yang diminati sang pemain untuk melanjutkan kariernya di Spanyol.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:32:11.514Z"
+  },
+  "04f2eea71d22": {
+    "teks": "Meta meluncurkan model kecerdasan buatan sumber terbuka berparameter 800 miliar bernama Muse Spark Open yang dioptimalkan untuk perangkat Apple Silicon. Model ini diklaim mengungguli beberapa model asal Tiongkok dalam tugas agen dan penalaran visual. Untuk menjalankannya secara lokal, pengguna membutuhkan kapasitas RAM sebesar satu terabyte yang dapat dipenuhi dengan menggabungkan dua unit komputer Mac Studio.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:32:19.394Z"
+  },
+  "6ff3deb9ed01": {
+    "teks": "Perusahaan perangkat kesehatan Withings menerapkan kebijakan baru yang mewajibkan pengguna baru berlangganan untuk menyinkronkan data mereka ke aplikasi pihak ketiga seperti Apple Health. Akun yang dibuat setelah tanggal tertentu harus bergabung dengan layanan berbayar tahunan untuk menikmati fitur sinkronisasi otomatis. Kebijakan ini menuai kritik dari para pengguna karena mengenakan biaya tambahan untuk fitur dasar tersebut. Pengguna baru tanpa langganan harus melakukan ekspor dan unggah data secara manual jika ingin memindahkannya ke platform lain.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:32:27.409Z"
+  },
+  "35dbf45b5abf": {
+    "teks": "Hari terakhir penyelenggaraan TechCrunch Disrupt 2026 di San Francisco menghadirkan berbagai diskusi mengenai inovasi kecerdasan buatan, strategi pertumbuhan rintisan, serta teknologi masa depan. Acara yang mempertemukan ribuan pendiri, investor, dan pemimpin teknologi di Moscone West ini juga dimeriahkan oleh pameran ratusan perusahaan rintisan dan ajang Startup Battlefield.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:32:35.264Z"
+  },
+  "41d2a43ff64d": {
+    "teks": "Tesla menampilkan purwarupa Tesla Roadster generasi berikutnya dalam sebuah acara di Texas. Kendaraan listrik tersebut memperlihatkan kemampuan melaju hingga 60 mph dalam waktu kurang dari satu detik, berkendara secara terbalik, dan terbang singkat. Model supercar tersebut dijadwalkan baru akan mulai diproduksi pada tahun 2028 setelah mengalami berbagai penundaan sejak pertama kali diperkenalkan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T01:32:43.206Z"
   }
 }
