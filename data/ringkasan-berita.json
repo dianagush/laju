@@ -1,39 +1,4 @@
 {
-  "9910a5391cf5": {
-    "teks": "Apple Music kini menghadirkan fitur untuk memindahkan musik dan playlist buatan pengguna secara langsung dari Spotify tanpa menghapus daftar lagu lama. Pengguna yang berlangganan hanya perlu mengaktifkan fitur Sync Library dan menghubungkan akun Spotify lewat menu pengaturan profil di aplikasi Apple Music versi terbaru. Sistem akan otomatis mencocokkan lagu dengan katalognya dan menyediakan opsi versi alternatif apabila lagu asli tidak tersedia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-02T07:51:47.600Z"
-  },
-  "dc63b1e9ba13": {
-    "teks": "Telkom Group bekerja sama dengan Danantara dan PLN menggelar lokakarya strategis untuk memperkuat infrastruktur AI nasional. Pertemuan ini berfokus memetakan kebutuhan kecerdasan buatan BUMN serta menyelaraskannya dengan kesiapan data center NeutraDC dan pasokan energi bersih PLN. Langkah ini menjadi fondasi awal untuk mewujudkan ekosistem AI yang berdaulat, andal, dan berkelanjutan di Indonesia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-02T07:52:03.700Z"
-  },
-  "8b270385364d": {
-    "teks": "Timnas Indonesia berhasil mengalahkan Bangladesh dengan skor 9-2 pada laga pamungkas Grup A FIFA ASEAN Cup 2026 berkat lima gol Mitchell Baker. Penyerang tersebut mendapat pujian dari Ole Romeny yang juga menyumbangkan empat umpan berbuah gol selama pertandingan. Hasil ini memastikan Indonesia menjuarai Grup A dan melangkah ke partai final untuk menghadapi Thailand.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-02T07:52:17.560Z"
-  },
-  "3a35bb25b27a": {
-    "teks": "Tim sepak takraw putri Indonesia meraih medali perunggu nomor kuadran pada Asian Games Aichi-Nagoya 2026 setelah takluk dari Thailand di babak semifinal. Capaian ini menambah perolehan cabang olahraga sepak takraw menjadi total tiga medali perunggu untuk Indonesia. Usai laga tersebut, skuad putri akan mengalihkan fokus persiapan untuk menghadapi ajang internasional lainnya, termasuk SEA Games di Malaysia tahun depan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-02T07:52:31.962Z"
-  },
-  "66fa9607967c": {
-    "teks": "Pasangan ganda putri padel Indonesia, Fitriani Sabatini dan Fadona Kusumawati, berhasil menembus babak final Asian Games 2026. Kemenangan ini diraih setelah mereka tampil dominan dan menaklukkan wakil Filipina, Danna Abad dan Joshea Malazarte, dua set langsung di Nagoya, Jepang. Menjelang laga puncak, pasangan tersebut bersiap tampil maksimal demi merebut medali emas serta berharap terciptanya final sesama wakil Indonesia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-02T07:52:47.303Z"
-  },
   "8748550f3c07": {
     "teks": "Masyarakat yang mengalami kebocoran data pribadi dapat melapor melalui kanal Polisiber milik kepolisian dan Kementerian Komunikasi dan Digital. Selain melapor, warga disarankan meningkatkan keamanan akun dengan memperbarui kata sandi secara berkala dan mengaktifkan autentikasi dua faktor. Maraknya kebocoran ini mencerminkan kurangnya komitmen pengelola data, khususnya instansi pemerintah, dalam melindungi informasi publik.",
     "penyedia": "gemini",
@@ -1503,5 +1468,40 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-16T04:30:29.338Z"
+  },
+  "560b313cc2d4": {
+    "teks": "Performa laptop yang melambat saat memutar video daring dapat dipicu oleh jaringan internet yang tidak stabil, pemakaian memori yang berlebihan, serta tingginya beban kerja CPU dan GPU. Masalah panas berlebih dan perangkat lunak yang belum diperbarui juga mampu memperburuk gangguan tersebut. Untuk mengatasinya, pengguna dapat menghentikan aplikasi yang tidak diperlukan, menurunkan kualitas resolusi tampilan, serta memperbarui sistem maupun peramban secara berkala.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T08:31:22.871Z"
+  },
+  "977afdc43f27": {
+    "teks": "Laporan media Tiongkok mengenai pemangkasan produksi iPhone 18 Pro sebesar 15 persen dinilai tidak akurat. Analisis tersebut keliru karena hanya mengacu pada fluktuasi pesanan komponen dan salah mengklasifikasikan model perangkat. Riset lembaga JP Morgan serta AppleInsider juga mengonfirmasi bahwa tidak ada bukti kuat yang menunjukkan penurunan volume manufaktur untuk seri iPhone 18 Pro.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T08:31:39.834Z"
+  },
+  "68a9b9a2aa76": {
+    "teks": "Ratusan penggemar Apple memadati acara peluncuran iBox di Jakarta sejak dini hari untuk membeli iPhone 18 Pro Series yang dijual mulai Rp27.499.000. Fenomena antrean yang ramai di media sosial ini tidak hanya dipicu oleh gengsi dan gaya hidup semata. Sebagian konsumen rela mengantre demi berburu hadiah, merasakan pengalaman membeli di hari pertama, hingga memenuhi kebutuhan pekerjaan dan pembuatan konten.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T08:31:56.446Z"
+  },
+  "f4e737d54331": {
+    "teks": "Pelatih Timnas Indonesia John Herdman berencana menaturalisasi gelandang Arsenal U-21, Demiane Agustien, guna memperkuat lini tengah Skuad Garuda. Tim hukum PSSI kini tengah mengurus proses tersebut lantaran ia memiliki garis keturunan Indonesia dari ibunya. Pemain muda kelahiran Belanda yang berposisi sebagai gelandang kreatif ini diharapkan dapat melengkapi skema permainan tim nasional.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T08:32:12.072Z"
+  },
+  "bdad458aadf3": {
+    "teks": "Berbagai negara berencana atau telah memberlakukan pembatasan usia untuk mengakses media sosial, namun aturan tersebut terbukti mudah diakali oleh para remaja. Upaya memperketat verifikasi usia dinilai tidak efektif dan justru berisiko merusak privasi pengguna serta mendorong anak-anak beralih ke ruang digital yang lebih berbahaya dan kurang terawasi. Daripada memblokir akses, pembuat kebijakan sebaiknya fokus membatasi pengumpulan data oleh perusahaan dan menyediakan alat kontrol yang fleksibel bagi keluarga.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T08:32:47.876Z"
   }
 }
