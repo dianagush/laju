@@ -1503,5 +1503,33 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-16T08:32:47.876Z"
+  },
+  "fcf51d6a261c": {
+    "teks": "iPhone 18 Pro dan iPhone 18 Pro Max resmi dijual di Indonesia sejak 16 Oktober 2026 dengan warna burgundy sebagai opsi paling favorit. Tingginya minat terhadap warna unggulan ini berpotensi membuat ketersediaannya terbatas di toko, meskipun pasokan barang secara umum terbilang cukup. Distributor tetap melayani pemesanan bagi konsumen yang belum mendapatkan warna pilihan mereka.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T11:15:16.442Z"
+  },
+  "f0aa67d437d3": {
+    "teks": "Samsung resmi meluncurkan Galaxy A08 yang mengunggulkan baterai berkapasitas 6.000 mAh serta layar PLS LCD 6,7 inci. Smartphone ini ditenagai chipset Mediatek Helio G99+ dan RAM 4GB untuk memberikan performa harian yang responsif. Selain memiliki kamera belakang ganda 50MP, perangkat berbobot 197 gram ini hadir dengan pilihan ruang penyimpanan 64GB dan 128GB.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T11:16:29.880Z"
+  },
+  "3799d463233f": {
+    "teks": "OpenAI memperbarui ekstensi ChatGPT untuk Chrome agar dapat mengakses tab peramban pengguna demi memberikan jawaban yang lebih personal. Pembaruan ini memungkinkan asisten AI membantu menyelesaikan berbagai tugas, mulai dari membandingkan produk hingga mengisi formulir dan mengirim pesan secara otomatis. Selain Chrome, ekstensi tersebut juga kompatibel dengan berbagai peramban berbasis Chromium lainnya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T11:17:16.772Z"
+  },
+  "499d98db9d61": {
+    "teks": "Pemesanan awal untuk iPhone Duo, ponsel lipat pertama Apple seharga 2.000 dolar AS, resmi dibuka hari ini sebelum meluncur pada 23 Oktober. Perangkat ini diprediksi memiliki tingkat permintaan tinggi dengan pasokan yang relatif terbatas. Meski menawarkan layar OLED yang besar, gawai ini memiliki kekurangan seperti ketiadaan FaceID serta fitur bukaan kamera variabel.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-16T11:18:08.059Z"
   }
 }
