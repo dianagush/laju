@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-16T01:29:34.471Z",
+  "diperbarui": "2026-10-16T04:29:36.706Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -16,7 +16,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T15:24:06.000Z"
+      "terbaru": "2026-10-16T04:23:38.000Z"
     },
     {
       "id": "viva-digital",
@@ -26,14 +26,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 100,
-      "diterima": 33,
+      "diterima": 34,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 67,
+        "terlaluLama": 66,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T16:32:00.000Z"
+      "terbaru": "2026-10-16T04:00:00.000Z"
     },
     {
       "id": "jawapos-tekno",
@@ -118,7 +118,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-16T01:16:23.000Z"
+      "terbaru": "2026-10-16T01:29:27.000Z"
     },
     {
       "id": "viva-bola",
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-16T01:26:00.000Z"
+      "terbaru": "2026-10-16T03:50:12.000Z"
     },
     {
       "id": "viva-sport",
@@ -152,7 +152,7 @@
         "terlaluLama": 39,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T23:23:50.000Z"
+      "terbaru": "2026-10-16T02:20:45.000Z"
     },
     {
       "id": "okezone-sports",
@@ -169,7 +169,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T21:16:10.000Z"
+      "terbaru": "2026-10-16T04:24:16.000Z"
     },
     {
       "id": "antara-bola",
@@ -203,7 +203,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T16:07:47.000Z"
+      "terbaru": "2026-10-16T02:32:09.000Z"
     },
     {
       "id": "antara-bola-dunia",
@@ -237,7 +237,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T15:48:48.000Z"
+      "terbaru": "2026-10-16T02:36:16.000Z"
     },
     {
       "id": "antara-bulutangkis",
@@ -339,7 +339,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T19:50:16.000Z"
+      "terbaru": "2026-10-16T02:34:29.000Z"
     },
     {
       "id": "ars",
@@ -407,7 +407,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-16T01:22:51.000Z"
+      "terbaru": "2026-10-16T03:18:30.000Z"
     },
     {
       "id": "mit-tr",
@@ -441,7 +441,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T23:02:04.000Z"
+      "terbaru": "2026-10-16T02:24:52.000Z"
     }
   ]
 }
