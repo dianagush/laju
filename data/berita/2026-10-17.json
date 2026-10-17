@@ -1,7 +1,485 @@
 {
   "tanggal": "2026-10-17",
-  "diperbarui": "2026-10-17T05:32:03.992Z",
+  "diperbarui": "2026-10-17T09:38:36.413Z",
   "berita": [
+    {
+      "id": "21e3cf4a9e38",
+      "judul": "Jean-Paul van Gastel Buka Suara soal Desakan Mundur dari Suporter PSIM, #VanGastelOut Menguat Usai 5 Laga Tanpa Kemenangan",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8315391/jean-paul-van-gastel-buka-suara-soal-desakan-mundur-dari-suporter-psim-vangastelout-menguat-usai-5-laga-tanpa-kemenangan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:32:24.000Z",
+      "cuplikan": "Pelatih PSIM Yogyakarta, Jean-Paul van Gastel, buka suara menanggapi desakan suporter yang memintanya mundur setelah Laskar Mataram gagal meraih kemenangan dalam lima pertandingan awal BRI Super League 2026/2027. Kekalahan 1-2 dari PSM…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/H9BHlgSZbq6c9yL0sRA-F9GWkbM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9375807/original/035007400_1792228636-20261017_jean-paul-van-gastel-86b3b7.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "40327352852f",
+      "judul": "Jadi Atlet Termuda Indonesia di Asian Games 2026, Mikhayla Shanum Bongkar Rahasia Sebelum Bertanding",
+      "tautan": "https://sports.okezone.com/read/2026/10/17/43/3248534/jadi-atlet-termuda-indonesia-di-asian-games-2026-mikhayla-shanum-bongkar-rahasia-sebelum-bertanding",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:32:09.000Z",
+      "cuplikan": "Mikhayla Shanum Caya mengaku bahagia bisa membela Indonesia di ajang Asian Games 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/17/43/3248534/mikhayla_shanum_caya-yjTb_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "4270cf084e67",
+      "judul": "Tantang Puncak Klasemen, Pelatih Persita Siapkan Strategi Khusus Meredam Persija",
+      "tautan": "https://www.viva.co.id/bola/1936576-tantang-puncak-klasemen-pelatih-persita-siapkan-strategi-khusus-meredam-persija",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:30:00.000Z",
+      "cuplikan": "Pelatih Persita Tangerang Carlos Pena menuntut timnya tampil sempurna demi mengamankan tiga poin saat menjamu Persija Jakarta pada pekan kelima Super League.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/04/13/67faee93bd832-pelatih-persija-jakarta-carlos-pena_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "84e74af579c1",
+      "judul": "Makin Gacor! Striker 197 Cm Timnas Indonesia Mitchell Baker Kembali Bikin Gebrakan di Amerika Serikat",
+      "tautan": "https://www.viva.co.id/bola/1936577-makin-gacor-striker-197-cm-timnas-indonesia-mitchell-baker-kembali-bikin-gebrakan-di-amerika-serikat",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:15:32.000Z",
+      "cuplikan": "Mitchell Baker kembali menunjukkan ketajamannya bersama Georgetown University setelah membantu Timnas Indonesia menjuarai FIFA ASEAN Cup 2026. Kali ini, striker bertinggi",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/29/6a694fe9cb629-striker-timnas-indonesia-mitchell-baker_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "e56597d3b240",
+      "judul": "PSS siap hadapi Persebaya dengan modal kemenangan pekan lalu",
+      "tautan": "https://www.antaranews.com/berita/5793301/pss-siap-hadapi-persebaya-dengan-modal-kemenangan-pekan-lalu",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:11:05.000Z",
+      "cuplikan": "PSS Sleman menyatakan siap menghadapi Persebaya Surabaya dalam laga tandang Super League 2026/2027 di Stadion Gelora ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/17/154535.jpg"
+    },
+    {
+      "id": "b3656c10cb32",
+      "judul": "11 Pemain Timnas Indonesia Beraksi di Eropa, Mees Hilgers Masih Menanti Debut Bersama Heerenveen",
+      "tautan": "https://www.viva.co.id/bola/1936575-11-pemain-timnas-indonesia-beraksi-di-eropa-mees-hilgers-masih-menanti-debut-bersama-heerenveen",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:08:14.000Z",
+      "cuplikan": "Memasuki akhir pekan, sejumlah pemain Timnas Indonesia kembali menjalani pertandingan bersama klub masing-masing di kompetisi Eropa. Sebanyak 11 pemain berpeluang unjuk k",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad3013b41a6d-mees-hilgers_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "795dafb3b630",
+      "judul": "Peringati Hari Kebudayaan Nasional melalui lomba permainan tradisional di Mataram",
+      "tautan": "https://www.antaranews.com/foto/5793293/peringati-hari-kebudayaan-nasional-melalui-lomba-permainan-tradisional-di-mataram",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:05:35.000Z",
+      "cuplikan": "Seorang anak mengikuti permainan tradisional gilingan saat lomba permainan tradisional di Taman Budaya Mataram, NTB.",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/17/Lomba-permainan-tradisional-di-Mataram-171026-AS-3.jpg"
+    },
+    {
+      "id": "d1cc9eaf3bcb",
+      "judul": "Peringati Hari Kebudayaan Nasional melalui lomba permainan tradisional di Mataram",
+      "tautan": "https://www.antaranews.com/foto/5793289/peringati-hari-kebudayaan-nasional-melalui-lomba-permainan-tradisional-di-mataram",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:05:30.000Z",
+      "cuplikan": "Seorang anak mengikuti permainan tradisional gilingan saat lomba permainan tradisional di Taman Budaya Mataram, NTB.",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/17/Lomba-permainan-tradisional-di-Mataram-171026-AS-4.jpg"
+    },
+    {
+      "id": "628ab6ed9ff5",
+      "judul": "Jurnalis Eropa Bongkar Kasus 7 Pemain Naturalisasi usai Malaysia Masuk Nominasi Federasi Terbaik",
+      "tautan": "https://www.viva.co.id/bola/1936573-jurnalis-eropa-bongkar-kasus-7-pemain-naturalisasi-usai-malaysia-masuk-nominasi-federasi-terbaik",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:05:26.000Z",
+      "cuplikan": "Jurnalis investigasi asal Prancis, Romain Molina, melontarkan kritik terhadap Konfederasi Sepak Bola Asia (AFC) setelah Federasi Sepak Bola Malaysia (FAM) masuk nominasi",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/19/6a85da10d3a6d-pemain-timnas-vietnam-nguyen-xuan-son-saat-menghadapi-timnas-malaysia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "07d2743b2903",
+      "judul": "Hector Souto Beber Fakta Pahit Timnas Futsal Indonesia Usai kalah dari Brasil dan Tanjung Verde",
+      "tautan": "https://www.viva.co.id/bola/1936572-hector-souto-beber-fakta-pahit-timnas-futsal-indonesia-usai-kalah-dari-brasil-dan-tanjung-verde",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:03:21.000Z",
+      "cuplikan": "Pelatih Timnas Futsal Indonesia, Hector Souto, melontarkan kritik tajam setelah skuad Garuda menelan dua kekalahan beruntun di Copa das Nacoes de Futsal 2026. Dia menyoro",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/02/06/6984ccb79178f-pelatih-timnas-futsal-indonesia-hector-souto_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "41a88b18b8f5",
+      "judul": "iPhone 18 Pro vs Galaxy S26 Ultra: Pilih Video Andal, Zoom Jauh, atau Kebebasan Mengatur HP?",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1936529-iphone-18-pro-vs-galaxy-s26-ultra-pilih-video-andal-zoom-jauh-atau-kebebasan-mengatur-hp",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-17T09:02:00.000Z",
+      "cuplikan": "iPhone 18 Pro vs Galaxy S26 Ultra, mana lebih layak dibeli? Simak perbandingan video, zoom kamera, fleksibilitas Android, fitur unggulan, dan harga resmi di Indonesia.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad3001a45a71-ilustrasi-hp-iphone-18-pro-vs-galaxy-s26-ultra_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "1e041755d722",
+      "judul": "Legenda Real Madrid dan Portugal Luis Figo Diabadikan dalam Kartu Koleksi di Jakarta Game On 2026",
+      "tautan": "https://www.viva.co.id/bola/1936571-legenda-real-madrid-dan-portugal-luis-figo-diabadikan-dalam-kartu-koleksi-di-jakarta-game-on-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:01:23.000Z",
+      "cuplikan": "Legenda sepak bola Portugal, Luis Figo, diabadikan dalam kartu koleksi yang diperkenalkan Higgs Games Island (HGI) di ajang Jakarta Game On 2026. Peluncuran tersebut berl",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2013/11/26/230953_luis-figo_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "0dafb1ccf129",
+      "judul": "Barcelona Mulai Ragu Rekrut Wonderkid Manchester United JJ Gabriel",
+      "tautan": "https://www.liputan6.com/bola/read/8315150/barcelona-mulai-ragu-rekrut-wonderkid-manchester-united-jj-gabriel",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:00:35.000Z",
+      "cuplikan": "Barcelona ragu untuk menampung JJ Gabriel. Real Madrid semakin berpeluang mendapatkan wonderkid MU ini.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/0nRYbGnWrQtRlADwxe6-wSMz1n4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2328533/original/026626100_1534157899-000_14L65B.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "0adf69bbf105",
+      "judul": "FAM Masuk Nominasi Asosiasi Terbaik AFC 2026, Padahal Sudah Terbukti Palsukan Dokumen 7 Pemain",
+      "tautan": "https://www.viva.co.id/bola/1936567-fam-masuk-nominasi-asosiasi-terbaik-afc-2026-padahal-sudah-terbukti-palsukan-dokumen-7-pemain",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T09:00:00.000Z",
+      "cuplikan": "Pencalonan Federasi Sepakbola Malaysia (FAM) dalam nominasi Asosiasi Terbaik AFC 2026 memicu sorotan publik usai terseret skandal dokumen palsu tujuh pemain naturalisasi.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/12/6a2bac7606e93-timnas-malaysia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "8747a8654e4a",
+      "judul": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
+      "tautan": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-17T09:00:00.000Z",
+      "cuplikan": "Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.",
+      "gambar": "https://media.wired.com/photos/6ad106cafa571af93e3403ed/master/pass/1245245666",
+      "kategoriSumber": [
+        "Science",
+        "Science / Health"
+      ]
+    },
+    {
+      "id": "4a0e4538d4e7",
+      "judul": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "tautan": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-17T09:00:00.000Z",
+      "cuplikan": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "gambar": "https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Science / Biotech"
+      ]
+    },
+    {
+      "id": "ac7e863f54b4",
+      "judul": "Jakarta Game Fest 2026 Jadi Panggung Developer Lokal Bidik Pasar Global",
+      "tautan": "https://jawapos.com/teknologi/2610170259/jakarta-game-fest-2026-jadi-panggung-developer-lokal-bidik-pasar-global",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-17T08:56:55.000Z",
+      "cuplikan": "Jakarta Game Fest 2026 menjadi ajang bagi pengembang lokal untuk bersaing di pasar internasional dan memperkuat ekosistem digital.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/17/suasana-jakarta-game-fest-jgf-2026-istimewa-CyO7S.webp"
+    },
+    {
+      "id": "cf207c9536e7",
+      "judul": "Cek Harga Samsung Galaxy A18 di Indonesia, Ada Bonus Charger dan Bisa Dicicil",
+      "tautan": "https://www.liputan6.com/tekno/read/8315370/cek-harga-samsung-galaxy-a18-di-indonesia-ada-bonus-charger-dan-bisa-dicicil",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-17T08:30:32.000Z",
+      "cuplikan": "Berikut harga Samsung Galaxy A18 yang baru saja meluncurkan di Indonesia dalam dua varian memori.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/zAbjABE250sqIPd8uObCJOUaHFg=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9373394/original/070853700_1791964415-PXL_20261013_033213162_2.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "6ea18a117a68",
+      "judul": "Sedang Berlangsung, Ini Link Live Streaming Garudayaksa FC Vs Arema FC di Super League 2026/27",
+      "tautan": "https://www.viva.co.id/bola/1936531-sedang-berlangsung-ini-link-live-streaming-garudayaksa-fc-vs-arema-fc-di-super-league-202627",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T08:28:00.000Z",
+      "cuplikan": "Garudayaksa FC menghadapi Arema FC pada pekan kelima Super League 2026/2027, Sabtu (17/10/2026). Simak informasi dan link live streaming pertandingan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aac9d3b37c12-skuad-arema-fc-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "f911adbd4a65",
+      "judul": "Alwi Farhan Disingkirkan Anders Antonsen di Perempat Final Denmark Open 2026, Akui Keunggulan Lawan",
+      "tautan": "https://sports.okezone.com/read/2026/10/17/40/3248512/alwi-farhan-disingkirkan-anders-antonsen-di-perempat-final-denmark-open-2026-akui-keunggulan-lawan",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T08:02:17.000Z",
+      "cuplikan": "Ia menilai Anders Antonsen yang kini menempati peringkat 2 BWF dapat mengendalikan bola dengan baik.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/17/40/3248512/alwi_farhan-V9DE_large.jpg",
+      "kategoriSumber": [
+        "Netting"
+      ]
+    },
+    {
+      "id": "421206e8b6ff",
+      "judul": "Prediksi Susunan Pemain Persita Vs Persija, Skuad Mewah Shin Tae-yong Siap Hantam Pendekar Cisadane",
+      "tautan": "https://www.viva.co.id/bola/1936528-prediksi-susunan-pemain-persita-vs-persija-skuad-mewah-shin-tae-yong-siap-hantam-pendekar-cisadane",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T08:00:00.000Z",
+      "cuplikan": "Prediksi susunan pemain Persita vs Persija di pekan ke-5 Super League: Shin Tae-yong siap turunkan amunisi terbaik demi pertahankan takhta puncak klasemen.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/15/6aa949fb86891-skuad-persija-jakarta-20252026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "5f537e33bc64",
+      "judul": "SEAA Masters Championship 2026 Resmi Dimulai, Pemegang Rekor Dunia Shauna Krkalo Ikut Serta",
+      "tautan": "https://www.liputan6.com/bola/read/8315351/seaa-masters-championship-2026-resmi-dimulai-pemegang-rekor-dunia-shauna-krkalo-ikut-serta",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T07:39:39.000Z",
+      "cuplikan": "SEAA Masters Championship 2026 turut diikuti perenang pemegang rekor dunia Shauna Krkalo.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/3hRTzmwz3vFY1y_uNFxUjNjdxTI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375779/original/020243600_1792222745-20261017_090658.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "2785aa3893b6",
+      "judul": "Manchester United dan Chelsea Pertimbangkan Ulang Transfer Frenkie de Jong",
+      "tautan": "https://www.liputan6.com/bola/read/8314872/manchester-united-dan-chelsea-pertimbangkan-ulang-transfer-frenkie-de-jong",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T07:29:09.000Z",
+      "cuplikan": "Frenkie de Jong dikabarkan tak lagi menjadi prioritas MU dan Chelsea akibat riwayat cedera serta kekhawatiran soal konsistensinya di Premier League.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/HHqcvUnG5I2_EwyINUljg-sZ5jU=/0x261:5491x3356/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4202301/original/007911400_1666633359-AP22289551012169.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "eb866a2cc33f",
+      "judul": "Bukan Cuma Thom Haye dan Eliano Reijnders, 10 Pemain Persib Bisa Pergi Gratis, Marc Klok Termasuk!",
+      "tautan": "https://www.viva.co.id/bola/1936557-bukan-cuma-thom-haye-dan-eliano-reijnders-10-pemain-persib-bisa-pergi-gratis-marc-klok-termasuk",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T07:17:02.000Z",
+      "cuplikan": "Bukan cuma Thom Haye dan Eliano Reijnders, 10 pemain Persib lainnya berpotensi pergi gratis pada 2027. Marc Klok masuk daftar, Desember jadi periode penting.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad3204566e88-thom-haye-dan-marc-klok_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "0f2907260502",
+      "judul": "Handayani bidik final boccia Asian Para Games 2026",
+      "tautan": "https://www.antaranews.com/berita/5793145/handayani-bidik-final-boccia-asian-para-games-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T07:12:25.000Z",
+      "cuplikan": "Atlet Indonesia Handayani membidik final boccia Asian Para Games Aichi-Nagoya 2026 seusai memetik ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/17/843173.jpg"
+    },
+    {
+      "id": "3a169cc90141",
+      "judul": "Mending Lawan Marc Marquez atau Francesco Bagnaia? Jorge Martin Bilang Begini",
+      "tautan": "https://sports.okezone.com/read/2026/10/17/38/3248502/mending-lawan-marc-marquez-atau-francesco-bagnaia-jorge-martin-bilang-begini",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T07:12:04.000Z",
+      "cuplikan": "Jorge Martin membandingkan perebutan gelar juara dunia menghadapi dua pesaing terberat yakni Marc Marquez dan Francesco Bagnaia.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/17/38/3248502/jorge_martin_membandingkan_perebutan_gelar_juara_dunia_menghadapi_dua_pesaing_terberat_yakni_marc_marquez_dan_francesco_bagnaia-nzsL_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "e628f705e63c",
+      "judul": "Prediksi Persita Vs Persija: Misi Shin Tae-yong Pertahankan Puncak Klasemen, Macan Kemayoran Diunggulkan",
+      "tautan": "https://www.viva.co.id/bola/1936523-prediksi-persita-vs-persija-misi-shin-tae-yong-pertahankan-puncak-klasemen-macan-kemayoran-diunggulkan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T07:00:00.000Z",
+      "cuplikan": "Prediksi Persita vs Persija di pekan kelima Super League: Pertaruhan rekor tak terkalahkan di Banten International Stadium. Shin Tae-yong bidik poin penuh.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acbb0fcb42b8-skuad-persija-jakarta-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "16de5beb0543",
+      "judul": "Renang Master Asia Tenggara diikuti perenang pemegang rekor dunia",
+      "tautan": "https://www.antaranews.com/berita/5793073/renang-master-asia-tenggara-diikuti-perenang-pemegang-rekor-dunia",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T06:30:42.000Z",
+      "cuplikan": "Ketua Harian Pengurus Besar (PB) Harlin Erlianto Rahardjo mengatakan kejuaraan renang master Asia ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/17/1000138319.jpg"
+    },
+    {
+      "id": "c19b4b5b62c5",
+      "judul": "Timnas Futsal Indonesia Tersingkir dari Copa das Nacoes 2026, Kalah Dua Gol dari Tanjung Verde",
+      "tautan": "https://www.viva.co.id/bola/1936548-timnas-futsal-indonesia-tersingkir-dari-copa-das-nacoes-2026-kalah-dua-gol-dari-tanjung-verde",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T06:15:07.000Z",
+      "cuplikan": "Timnas Futsal Indonesia gagal ke semifinal Copa das Nacoes 2026 usai kalah 0-2 dari Tanjung Verde. Brasil dan Tanjung Verde melaju ke babak empat besar.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad31233f285e-timnas-futsal-indonesia-vs-tanjung-verde_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "af9c624edbc9",
+      "judul": "Palantir patient data tech rejected by many NHS trusts in England",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-17T06:00:24.000Z",
+      "cuplikan": "Exclusive: health bodies across country say controversial US firm’s data platform no better than systems already in use NHS organisations that care for millions of people in England are rejecting Palantir’s patient data technology…",
+      "gambar": "https://i.guim.co.uk/img/media/5c48c8c2456de2d94d6e060908409ef95dd199d0/1945_0_6247_5000/master/6247.jpg?width=140&quality=85&auto=format&fit=max&s=fc56a51462c7d52b6a82409e9f2c4d6f",
+      "kategoriSumber": [
+        "Palantir",
+        "NHS",
+        "England",
+        "UK news",
+        "Health",
+        "Technology",
+        "Hospitals"
+      ]
+    },
+    {
+      "id": "91189b72b270",
+      "judul": "Which coffee chain was founded in London in 1971? The Saturday quiz",
+      "tautan": "https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-17T06:00:24.000Z",
+      "cuplikan": "From Divine, Frank Fiegel and Helen Kane to the West Sussex estate pioneering rewilding, test your knowledge with the Saturday quiz 1 Which classic of political theory was dedicated to Lorenzo de Medici? 2 What is the only jazz act to win…",
+      "gambar": "https://i.guim.co.uk/img/media/2c184cfa6cd9ed17ee1220cbd1efbd11c17d423f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8bd3e34a8f9b4b62705d2265d2915ce4",
+      "kategoriSumber": [
+        "Quiz and trivia games",
+        "Life and style"
+      ]
+    },
+    {
+      "id": "a6072f44f7df",
+      "judul": "Manchester United Incar Harry Kane Tahun Depan, Tawaran Baru Bayern Munchen Jadi Penghalang",
+      "tautan": "https://www.liputan6.com/bola/read/8314703/manchester-united-incar-harry-kane-tahun-depan-tawaran-baru-bayern-munchen-jadi-penghalang",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T06:00:16.000Z",
+      "cuplikan": "Harry Kane dikabarkan sepakat bertahan di Bayern Munchen hingga 2029. Apakah Manchester United masih bisa merekrutnya pada 2027?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/9saPiJMe-_kwa9coXBAneMvyqes=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371302/original/004740600_1791782209-kane.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a5c0d9eb60a3",
+      "judul": "Prediksi Susunan Pemain Garudayaksa Vs Arema FC, Milos Joksic Siapkan Formasi Terbaik",
+      "tautan": "https://www.viva.co.id/bola/1936520-prediksi-susunan-pemain-garudayaksa-vs-arema-fc-milos-joksic-siapkan-formasi-terbaik",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T06:00:00.000Z",
+      "cuplikan": "Prediksi susunan pemain Garudayaksa FC vs Arema FC di pekan ke-5 Super League. Milos Joksic turunkan komposisi terbaik demi amankan 3 poin di Pakansari.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9d422f567bc-java-united-vs-garudayaksa-fc_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "c3d69e213714",
+      "judul": "Kali Kedua Indonesia jadi Tuan Rumah SEAA Masters 2026, PB Akuatik Ungkap Alasannya",
+      "tautan": "https://www.viva.co.id/sport/1936545-kali-kedua-indonesia-jadi-tuan-rumah-seaa-masters-2026-pb-akuatik-ungkap-alasannya",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-17T05:57:56.000Z",
+      "cuplikan": "PB Akuatik Indonesia mengungkap alasan Indonesia kembali menjadi tuan rumah SEAA Masters 2026 di GBK, mulai dari perkembangan renang master hingga gerakan Ayo Berenang.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad30dc73094b-3rd-southeast-asia-aquatics-seaa-masters-swimming-championships-2026-resmi-bergulir-di-stadion-akuatik-gbk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "caf1782d91d7",
+      "judul": "Pentingnya Keterbukaan Komunikasi Antara Orang Tua dengan Anak dalam Aktivitas Digital",
+      "tautan": "https://jawapos.com/teknologi/2610170159/pentingnya-keterbukaan-komunikasi-antara-orang-tua-dengan-anak-dalam-aktivitas-digital",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-17T05:36:55.000Z",
+      "cuplikan": "Wamen Nezar menekankan pentingnya pengawasan orang tua dalam penggunaan AI oleh anak-anak.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/08/03/ilustrasi-ai-pinterest-G8Z8c.webp"
+    },
     {
       "id": "dea3571d7d0a",
       "judul": "PB Akuatik Indonesia Ungkap Fenomena di SEAA Masters 2026, Eks Atlet Elite hingga Perenang 25 Tahun Ikut Berpartisipasi",
@@ -62,6 +540,17 @@
       "id": "a38d9e614b77",
       "judul": "CV Dibuat dengan Al? Waspadai Risiko Kebocoran Data Pribadi",
       "tautan": "https://jawapos.com/teknologi/2610170143/cv-dibuat-dengan-al-waspadai-risiko-kebocoran-data-pribadi",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-17T05:05:45.000Z",
+      "cuplikan": "AI bisa membantu membuat CV lebih menarik dan sesuai lowongan kerja. Simak lima tips mengoptimalkan CV tanpa mengorbankan privasi dan keaslian data.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/17/ilustrasi-bahaya-mengintai-di-tengah-kemudahan-membuat-cv-dengan-ai-istimewa-hb6eB.webp"
+    },
+    {
+      "id": "f735d588b441",
+      "judul": "Waspada, Buat CV dengan AI Berpotensi Kebocoran Data Pribadi",
+      "tautan": "https://jawapos.com/teknologi/2610170143/waspada-buat-cv-dengan-ai-berpotensi-kebocoran-data-pribadi",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -979,7 +1468,7 @@
       "kanal": "bbc-tech",
       "lajur": "global",
       "terbit": "2026-10-16T18:11:29.000Z",
-      "cuplikan": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+      "cuplikan": "The Australian government hopes to protect social media users from being served content they don't want to see.",
       "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png"
     },
     {

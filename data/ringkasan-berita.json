@@ -1,18 +1,4 @@
 {
-  "e5b1711ae9fe": {
-    "teks": "Paus Leo XIV menilai pembedaan antara karya seni manusia dan ciptaan mesin menjadi hal mendesak di tengah pesatnya kemajuan kecerdasan buatan. Sejumlah insiden serta peringatan dari para pakar memicu seruan agar perkembangan teknologi tersebut diatur lebih ketat. Selain itu, ia menekankan bahwa kecerdasan buatan harus tetap menjunjung martabat manusia dan memperkuat perdamaian.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-03T07:25:31.412Z"
-  },
-  "53f7f51adc23": {
-    "teks": "Pasangan voli pantai putra Indonesia, Bintang Akbar dan Sofyan Rachman Efendi, merebut medali perak Asian Games 2026 setelah kalah dari duet Qatar, Cherif Samba dan Ahmed Janko, di partai final. Sempat memenangi set pertama, wakil Indonesia akhirnya menyerah 1-2 setelah lawan bangkit pada dua set berikutnya. Capaian ini menjadi medali pertama Bintang/Sofyan di ajang tersebut sekaligus menjaga tradisi medali Indonesia di cabang voli pantai.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-03T07:25:47.768Z"
-  },
   "b66eac8b4028": {
     "teks": "Kementerian Komunikasi dan Digital mengevaluasi masih banyaknya paket internet milik XLSMART, Indosat, dan Telkomsel yang belum menerapkan sistem rollover. Pemerintah menegaskan bahwa notifikasi saja tidak memadai untuk menjaga nilai ekonomi sisa kuota pengguna sesuai putusan Mahkamah Konstitusi. Oleh karena itu, Kemkomdigi mendorong seluruh operator seluler menyediakan perlindungan yang lebih substantif dan akan terus memantau penerapannya di lapangan.",
     "penyedia": "gemini",
@@ -1552,5 +1538,26 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-17T05:33:41.784Z"
+  },
+  "41a88b18b8f5": {
+    "teks": "Persaingan ponsel pintar kelas atas menghadirkan keunggulan berbeda antara iPhone 18 Pro dan Samsung Galaxy S26 Ultra. iPhone 18 Pro lebih ditujukan bagi pembuat konten profesional melalui fitur perekaman video tingkat lanjut dan integrasi ekosistem. Sementara itu, Galaxy S26 Ultra menawarkan fleksibilitas lewat berbagai pilihan zoom optik, kebebasan sistem Android, ketersediaan S Pen, serta layar lebih besar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-17T09:38:53.882Z"
+  },
+  "2556674f9fc0": {
+    "teks": "Pelatih Persija Jakarta Shin Tae-yong meyakini anak asuhnya bisa membawa pulang kemenangan saat melakoni laga tandang melawan Persita Tangerang di BRI Super League. Pemimpin klasemen sementara tersebut datang dengan modal empat kemenangan beruntun dan kondisi seluruh pemain yang bugar tanpa cedera. Sementara itu, kubu tuan rumah menyusul di peringkat kelima setelah mengantongi dua kemenangan dan dua hasil imbang.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-17T09:39:08.934Z"
+  },
+  "8747a8654e4a": {
+    "teks": "Peneliti menemukan bahwa air mampu mengaktifkan permukaan mikroplastik secara kimiawi dalam kondisi lingkungan normal. Reaksi ini menghasilkan senyawa reaktif yang berpotensi merusak jaringan serta molekul penting pada makhluk hidup. Eksperimen pada sel darah merah tikus membuktikan bahwa paparan mikroplastik dapat menyebabkan sel mengalami deformasi dan pecah. Temuan tersebut membantah anggapan sebelumnya bahwa partikel plastik mikroskopis bersifat tidak aktif secara kimia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-17T09:39:24.912Z"
   }
 }
