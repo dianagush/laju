@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-15",
-  "diperbarui": "2026-10-16T11:14:46.412Z",
+  "diperbarui": "2026-10-17T05:32:03.992Z",
   "berita": [
     {
       "id": "0b391494f372",
@@ -42,6 +42,22 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/JY6u2OdIBEA-v8bxX-cCUTYMBn0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9374895/original/069413900_1792083039-20261015_nadeo-argawinata-caff1c.png",
       "kategoriSumber": [
         "Bola"
+      ]
+    },
+    {
+      "id": "8baed41dc01e",
+      "judul": "Tell us: have you used AI to help with online dating?",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/15/using-ai-online-dating-tell-us",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-15T16:47:25.000Z",
+      "cuplikan": "From chat-up lines to social coaching, we’d like to hear from people who use AI to assist them navigating the online dating world We’d like to understand more about the different ways that people are using AI to assist with online dating…",
+      "gambar": "https://i.guim.co.uk/img/media/7c4e62acbc9ca4257774b10197f801201e6aa2a9/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=9b4cbb3ff4ea78418714f4c8cadd2981",
+      "kategoriSumber": [
+        "AI (artificial intelligence)",
+        "Online dating",
+        "Technology"
       ]
     },
     {
