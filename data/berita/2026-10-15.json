@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-15",
-  "diperbarui": "2026-10-17T09:38:36.413Z",
+  "diperbarui": "2026-10-18T05:47:55.216Z",
   "berita": [
     {
       "id": "0b391494f372",
@@ -96,6 +96,17 @@
       "id": "bf7993af6f2c",
       "judul": "Google Tambah Fitur Anti-Penipuan di Android, Gemini Bisa Deteksi Pesan Mencurigakan",
       "tautan": "https://jawapos.com/teknologi/2610150514/google-tambah-fitur-anti-penipuan-di-android-gemini-bisa-deteksi-pesan-mencurigakan",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T16:45:10.000Z",
+      "cuplikan": "Google menghadirkan fitur keamanan baru di Android untuk melindungi pengguna dari penipuan digital, termasuk deteksi penipuan menggunakan AI.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/06/11/logo-google-gemini-ai-melambangkan-kecerdasan-buatan-generatif-google-yang-terintegrasi-dalam-ekosistem-teknologi-modern-ars-technica-XHUnW.webp"
+    },
+    {
+      "id": "28a37bf0e375",
+      "judul": "Google Tambah Fitur Anti-Penipuan di Android, Gemini Bisa Deteksi Pesan Mencurigakan",
+      "tautan": "https://www.jawapos.com/teknologi/2610150514/google-tambah-fitur-anti-penipuan-di-android-gemini-bisa-deteksi-pesan-mencurigakan",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -440,9 +451,31 @@
       "gambar": "https://cdn-assets.jawapos.com/dev/1/2026/10/15/flyer-estival-gaming-jakarta-game-on-2026-akan-digelar-pada-16-18-oktober-2026-di-the-brick-hall-fatmawati-city-center-jakarta-selatan-iNlw7.webp"
     },
     {
+      "id": "10256b1c1bc2",
+      "judul": "Jakarta Game On 2026 Hadir, Bidik Jakarta Jadi Hub Gaming Asia",
+      "tautan": "https://www.jawapos.com/teknologi/2610150503/jakarta-game-on-2026-hadir-bidik-jakarta-jadi-hub-gaming-asia",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T15:31:52.000Z",
+      "cuplikan": "Perkembangan industri game membuka peluang baru bagi Jakarta untuk memperkuat ekosistem ekonomi kreatif berbasis teknologi sekaligus menciptakan ruang bagi generasi muda untuk berkarya.",
+      "gambar": "https://cdn-assets.jawapos.com/dev/1/2026/10/15/flyer-estival-gaming-jakarta-game-on-2026-akan-digelar-pada-16-18-oktober-2026-di-the-brick-hall-fatmawati-city-center-jakarta-selatan-iNlw7.webp"
+    },
+    {
       "id": "608cc42e4d83",
       "judul": "PX Q60i Pro Meluncur, TWS dengan Adaptive ANC hingga -42dB",
       "tautan": "https://jawapos.com/teknologi/2610150496/px-q60i-pro-meluncur-tws-dengan-adaptive-anc-hingga-42db",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T15:27:03.000Z",
+      "cuplikan": "PX Q60i Pro hadir dengan Adaptive ANC hingga -42dB, Bluetooth 6.0, driver 13mm, dan daya tahan baterai untuk kebutuhan audio harian.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/15/px-q60i-pro-hadir-dengan-adaptive-anc-hingga-42db-bluetooth-60-driver-13mm-dan-daya-tahan-baterai-untuk-kebutuhan-audio-harian-dok-ist-AphNL.webp"
+    },
+    {
+      "id": "433030b2b10b",
+      "judul": "PX Q60i Pro Meluncur, TWS dengan Adaptive ANC hingga -42dB",
+      "tautan": "https://www.jawapos.com/teknologi/2610150496/px-q60i-pro-meluncur-tws-dengan-adaptive-anc-hingga-42db",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -1473,6 +1506,17 @@
       "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/15/kacamata-pintar-qwen-glasses-n1-besutan-alibaba-dibekali-kamera-50-megapiksel-dan-fitur-ai-yang-terintegrasi-dengan-layanan-digital-perusahaan-gizmodo-Gr1ep.webp"
     },
     {
+      "id": "9f79128f117f",
+      "judul": "Kacamata Pintar Tiongkok Bikin Meta Kewalahan, Alibaba Unggulkan Kamera dan Baterai Lebih Tahan Lama",
+      "tautan": "https://www.jawapos.com/teknologi/2610150353/kacamata-pintar-tiongkok-bikin-meta-kewalahan-alibaba-unggulkan-kamera-dan-baterai-lebih-tahan-lama",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T11:16:06.000Z",
+      "cuplikan": "Alibaba meluncurkan kacamata pintar Qwen Glasses N1 dengan kamera 50 megapiksel, pelacakan mata, dan integrasi kecerdasan buatan (AI) untuk menantang dominasi Meta di pasar perangkat wearable.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/15/kacamata-pintar-qwen-glasses-n1-besutan-alibaba-dibekali-kamera-50-megapiksel-dan-fitur-ai-yang-terintegrasi-dengan-layanan-digital-perusahaan-gizmodo-Gr1ep.webp"
+    },
+    {
       "id": "644777a088e4",
       "judul": "Sandy Walsh Akhirnya Debut di Persib Bandung, Ungkap Perasaannya",
       "tautan": "https://www.liputan6.com/bola/read/8314145/sandy-walsh-akhirnya-debut-di-persib-bandung-ungkap-perasaannya",
@@ -1490,6 +1534,17 @@
       "id": "d90dc4de5674",
       "judul": "Nvidia Gelontorkan USD 250 juta untuk Riset Keamanan AI di Inggris",
       "tautan": "https://jawapos.com/teknologi/2610150352/nvidia-gelontorkan-usd-250-juta-untuk-riset-keamanan-ai-di-inggris",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T11:13:04.000Z",
+      "cuplikan": "Nvidia berkomitmen menyumbangkan daya komputasi senilai USD 250 juta atau sekitar Rp4,48 triliun untuk mendukung riset keamanan kecerdasan buatan (AI) di Inggris selama lima tahun.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/15/ceo-nvidia-jensen-huang-the-guardian-AB6Sz.webp"
+    },
+    {
+      "id": "8a8152fbcf82",
+      "judul": "Nvidia Gelontorkan USD 250 juta untuk Riset Keamanan AI di Inggris",
+      "tautan": "https://www.jawapos.com/teknologi/2610150352/nvidia-gelontorkan-usd-250-juta-untuk-riset-keamanan-ai-di-inggris",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -2671,6 +2726,17 @@
       "gambar": "https://cdn-assets.jawapos.com/images/1/2026/08/22/ilustrasi-hp-android-pexelsmohi-syed-UQHqB.webp"
     },
     {
+      "id": "69a7434efe50",
+      "judul": "Notifikasi Iklan Mengganggu di HP Android? Begini Cara Menghentikannya",
+      "tautan": "https://www.jawapos.com/teknologi/2610150154/notifikasi-iklan-mengganggu-di-hp-android-begini-cara-menghentikannya",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T04:12:32.000Z",
+      "cuplikan": "Pelajari cara menghentikan notifikasi iklan mengganggu di HP Android dengan langkah mudah dan cepat.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/08/22/ilustrasi-hp-android-pexelsmohi-syed-UQHqB.webp"
+    },
+    {
       "id": "23586d61af7e",
       "judul": "Cara Mudah Membersihkan Cache dan Cookie di iPhone Tanpa Hapus Data",
       "tautan": "https://ototekno.okezone.com/read/2026/10/15/16/3248009/cara-mudah-membersihkan-cache-dan-cookie-di-iphone-tanpa-hapus-data",
@@ -2702,6 +2768,17 @@
       "id": "c0cbce9312cf",
       "judul": "Cara Cek Password yang Tersimpan di HP Android, Jangan Sampai Akunmu Dibobol!",
       "tautan": "https://jawapos.com/teknologi/2610150148/cara-cek-password-yang-tersimpan-di-hp-android-jangan-sampai-akunmu-dibobol",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T04:06:13.000Z",
+      "cuplikan": "Pelajari cara mengelola dan mengamankan kata sandi di HP Android menggunakan Google Password Manager untuk perlindungan lebih baik.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2024/07/05/images-2024-07-05T163506777-4062645431.jpeg"
+    },
+    {
+      "id": "1426bd84c029",
+      "judul": "Cara Cek Password yang Tersimpan di HP Android, Jangan Sampai Akunmu Dibobol!",
+      "tautan": "https://www.jawapos.com/teknologi/2610150148/cara-cek-password-yang-tersimpan-di-hp-android-jangan-sampai-akunmu-dibobol",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -2766,6 +2843,17 @@
       "gambar": "https://cdn-assets.jawapos.com/images/1/2025/03/23/unnamed-1-2611464008.png"
     },
     {
+      "id": "55d10dc1614a",
+      "judul": "Begini Cara Mengetahui Aplikasi Android yang Mengakses Kamera dan Lokasi",
+      "tautan": "https://www.jawapos.com/teknologi/2610150145/begini-cara-mengetahui-aplikasi-android-yang-mengakses-kamera-dan-lokasi",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T03:56:38.000Z",
+      "cuplikan": "Pelajari cara memeriksa aplikasi di HP Android yang mengakses kamera dan lokasi untuk menjaga privasi Anda. Simak selengkapnya!",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2025/03/23/unnamed-1-2611464008.png"
+    },
+    {
       "id": "09c9d455a355",
       "judul": "Pulangkan Jagoan Thailand, Putri KW Senang Bukan Main Lolos 16 Besar Denmark Open 2026",
       "tautan": "https://sports.okezone.com/read/2026/10/15/40/3248005/pulangkan-jagoan-thailand-putri-kw-senang-bukan-main-lolos-16-besar-denmark-open-2026",
@@ -2797,6 +2885,17 @@
       "id": "7219f5cc1751",
       "judul": "WhatsApp Perkenalkan Fitur Telepon Tamu Tanpa Akun, Simak Cara dan Aturannya",
       "tautan": "https://jawapos.com/teknologi/2610150138/whatsapp-perkenalkan-fitur-telepon-tamu-tanpa-akun-simak-cara-dan-aturannya",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-15T03:45:15.000Z",
+      "cuplikan": "WhatsApp menghadirkan fitur telepon tamu untuk panggilan gratis tanpa akun dan batas waktu. Simak cara bergabung, fitur, serta aturan privasinya.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/15/ilustrasi-fitur-baru-whatsapp-telepon-tanpa-akun-istimewa-onml1.webp"
+    },
+    {
+      "id": "9f278e8d4289",
+      "judul": "WhatsApp Perkenalkan Fitur Telepon Tamu Tanpa Akun, Simak Cara dan Aturannya",
+      "tautan": "https://www.jawapos.com/teknologi/2610150138/whatsapp-perkenalkan-fitur-telepon-tamu-tanpa-akun-simak-cara-dan-aturannya",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
@@ -3199,6 +3298,17 @@
       "id": "96e7c23deefe",
       "judul": "Meta Hadirkan Your Algorithm di Facebook, Pengguna Bisa Pilih Konten yang Muncul",
       "tautan": "https://jawapos.com/teknologi/2610150047/meta-hadirkan-your-algorithm-di-facebook-pengguna-bisa-pilih-konten-yang-muncul",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-14T23:39:45.000Z",
+      "cuplikan": "Meta menghadirkan fitur berbasis kecerdasan buatan (AI) bernama Your Algorithm di Facebook. Fitur ini memungkinkan pengguna mengatur konten yang muncul di linimasa dan Reels sesuai minat mereka.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/09/17/ilustrasi-logo-meta-ai-yves-hermanreuters-qzwZp.webp"
+    },
+    {
+      "id": "1a1b0293d4bc",
+      "judul": "Meta Hadirkan Your Algorithm di Facebook, Pengguna Bisa Pilih Konten yang Muncul",
+      "tautan": "https://www.jawapos.com/teknologi/2610150047/meta-hadirkan-your-algorithm-di-facebook-pengguna-bisa-pilih-konten-yang-muncul",
       "sumber": "Jawa Pos",
       "kanal": "jawapos-tekno",
       "lajur": "tekno",
