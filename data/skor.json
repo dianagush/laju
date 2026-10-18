@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-18T05:47:56.855Z",
+  "diperbarui": "2026-10-18T10:55:58.649Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -676,28 +676,6 @@
       "nama": "Serie A",
       "laga": [
         {
-          "id": "401874940",
-          "liga": "ita.1",
-          "mulai": "2026-10-11T10:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Como",
-            "namaLengkap": "Como",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2572.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "AS Roma",
-            "namaLengkap": "AS Roma",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874940/as-roma-como"
-        },
-        {
           "id": "401874951",
           "liga": "ita.1",
           "mulai": "2026-10-11T13:00:00.000Z",
@@ -921,8 +899,8 @@
           "id": "401874771",
           "liga": "ita.1",
           "mulai": "2026-10-18T10:30:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "berlangsung",
+          "detail": "24'",
           "tuanRumah": {
             "nama": "Udinese",
             "namaLengkap": "Udinese",
@@ -934,10 +912,10 @@
             "nama": "Lecce",
             "namaLengkap": "Lecce",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/113.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874771/lecce-udinese"
+          "tautan": ""
         },
         {
           "id": "401874774",

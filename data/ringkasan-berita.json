@@ -1,53 +1,4 @@
 {
-  "29eb3ab9fa7e": {
-    "teks": "Sambaran petir dapat memicu lonjakan tegangan pada jaringan listrik secara mendadak. Perangkat perlindungan seperti pemutus sirkuit kemudian secara otomatis memutus aliran listrik untuk mengisolasi gangguan agar tidak merusak sistem atau membahayakan manusia. Selain akibat sambaran langsung, pemadaman saat badai juga sering dipicu oleh kerusakan fisik saluran listrik yang tertimpa pohon tumbang atau terganggu angin kencang.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-04T10:51:02.654Z"
-  },
-  "2553bcfbe653": {
-    "teks": "Pengunggahan data sensitif seperti dokumen identitas, nomor telepon, informasi keuangan, lokasi terkini, dan profil keluarga di media sosial dapat meningkatkan risiko penipuan serta penyalahgunaan akun. Meskipun lembaga pemerintah sudah mengimbau pentingnya menjaga kerahasiaan informasi tersebut, banyak pengguna masih membagikannya secara terbuka. Oleh sebab itu, masyarakat disarankan untuk membatasi privasi unggahan guna mencegah pihak asing mengumpulkan data pribadi mereka.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-04T10:51:35.827Z"
-  },
-  "f3208b4b5dd6": {
-    "teks": "Penggunaan earphone, termasuk jenis nirkabel, tidak dapat menarik sambaran petir ke tubuh seseorang. Risiko tersambar petir sebenarnya lebih dipengaruhi oleh keberadaan seseorang di luar ruangan serta pemakaian perangkat berkabel yang terhubung langsung ke stopkontak. Perangkat nirkabel tetap aman digunakan di dalam bangunan asalkan tidak sedang diisi daya saat badai berlangsung.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-04T10:52:04.451Z"
-  },
-  "d3346defa02d": {
-    "teks": "Alat forensik digital GrayKey buatan Magnet Forensics dilaporkan berhasil menembus fitur keamanan inactivity reboot pada iPhone. Teknologi ini sanggup menjaga perangkat tetap dalam kondisi After First Unlock sehingga data seperti lokasi, pesan iMessage, dan foto terhapus dapat diakses. Hal tersebut mencegah penghapusan data otomatis sekaligus memicu kekhawatiran baru terkait privasi digital.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-04T10:52:20.102Z"
-  },
-  "927730ff773e": {
-    "teks": "Pembalap Indonesia Veda Ega Pratama harus memulai balapan Moto3 Jepang 2026 dari posisi ke-18 usai sesi kualifikasi yang kurang maksimal. Situasi ini memperberat langkahnya dalam persaingan Rookie of the Year setelah meraih hasil minim poin pada sepuluh seri terakhir. Di sisi lain, Maximo Quiles berpeluang mengunci gelar juara dunia pada ajang ini jika berhasil mengumpulkan 19 poin lebih banyak dari pesaing terdekatnya, Alvaro Carpe.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-04T10:53:11.323Z"
-  },
-  "a4b0f91fee5d": {
-    "teks": "Kartu hadiah elektronik dan layanan langganan digital memberikan fleksibilitas bagi penerima untuk memilih produk sesuai keinginan mereka. Beragam opsi yang ditawarkan mencakup kategori toko ritel, pemesanan makanan, platform streaming hiburan dan musik, hingga buku elektronik serta media berita digital. Pilihan ini melibatkan platform besar maupun toko independen lokal yang memudahkan pemberian hadiah secara praktis.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-04T10:53:40.145Z"
-  },
-  "09c04a400138": {
-    "teks": "Kacamata pintar Meta Nova Gen 3 meluncur dengan pembaruan minor yang mempertahankan fungsi utama generasi sebelumnya. Perangkat seharga 299 dolar AS ini mengusung bingkai lebih ringan, daya tahan baterai sembilan jam, dan sistem mikrofon yang efektif meredam bising. Meski pengambilan foto dan videonya tetap andal, kinerja asisten Meta AI pada perangkat ini masih dinilai mengecewakan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-04T10:53:56.435Z"
-  },
   "49686d557f92": {
     "teks": "Kenaikan harga ponsel pintar global kini dipicu oleh lonjakan biaya komponen utama seperti memori dan chipset. Tingginya permintaan komponen dari sektor kecerdasan buatan membuat pasokan DRAM serta NAND Flash untuk telepon seluler menjadi terbatas. Dampak kenaikan biaya ini paling dirasakan pada perangkat kelas bawah dan menengah karena margin keuntungan produsen yang tipis.",
     "penyedia": "gemini",
@@ -1524,5 +1475,61 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-18T05:51:07.145Z"
+  },
+  "5bd6d7154afb": {
+    "teks": "Kementerian Komunikasi dan Digital merancang regulasi pelabelan materi berbasis kecerdasan buatan guna mengikis potensi manipulasi data. Upaya ini dipicu oleh maraknya penyebaran rekayasa media terkait kebakaran hutan dan lahan yang kian mirip fakta. Wakil Menteri Angga Raka Prabowo meminta publik lebih cermat memilah informasi, seraya mencatat bahwa beberapa platform digital sudah mulai membubuhkan tanda khusus pada konten AI.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-18T10:56:15.278Z"
+  },
+  "313c695a2cd3": {
+    "teks": "Pasar ponsel pintar Indonesia diramaikan oleh hadirnya beragam gawai baru dari kelas menengah hingga flagship menjelang akhir 2026. Sepanjang Oktober, sejumlah perangkat diperkenalkan, seperti Samsung Galaxy Z Fold8 Series, Galaxy S26 FE, POCO F9 Series, dan jajaran iPhone 18 Pro. Produk-produk ini membawa berbagai fitur unggulan, mulai dari layar lipat untuk produktivitas hingga dukungan pembaruan perangkat lunak panjang. Adapun peluncuran ponsel pada November hingga Desember masih menanti pengumuman selanjutnya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-18T10:56:32.575Z"
+  },
+  "90a3511b32b3": {
+    "teks": "Perenang Krkalo Shauna Kathlee menyabet medali emas sekaligus melampaui rekor dunia renang master nomor 50 meter gaya dada putri kelompok umur 45–49 tahun pada kejuaraan 3rd SEAA Masters 2026 di Jakarta. Ia membukukan waktu 32,20 detik, melampaui capaian perenang Amerika Serikat, Glenn Katie. Shauna mengaku gembira dan terkesan dengan fasilitas Stadion Akuatik GBK, meskipun catatan waktunya kini masih menanti verifikasi resmi dari World Aquatics.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-18T10:56:47.732Z"
+  },
+  "24f1ff7590f2": {
+    "teks": "Persebaya Surabaya menghadapi PSS Sleman dalam laga pekan kelima Super League 2026/2027 di Stadion Gelora Bung Tomo. Tuan rumah bertekad mempertahankan rekor tidak terkalahkan meski memiliki kendala pada efektivitas penyelesaian akhir. Di sisi lain, PSS Sleman membawa modal penting berupa kemenangan tiga gol tanpa balas atas PSM Makassar usai menderita tiga kekalahan beruntun. Pertandingan ini berpotensi berlangsung sengit karena kedua tim sama-sama ingin menjaga momentum positif.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-18T10:57:05.299Z"
+  },
+  "009dfae8888b": {
+    "teks": "Garudayaksa FC mengamankan kemenangan pertamanya di BRI Super League 2026/2027 setelah menundukkan Arema Malang 3-1 di Stadion Pakansari. Sempat tertinggal gol awal, tim asuhan Milos Joksic bangkit lewat tiga gol susulan Brian Rubio, Jayro Jade, serta Carlos Iury, dibantu aksi cemerlang kiper Dominic Holec. Hasil ini mengantarkan Garudayaksa naik ke peringkat ke-13 klasemen sementara, sedangkan Arema tertahan di posisi ke-10 dan menelan kekalahan perdana musim ini.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-18T10:57:24.191Z"
+  },
+  "70bdb9d8dab5": {
+    "teks": "Para pembuat konten dewasa merasa kecewa terhadap kebijakan Meta yang sering membatasi akun mereka di Instagram. Ketidakpuasan ini muncul karena Meta justru mengizinkan agen AI miliknya, Muse, melakukan percakapan teks eksplisit dengan pengguna dewasa. Perusahaan berdalih interaksi privat AI berbeda dari promosi di media sosial, namun para kreator menilai aturan tersebut tidak adil bagi manusia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-18T10:58:03.381Z"
+  },
+  "6fcb8e33fa2f": {
+    "teks": "Industri pusat data kini menggunakan pendekatan edukatif untuk membangun citra positif di tengah meningkatnya penolakan publik terkait dampak lingkungan. Berbagai perusahaan dan grup nirlaba mendistribusikan buku cerita, menyediakan materi pembelajaran, hingga menyelenggarakan kunjungan lapangan bagi para siswa sekolah. Strategi yang menyasar anak-anak ini meniru taktik sektor industri lain untuk meraih dukungan masyarakat serta mempromosikan peluang karier di masa depan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-18T10:58:17.988Z"
+  },
+  "d09475409559": {
+    "teks": "Bank Dunia mendorong negara berkembang memanfaatkan kecerdasan buatan skala kecil atau small AI untuk mempercepat pembangunan ekonomi. Teknologi yang diakses melalui ponsel pintar ini bekerja dengan koneksi rendah dan bahasa lokal demi memenuhi kebutuhan spesifik masyarakat. Meski berpotensi memangkas waktu kemajuan hingga hitungan dekade, penerapannya tetap memerlukan dukungan infrastruktur dasar seperti listrik dan akses digital.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-18T10:58:32.394Z"
   }
 }
