@@ -1,46 +1,4 @@
 {
-  "4bdc9109a1ec": {
-    "teks": "Ponsel sederhana berfitur aksesibilitas memadai kerap lebih cocok bagi lansia dibanding ponsel flagship berspesifikasi tinggi. Pengguna lanjut usia umumnya lebih membutuhkan layar yang mudah dibaca, navigasi praktis, dan baterai tahan lama untuk berkomunikasi. Selain itu, menyederhanakan tampilan halaman utama hanya dengan aplikasi penting dapat mencegah kebingungan saat mengoperasikan perangkat tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T01:28:42.751Z"
-  },
-  "f14a23cd961a": {
-    "teks": "Samsung Galaxy A08 dan Xiaomi Redmi Note 17 4G bersaing di pasar ponsel terjangkau Indonesia dengan menawarkan baterai berkapasitas besar serta kamera 50 MP. Samsung Galaxy A08 dipasarkan mulai dari Rp2.999.000 dengan mengandalkan layar PLS LCD 6,7 inci dan baterai 6.000 mAh. Sementara itu, Xiaomi Redmi Note 17 4G hadir seharga Rp3.549.000 dengan keunggulan layar AMOLED 6,99 inci ber-refresh rate 120Hz serta baterai 7.700 mAh.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T01:28:50.689Z"
-  },
-  "9dcbaaab940e": {
-    "teks": "Presiden Donald Trump menunjuk Kepala Intelijen Nasional Jay Clayton sebagai pemimpin baru urusan kecerdasan buatan di Gedung Putih. Clayton akan mengepalai Super Intelligence Force yang bertugas mengoordinasikan hubungan pemerintah dengan berbagai pihak terkait. Penunjukan ini mendapat tanggapan beragam, termasuk dari Senator Mark Warner yang menekankan pentingnya pengamanan dan pengawasan terhadap risiko keamanan nasional dari teknologi tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T01:28:58.660Z"
-  },
-  "1060f4453878": {
-    "teks": "Penggunaan dua monitor memberikan ruang layar yang lebih luas untuk menjalankan berbagai aplikasi secara bersamaan tanpa harus sering berpindah tab. Pengaturan ini sangat berguna untuk meningkatkan produktivitas dalam berbagai pekerjaan, mulai dari multitasking dokumen, komunikasi, hingga bermain gim. Selain itu, penambahan layar kedua dapat mengurangi kebutuhan cetak dokumen fisik dan membantu menata alur kerja menjadi lebih efisien.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T01:29:06.579Z"
-  },
-  "cf36261cec89": {
-    "teks": "Sebelum era GPU modern, konsol lawas mengandalkan cip khusus dengan fungsi tetap yang dipasok oleh CPU untuk memproses grafik baris demi baris, seperti pada NES dan Atari 2600. Perubahan besar terjadi ketika Xbox pertama meluncur pada tahun 2001 dengan mengusung cip grafis berbasis PC yang memungkinkan pengembang memprogram shader sendiri. Sejak saat itu, industri konsol secara bertahap beralih menggunakan perangkat keras bergaya PC hingga akhirnya menyatukan komponen prosesor dan grafik dalam satu cip yang efisien.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T01:29:14.741Z"
-  },
-  "ecd88fe5720e": {
-    "teks": "Harga Mac mini yang lebih terjangkau dibandingkan lini laptop Apple disebabkan oleh ketiadaan komponen layar, baterai, serta perangkat masukan seperti papan tik dan tetikus dalam paket penjualannya. Selain itu, desain perangkat komputer meja ini tidak menuntut biaya tinggi untuk aspek portabilitas, penipisan bodi, maupun efisiensi daya ekstrem seperti halnya laptop. Faktor-faktor rekayasa dan pemangkasan suku cadang bawaan tersebut membuat biaya produksi Mac mini menjadi lebih rendah.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T01:29:23.005Z"
-  },
   "73f017233bd9": {
     "teks": "Apple berencana memperketat kontrol keamanan pada sistem macOS terkait izin Full Disk Access. Langkah ini diterapkan guna mengantisipasi ancaman privasi dari maraknya penggunaan agen kecerdasan buatan yang meminta akses data secara luas. Ke depannya, Apple akan menambahkan tahap konfirmasi yang lebih eksplisit agar pengguna memahami risiko sebelum memberikan persetujuan akses.",
     "penyedia": "gemini",
@@ -1545,5 +1503,47 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-19T01:24:27.777Z"
+  },
+  "f7584360cd21": {
+    "teks": "Samsung mulai menyalurkan pembaruan sistem One UI 9 berbasis Android 17 ke delapan perangkat Galaxy tambahan. Sementara itu, pemesanan awal iPhone Duo sebagai ponsel lipat perdana Apple langsung habis terjual hingga jadwal pengirimannya terdorong mundur. Di sisi lain, bocoran tampilan Samsung Galaxy S27 Ultra menunjukkan perubahan pada ketebalan bingkai layar dan modul kamera belakang.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T04:21:53.937Z"
+  },
+  "5d7e47a8e53c": {
+    "teks": "Sebuah aplikasi WhatsApp tiruan di Google Play Store buatan pengembang Agment Assets sallu tercatat telah diunduh lebih dari 500 ribu kali. Penipuan ini menyusup melalui pencarian bersponsor dan menggunakan fitur Early Access untuk mematikan ulasan publik. Google dilaporkan belum menarik aplikasi palsu yang telah beredar lebih dari sebulan tersebut, sehingga pengguna Android diimbau makin berhati-hati.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T04:22:09.628Z"
+  },
+  "cf7b65a6f70c": {
+    "teks": "OpenAI memperbarui ekstensi ChatGPT untuk Chrome agar dapat mengakses tab peramban yang sedang aktif guna membantu menyelesaikan berbagai tugas. Pembaruan ini memungkinkan chatbot membandingkan produk, mengisi formulir, hingga mengatur jadwal tanpa pengguna perlu berpindah aplikasi. Fitur yang juga mendukung peramban berbasis Chromium ini kini dapat diakses oleh seluruh pengguna secara gratis maupun berbayar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T04:22:18.320Z"
+  },
+  "cb30aab5899b": {
+    "teks": "OpenAI berencana mendemonstrasikan robot humanoid pada tahun 2027 dan kini gencar merekrut tenaga ahli untuk mengembangkan kecerdasan serta perangkat kerasnya. CEO Sam Altman menyatakan bahwa tantangan terbesar adalah menciptakan sistem mandiri, bukan sekadar bentuk fisiknya. Perusahaan ini menargetkan robot serbaguna untuk membantu pekerja terampil dalam jangka pendek serta menjadi robot pribadi di masa depan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T04:22:26.896Z"
+  },
+  "bec807856c71": {
+    "teks": "Perusahaan kecerdasan buatan Anthropic berencana mendedikasikan sebagian sahamnya untuk membentuk dana kebantuan publik di tengah persiapan penawaran umum perdana saham. Dana tersebut diproyeksikan untuk membantu organisasi nirlaba serta mengatasi dampak teknologi kecerdasan buatan terhadap pasar tenaga kerja. Kebijakan ini muncul di tengah sorotan ketat terkait potensi risiko teknologi tersebut terhadap keselamatan dan masyarakat.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T04:22:34.808Z"
+  },
+  "bed335628600": {
+    "teks": "Pertumbuhan ekonomi China meningkat pada kuartal ketiga berkat lonjakan ekspor yang didorong oleh sektor kecerdasan buatan, yang berhasil mengimbangi lemahnya tingkat konsumsi domestik. Kendati demikian, perekonomian negara tersebut masih terbebani oleh kemerosotan sektor properti yang berlanjut serta ketegangan perdagangan global. Pemerintah China sebelumnya juga telah meluncurkan berbagai langkah dukungan untuk mendongkrak perekonomian di tengah tantangan yang ada.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T04:22:42.679Z"
   }
 }

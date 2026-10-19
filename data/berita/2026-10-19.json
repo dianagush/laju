@@ -1,7 +1,319 @@
 {
   "tanggal": "2026-10-19",
-  "diperbarui": "2026-10-19T01:21:47.491Z",
+  "diperbarui": "2026-10-19T04:21:36.037Z",
   "berita": [
+    {
+      "id": "cf7b65a6f70c",
+      "judul": "ChatGPT Kini Bisa Baca Tab Chrome, Bantu Komparasi Produk hingga Isi Formulir",
+      "tautan": "https://www.jawapos.com/teknologi/2610190147/chatgpt-kini-bisa-baca-tab-chrome-bantu-komparasi-produk-hingga-isi-formulir",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T04:16:37.000Z",
+      "cuplikan": "OpenAI memperbarui ekstensi ChatGPT untuk Google Chrome, memungkinkan akses tab untuk jawaban yang lebih personal dan efisien.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/19/chatgpt-pada-tab-chrome-openai-ydV0r.webp"
+    },
+    {
+      "id": "23adf018de1f",
+      "judul": "Penyebab Kiandra Ramadhipa Gagal Promosi ke Moto3 2027 meski Impresif di JuniorGP 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/19/38/3248743/penyebab-kiandra-ramadhipa-gagal-promosi-ke-moto3-2027-meski-impresif-di-juniorgp-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T04:12:51.000Z",
+      "cuplikan": "Kiandra Ramadhipa gagal promosi ke Moto3 2027 meski impresif di JuniorGP 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/38/3248743/kiandra_ramadhipa_gagal_promosi_ke_moto3_2027_meski_impresif_di_juniorgp_2026-6iaZ_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "f7584360cd21",
+      "judul": "Top 3 Tekno: Daftar HP Samsung yang Kebagian Update Android 17",
+      "tautan": "https://www.liputan6.com/tekno/read/8316000/top-3-tekno-daftar-hp-samsung-yang-kebagian-update-android-17",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T04:12:47.000Z",
+      "cuplikan": "Deretan HP Samsung yang mulai kebagian update One UI 9 dengan Android 17 menjadi yang terpopuler di kanal Tekno Liputan6.com.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/G6WutHcR7sTKowk0nX1PV6twqoM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5152113/original/088287400_1741235241-Galaxy_A56_5G_Awesome_Olive.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "cb30aab5899b",
+      "judul": "OpenAI Targetkan Demo Robot Humanoid pada 2027, Perekrutan Ahli Robotika Gencar Dilakukan",
+      "tautan": "https://www.jawapos.com/teknologi/2610190141/openai-targetkan-demo-robot-humanoid-pada-2027-perekrutan-ahli-robotika-gencar-dilakukan",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T04:08:02.000Z",
+      "cuplikan": "OpenAI mengembangkan robot humanoid yang siap didemonstrasikan pada 2027, dengan tantangan kecerdasan mandiri.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/12/ilustrasi-robot-humanoid-byd-walker-s1-dok-byd-yZMOU.webp"
+    },
+    {
+      "id": "fa88dfa9e72f",
+      "judul": "Snapdragon Dikabarkan Overheat, Samsung Galaxy S27 Ultra Bakal Beralih ke Exynos?",
+      "tautan": "https://www.jawapos.com/teknologi/2610190134/snapdragon-dikabarkan-overheat-samsung-galaxy-s27-ultra-bakal-beralih-ke-exynos",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T04:01:06.000Z",
+      "cuplikan": "Rumor mengenai chipset Samsung Galaxy S27 Ultra, perbandingan Snapdragon 8 Elite Extreme Gen 6 dan Exynos 2700, serta tanggapan Qualcomm.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/19/snapdragon-8-elite-extreme-gen-6-gsm-arena-nnoCI.webp"
+    },
+    {
+      "id": "3ea2e091a5f7",
+      "judul": "Klasemen Liga Inggris Terbaru: Man United Terancam Zona Degradasi, Arsenal Terus Memburu Man City",
+      "tautan": "https://www.viva.co.id/bola/1936916-klasemen-liga-inggris-terbaru-man-united-terancam-zona-degradasi-arsenal-terus-memburu-man-city",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T03:30:19.000Z",
+      "cuplikan": "Manchester United kembali gagal meraih kemenangan setelah ditahan imbang Leeds United dalam lanjutan Premier League 2026/2027. Hasil ini membuat Setan Merah masih tertaha",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/14/6aa6e7b76fd09-pelatih-manchester-united-michael-carrick_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "36bab8f2d0df",
+      "judul": "Klasemen Liga Italia usai Juventus Dibantai Lazio",
+      "tautan": "https://www.viva.co.id/bola/1936913-klasemen-liga-italia-usai-juventus-dibantai-lazio",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T03:26:00.000Z",
+      "cuplikan": "Persaingan papan atas Liga Italia 2026/2027 semakin memanas setelah Lazio membuat kejutan dengan melibas Juventus tiga gol tanpa balas. Hasil tersebut mengantarkan Bianco",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad58da727f1d-lazio-bantai-juventus_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "bed335628600",
+      "judul": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "tautan": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-19T03:17:46.000Z",
+      "cuplikan": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg"
+    },
+    {
+      "id": "bc47d933d03a",
+      "judul": "Samsung Galaxy Z Fold8, Pengalaman 8 Generasi yang Sulit Dicontek Kompetitor",
+      "tautan": "https://www.liputan6.com/tekno/read/8315677/samsung-galaxy-z-fold8-pengalaman-8-generasi-yang-sulit-dicontek-kompetitor",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T03:17:40.000Z",
+      "cuplikan": "HP lipat ini telah melalui ribuan pengujian dari generasi ke generasi, mulai dari Samsung Galaxy Z Fold generasi pertama (2019) hingga generasi ke-8 (2026).",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/U8p5Hkkh_VF3JjFQfFRe8y4T8ck=/0x0:4160x3120/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9311621/original/049527000_1785413078-Galaxy_Z_Fold8_2.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "1052233e8e2f",
+      "judul": "PS5 Punya Celah Keamanan Baru, Eksploitasi Relapse Jadi Sorotan",
+      "tautan": "https://www.jawapos.com/teknologi/2610190093/ps5-punya-celah-keamanan-baru-eksploitasi-relapse-jadi-sorotan",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T03:02:04.000Z",
+      "cuplikan": "Eksploitasi terbaru bernama Relapse memanfaatkan kerentanan pada PS5 untuk akses kernel, berpotensi mendukung lebih banyak gim.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/05/12/sony-ps5-pro-tqvyM.webp"
+    },
+    {
+      "id": "e890ba26a1c7",
+      "judul": "iPhone 18 Pro dan iPhone 18 Pro Max Kini Tersedia, Telkomsel Lengkapi dengan Pilihan Bundling Halo dan SIMPATI",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1936907-iphone-18-pro-dan-iphone-18-pro-max-kini-tersedia-telkomsel-lengkapi-dengan-pilihan-bundling-halo-dan-simpati",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T02:55:53.000Z",
+      "cuplikan": "Pelanggan kini dapat memperoleh iPhone 18 Pro dan iPhone 18 Pro Max dengan pilihan paket Halo dan SIMPATI, serta potongan harga hingga Rp1 juta melalui penukaran…",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad5863d372af-ilustrasi-iphone-18-pro-dan-iphone-18-pro-max-yang-kini-sudah-tersedia-di-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "c0f3768299f4",
+      "judul": "Finis Runner-up di Misano, Kiandra Ramadhipa Tempati Posisi 5 di Klasemen Akhir Moto3 Junior 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/19/38/3248734/finis-runner-up-di-misano-kiandra-ramadhipa-tempati-posisi-5-di-klasemen-akhir-moto3-junior-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T02:50:18.000Z",
+      "cuplikan": "Pembalap Indonesia Kiandra Ramadhipa finis kelima di klasemen akhir Moto3 Junior World Championship 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/38/3248734/kiandra_ramadhipa_naik_podium_di_race_pertama_moto3_junior_world_championship_2026_ahm-N4QB_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "bec807856c71",
+      "judul": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "tautan": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-19T02:41:41.000Z",
+      "cuplikan": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg"
+    },
+    {
+      "id": "5a646d78968a",
+      "judul": "Ratu Bulutangkis Dunia An Se Young Pecahkan Rekor Legenda Indonesia Susy Susanti",
+      "tautan": "https://www.viva.co.id/sport/1936902-ratu-bulutangkis-dunia-an-se-young-pecahkan-rekor-legenda-indonesia-susy-susanti",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T02:25:45.000Z",
+      "cuplikan": "Pebulutangkis tunggal putri Korea Selatan, An Se Young, mengukir sejarah baru setelah menjuarai Denmark Open 2026. Kemenangan atas wakil Jepang, Akane Yamaguchi, pada Min",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/03/69f716a8598db-an-se-young_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "d58fdb6a16dd",
+      "judul": "Bikin Konten Petualangan Lebih Praktis, Ini Rekomendasi Pocket Action Camera Terbaik",
+      "tautan": "https://www.liputan6.com/tekno/read/8316102/bikin-konten-petualangan-lebih-praktis-ini-rekomendasi-pocket-action-camera-terbaik",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T02:17:19.000Z",
+      "cuplikan": "Temukan rekomendasi pocket action camera terbaik untuk vlogging dan aktivitas outdoor. Dapatkan hasil video 4K yang stabil dan jernih. Cek promonya di sini!",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/GjAyvOU1mQCjALxsRyrpCD15A2k=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376472/original/079039000_1792376049-cropped-2b4e3072-56f8-4acf-9ba2-4a87a3b36285.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "4140cd03d9c2",
+      "judul": "Terpopuler, Fajar Fikri juara hingga kemiskinan Indonesia turun",
+      "tautan": "https://www.antaranews.com/berita/5795697/terpopuler-fajar-fikri-juara-hingga-kemiskinan-indonesia-turun",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T02:11:33.000Z",
+      "cuplikan": "Sejumlah berita unggulan senin untuk disimak, ada Fajar/Fikri juara Denmark Open 2026 hingga Dua tahun Prabowo-Gibran, ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/15/IMG-20261015-WA0247.jpg"
+    },
+    {
+      "id": "795c8bfa72d1",
+      "judul": "Jose Mourinho Bingung dengan Kontroversi Sikutan Arda Guler saat Real Madrid Kalahkan Sevilla",
+      "tautan": "https://www.liputan6.com/bola/read/8316092/jose-mourinho-bingung-dengan-kontroversi-sikutan-arda-guler-saat-real-madrid-kalahkan-sevilla",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T02:00:29.000Z",
+      "cuplikan": "Jose Mourinho mempertanyakan polemik dugaan sikutan Arda Guler saat Real Madrid menang 4-1 atas Sevilla. Ia mengaku belum melihat bukti rekaman insiden.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/wzLtQV48Zpax2g2RUxMosDyWu-w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376467/original/065093600_1792374893-AP26291709364156.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5d7e47a8e53c",
+      "judul": "Hati-Hati, WhatsApp Palsu di Google Play Store Sudah Diinstal 500 Ribu Kali",
+      "tautan": "https://www.liputan6.com/tekno/read/8315387/hati-hati-whatsapp-palsu-di-google-play-store-sudah-diinstal-500-ribu-kali",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T01:58:35.000Z",
+      "cuplikan": "WhatsApp kini ada versi palsunya di Google Play Store yang masih belum diturunkan oleh Google. Bagaimana bedanya?",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/ACvzdLm_u3UiXJBLwnnH44_9LjA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2845745/original/091933300_1562319808-2.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "a4eb51842642",
+      "judul": "Hasil MPL ID S18 Week 9: TLID Rebut Kembali Puncak Klasemen",
+      "tautan": "https://www.liputan6.com/tekno/read/8316083/hasil-mpl-id-s18-week-9-tlid-rebut-kembali-puncak-klasemen",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T01:57:29.000Z",
+      "cuplikan": "Hasil MPL ID S18 Week 9 menempatkan TLID di puncak klasemen regular season. Bagaimana hasil lengkap MPL ID S18 Week 9?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/bN_nLeg4u3qDh7QG_HUtDVcr9HI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376466/original/035124900_1792374636-Screenshot_2026-10-19_083850.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "290cae9ae0f6",
+      "judul": "Cetak Sejarah! Indonesia Jadi Tuan Rumah Perdana Asian Gym for Life Challenge 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/19/43/3248728/cetak-sejarah-indonesia-jadi-tuan-rumah-perdana-asian-gym-for-life-challenge-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T01:55:57.000Z",
+      "cuplikan": "Indonesia dipercaya sebagai Asian Gym for Life Challenge 2026 yang baru pertama kali digelar.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/43/3248728/indonesia_dieprcaya_sebagai_tuan_rumah_asian_gym_for_life_challenge_2026-KVY9_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "88a743b9a3ab",
+      "judul": "Hasil Pemain Timnas Indonesia di Eropa: Kevin Diks dan Joey Pelupessy Apes, Dean James Cs Kalah Telak",
+      "tautan": "https://www.viva.co.id/bola/1936895-hasil-pemain-timnas-indonesia-di-eropa-kevin-diks-dan-joey-pelupessy-apes-dean-james-cs-kalah-telak",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T01:54:00.000Z",
+      "cuplikan": "Sejumlah pemain Timnas Indonesia yang berkarier di luar negeri menjalani pertandingan bersama klub masing-masing pada akhir pekan. Namun, hasil kurang memuaskan mewarnai",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/24/6a8b96ff937ec-kevin-diks-jadi-kapten-borussia-monchengladbach_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "6917d0544a2a",
+      "judul": "Mikel Arteta Soroti Kesabaran Arsenal saat Menang Tipis atas Nottingham Forest",
+      "tautan": "https://www.liputan6.com/bola/read/8316070/mikel-arteta-soroti-kesabaran-arsenal-saat-menang-tipis-atas-nottingham-forest",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T01:39:31.000Z",
+      "cuplikan": "Mikel Arteta puas setelah Arsenal menang 1-0 atas Nottingham Forest lewat gol Noni Madueke. Kemenangan ini membawa The Gunners mengoleksi 18 poin.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/MAg6tKhcY6DaBqkYL8lfszOLI9Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336912/original/074466500_1788217102-000_C6XZ86C.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "2d1d05c1bcef",
+      "judul": "Klasemen Liga Italia: Lazio Tempel Inter Milan, AC Milan Naik ke Empat Besar",
+      "tautan": "https://www.liputan6.com/bola/read/8316063/klasemen-liga-italia-lazio-tempel-inter-milan-ac-milan-naik-ke-empat-besar",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T01:21:31.000Z",
+      "cuplikan": "Klasemen Liga Italia setelah AC Milan menang 3-2 atas Atalanta dan Juventus kalah 0-3 dari Lazio. Inter masih memimpin dengan 19 poin.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/QYEC_v9ZQvU5xLuiyADXvU5AD2s=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376419/original/003900600_1792357962-juventus_3.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "9d66c6f31b30",
+      "judul": "Liga Wanita Indonesia: Persija Jakarta bermain imbang melawan FC Bekasi City",
+      "tautan": "https://www.antaranews.com/foto/5795649/liga-wanita-indonesia-persija-jakarta-bermain-imbang-melawan-fc-bekasi-city",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T01:21:29.000Z",
+      "cuplikan": "Pesepak bola Persija Jakarta Women Kikka Putri Ramadani (kiri) berebut bola dengan pesepak bola FC Bekasi City Women ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/Liga-Wanita-Indonesia-Persija-Jakarta-bermain-imbang-melawan-FC-Bekasi-City-181026-Bay-4.jpg"
+    },
     {
       "id": "2f18b711c009",
       "judul": "Usai Bawa Timnas Indonesia Juara, Ole Romeny Malah Menghilang dari Skuad Fortuna Sittard",

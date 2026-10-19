@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-18",
-  "diperbarui": "2026-10-19T01:21:47.491Z",
+  "diperbarui": "2026-10-19T04:21:36.037Z",
   "berita": [
     {
       "id": "15a08efe16c7",
@@ -191,6 +191,20 @@
       "gambar": "https://img.antaranews.com/cache/800x533/2026/10/18/591610.jpg"
     },
     {
+      "id": "6cafe88609c9",
+      "judul": "Top 3 Berita Bola: Manchester United Gagal Menang di 5 Laga Terakhir Liga Inggris",
+      "tautan": "https://www.liputan6.com/bola/read/8315958/top-3-berita-bola-manchester-united-gagal-menang-di-5-laga-terakhir-liga-inggris",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-18T16:09:01.000Z",
+      "cuplikan": "Kabar dari Liga Inggris, Denmark Open 2026, dan BRI Super League masuk daftar top 3 Kanal Bola Liputan6.com dalam sehari terakhir.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/asDs9Wu0S0g0arSMT2EWZLbgqxI=/0x411:4480x2936/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376359/original/015854600_1792333768-000_D3MT42T.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
       "id": "4f21f10df7a6",
       "judul": "TechCrunch Mobility: Rivian’s next act",
       "tautan": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
@@ -248,6 +262,20 @@
       "gambar": "https://www.engadget.com/img/gallery/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem/l-intro-1791980716.jpg",
       "kategoriSumber": [
         "Computing"
+      ]
+    },
+    {
+      "id": "f6e62c6912d0",
+      "judul": "Jadwal French Open 2026: 14 Wakil Indonesia Bersaing di Arena Grand Paris",
+      "tautan": "https://www.liputan6.com/bola/read/8315948/jadwal-french-open-2026-14-wakil-indonesia-bersaing-di-arena-grand-paris",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-18T15:44:24.000Z",
+      "cuplikan": "Usai Denmark Open, wakil bulu tangkis Indonesia lanjutkan perjuangan di French Open 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/55kejAyMqZJJibzExUZ2PWdNglk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4628496/original/082910500_1698640169-PodiumTunggalPutra8_Final_FrenchOpen2023_PBSI_20231029.jpg",
+      "kategoriSumber": [
+        "Bola"
       ]
     },
     {
@@ -1034,6 +1062,20 @@
       "terbit": "2026-10-18T11:18:46.000Z",
       "cuplikan": "Legenda sepak bola Portugal Luis Figo hadir dalam koleksi kartu trading card game (TCG) pada ajang Jakarta Game On yang ...",
       "gambar": "https://img.antaranews.com/cache/800x533/2026/10/18/IMG-20261017-WA0010.jpg"
+    },
+    {
+      "id": "6a1acab4089f",
+      "judul": "Tegas Bonek Protes Tuntut Hentikan Pembakaran Hutan di Laga Persebaya, Kirim 5.000 Masker Ke ...",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8315825/tegas-bonek-protes-tuntut-hentikan-pembakaran-hutan-di-laga-persebaya-kirim-5000-masker-ke",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-18T11:15:57.000Z",
+      "cuplikan": "Persebaya Surabaya menggandek Bonek Disaster Reponse Team (BDTR) dalam melakukan penggalangan masker untuk korban asap kebakaran hutan dan lahan (Karhutla). Pengumpulan masker dipusatkan di tiga titik yakni gate 3, 17 dan VIP. Nantinya…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/evldlnsY91l04ANffgTkGFFSuGw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9376266/original/077258000_1792322156-bonek-5-90e221.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "238d614a1016",
@@ -2727,7 +2769,7 @@
     },
     {
       "id": "5c37b2406edd",
-      "judul": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "judul": "TikTok says it’s restored ‘Musk’ documentary advertising account",
       "tautan": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "sumber": "TechCrunch",
       "kanal": "techcrunch",
