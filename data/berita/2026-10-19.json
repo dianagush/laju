@@ -1,7 +1,565 @@
 {
   "tanggal": "2026-10-19",
-  "diperbarui": "2026-10-19T04:21:36.037Z",
+  "diperbarui": "2026-10-19T08:21:42.015Z",
   "berita": [
+    {
+      "id": "26160e7d8099",
+      "judul": "Junaedi raih perak para judo Asian Para Games 2026",
+      "tautan": "https://www.antaranews.com/berita/5796433/junaedi-raih-perak-para-judo-asian-para-games-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T08:12:56.000Z",
+      "cuplikan": "Atlet para judo Indonesia Junaedi meraih medali perak kelas J1 -70kg putra Asian Para Games Aichi-Nagoya 2026 setelah ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/junaedi-lolos-ke-final-judo-asian-para-games-2026-2887573.jpg"
+    },
+    {
+      "id": "d87fbfc57647",
+      "judul": "Apple Disebut Rilis Produk Baru Tiap Minggu hingga November",
+      "tautan": "https://www.liputan6.com/tekno/read/8316097/apple-disebut-rilis-produk-baru-tiap-minggu-hingga-november",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T08:11:19.000Z",
+      "cuplikan": "Apple diperkirakan merilis produk baru setiap Jumat mulai 23 Oktober hingga 13 November 2026. Apa saja?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/P5NUHeP-AVnVIBoD1WusRLq7Qjs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4595131/original/089153000_1696226192-trac-vu-Yut0WQE3jzs-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "d04d47952bb8",
+      "judul": "Imbangi Persija Jakarta, Pelatih FC Bekasi City Women Takjub Antusiasme Suporter",
+      "tautan": "https://www.liputan6.com/bola/read/8316393/imbangi-persija-jakarta-pelatih-fc-bekasi-city-women-takjub-antusiasme-suporter",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T08:09:15.000Z",
+      "cuplikan": "Pekan pembuka Indonesia Women's League 2026/2027 mempertemukan FC Bekasi City Women yang sukses mencuri satu poin dari Persija Women.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/vn-nTx3sussC6m0YLUfj28nYqIY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376803/original/055073100_1792393543-bekasi_fc.webp",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "bbfa636a6734",
+      "judul": "Mode Hemat Daya di Hp Android dan iPhone Punya Konsekuensi",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1936961-mode-hemat-daya-di-hp-android-dan-iphone-punya-konsekuensi",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T08:02:00.000Z",
+      "cuplikan": "Low Power Mode memang membantu menghemat baterai HP, tetapi penggunaan terus-menerus bisa membatasi performa, menunda notifikasi, dan menonaktifkan sejumlah fitur penting",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/05/6a7361bfae971-ilustrasi-hp-untuk-warung_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "e995a65b4e9f",
+      "judul": "Profil Jayden Oosterwolde: Bek Fenerbahce Rp295 Miliar yang Masuk Radar Naturalisasi Timnas Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1936962-profil-jayden-oosterwolde-bek-fenerbahce-rp295-miliar-yang-masuk-radar-naturalisasi-timnas-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T08:00:00.000Z",
+      "cuplikan": "Profil Jayden Oosterwolde, bek Fenerbahçe bernilai Rp295 Miliar berdarah Indonesia-Suriname yang masuk radar naturalisasi Timnas Indonesia untuk Piala Asia 2027.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/11/26/674554a22aacb-bek-fenerbahce-jayden-oosterwolde_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "50737ecdb489",
+      "judul": "Ni Nengah Widiasih, Kisah Medali Perunggu Pertama untuk Sang Ibu",
+      "tautan": "https://www.viva.co.id/sport/1936980-ni-nengah-widiasih-kisah-medali-perunggu-pertama-untuk-sang-ibu",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:48:34.000Z",
+      "cuplikan": "Perjuangan kontingen Indonesia di Asian Para Games Aichi-Nagoya 2026 untuk raih medali pecah telur hari ini, Senin (19/10) setelah atlet para angkat berat raih perunggu",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad5c83408415-lifter-putri-indonesia-ni-nengah-widiasih-menunjukkan-medali-perunggu-yang-diraihnya-di-asian-para-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "843b3e6ef431",
+      "judul": "Para menembak: Rohani gagal melaju ke babak perebutan medali",
+      "tautan": "https://www.antaranews.com/berita/5796373/para-menembak-rohani-gagal-melaju-ke-babak-perebutan-medali",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:44:03.000Z",
+      "cuplikan": "Atlet para menembak Indonesia Rohani gagal melaju ke babak perebutan medali Asian Para Games 2026 Aichi-Nagoya setelah ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/18/Pembukaan-Asian-Para-Games-2026-181026-MRH-8aA.jpg"
+    },
+    {
+      "id": "0ea1164c020a",
+      "judul": "Ramadhipa puas dengan performanya di FIM Moto3 Junior musim ini",
+      "tautan": "https://www.antaranews.com/berita/5796369/ramadhipa-puas-dengan-performanya-di-fim-moto3-junior-musim-ini",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:41:28.000Z",
+      "cuplikan": "Pembalap Indonesia M. Kiandra Ramadhipa puas dengan performanya di FIM Moto3 Junior World Championships musim ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/Foto-3-FIM-Moto3-Junior-Misano.jpg"
+    },
+    {
+      "id": "151ecc2e29a9",
+      "judul": "Adu Prestasi Veda Ega Pratama dan Kiandra Ramadhipa di Moto3 Junior, Siapa Unggul?",
+      "tautan": "https://sports.okezone.com/read/2026/10/19/38/3248795/adu-prestasi-veda-ega-pratama-dan-kiandra-ramadhipa-di-moto3-junior-siapa-unggul",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:40:59.000Z",
+      "cuplikan": "Adu prestasi Veda Ega Pratama dan Kiandra Ramadhipa saat mengaspal di Moto3 Junior atau JuniorGP menarik untuk diulas.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/38/3248795/adu_prestasi_veda_ega_pratama_dan_kiandra_ramadhipa_saat_mengaspal_di_moto3_junior_atau_juniorgp_menarik_untuk_diulas-sPmK_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "0781f2c01d89",
+      "judul": "Basket Menggeliat di Bogor, Andromeda Terinspirasi Kesuksesan Hornbills di IBL",
+      "tautan": "https://www.liputan6.com/bola/read/8316391/basket-menggeliat-di-bogor-andromeda-terinspirasi-kesuksesan-hornbills-di-ibl",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:38:16.000Z",
+      "cuplikan": "Bola basket di Bogor sedang bangkit usai Hornbills musim lalu menjadi juara IBL.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/VEvEIS1kul8Ug__uNpC2gkpa_MM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376870/original/001942900_1792395500-20261018_103519.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "1948ee81c920",
+      "judul": "Suporter PSS Sleman Tewas Jelang Laga Vs Persebaya, Pelatih Huistra Berkaca-kaca: Kami Tak Suka ...",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8316376/suporter-pss-sleman-tewas-jelang-laga-vs-persebaya-pelatih-huistra-berkaca-kaca-kami-tak-suka",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:30:07.000Z",
+      "cuplikan": "PSS Sleman diselimuti duka jelang laga kontra Persebaya Surabaya pada lanjutan BRI Super League 2026/27 di Stadion Gelora Bung Tomo (GBT), Surabaya, kemarin (18/10). Rombongan suporter PSS yang hendak mendukung langsung tim kebangaaanya…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/1hDI3EVW5A3Ujtl7v-hdZIO9NqM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9376853/original/089815500_1792395005-pss-meninggal-386631.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "7674309287a7",
+      "judul": "Rapor Pemain Timnas Indonesia di Eropa: Hubner Bawa Pulang Poin, Diks dan James Gigit Jari",
+      "tautan": "https://www.viva.co.id/bola/1936960-rapor-pemain-timnas-indonesia-di-eropa-hubner-bawa-pulang-poin-diks-dan-james-gigit-jari",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:30:00.000Z",
+      "cuplikan": "Rekap hasil pemain Timnas Indonesia di Eropa 18–19 Okt 2026: Justin Hubner raih 1 poin, Kevin Diks & Dean James kalah, Maarten Paes di bangku cadangan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/07/6a7546364693b-kiper-timnas-indonesia-maarten-paes-di-ajax-amsterdam_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "b1635b9ab8db",
+      "judul": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "tautan": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-19T07:30:00.000Z",
+      "cuplikan": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Biotech & Health",
+        "Startups",
+        "Alpha Wave",
+        "Even Healthcare",
+        "Khosla Ventures"
+      ]
+    },
+    {
+      "id": "c5c2c91ceab4",
+      "judul": "Liverpool Siap Tebus Alex Scott Januari 2027 usai Terkaparnya Bintang",
+      "tautan": "https://www.liputan6.com/bola/read/8315666/liverpool-siap-tebus-alex-scott-januari-2027-usai-terkaparnya-bintang",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:29:20.000Z",
+      "cuplikan": "Alex Scott dibidik Liverpool setelah Dominik Szoboszlai kembali cedera. Bournemouth membuka peluang transfer dengan harga minimal 100 juta poundsterling.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/BhBcDHYlf8auv1JbfcAjCy3PK_g=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371235/original/012260700_1791778869-Perfect_afternoon_in_wolverhampton....______afcb.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "02510bf4daee",
+      "judul": "PB PSOI kirim enam peselancar ikuti kualifikasi Olimpiade di Peru",
+      "tautan": "https://www.antaranews.com/berita/5796328/pb-psoi-kirim-enam-peselancar-ikuti-kualifikasi-olimpiade-di-peru",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:24:40.000Z",
+      "cuplikan": "Pengurus Besar Persatuan Selancar Ombak Indonesia (PB PSOI) akan mengirimkan enam atlet untuk mengikuti kualifikasi ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2025/11/30/final-kejuaraan-surfing-internasional-di-manokwari-2679589.jpg"
+    },
+    {
+      "id": "f812d874f1ef",
+      "judul": "Klasemen Super League: Persija masih menjadi yang pertama",
+      "tautan": "https://www.antaranews.com/berita/5796277/klasemen-super-league-persija-masih-menjadi-yang-pertama",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:08:12.000Z",
+      "cuplikan": "Persija Jakarta masih menjadi yang pertama dalam klasemen sementara BRI Super League 2026/27 meski mereka baru saja ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/16/madura-united-imbang-lawan-bhayangkara-presisi-lampung-fc-2886329.jpg"
+    },
+    {
+      "id": "8b605e074d41",
+      "judul": "Pusat Data AI di Dasar Laut, Solusi Cerdas atau Masalah Baru?",
+      "tautan": "https://www.liputan6.com/tekno/read/8315070/pusat-data-ai-di-dasar-laut-solusi-cerdas-atau-masalah-baru",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T07:07:41.000Z",
+      "cuplikan": "Kini raksasa teknologi sedang berinisiatif mencari cara mengatasi dampak pembangunan pusat data dengan menguji pusat data di dasar laut.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/NlBzZSHUABZZcaT51d-E8ZHIaCg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4807164/original/080293900_1713539677-hiroko-yoshii-9y7y26C-l4Y-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "9c9dba7bd4ad",
+      "judul": "Widiasih sebut tepati janji untuk mendiang ibu dengan rebut perunggu",
+      "tautan": "https://www.antaranews.com/berita/5796257/widiasih-sebut-tepati-janji-untuk-mendiang-ibu-dengan-rebut-perunggu",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:04:40.000Z",
+      "cuplikan": "Atlet para angkat berat Indonesia Ni Nengah Widiasih menyebutkan dirinya telah menepati janji untuk mendiang ibunya ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/Medali-pertama-Indonesia-di-Asian-Para-Games-2026-191026-MRH-3.jpg"
+    },
+    {
+      "id": "f23612e19405",
+      "judul": "PB PSOI gelar Kejurnas dan Liga Surfing sebagai tolak ukur menuju PON",
+      "tautan": "https://www.antaranews.com/berita/5796245/pb-psoi-gelar-kejurnas-dan-liga-surfing-sebagai-tolak-ukur-menuju-pon",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:02:47.000Z",
+      "cuplikan": "Pengurus Besar Persatuan Selancar Ombak Indonesia (PB PSOI) menggelar Kejuaraan Nasional (Kejurnas) dan Liga Surfing ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2025/12/29/bermain-selancar-saat-musim-ombak-di-manokwari-2697787.jpg"
+    },
+    {
+      "id": "1f982aeff088",
+      "judul": "Laurin Ulrich Lebih Pilih Timnas Jerman, PSSI Alihkan Fokus Incar Pemain Liga Inggris yang Baru Berusia 19 Tahun",
+      "tautan": "https://www.viva.co.id/bola/1936957-laurin-ulrich-lebih-pilih-timnas-jerman-pssi-alihkan-fokus-incar-pemain-liga-inggris-yang-baru-berusia-19-tahun",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T07:00:00.000Z",
+      "cuplikan": "Laurin Ulrich memprioritaskan Jerman untuk karier internasionalnya. PSSI kini mengupayakan peluang naturalisasi Demiane Agustien, gelandang muda Arsenal U-21 berdarah Ind",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/14/6acf057e5fee1-laurin-ulrich_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "3f9209004387",
+      "judul": "76 Ultimate Downhill sukses pertama kali digelar di Arjuno Bike Park",
+      "tautan": "https://www.antaranews.com/berita/5796237/76-ultimate-downhill-sukses-pertama-kali-digelar-di-arjuno-bike-park",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:59:46.000Z",
+      "cuplikan": "Gelaran 76 Ultimate Downhill 2026 seri II Pasuruan sukses pertama kali digelar di Arjuno Bike Park, Pasuruan, Jawa ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/2.Agung-Prio-Apriliano-keluar-sebagai-juara-76-Ultimate-Downhill-seri-kedua-yang-berlangsung-di-Arjuno-Bike-Park-Pasuruan.jpeg"
+    },
+    {
+      "id": "469b9c452edd",
+      "judul": "Gen Z Jadi Pengguna Terbesar AI untuk Pendidikan",
+      "tautan": "https://www.jawapos.com/teknologi/2610190217/gen-z-jadi-pengguna-terbesar-ai-untuk-pendidikan",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T06:36:54.000Z",
+      "cuplikan": "Penggunaan AI untuk pendidikan naik menjadi 43,98 persen pada 2025. Gen Z menjadi pengguna terbesar, memunculkan tantangan baru bagi dunia pendidikan.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/19/ilustrasi-ai-untuk-mendukung-proses-belajar-apporto-FWcJM.webp"
+    },
+    {
+      "id": "18a9a1295c56",
+      "judul": "Tolic puji kerja keras pemain Persib usai raih kemenangan atas Persik",
+      "tautan": "https://www.antaranews.com/berita/5796173/tolic-puji-kerja-keras-pemain-persib-usai-raih-kemenangan-atas-persik",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:34:35.000Z",
+      "cuplikan": "Pelatih Persib Bandung Igor Tolic memuji karakter dan kerja keras para pemainnya setelah meraih kemenangan 1-0 atas ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/IMG_2300.jpeg"
+    },
+    {
+      "id": "b6fa6377e641",
+      "judul": "Jawaban Eliano Reijnders usai Dijuluki Iron Man oleh Igor Tolic",
+      "tautan": "https://www.viva.co.id/bola/1936956-jawaban-eliano-reijnders-usai-dijuluki-iron-man-oleh-igor-tolic",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:34:19.000Z",
+      "cuplikan": "Pemain Persib Bandung, Eliano Reijnders, mendapat julukan khusus dari pelatihnya, Igor Tolic. Pemain berusia 25 tahun itu disebut sebagai Iron Man karena mampu menjaga ko",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/09/12/68c400b7c3a9a-eliano-reijnders-debut-di-persib-bandung_665_374.jpeg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "83cfcde3c94d",
+      "judul": "Deretan HP Rp1 Jutaan Ini Layak Ditunggu hingga Akhir 2026, Mulai dari RAM Besar hingga Baterai Jumbo",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1936955-deretan-hp-rp1-jutaan-ini-layak-ditunggu-hingga-akhir-2026-mulai-dari-ram-besar-hingga-baterai-jumbo",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T06:34:00.000Z",
+      "cuplikan": "Deretan HP Rp1 jutaan ini layak dipertimbangkan hingga akhir 2026. Simak pilihan ponsel dengan RAM besar, baterai jumbo, layar mulus, dan harga terjangkau.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/19/6a84b427ba172-ilustrasi-hp-untuk-pegawai_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "3c052750e834",
+      "judul": "NTT optimistis jadi tuan rumah PON 2028 usai sukses gelar PESONAS 2026",
+      "tautan": "https://www.antaranews.com/berita/5796165/ntt-optimistis-jadi-tuan-rumah-pon-2028-usai-sukses-gelar-pesonas-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:32:51.000Z",
+      "cuplikan": "Gubernur Nusa Tenggara Timur (NTT) Melki Laka Lena optimistis daerah itu siap menjadi tuan rumah Pekan Olahraga ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/WhatsApp-Image-2569-10-19-at-09.02.38.jpeg"
+    },
+    {
+      "id": "3fb49f9229ac",
+      "judul": "Kevin Diks Buka Suara Usai Gladbach Babak Belur, 6 Laga Berakhir dengan Kekalahan",
+      "tautan": "https://www.viva.co.id/bola/1936954-kevin-diks-buka-suara-usai-gladbach-babak-belur-6-laga-berakhir-dengan-kekalahan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:30:15.000Z",
+      "cuplikan": "Borussia Moenchengladbach belum mampu keluar dari periode sulit di Bundesliga 2026/2027. Tim yang diperkuat bek Timnas Indonesia, Kevin Diks, kembali menelan kekalahan se",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/08/6a774685de7b6-kevin-diks_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "bed335628600",
+      "judul": "China's growth accelerates as AI boom helps boost exports",
+      "tautan": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-19T06:08:02.000Z",
+      "cuplikan": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg"
+    },
+    {
+      "id": "0a1e3717b2b7",
+      "judul": "Hasil Asian Para Games 2026: Ni Nengah Widiasih Sumbang Perunggu dari Powerlifting",
+      "tautan": "https://sports.okezone.com/read/2026/10/19/43/3248762/hasil-asian-para-games-2026-ni-nengah-widiasih-sumbang-perunggu-dari-powerlifting",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:03:26.000Z",
+      "cuplikan": "Ni Nengah Widiasih berhasil menyumbangkan medali pertama buat Kontingen Indonesia di Asian Para Games 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/43/3248762/ni_nengah_widiasih_berhasil_menyumbangkan_medali_pertama_buat_kontingen_indonesia_di_asian_para_games_2026-4FLy_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "e2d3f166a8a5",
+      "judul": "Tolak Panggilan Australia, Mathew Baker Ungkap Kebanggaan Membela Timnas Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1936943-tolak-panggilan-australia-mathew-baker-ungkap-kebanggaan-membela-timnas-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:02:43.000Z",
+      "cuplikan": "Mathew Baker mengungkapkan alasan di balik keputusannya memilih membela Timnas Indonesia dibandingkan Australia. Bek muda yang kini berkarier bersama Melbourne City itu m",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/06/6a232b3b87988-pesepak-bola-timnas-indonesia-mathew-ryan-baker_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "d8fa8f616a57",
+      "judul": "Produktivitas Teruji, 11 Pemain yang Sukses Cetak Gol di 3 Kompetisi Eropa",
+      "tautan": "https://www.liputan6.com/bola/read/8315978/produktivitas-teruji-11-pemain-yang-sukses-cetak-gol-di-3-kompetisi-eropa",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:00:11.000Z",
+      "cuplikan": "Deretan pemain yang telah mencetak gol di Liga Champions, Liga Europa, dan Liga Konferensi.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/DNNxvE87z9Q3jY2DouPowuiqB5k=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9316482/original/073187000_1785931028-000_C3Z89PB.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "57c81b3b8db6",
+      "judul": "The one change that worked: I deleted Instagram – and embraced the joys of a truly private life",
+      "tautan": "https://www.theguardian.com/lifeandstyle/2026/oct/19/the-one-change-that-worked-i-deleted-instagram-and-embraced-the-joys-of-a-truly-private-life",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-19T05:55:20.000Z",
+      "cuplikan": "I’d become obsessed with appealing to my invisible audience. But since I ditched the app a year ago, my quieter moments have taken on brilliant new meaning I first downloaded Instagram when I was 17 and became hooked on it the way most…",
+      "gambar": "https://i.guim.co.uk/img/media/ceaa99b015890b7a619a0a8076ba9b1b00872b42/0_519_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=a16b6a4736bad55f44a93c915d4c98dd",
+      "kategoriSumber": [
+        "Life and style",
+        "Instagram",
+        "Technology",
+        "Social media"
+      ]
+    },
+    {
+      "id": "17d26da9c8a0",
+      "judul": "Bukan Cuma Mobil, Chery Pamer Robot Humanoid hingga Kursi Roda Kendali Otak",
+      "tautan": "https://www.jawapos.com/teknologi/2610190176/bukan-cuma-mobil-chery-pamer-robot-humanoid-hingga-kursi-roda-kendali-otak",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T05:36:30.000Z",
+      "cuplikan": "AiMOGA membawa robot humanoid Mornine, robot berkaki empat Argos, hingga kursi roda kendali otak dalam Chery International User Summit 2026 di China.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/19/aimoga-membawa-robot-humanoid-mornine-robot-berkaki-empat-argos-hingga-kursi-roda-kendali-otak-dalam-chery-international-user-summit-2026-di-china-istimewa-pJHRi.webp"
+    },
+    {
+      "id": "fac9544dbaf0",
+      "judul": "Widiasih puas rebut perunggu dengan kondisi bahu yang belum pulih",
+      "tautan": "https://www.antaranews.com/berita/5796041/widiasih-puas-rebut-perunggu-dengan-kondisi-bahu-yang-belum-pulih",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T05:30:37.000Z",
+      "cuplikan": "Atlet para angkat berat Indonesia Ni Nengah Widiasih mengaku merasa puas bisa merebut medali perunggu dengan kondisi ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/IMG_20261019_142136.jpg"
+    },
+    {
+      "id": "9c41f7ce177b",
+      "judul": "Studi: 29 Persen Organisasi Indonesia Punya Benteng Siber Terkuat di Dunia",
+      "tautan": "https://www.liputan6.com/tekno/read/8315616/studi-29-persen-organisasi-indonesia-punya-benteng-siber-terkuat-di-dunia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T05:21:42.000Z",
+      "cuplikan": "29 persen organisasi di Indonesia berhasil masuk kategori Relentless Defenders atau kelompok berkinerja terbaik dalam menangkal serangan siber.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Eib3pYG-JVVUvuzdrx1aYvVEzmc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4829932/original/035178800_1715577335-pexels-pixabay-60504__1_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "da11a11e5e2c",
+      "judul": "Jadwal MotoGP Australia 2026: Marc Marquez Berjaya di Perpisahan Sirkuit Phillip Island?",
+      "tautan": "https://sports.okezone.com/read/2026/10/19/38/3248752/jadwal-motogp-australia-2026-marc-marquez-berjaya-di-perpisahan-sirkuit-phillip-island",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T05:09:59.000Z",
+      "cuplikan": "Simak jadwal MotoGP Australia 2026 yang akan digelar di Sirkuit Phillip Island untuk terakhir kali.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/38/3248752/simak_jadwal_motogp_australia_2026_yang_akan_digelar_di_sirkuit_phillip_island_untuk_terakhir_kali-PFRH_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "e69877d7149f",
+      "judul": "Bak Superhero Marvel, Eliano Reijnders Dapat Julukan Istimewa dari Pelatih Persib",
+      "tautan": "https://www.viva.co.id/bola/1936931-bak-superhero-marvel-eliano-reijnders-dapat-julukan-istimewa-dari-pelatih-persib",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T05:02:46.000Z",
+      "cuplikan": "Pelatih Persib Bandung, Igor Tolic, memberikan pujian khusus kepada Eliano Reijnders setelah Maung Bandung mengalahkan Persik Kediri dalam lanjutan kompetisi di Stadion S",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/21/6ab0b71153abd-pemain-persib-bandung-eliano-reijnders_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "0e458d4c3f99",
+      "judul": "Junaedi jaga asa raih emas Indonesia di Asian Para Games 2026",
+      "tautan": "https://www.antaranews.com/berita/5795961/junaedi-jaga-asa-raih-emas-indonesia-di-asian-para-games-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T05:02:46.000Z",
+      "cuplikan": "Atlet para judo Junaedi membuka asa untuk mempersembahkan medali emas bagi kontingen Indonesia setelah memastikan tiket ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/junaedi-lolos-ke-final-judo-asian-para-games-2026-2887581.jpg"
+    },
+    {
+      "id": "a1b69aff27b6",
+      "judul": "Ivan Gunawan Blak-blakan Timnas Indonesia 'Menyala' Beda di Asian Para Games 2026: Masyaallah!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8316251/ivan-gunawan-blak-blakan-timnas-indonesia-menyala-beda-di-asian-para-games-2026-masyaallah",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T04:58:10.000Z",
+      "cuplikan": "Upacara pembukaan Asian Para Games 2026 digelar secara meriah dan sarat makna di Stadiom Paloma Mizuho, Prefektur Aichi, Nagoya, Minggu (18/10/2026) malam. Acara ini mengusung konsep utama \"We Are Beautiful Individuals\", yang memiliki…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/NrIGB9oRlJRRc_SNA9GR2mcv2to=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9376667/original/054201900_1792385887-para-games-jepang-f6de11.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "feaf8a176e7c",
+      "judul": "Berjuang untuk Emas Pertama, Ini Jadwal Asian Para Games Hari Ini",
+      "tautan": "https://www.viva.co.id/sport/1936929-berjuang-untuk-emas-pertama-ini-jadwal-asian-para-games-hari-ini",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T04:57:17.000Z",
+      "cuplikan": "Cabang-cabang olahraga seperti para menembak, para taekwondo, para judo, para balap sepeda, para angkat berat, para atletik, dan para renang potensial sumbang emas",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad5a0f78cc1c-jadwal-kontingen-indonesia-di-asian-para-games-aichi-nagoya-2026-senin-1910_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "2da441f68618",
+      "judul": "Arti Shadowban Instagram, Ciri-Ciri dan Cara Mengatasinya",
+      "tautan": "https://ototekno.okezone.com/read/2026/10/19/16/3248748/arti-shadowban-instagram-ciri-ciri-dan-cara-mengatasinya",
+      "sumber": "Okezone",
+      "kanal": "okezone-techno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T04:54:46.000Z",
+      "cuplikan": "Shadowban biasanya dilakukan tanpa pemberitahuan kepada pengguna.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/16/3248748/ilustrasi-pEV6_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
+    },
+    {
+      "id": "5ea7ffca4a10",
+      "judul": "Abdul Hadi minta maaf gagal di Asian Para Games 2026",
+      "tautan": "https://www.antaranews.com/berita/5795889/abdul-hadi-minta-maaf-gagal-di-asian-para-games-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T04:33:48.000Z",
+      "cuplikan": "Atlet para angkat berat Indonesia Abdul Hadi menyampaikan permintaan maaf atas kegagalan merebut medali pada ajang ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/04/14/20260407_Abdul-Hadi_04.jpg"
+    },
+    {
+      "id": "bec807856c71",
+      "judul": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "tautan": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-19T04:30:59.000Z",
+      "cuplikan": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg"
+    },
     {
       "id": "cf7b65a6f70c",
       "judul": "ChatGPT Kini Bisa Baca Tab Chrome, Bantu Komparasi Produk hingga Isi Formulir",
@@ -92,17 +650,6 @@
       ]
     },
     {
-      "id": "bed335628600",
-      "judul": "China's growth accelerates as AI export boom outweighs domestic weakness",
-      "tautan": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "sumber": "BBC News",
-      "kanal": "bbc-tech",
-      "lajur": "global",
-      "terbit": "2026-10-19T03:17:46.000Z",
-      "cuplikan": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg"
-    },
-    {
       "id": "bc47d933d03a",
       "judul": "Samsung Galaxy Z Fold8, Pengalaman 8 Generasi yang Sulit Dicontek Kompetitor",
       "tautan": "https://www.liputan6.com/tekno/read/8315677/samsung-galaxy-z-fold8-pengalaman-8-generasi-yang-sulit-dicontek-kompetitor",
@@ -154,17 +701,6 @@
       "kategoriSumber": [
         "MotoGP"
       ]
-    },
-    {
-      "id": "bec807856c71",
-      "judul": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "tautan": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "sumber": "BBC News",
-      "kanal": "bbc-tech",
-      "lajur": "global",
-      "terbit": "2026-10-19T02:41:41.000Z",
-      "cuplikan": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
-      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg"
     },
     {
       "id": "5a646d78968a",
@@ -553,7 +1089,7 @@
       "lajur": "olahraga",
       "terbit": "2026-10-18T22:58:28.000Z",
       "cuplikan": "Atlet para atletik Indonesia Jaenal Aripin mengaku terharu mendapat kehormatan membawa bendera Merah Putih saat ...",
-      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/18/845853.jpg"
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/Defile-Kontingen-Indonesia-di-Asian-Para-Games-2026-181026-MRH-3_1.jpg"
     },
     {
       "id": "eeb343366ec2",

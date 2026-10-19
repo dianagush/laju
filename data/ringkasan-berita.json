@@ -1,46 +1,4 @@
 {
-  "73f017233bd9": {
-    "teks": "Apple berencana memperketat kontrol keamanan pada sistem macOS terkait izin Full Disk Access. Langkah ini diterapkan guna mengantisipasi ancaman privasi dari maraknya penggunaan agen kecerdasan buatan yang meminta akses data secara luas. Ke depannya, Apple akan menambahkan tahap konfirmasi yang lebih eksplisit agar pengguna memahami risiko sebelum memberikan persetujuan akses.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T08:06:07.600Z"
-  },
-  "7c7c137dda22": {
-    "teks": "YouTube memperbarui sistem rekomendasi Shorts untuk menekan peredaran video daur ulang oleh akun clipper yang mengunggah ulang karya kreator lain tanpa tambahan konten orisinal. Melalui kebijakan ini, kanal yang hanya memuat konten tanpa perubahan signifikan berisiko mengalami penurunan distribusi. Kendati demikian, kreator masih dapat mempertahankan jangkauan videonya dengan menambahkan komentar, suntingan unik, atau teknik penyampaian cerita yang khas.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T08:06:51.211Z"
-  },
-  "1cea256e999b": {
-    "teks": "Pemesanan awal iPhone 18 Pro, Pro Max, dan iPhone Duo di Indonesia resmi dibuka pada 7 Oktober 2026 melalui jaringan toko resmi iBox serta e-commerce. Calon pembeli berkesempatan mendapatkan potongan harga hingga Rp1,5 juta dengan memanfaatkan voucher khusus selama periode pre-order. Walaupun prapemesanan segera dimulai, pihak iBox dan Apple masih belum mengumumkan rincian harga resmi ketiga ponsel tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T08:07:21.336Z"
-  },
-  "121c6793ec9c": {
-    "teks": "Pelatih timnas Portugal, Jorge Jesus, menegaskan bahwa pintu bagi Cristiano Ronaldo untuk kembali membela tim nasional tetap terbuka pascameninggalkan pemusatan latihan. Menurutnya, Ronaldo masih bisa masuk skuad selama aktif bermain di level klub dan berkeinginan membela negaranya. Jesus juga menepis rumor keretakan hubungan dan menyebut kepergian penyerang tersebut hanya dipicu kesalahpahaman yang mudah diselesaikan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T08:08:14.192Z"
-  },
-  "578748771b0f": {
-    "teks": "Apple merilis iPhone 18 Pro dengan peningkatan performa cip A20 Pro dan daya tahan baterai hingga dua hari. Ponsel ini dibekali kamera utama berfitur variable aperture, pelacakan fokus berbasis AI, serta iOS 27 dengan Siri bertenaga Google AI. Dijual mulai dari 1.199 poundsterling, model baru ini membawa penyempurnaan desain yang tergolong minor dibanding pendahulunya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T08:08:56.927Z"
-  },
-  "c2269207bcca": {
-    "teks": "Internet Watch Foundation melaporkan lonjakan signifikan materi pelecehan seksual anak berbasis kecerdasan buatan, dengan jumlah gambar yang dinilai tahun ini telah melampaui total keseluruhan tahun sebelumnya. Peningkatan ini memicu desakan dari pihak pemantau dan parlemen agar perusahaan teknologi diwajibkan menerapkan regulasi serta pengamanan yang lebih ketat. Pemerintah Britania Raya menyatakan bahwa segala bentuk materi tersebut adalah ilegal dan menegaskan komitmennya untuk menindak model kecerdasan buatan yang memproduksi gambar-gambar terlarang tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-05T08:10:13.149Z"
-  },
   "ead3e4dc5218": {
     "teks": "Lenovo ThinkPad X1 Carbon Gen 14 dan Asus ExpertBook Ultra hadir memikat pasar laptop profesional melalui prosesor Intel generasi Panther Lake serta layar 14 inci beresolusi 2.8K. ThinkPad menawarkan bobot lebih ringan dan fleksibilitas engsel hingga 180 derajat. Sementara itu, ExpertBook Ultra unggul dengan lapisan keramik tahan gores, kapasitas penyimpanan lebih besar, serta sistem audio enam speaker.",
     "penyedia": "gemini",
@@ -1545,5 +1503,33 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-19T04:22:42.679Z"
+  },
+  "d87fbfc57647": {
+    "teks": "Apple diperkirakan merilis deretan produk baru setiap hari Jumat selama empat pekan berturut-turut, mulai 23 Oktober hingga 13 November 2026. Rangkaian peluncuran ini mencakup iPhone Duo, HomePod mini 2, Apple HomeView, serta Apple TV 4K generasi keempat. Selain itu, sejumlah perangkat Mac dan iPad mini 8 diprediksi hadir pada awal November, meski beberapa di antaranya masih menunggu konfirmasi resmi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T08:22:07.984Z"
+  },
+  "bbfa636a6734": {
+    "teks": "Penggunaan fitur penghemat baterai secara terus-menerus pada ponsel pintar dapat memengaruhi kinerja dan kenyamanan pengguna. Mode ini membatasi performa perangkat, seperti menurunkan refresh rate layar sehingga pergerakan animasi dan gim terasa kurang mulus. Selain itu, sistem juga membatasi aktivitas aplikasi di latar belakang, termasuk sinkronisasi data dan pembaruan pesan instan. Dampak pembatasan tersebut bervariasi tergantung pada merek, sistem operasi, serta pengaturan ponsel.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T08:22:44.481Z"
+  },
+  "b1635b9ab8db": {
+    "teks": "Startup kesehatan asal India, Even Healthcare, meraih pendanaan sebesar 50 juta dolar AS yang dipimpin Khosla Ventures untuk memperluas jaringan rumah sakit miliknya. Perusahaan ini berupaya mengubah sistem medis dengan menerapkan gaji tetap bagi dokter guna mencegah tindakan yang tidak perlu. Meski masih mengalami kerugian dan sempat memangkas jumlah karyawan, Even Healthcare memilih untuk terus berinvestasi pada ekspansi dan kualitas layanan pasien.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T08:22:58.939Z"
+  },
+  "57c81b3b8db6": {
+    "teks": "Seorang penulis memutuskan menghapus Instagram setelah menyadari obsesinya mencari validasi media sosial saat berlibur di Sri Lanka. Setelah hampir satu tahun tanpa aplikasi tersebut, ia berhasil menikmati kembali kehidupan pribadinya yang lebih tenang tanpa memikirkan tanggapan orang lain. Ia kini dapat mengalihkan energinya untuk membaca dan menyelesaikan novel pertamanya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-19T08:23:13.695Z"
   }
 }

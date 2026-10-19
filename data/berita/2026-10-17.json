@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-17",
-  "diperbarui": "2026-10-19T04:21:36.037Z",
+  "diperbarui": "2026-10-19T08:21:42.015Z",
   "berita": [
     {
       "id": "8547bd0e8f2f",
@@ -165,8 +165,8 @@
       "cuplikan": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
       "gambar": "",
       "kategoriSumber": [
-        "Hardware",
         "Gadgets",
+        "Hardware",
         "Ember"
       ]
     },
