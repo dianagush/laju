@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-18",
-  "diperbarui": "2026-10-19T08:21:42.015Z",
+  "diperbarui": "2026-10-19T13:01:52.498Z",
   "berita": [
     {
       "id": "15a08efe16c7",
@@ -522,20 +522,6 @@
       "gambar": "https://img.antaranews.com/cache/800x533/2026/10/18/persib-bandung-kalahkan-persik-kediri-2887401.jpg"
     },
     {
-      "id": "cdde5876b9c0",
-      "judul": "BRI Super League: Persib Bandung Kalahkan Persik 1-0, Julio Cesar Jadi Penentu",
-      "tautan": "https://www.liputan6.com/bola/read/8315911/bri-super-league-persib-bandung-kalahkan-persik-1-0-julio-cesar-jadi-penentu",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-10-18T14:21:26.000Z",
-      "cuplikan": "Persib Bandung menaklukkan Persik 1-0 pada pekan kelima BRI Super League 2026/2027. Julio Cesar mencetak gol penentu menit ke-79 di Si Jalak Harupat.",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/4G3xBm2P1pMB1hc_PlG9YR2M9iI=/0x478:1638x1401/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376341/original/097802600_1792332148-HU6urXJaEAAD3D_.jpg",
-      "kategoriSumber": [
-        "Bola"
-      ]
-    },
-    {
       "id": "8b4ef0250ac3",
       "judul": "Persebaya Masih Punya PR Besar, Dua Kali Tertinggal di Kandang Sendiri",
       "tautan": "https://www.viva.co.id/bola/1936822-persebaya-masih-punya-pr-besar-dua-kali-tertinggal-di-kandang-sendiri",
@@ -547,6 +533,20 @@
       "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/18/6ad4d5be2b656-laga-persebaya-vs-pss-sleman_gemini_665_374.jpg",
       "kategoriSumber": [
         "bola"
+      ]
+    },
+    {
+      "id": "cdde5876b9c0",
+      "judul": "BRI Super League: Persib Bandung Kalahkan Persik 1-0, Julio Cesar Jadi Penentu",
+      "tautan": "https://www.liputan6.com/bola/read/8315911/bri-super-league-persib-bandung-kalahkan-persik-1-0-julio-cesar-jadi-penentu",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-18T14:19:14.000Z",
+      "cuplikan": "Persib Bandung menaklukkan Persik 1-0 pada pekan kelima BRI Super League 2026/2027. Julio Cesar mencetak gol penentu menit ke-79 di Si Jalak Harupat.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/4G3xBm2P1pMB1hc_PlG9YR2M9iI=/0x478:1638x1401/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376341/original/097802600_1792332148-HU6urXJaEAAD3D_.jpg",
+      "kategoriSumber": [
+        "Bola"
       ]
     },
     {
@@ -806,6 +806,29 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/HEhk7loOnJ0uRfKO_a8v_FO4Wuo=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9358948/original/096846800_1790437562-0L5A0279.jpg",
       "kategoriSumber": [
         "Bola"
+      ]
+    },
+    {
+      "id": "02b8790878e1",
+      "judul": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+      "tautan": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-18T13:05:14.000Z",
+      "cuplikan": "Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenant The development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the…",
+      "gambar": "https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/7_0_686_549/master/686.jpg?width=140&quality=85&auto=format&fit=max&s=c5cf32679a4362ea71e1465a65af9593",
+      "kategoriSumber": [
+        "Datacentres - UK",
+        "Microsoft",
+        "AI (artificial intelligence)",
+        "Business",
+        "Technology sector",
+        "Computing",
+        "Technology",
+        "UK news",
+        "Essex",
+        "Infrastructure"
       ]
     },
     {
