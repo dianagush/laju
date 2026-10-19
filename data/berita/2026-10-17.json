@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-17",
-  "diperbarui": "2026-10-18T10:55:57.424Z",
+  "diperbarui": "2026-10-19T01:21:47.491Z",
   "berita": [
     {
       "id": "8547bd0e8f2f",
@@ -621,6 +621,27 @@
       "terbit": "2026-10-17T13:00:44.000Z",
       "cuplikan": "Barito Putera membidik poin penuh saat menghadapi tuan rumah De Red FC pada pekan keenam Grup Timur Pegadaian ...",
       "gambar": "https://img.antaranews.com/cache/800x533/2026/10/17/587003.jpg"
+    },
+    {
+      "id": "c56b0eaf36e5",
+      "judul": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
+      "tautan": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-17T13:00:31.000Z",
+      "cuplikan": "A modern-day prospector promised rural Imperial thousands of jobs and millions in tax revenue – but his plan has set off a firestorm of resistance Sebastian Rucci zoomed in on a map in late 2024, looking closely at a large block of brown…",
+      "gambar": "https://i.guim.co.uk/img/media/d767e28f4a63f2c033b1690340f479c914d87492/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=212cb89850a6a233b257dd50eba2d669",
+      "kategoriSumber": [
+        "California",
+        "Technology",
+        "US news",
+        "West Coast",
+        "Datacenters – US",
+        "AI (artificial intelligence)",
+        "Infrastructure",
+        "World news"
+      ]
     },
     {
       "id": "09916479c397",
@@ -1595,6 +1616,29 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/0nRYbGnWrQtRlADwxe6-wSMz1n4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2328533/original/026626100_1534157899-000_14L65B.jpg",
       "kategoriSumber": [
         "Bola"
+      ]
+    },
+    {
+      "id": "107fb4fe2617",
+      "judul": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
+      "tautan": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-17T09:00:28.000Z",
+      "cuplikan": "The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock. The Holmes he…",
+      "gambar": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=a87bb955799dc99704c62e34bbde3f3a",
+      "kategoriSumber": [
+        "Documentary films",
+        "Elizabeth Holmes",
+        "Film",
+        "Nathan Fielder",
+        "Culture",
+        "Theranos",
+        "Biotechnology industry",
+        "Scams",
+        "US news",
+        "Technology"
       ]
     },
     {
