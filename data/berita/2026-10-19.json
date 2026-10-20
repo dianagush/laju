@@ -1,7 +1,794 @@
 {
   "tanggal": "2026-10-19",
-  "diperbarui": "2026-10-19T13:01:52.498Z",
+  "diperbarui": "2026-10-20T01:11:44.926Z",
   "berita": [
+    {
+      "id": "92bf044e6717",
+      "judul": "Homeland Security bans DeepSeek use in federal civilian agencies",
+      "tautan": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:59:28.000Z",
+      "cuplikan": "The decision comes a couple of days after the release of Deepseek's latest AI model.",
+      "gambar": "https://www.engadget.com/img/gallery/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/l-intro-1792429083.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "5d37bd28a169",
+      "judul": "AI game clones are making indie developers afraid to show their work",
+      "tautan": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:59:22.000Z",
+      "cuplikan": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Gaming",
+        "clones",
+        "copy",
+        "game dev",
+        "game development",
+        "indie"
+      ]
+    },
+    {
+      "id": "9af7623112d7",
+      "judul": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "tautan": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:55:56.000Z",
+      "cuplikan": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Climate",
+        "Amazon",
+        "nuclear power",
+        "X-Energy"
+      ]
+    },
+    {
+      "id": "b89a07c39db4",
+      "judul": "At what distance does a video doorbell stop detecting motion?",
+      "tautan": "https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:45:00.000Z",
+      "cuplikan": "Your video doorbell might see a visitor without sending an alert. Detection depends on more than distance, and some surprising factors can affect its reach.",
+      "gambar": "https://www.engadget.com/img/gallery/at-what-distance-does-a-video-doorbell-stop-detecting-motion/l-intro-1792085683.jpg",
+      "kategoriSumber": [
+        "News"
+      ]
+    },
+    {
+      "id": "e4263dbe4c94",
+      "judul": "Florida DMV hacked after police dept insecurely stored login info",
+      "tautan": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:38:13.000Z",
+      "cuplikan": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-1152x648.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "cybercriminals",
+        "data breach",
+        "Florida",
+        "Florida DMV",
+        "personal information",
+        "ShinyHunters"
+      ]
+    },
+    {
+      "id": "15234185cc51",
+      "judul": "Trent Alexander-Arnold Mandek, Real Madrid Siap Kembalikan ke Inggris",
+      "tautan": "https://www.liputan6.com/bola/read/8316559/trent-alexander-arnold-mandek-real-madrid-siap-kembalikan-ke-inggris",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T16:30:27.000Z",
+      "cuplikan": "Masa depan Trent Alexander-Arnold bersama Real Madrid kini semakin tak menentu dan pihak klub siap melepasnya kembali ke Inggris.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/P8tWysPbynti7w0vH6e4Z42CbTo=/0x513:4972x3315/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9343814/original/090428900_1788916604-Real_Madrid_s_Trent_Alexander-Arnold_fights_for_the_ball_against_Inter_Milan_s_Marcus_Thuram.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "e07e01c3f28a",
+      "judul": "Jadwal Super League: Persija vs Arema, Persib tandang ke Madura",
+      "tautan": "https://www.antaranews.com/berita/5797917/jadwal-super-league-persija-vs-arema-persib-tandang-ke-madura",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T16:28:25.000Z",
+      "cuplikan": "Pekan keenam BRI Super League dijadwalkan akan berlangsung pada Selasa (20/10) hingga Kamis (22/10) dan menyajikan laga ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/18/persib-bandung-kalahkan-persik-kediri-2887401.jpg"
+    },
+    {
+      "id": "ad03a2e31e8d",
+      "judul": "Fiber vs. cable internet: What's the difference between them?",
+      "tautan": "https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:15:00.000Z",
+      "cuplikan": "Fiber internet is more modern than cable, but the older technology still works well for today's connection needs.",
+      "gambar": "https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg",
+      "kategoriSumber": [
+        "Computing"
+      ]
+    },
+    {
+      "id": "f93d80856f11",
+      "judul": "People are using AI to make their smart TVs dumb again",
+      "tautan": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:13:22.000Z",
+      "cuplikan": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Media & Entertainment",
+        "hacks",
+        "smart tv",
+        "television"
+      ]
+    },
+    {
+      "id": "980984dca4d2",
+      "judul": "Hubungkan 35 Negara, Bali Tech Week 2026 Buka Akses Pasar Digital Global",
+      "tautan": "https://www.liputan6.com/tekno/read/8316778/hubungkan-35-negara-bali-tech-week-2026-buka-akses-pasar-digital-global",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T16:10:11.000Z",
+      "cuplikan": "Kemkomdigi resmi membuka Bali Tech Week 2026 untuk menjembatani ratusan startup, investor, dan raksasa teknologi global.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/RiB9TYDAozEbTo79z1y0hUULuUc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9377289/original/016300000_1792426201-WhatsApp_Image_2026-10-19_at_9.23.23_PM.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "e025b45702e4",
+      "judul": "Apple is set to hold another product event on October 28",
+      "tautan": "https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:09:26.000Z",
+      "cuplikan": "Apple's \"Pro and Tell\" event is taking place in Los Angeles and will likely feature the first touchscreen Mac.",
+      "gambar": "https://www.engadget.com/img/gallery/apple-pro-and-tell-event-october-28-announcement/l-intro-1792426206.jpg",
+      "kategoriSumber": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "08d37a40f06b",
+      "judul": "Apple teases MacBook Pro event next week",
+      "tautan": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:04:29.000Z",
+      "cuplikan": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apple",
+        "Apple Event 2026",
+        "News",
+        "Tech"
+      ]
+    },
+    {
+      "id": "ec493ae77771",
+      "judul": "Asian Para Games 2026: Karisma Evi Tiarani Sumbang Perunggu dari Cabang Para Atletik",
+      "tautan": "https://www.viva.co.id/sport/1937125-asian-para-games-2026-karisma-evi-tiarani-sumbang-perunggu-dari-cabang-para-atletik",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T16:02:54.000Z",
+      "cuplikan": "Atlet para atletik Indonesia Karisma Evi Tiarani sukses meraih medali perunggu nomor lompat jauh putri Asian Para Games 2026 di Nagoya, Jepang, Senin malam.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad63ecdcdd8d-atlet-para-atletik-indonesia-karisma-evi-tiarani_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "e2fcb8500593",
+      "judul": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "tautan": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-19T16:00:00.000Z",
+      "cuplikan": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+      "gambar": "https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg",
+      "kategoriSumber": [
+        "Security",
+        "Security / Privacy"
+      ]
+    },
+    {
+      "id": "efd3e7ddd540",
+      "judul": "Strategi Luis Enrique Hadapi Barcelona di Liga Champions: Jauhkan Bola dari Lamine Yamal",
+      "tautan": "https://www.viva.co.id/bola/1937123-strategi-luis-enrique-hadapi-barcelona-di-liga-champions-jauhkan-bola-dari-lamine-yamal",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:56:16.000Z",
+      "cuplikan": "Pelatih PSG Luis Enrique menyiapkan strategi khusus untuk meredam Lamine Yamal dengan cara menjauhkan penguasaan bola dari Barcelona pada laga Liga Champions.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/06/69faacfd08d77-pelatih-psg-luis-enrique_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "bf92df883e24",
+      "judul": "Why your USB device keeps disconnecting (and how to fix it)",
+      "tautan": "https://www.engadget.com/2287812/usb-device-disconnecting-reasons/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T15:45:00.000Z",
+      "cuplikan": "If your USB peripheral is on the fritz, it's worth doing some troubleshooting with the port itself. Give these steps a try.",
+      "gambar": "https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg",
+      "kategoriSumber": [
+        "Accessories"
+      ]
+    },
+    {
+      "id": "292580429c9b",
+      "judul": "Amazon is funding a new nuclear plant in Indiana",
+      "tautan": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-19T15:44:20.000Z",
+      "cuplikan": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Amazon",
+        "Energy",
+        "News",
+        "Science",
+        "Tech"
+      ]
+    },
+    {
+      "id": "b21a8d5d3389",
+      "judul": "Marc Klok Tunggu Tawaran Kontrak Baru dari Persib Bandung",
+      "tautan": "https://www.liputan6.com/bola/read/8316760/marc-klok-tunggu-tawaran-kontrak-baru-dari-persib-bandung",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:42:29.000Z",
+      "cuplikan": "Kapten Persib Bandung, Marc Klok, menunggu kepastian kontrak yang habis Mei 2027. Ia menegaskan ingin bertahan dan menutup karier di Bandung.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/o96g0yhTGabQUXEp81vDB5AMA3o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9372998/original/028484500_1791943418-marc.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "fd8f18fd3ade",
+      "judul": "Klasemen AFC Challenge League: Borneo FC puncaki Grup D",
+      "tautan": "https://www.antaranews.com/berita/5797861/klasemen-afc-challenge-league-borneo-fc-puncaki-grup-d",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:42:10.000Z",
+      "cuplikan": "Didiskualifikasi - - - Jadwal lanjutan pertandingan Grup D AFC Challenge ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/09/20/borneo-fc-kalahkan-bali-united-2867468.jpg"
+    },
+    {
+      "id": "cce6d6c8e1d7",
+      "judul": "Timnas Indonesia U-15 Tampil di Piala Dunia dan Festival U-15 FIFA 2026, Satu Grup dengan Portugal",
+      "tautan": "https://www.liputan6.com/bola/read/8316754/timnas-indonesia-u-15-tampil-di-piala-dunia-dan-festival-u-15-fifa-2026-satu-grup-dengan-portugal",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:40:15.000Z",
+      "cuplikan": "Timnas Indonesia U-15 berlaga di Baku pada 22–30 Oktober 2026. Masuk Grup G bersama Portugal, Bangladesh, Burundi, Fiji, dan Wales; dilatih Furqon Alkatiri.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/f3vfjFE_xoArzb4gDYH_HTiaOq8=/0x0:650x366/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9377280/original/019147700_1792424301-u-15.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d88320583f8c",
+      "judul": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "tautan": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-19T15:37:09.000Z",
+      "cuplikan": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "nvidia"
+      ]
+    },
+    {
+      "id": "1169c9afc688",
+      "judul": "TP-Link moves to assemble routers in the US following an import ban",
+      "tautan": "https://www.engadget.com/2290313/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T15:31:22.000Z",
+      "cuplikan": "Routers could start rolling off a Missouri production line as soon as early 2027.",
+      "gambar": "https://www.engadget.com/img/gallery/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban/l-intro-1792423831.jpg",
+      "kategoriSumber": [
+        "News"
+      ]
+    },
+    {
+      "id": "5b3842df9994",
+      "judul": "Baru Bawa Timnas Indonesia Juara FIFA ASEAN Cup 2026, Kevin Diks Terpuruk hingga Gladbach Diduga Diboikot Fans",
+      "tautan": "https://www.viva.co.id/bola/1937115-baru-bawa-timnas-indonesia-juara-fifa-asean-cup-2026-kevin-diks-terpuruk-hingga-gladbach-diduga-diboikot-fans",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:23:11.000Z",
+      "cuplikan": "Baru merayakan gelar FIFA ASEAN Cup 2026 bersama Timnas Indonesia, Kevin Diks kini terpuruk di Gladbach. Tribun kosong memicu dugaan boikot dari para suporter.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad63523562e8-kevin-diks_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "635511b9891d",
+      "judul": "Kemenangan sebelum kekalahan",
+      "tautan": "https://www.antaranews.com/berita/5797813/kemenangan-sebelum-kekalahan",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:17:30.000Z",
+      "cuplikan": "Junaedi menghampiri pelatihnya setelah pertandingan final para judo kelas J1 -70 kg putra Asian Para Games Aichi-Nagoya ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/junaedi-lolos-ke-final-judo-asian-para-games-2026-2887585.jpg"
+    },
+    {
+      "id": "91c28a3520f3",
+      "judul": "Don't throw away your old USB charging cables — Repurpose them instead",
+      "tautan": "https://www.engadget.com/2287681/dont-throw-away-old-usb-charging-cables-repurpose-instead/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T15:15:00.000Z",
+      "cuplikan": "The charger from your three-generations-ago phone can still be useful. Here are several ways to use old cables, both indoors and out.",
+      "gambar": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-usb-charging-cables-repurpose-them-instead/l-intro-1792078796.jpg",
+      "kategoriSumber": [
+        "Accessories"
+      ]
+    },
+    {
+      "id": "668dc32848df",
+      "judul": "Leo/Daniel pasti turun dalam French Open 2026",
+      "tautan": "https://www.antaranews.com/berita/5797789/leo-daniel-pasti-turun-dalam-french-open-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:12:40.000Z",
+      "cuplikan": "Ganda putra Indonesia Leo Rolly Carnando/Daniel Marthin dipastikan turun dalam French Open 2026 setelah peraih medali ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/09/24/Final-bulu-tangkis-beregu-putra-Asian-Games-2026-240926-fzn-21.jpg"
+    },
+    {
+      "id": "719446d57d53",
+      "judul": "Kelemahan Besar Liverpool Terungkap, Masa Depan Van Dijk dan Alisson Jadi Perhatian",
+      "tautan": "https://www.liputan6.com/bola/read/8316405/kelemahan-besar-liverpool-terungkap-masa-depan-van-dijk-dan-alisson-jadi-perhatian",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:00:14.000Z",
+      "cuplikan": "Liverpool dinilai memiliki masalah di sejumlah posisi. Cedera, minimnya pemain pelapis berkualitas, serta masa depan Van Dijk dan Alisson menjadi sorotan.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/vyNYiUGRXZFeme5iL_6C1nKEmLY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9331217/original/011327100_1787507486-000_C6C22UY.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "6949c56255b5",
+      "judul": "Indonesia terus pantau kondisi Paris jelang French Open",
+      "tautan": "https://www.antaranews.com/berita/5797741/indonesia-terus-pantau-kondisi-paris-jelang-french-open",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T15:00:13.000Z",
+      "cuplikan": "Tim bulu tangkis Indonesia terus memantau perkembangan dan kondisi kota Paris yang terkena gelombang protes menjelang ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2025/02/18/IMG_9912.jpeg"
+    },
+    {
+      "id": "a47006ed7011",
+      "judul": "Budaya Nusantara Kini Berpeluang Menguasai Ruang Digital",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1937104-budaya-nusantara-kini-berpeluang-menguasai-ruang-digital",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T14:52:00.000Z",
+      "cuplikan": "Budaya Nusantara memiliki peluang semakin besar untuk dikenal masyarakat luas melalui perkembangan teknologi digital. Beragam tradisi, kesenian daerah di ruang digital.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/02/6a45d686634cb-ilustrasi-dunia-digital_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "8193e8eddff3",
+      "judul": "Pengakuan Memilukan Kevin Diks usai Monchengladbach 6 Kali Kalah Beruntun",
+      "tautan": "https://www.viva.co.id/bola/1937112-pengakuan-memilukan-kevin-diks-usai-monchengladbach-6-kali-kalah-beruntun",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T14:48:05.000Z",
+      "cuplikan": "Bek Timnas Indonesia, Kevin Diks, tak bisa menyembunyikan kekecewaannya melihat Borussia Monchengladbach terus terpuruk di Bundesliga 2026/2027. Die Fohlen belum mampu me",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/12/6accb29519c49-kevin-diks_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "d41776e0c26f",
+      "judul": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "tautan": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-19T14:45:43.000Z",
+      "cuplikan": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Policy",
+        "Character.AI",
+        "Disney",
+        "syndication"
+      ]
+    },
+    {
+      "id": "c0f8d53609d8",
+      "judul": "One of the rarest GameCube consoles sells for thousands of dollars today",
+      "tautan": "https://www.engadget.com/2287670/rarest-gamecube-console-sells-for-thousands-dollars-today/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T14:45:00.000Z",
+      "cuplikan": "While the GameCube came in several colors, a few of the most elusive variations command thousands from game collectors.",
+      "gambar": "https://www.engadget.com/img/gallery/one-of-the-rarest-gamecube-consoles-sells-for-thousands-of-dollars-today/l-intro-1792078701.jpg",
+      "kategoriSumber": [
+        "Nintendo"
+      ]
+    },
+    {
+      "id": "a47bf035ead2",
+      "judul": "Waspada Risiko Digital dalam Trading, Ini 7 Ancaman yang Bisa Bikin Modal Hilang",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1937094-waspada-risiko-digital-dalam-trading-ini-7-ancaman-yang-bisa-bikin-modal-hilang",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T14:42:00.000Z",
+      "cuplikan": "Perkembangan teknologi membuat trading semakin mudah dilakukan melalui ponsel. Masyarakat dapat memantau harga, membaca grafik, hingga melakukan transaksi.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/09/23/66f0fe3681b5f-ilustrasi-risiko-investasi_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "e389e5eeed98",
+      "judul": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+      "tautan": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-19T14:41:48.000Z",
+      "cuplikan": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ]
+    },
+    {
+      "id": "26bd92e8b8cb",
+      "judul": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
+      "tautan": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-19T14:35:01.000Z",
+      "cuplikan": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/848413061_1584132123754825_2260017497965151960_n-1152x648-1792421844.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Space",
+        "agriculture",
+        "china",
+        "launch",
+        "Minnesota",
+        "rocket",
+        "space debris",
+        "space junk",
+        "Zhuque-2"
+      ]
+    },
+    {
+      "id": "fd89b9b5cd58",
+      "judul": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "tautan": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-19T14:30:00.000Z",
+      "cuplikan": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Decoder",
+        "Podcasts",
+        "Policy",
+        "Politics",
+        "Tech"
+      ]
+    },
+    {
+      "id": "d342871f80c2",
+      "judul": "Karisma Evi buka keran medali atletik Indonesia di Asian Para Games",
+      "tautan": "https://www.antaranews.com/berita/5797665/karisma-evi-buka-keran-medali-atletik-indonesia-di-asian-para-games",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T14:28:51.000Z",
+      "cuplikan": "Karisma Evi Tiarani membuka keran medali untuk para atletik Indonesia pada Asian Para Games Aichi-Nagoya 2026 setelah ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2024/09/08/antarafoto-karisma-evi-tiarani-raih-medali-perak-paralimpiade-080924-app-1.jpg"
+    },
+    {
+      "id": "9401376fe035",
+      "judul": "Dari Simulasi hingga Backtesting, Begini Cara Menguji Strategi Trading di Era Digital",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1937088-dari-simulasi-hingga-backtesting-begini-cara-menguji-strategi-trading-di-era-digital",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T14:28:00.000Z",
+      "cuplikan": "Perkembangan teknologi digital membuat aktivitas trading semakin mudah diakses masyarakat Indonesia. Berbagai platform kini menyediakan grafik harga, indikator teknikal.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/16/6aaa59a246f29-ilustrasi-digitalisasi_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "079800dc2321",
+      "judul": "Lelah Diremehkan di Ducati, Casey Stoner Ungkap Alasan Gelar Juara MotoGP 2011 Bersama Honda Lebih Spektakuler",
+      "tautan": "https://sports.okezone.com/read/2026/10/19/38/3248900/lelah-diremehkan-di-ducati-casey-stoner-ungkap-alasan-gelar-juara-motogp-2011-bersama-honda-lebih-spektakuler",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T14:25:23.000Z",
+      "cuplikan": "Lelah Diremehkan di Ducati, Casey Stoner Ungkap Alasan Gelar Juara MotoGP 2011 Bersama Honda Lebih Spektakuler",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/38/3248900/casey_stoner-ZzJ4_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "12f1e0e42009",
+      "judul": "Major European mobile carriers are teaming up for a ‘direct’ satellite program without Starlink",
+      "tautan": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-19T14:24:42.000Z",
+      "cuplikan": "Deutsche Telekom, Orange, Telefónica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Mobile",
+        "News",
+        "Policy",
+        "Science",
+        "Space",
+        "SpaceX",
+        "Tech"
+      ]
+    },
+    {
+      "id": "c33d8df3246f",
+      "judul": "Asian Para Games 2026: Indonesia Koleksi 10 Medali di Hari Pertama, Satu Emas Disumbangkan Maulana Rifky",
+      "tautan": "https://www.liputan6.com/bola/read/8316727/asian-para-games-2026-indonesia-koleksi-10-medali-di-hari-pertama-satu-emas-disumbangkan-maulana-rifky",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T14:17:40.000Z",
+      "cuplikan": "Indonesia meraih 10 medali pada hari pertama Asian Para Games 2026. Emas dari Maulana Rifky; CdM menargetkan tambahan dari boccia dan bulu tangkis.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/cxMAWI3UdTkmuUO0isox4QMe7-w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9377241/original/014475000_1792418532-20261017_Nagoya_AW_Maulana_Rifky_Emas_pertama_011.JPG",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "bb01ff075fe4",
+      "judul": "2 Tahun Pemerintahan Prabowo-Gibran, Meutya Hafid jadi Menteri Perempuan Paling Menonjol",
+      "tautan": "https://www.jawapos.com/teknologi/2610190424/2-tahun-pemerintahan-prabowo-gibran-meutya-hafid-jadi-menteri-perempuan-paling-menonjol",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T14:15:41.000Z",
+      "cuplikan": "Menteri Komunikasi dan Digital Meutya Hafid menjadi menteri perempuan paling menonjol dengan 29,6 persen pilihan responden berdasarkan survei nasional Indopol Survey menjelang dua tahun pemerintahan Prabowo-Gibran.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/19/menteri-komunikasi-dan-digital-meutya-hafid-menjadi-menteri-perempuan-paling-menonjol-istimewa-twFW7.webp"
+    },
+    {
+      "id": "c4b366879825",
+      "judul": "Asian Para Games 2026: Perenang Rifky Yavianda Sumbang Emas Perdana untuk Indonesia",
+      "tautan": "https://www.viva.co.id/sport/1937105-asian-para-games-2026-perenang-rifky-yavianda-sumbang-emas-perdana-untuk-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T14:15:21.000Z",
+      "cuplikan": "Perenang Rifky Yavianda Maulana menyumbang emas pertama bagi Indonesia di Asian Para Games 2026 dari nomor 100 meter gaya bebas putra S12, Senin (19/10/2026).",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad6259a1cc0c-perenang-putra-indonesia-yavianda-maulana-rifky_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "ae638dfa3981",
+      "judul": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-19T14:00:03.000Z",
+      "cuplikan": "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed Get our breaking news email , free app or daily news podcast Employers are…",
+      "gambar": "https://i.guim.co.uk/img/media/c2972d767784a668b4664e394a234487682599ea/497_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=e61c50558629b38b8338b4760dbec44c",
+      "kategoriSumber": [
+        "Technology",
+        "Surveillance",
+        "AI (artificial intelligence)",
+        "Workers' rights",
+        "Australia news",
+        "Microsoft",
+        "Privacy"
+      ]
+    },
+    {
+      "id": "224218a780a2",
+      "judul": "Prancis Dilanda Kerusuhan, Laga PSG vs Barcelona di Liga Champions Dipastikan Tetap Jalan",
+      "tautan": "https://www.viva.co.id/bola/1937101-prancis-dilanda-kerusuhan-laga-psg-vs-barcelona-di-liga-champions-dipastikan-tetap-jalan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T13:59:52.000Z",
+      "cuplikan": "Laga Liga Champions 2026/2027 antara PSG vs Barcelona dipastikan tetap digelar di Prancis meski di tengah maraknya aksi kerusuhan. Barcelona diuji krisis bek.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/15/6ad00ce7f189d-pemain-psg-desire-doue-merayakan-gol-atas-man-city_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "0a656218549d",
+      "judul": "What the orange light on your PlayStation 5 is actually telling you",
+      "tautan": "https://www.engadget.com/2287587/what-playstation-5-orange-light-means/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T13:45:00.000Z",
+      "cuplikan": "The PS5 shows a variety of light colors to indicate its status, and orange thankfully isn't the alert you might expect from that color.",
+      "gambar": "https://www.engadget.com/img/gallery/what-the-orange-light-on-your-playstation-5-is-actually-telling-you/l-intro-1792075033.jpg",
+      "kategoriSumber": [
+        "PlayStation"
+      ]
+    },
+    {
+      "id": "2e572bf0c919",
+      "judul": "Dua Wakil Indonesia Mengamuk di Asia, Persib dan Borneo FC Sama-sama Menang",
+      "tautan": "https://www.viva.co.id/bola/1937095-dua-wakil-indonesia-mengamuk-di-asia-persib-dan-borneo-fc-sama-sama-menang",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T13:31:08.000Z",
+      "cuplikan": "Dua wakil Indonesia meraih hasil positif di kompetisi antarklub Asia. Persib Bandung melanjutkan tren kemenangan di AFC Champions League Two (ACL Two), sementara Borneo F",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/15/6ad06c6730277-pemain-persib-thom-haye_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "ba055b45a283",
+      "judul": "Review: Lanterns is a truly unique twist on the superhero genre",
+      "tautan": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-19T13:31:08.000Z",
+      "cuplikan": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/lanterns1-1152x648-1790363326.jpg",
+      "kategoriSumber": [
+        "Culture",
+        "DCU",
+        "DCU Chapter One",
+        "HBO",
+        "hbo max",
+        "Lanterns",
+        "reviews"
+      ]
+    },
+    {
+      "id": "9d0f575122d3",
+      "judul": "Como Bakal Jamu Manchester United di Liga Champions, Cesc Fabregas: Mimpi Jadi Kenyataan",
+      "tautan": "https://www.viva.co.id/bola/1937090-como-bakal-jamu-manchester-united-di-liga-champions-cesc-fabregas-mimpi-jadi-kenyataan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T13:30:00.000Z",
+      "cuplikan": "Pelatih Como Cesc Fabregas menyebut laga kandang kontra Manchester United di Liga Champions pada Rabu (21/10/2026) sebagai mimpi yang jadi kenyataan bagi klubnya.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/27/6a16af9e1e942-pelatih-como-1907-cesc-fabregas_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "d38a5f09a9ed",
+      "judul": "Dominik Szoboszlai Cedera, Liverpool Percayakan Lini Tengah ke Talenta Muda Ini",
+      "tautan": "https://www.liputan6.com/bola/read/8316416/dominik-szoboszlai-cedera-liverpool-percayakan-lini-tengah-ke-talenta-muda-ini",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T13:29:26.000Z",
+      "cuplikan": "Absennya Dominik Szoboszlai pada beberapa pertandingan mendatang buat Liverpool siapkan aset muda mereka jadi pemain utama.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/50MlHRIcWOzUQrY9gE7z8pAe5rs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375942/original/094775600_1792273158-AP26290520397302-fix.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d44863a7b712",
+      "judul": "Menjaga Mimpi Anak-anak Nagekeo Lewat Sepak Bola dan Pendidikan",
+      "tautan": "https://www.viva.co.id/bola/1937093-menjaga-mimpi-anak-anak-nagekeo-lewat-sepak-bola-dan-pendidikan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T13:28:02.000Z",
+      "cuplikan": "Pembinaan sepak bola usia dini di Kabupaten Nagekeo, Nusa Tenggara Timur (NTT), mendapat dukungan melalui penyaluran perlengkapan olahraga dan kebutuhan pendidikan bagi a",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad61a9da6e2b-cucu-sumantri_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "b79afa48c3c5",
+      "judul": "Don't throw away your old graphics card — here's what you can do with it",
+      "tautan": "https://www.engadget.com/2287482/dont-throw-away-old-graphics-card/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-19T13:15:00.000Z",
+      "cuplikan": "An old GPU has lots of potential for a second life, from adding more horsepower to your current machine to crafting a purpose-built second one.",
+      "gambar": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-graphics-card-heres-what-you-can-do-with-it/l-intro-1792070835.jpg",
+      "kategoriSumber": [
+        "PC Gaming"
+      ]
+    },
+    {
+      "id": "85bf229b7162",
+      "judul": "Jangan Hanya Melihat Kapasitas mAh, Dua HP dengan Baterai Besar Bisa Punya Daya Tahan yang Berbeda",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1937058-jangan-hanya-melihat-kapasitas-mah-dua-hp-dengan-baterai-besar-bisa-punya-daya-tahan-yang-berbeda",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-19T13:04:00.000Z",
+      "cuplikan": "Jangan tertipu angka mAh saat membeli HP! Kenali faktor layar, chipset, sinyal, aplikasi, dan kondisi baterai yang membuat dua smartphone berkapasitas sama daya tahan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/26/6a3e79551bd07-ilustrasi-baterai-hp_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
     {
       "id": "e6b890461de4",
       "judul": "Momen Erick PSSI 'Teriakan' Tantangan Tegas: Ayo yang Selama ini Teriak-Teriak, Bukan Hanya Bicara!",
@@ -35,6 +822,34 @@
       ]
     },
     {
+      "id": "90844118f4d9",
+      "judul": "Masa Depan di Persib Bandung Belum Pasti, Ini Kata Marc Klok",
+      "tautan": "https://www.viva.co.id/bola/1937073-masa-depan-di-persib-bandung-belum-pasti-ini-kata-marc-klok",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T13:00:00.000Z",
+      "cuplikan": "Marc Klok berharap bisa mengakhiri kariernya di Persib Bandung kendati masa kontraknya habis akhir musim ini usai bawa timnya menang atas Persik, Minggu (18/10).",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/24/6a131b0d1b607-kapten-persib-bandung-marc-klok_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "c36cb4933971",
+      "judul": "Profil Adrian Fernandez, Pembalap Moto3 yang Bikin Poin Veda Ega Pratama Berkurang",
+      "tautan": "https://sports.okezone.com/read/2026/10/19/38/3248882/profil-adrian-fernandez-pembalap-moto3-yang-bikin-poin-veda-ega-pratama-berkurang",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T12:59:46.000Z",
+      "cuplikan": "Profil Adrian Fernandez, Pembalap Moto3 yang Bikin Poin Veda Ega Pratama Berkurang",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/19/38/3248882/adrian_fernandez-85Yy_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
       "id": "7492bc28d547",
       "judul": "Uber wins bid to throw out £200m black cab claims",
       "tautan": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
@@ -46,6 +861,17 @@
       "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c0/live/e258cdd0-0819-11ef-8205-3fa833ece17b.jpg"
     },
     {
+      "id": "be9f44e4f2e7",
+      "judul": "Gischa Zayana ke semifinal, Handayani lanjutkan perjuangan di boccia",
+      "tautan": "https://www.antaranews.com/berita/5797373/gischa-zayana-ke-semifinal-handayani-lanjutkan-perjuangan-di-boccia",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T12:57:03.000Z",
+      "cuplikan": "Atlet boccia Indonesia Gischa Zayana memastikan tempat dalam semifinal nomor individual BC2 putri Asian Para Games ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2024/09/06/antarafoto-boccia-indonesia-raih-tiga-medali-paralimpiade-020924-app-3.jpg"
+    },
+    {
       "id": "737ede9d9eb9",
       "judul": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
       "tautan": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
@@ -53,7 +879,7 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-19T12:56:14.000Z",
-      "cuplikan": "Apple said that it will ban AI apps that don't moderate offensive content.",
+      "cuplikan": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
       "gambar": "",
       "kategoriSumber": [
         "Apps",
@@ -120,13 +946,35 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-19T12:42:55.000Z",
-      "cuplikan": "That's more than $10 billion in shares, or around 1% of Musk's current net worth.",
+      "cuplikan": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific…",
       "gambar": "",
       "kategoriSumber": [
-        "Transportation",
+        "Social",
         "Elon Musk",
         "SpaceX"
       ]
+    },
+    {
+      "id": "3e5b781c509c",
+      "judul": "Lewat medali Asian Para Games, Widiasih berusaha tepati janji",
+      "tautan": "https://www.antaranews.com/video/5796853/lewat-medali-asian-para-games-widiasih-berusaha-tepati-janji",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T12:40:10.000Z",
+      "cuplikan": "Atlet Para Angkat Berat Indonesia Ni Nengah Widiasih berhasil mempersembahkan medali perunggu sekaligus ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/LEWAT-MEDALI-ASIAN-PARA-GAMES-WIDIASIH-BERUSAHA-TEPATI-JANJI.jpg"
+    },
+    {
+      "id": "0d2dc9bbeaef",
+      "judul": "Rifky lepaskan semua beban untuk rebut emas pertama Indonesia",
+      "tautan": "https://www.antaranews.com/berita/5797301/rifky-lepaskan-semua-beban-untuk-rebut-emas-pertama-indonesia",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T12:35:16.000Z",
+      "cuplikan": "Atlet para renang Indonesia Yavianda Maulana Rifky menyatakan telah melepaskan semua beban untuk bertanding dengan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/maulana-rifky-yavianda-raih-emas-di-asian-para-games-2026-2888153.jpg"
     },
     {
       "id": "c438a0ddb87d",
@@ -138,6 +986,28 @@
       "terbit": "2026-10-19T12:34:36.000Z",
       "cuplikan": "Atlet para angkat berat Indonesia Abdul Hadi meminta maaf kepada masyarakat Indonesia setelah gagal meraih ...",
       "gambar": "https://img.antaranews.com/cache/800x533/2026/10/ABDUL-HADI-MINTA-MAAF-USAI-GAGAL-RAIH-MEDALI-DI-ASIAN-PARA-GAMES-2026.jpg"
+    },
+    {
+      "id": "8030d4f16e02",
+      "judul": "DIY VR: How to build your own headset, and why you probably won't want to",
+      "tautan": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-19T12:33:34.000Z",
+      "cuplikan": "A primer on the joys and pains of building your own head-mounted display.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DIY-VR-header-1152x648.jpg",
+      "kategoriSumber": [
+        "Features",
+        "Tech",
+        "Arduino",
+        "DIY",
+        "headset",
+        "hmd",
+        "IMU",
+        "steamvr",
+        "VR"
+      ]
     },
     {
       "id": "0e97091afe7d",
@@ -155,6 +1025,26 @@
         "Music",
         "Report",
         "Tech"
+      ]
+    },
+    {
+      "id": "c17a4963d410",
+      "judul": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "tautan": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-19T12:30:00.000Z",
+      "cuplikan": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Robotics",
+        "Transportation",
+        "autonomous vehicles",
+        "self-driving cars",
+        "Startup Battlefield 200",
+        "TechCrunch Disrupt"
       ]
     },
     {
@@ -396,6 +1286,17 @@
       "kategoriSumber": [
         "Bola"
       ]
+    },
+    {
+      "id": "6afaa8fc8520",
+      "judul": "Indonesia tambah dua perunggu Asian Para Games dari para balap sepeda",
+      "tautan": "https://www.antaranews.com/berita/5797029/indonesia-tambah-dua-perunggu-asian-para-games-dari-para-balap-sepeda",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T11:15:31.000Z",
+      "cuplikan": "Sufyan Saori dan Vanza Mifthahul Jannah membuat Indonesia menambah dua medali perunggu dari para balap sepeda pada ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/02/pelatnas-balap-sepeda-asian-para-games-2026-2876247.jpg"
     },
     {
       "id": "ac7b759b8f6f",
@@ -739,7 +1640,7 @@
       "lajur": "olahraga",
       "terbit": "2026-10-19T10:15:53.000Z",
       "cuplikan": "Atlet para renang Indonesia Yavianda Maulana Rifky mempersembahkan emas pertama bagi Indonesia setelah memenangkan ...",
-      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/15/20261015_nagoya_YUD_Maulana-Rifky-Yavianda-1.jpg"
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/Maulana-Rifky-Yavianda-raih-emas-di-Asian-Para-Games-2026-191026-MRH-2.jpg"
     },
     {
       "id": "62065cacb735",
@@ -1519,6 +2420,17 @@
       "terbit": "2026-10-19T06:59:46.000Z",
       "cuplikan": "Gelaran 76 Ultimate Downhill 2026 seri II Pasuruan sukses pertama kali digelar di Arjuno Bike Park, Pasuruan, Jawa ...",
       "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/ANTARA-2026-10-18T195030.718.jpg"
+    },
+    {
+      "id": "2d5e19dc6712",
+      "judul": "Medali pertama Indonesia di Asian Para Games 2026",
+      "tautan": "https://www.antaranews.com/foto/5796209/medali-pertama-indonesia-di-asian-para-games-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-19T06:49:30.000Z",
+      "cuplikan": "Lifter putri Indonesia Ni Nengah Widiasih (kedua kanan) bersiap mengangkat beban pada kelas 41 kilogram Asian Para ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/19/Medali-pertama-Indonesia-di-Asian-Para-Games-2026-191026-MRH-1.jpg"
     },
     {
       "id": "469b9c452edd",
@@ -2530,11 +3442,12 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-18T20:37:40.000Z",
-      "cuplikan": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "cuplikan": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
       "gambar": "",
       "kategoriSumber": [
         "AI",
-        "Anthropic"
+        "Anthropic",
+        "In Brief"
       ]
     },
     {
