@@ -1,39 +1,4 @@
 {
-  "6f1795c39a57": {
-    "teks": "Rockstar Games menjelaskan latar belakang karakter Jason Duval di Grand Theft Auto VI yang pernah masuk militer sebelum kembali ke dunia kriminal. Rupert Humphries menegaskan bahwa masa lalu Jason tidak dirancang untuk menyampaikan kritik sosial tertentu, meskipun keterlibatannya dalam kejahatan berkaitan dengan masalah ekonomi. Pihak pengembang memberikan kebebasan kepada pemain untuk menafsirkan alasan di balik tindakan karakter tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T02:38:12.193Z"
-  },
-  "8239296f2469": {
-    "teks": "Proses pengisian daya ponsel di kendaraan sering kali berjalan lambat akibat port USB bawaan masih memakai standar lama yang hanya menyalurkan daya kecil. Guna mempercepat pengisian, pengguna dapat memanfaatkan adaptor pengisian cepat yang dicolokkan ke soket 12 volt di dasbor. Meski demikian, penggunaan adaptor cepat secara terus-menerus sebaiknya dihindari karena berisiko merusak baterai akibat suhu panas yang berlebih.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T02:38:20.920Z"
-  },
-  "2d358b6a7249": {
-    "teks": "Apple merancang lapisan pelindung layar bagian dalam iPhone Duo agar dapat diganti jika mengalami keausan akibat pemakaian. Pengguna di Amerika Serikat yang berlangganan AppleCare+ dapat mengganti komponen tersebut dengan biaya USD 19, sementara tarif bagi pemilik tanpa asuransi belum diumumkan. Layanan penggantian ini kemungkinan besar hanya dilayani secara resmi melalui Apple Store serta pusat servis terotorisasi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T02:38:29.657Z"
-  },
-  "af28aaf35a3a": {
-    "teks": "Elkan Baggott menyatakan kebanggaannya sebagai Warga Negara Indonesia setelah membawa tim nasional menjuarai FIFA ASEAN Cup 2026 di Stadion Utama Gelora Bung Karno. Menurutnya, keberhasilan tersebut diraih melalui perjalanan panjang yang diwarnai berbagai perubahan di tubuh federasi serta kehadiran pemain baru. Ia menambahkan bahwa kecintaan mendalam terhadap negara menjadi motivasi utama para pemain untuk selalu memberikan penampilan terbaik di lapangan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T02:38:37.642Z"
-  },
-  "773083672101": {
-    "teks": "OpenAI mulai meluncurkan penanda tak kasat mata pada teks keluaran ChatGPT dan Codex khusus bagi pengguna di wilayah Uni Eropa guna memenuhi regulasi AI Act setempat. Fitur serupa juga disediakan secara opsional bagi pelanggan API global, sementara akses alat pendeteksi diberikan terbatas kepada periset serta organisasi ahli. Kendati demikian, pihak pengembang menyatakan bahwa penanda tersebut tidak menjamin deteksi yang sepenuhnya andal serta tidak berfungsi untuk membuktikan kepenulisan manusia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T02:38:45.705Z"
-  },
   "d764d2ad91b7": {
     "teks": "Poco resmi meluncurkan Poco F9 Series di Indonesia yang terdiri dari model Poco F9 Pro dan Poco F9 Ultra. Kedua perangkat ini dirancang untuk mendukung aktivitas berat dan gaming dengan spesifikasi kelas atas, termasuk dukungan chipset Snapdragon, layar berkecepatan tinggi, serta kamera utama beresolusi 200MP. Jajaran ponsel pintar baru ini sudah mulai dipasarkan di berbagai kanal resmi Xiaomi sejak tanggal enam Oktober tahun dua ribu dua puluh enam.",
     "penyedia": "gemini",
@@ -1587,5 +1552,40 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-20T01:13:51.592Z"
+  },
+  "723b96c58238": {
+    "teks": "SSD portabel Samsung P7 berteknologi USB4 dijadwalkan meluncur di Indonesia pada awal November 2026 dengan kisaran harga Rp5.991.000 hingga Rp49.785.000. Perangkat penyimpanan ini menawarkan kecepatan baca hingga 4.000 MB/s serta ketahanan terhadap guncangan dan benturan. SSD yang kompatibel dengan berbagai perangkat elektronik ini dirancang untuk mendukung kebutuhan transfer data berkapasitas besar, seperti pemrosesan konten berbasis AI dan gim berspesifikasi tinggi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-20T04:12:55.559Z"
+  },
+  "32bb22db31b7": {
+    "teks": "Pemerintah mematok target kecepatan internet hingga 100 Mbps pada 2029 yang disertai pemerataan jangkauan layanan di seluruh wilayah. Guna mewujudkan hal tersebut, Kementerian Komunikasi dan Digital menyiapkan sejumlah strategi, mulai dari pemanfaatan teknologi baru hingga sinergi dengan sektor kelistrikan untuk menjangkau daerah pelosok. Pencapaian target konektivitas ini juga memerlukan kerja sama yang kuat antara pihak pemerintah dan industri telekomunikasi nasional.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-20T04:13:04.077Z"
+  },
+  "18a3d95d886d": {
+    "teks": "Pemesanan awal ponsel lipat pertama Apple, iPhone Duo, langsung ludes terjual dan memicu lonjakan estimasi pengiriman hingga awal tahun depan. Kendati demikian, sejumlah konsumen di Jepang dan Amerika Serikat melaporkan bahwa jadwal pengiriman perangkat tersebut mendadak dimajukan lebih awal oleh sistem. Hingga kini, pihak produsen belum memberikan keterangan resmi mengenai perubahan jadwal pengiriman yang dialami para pemesan secara daring tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-20T04:13:14.401Z"
+  },
+  "ad17c7d67642": {
+    "teks": "Kiper Timnas Indonesia, Emil Audero, tampil penuh saat memperkuat Rayo Vallecano menghadapi Getafe dalam lanjutan Liga Spanyol yang berakhir imbang 1-1. Walau sempat kebobolan satu gol, performa kiper berusia 29 tahun itu dinilai positif dan masuk dalam tiga besar pemain dengan rating tertinggi di skuadnya berdasarkan data platform statistik. Sejak bergabung lewat skema peminjaman pada awal musim, Audero terus berupaya mempertahankan posisinya sebagai penjaga gawang utama.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-20T04:13:22.325Z"
+  },
+  "d71bd3427ddc": {
+    "teks": "Baseus meluncurkan kamera keamanan luar ruangan baru yang dilengkapi lampu sorot bermotor untuk mengikuti target bergerak dan meningkatkan kualitas rekaman malam hari. Perangkat ini memadukan kamera tetap dan kamera yang dapat berputar 360 derajat untuk memantau area secara menyeluruh. Kamera pintar tersebut juga menggunakan analisis berbasis kecerdasan buatan guna mengirimkan pemberitahuan gerakan secara spesifik.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-20T04:13:30.885Z"
   }
 }

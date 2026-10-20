@@ -1,7 +1,510 @@
 {
   "tanggal": "2026-10-20",
-  "diperbarui": "2026-10-20T01:11:44.926Z",
+  "diperbarui": "2026-10-20T04:12:10.204Z",
   "berita": [
+    {
+      "id": "d71bd3427ddc",
+      "judul": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "tautan": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-20T04:00:00.000Z",
+      "cuplikan": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Cameras",
+        "Gadgets",
+        "News",
+        "Smart Home",
+        "Tech"
+      ]
+    },
+    {
+      "id": "c93556053293",
+      "judul": "KOVO Cup Jadi Mimpi Buruk Megawati Cs, Hyundai Hillstate Dituntut Berbenah Jelang Liga Korea",
+      "tautan": "https://www.viva.co.id/sport/1937211-kovo-cup-jadi-mimpi-buruk-megawati-cs-hyundai-hillstate-dituntut-berbenah-jelang-liga-korea",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:58:53.000Z",
+      "cuplikan": "Kegagalan Hyundai Hillstate di KOVO Cup 2026 belum sepenuhnya menggambarkan kekuatan tim tersebut untuk menghadapi Liga Voli Korea 2026/2027. Meski tersingkir di fase gru",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/18/6ad47023e57d8-megawati-hangestri_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "7e72585953c7",
+      "judul": "Laliga Pamer Penyelamatan Gila Emil Audero, Bikin Striker Getafe Frustrasi",
+      "tautan": "https://www.viva.co.id/bola/1937210-laliga-pamer-penyelamatan-gila-emil-audero-bikin-striker-getafe-frustrasi",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:56:51.000Z",
+      "cuplikan": "Penampilan Emil Audero saat mengawal gawang Rayo Vallecano mendapat perhatian dari La Liga. Penyelamatan gemilang kiper Timnas Indonesia itu dalam pertandingan melawan Ge",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad64a39ca798-kiper-rayo-vallecano-emil-audero_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "fa6ca9b34b2f",
+      "judul": "Andoni Iraola Antusias Hadapi Villarreal, Ada Sahabat dan Kenangan Lama di Balik Duel Ini",
+      "tautan": "https://www.liputan6.com/bola/read/8316986/andoni-iraola-antusias-hadapi-villarreal-ada-sahabat-dan-kenangan-lama-di-balik-duel-ini",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:54:55.000Z",
+      "cuplikan": "Andoni Iraola menantikan duel spesial Liverpool vs Villarreal di Liga Champions. Ia akan bertemu sahabatnya, Inigo Perez, dan mengenang laga terakhirnya bersama",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/q-qmbjuWBHTCc84RX8AoFY4-aWI=/0x18:1503x865/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9307681/original/072023900_1785056887-Liverpool_FC_head_coach_Andoni_Iraola.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "9fe0cf3ec82e",
+      "judul": "Haris Lahabu Klarifikasi Polemik SEATRC 2026, Jelaskan Peran dan Apresiasi kepada Atlet",
+      "tautan": "https://www.viva.co.id/sport/1937208-haris-lahabu-klarifikasi-polemik-seatrc-2026-jelaskan-peran-dan-apresiasi-kepada-atlet",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:51:14.000Z",
+      "cuplikan": "Haris memberikan penjelasan mengenai perannya dalam penyelenggaraan Southeast Asia Trail Running Championships (SEATRC) 2026, mekanisme apresiasi kepada atlet, serta tang",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/20/6ad6e417bb22f-seatrc-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "f00cf69c067e",
+      "judul": "Pedri Ungkap Duel Lini Tengah Bisa Menentukan Hasil PSG vs Barcelona",
+      "tautan": "https://www.liputan6.com/bola/read/8316971/pedri-ungkap-duel-lini-tengah-bisa-menentukan-hasil-psg-vs-barcelona",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:37:25.000Z",
+      "cuplikan": "Pedri menyoroti duel lini tengah jelang PSG vs Barcelona di Liga Champions. Ia ingin Blaugrana melanjutkan tren positif dan membalas kekalahan musim lalu.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/NJVurmM4C0CZg5qzajEzQQ60LQ8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291995/original/008665700_1673819997-AP23015739777506.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a2b599854cd4",
+      "judul": "Line Up Honda di MotoGP 2027: Diogo Moreira-Quartararo di HRC, Johann Zarco Didampingi Debutan David Alonso di LCR?amp;nbsp;",
+      "tautan": "https://sports.okezone.com/read/2026/10/20/38/3248947/line-up-honda-di-motogp-2027-diogo-moreira-quartararo-di-hrc-johann-zarco-didampingi-debutan-david-alonso-di-lcr",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:29:59.000Z",
+      "cuplikan": "Sementara David Alonso yang bakal debut tahun depan akan mendampingi Johann Zarco di tim satelit Honda yakni LCR.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/20/38/3248947/diogo_moreira-izGp_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "12c7b082bb8a",
+      "judul": "Luis Enrique Incar Kemenangan saat PSG Hadapi Barcelona di Liga Champions",
+      "tautan": "https://www.liputan6.com/bola/read/8316958/luis-enrique-incar-kemenangan-saat-psg-hadapi-barcelona-di-liga-champions",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:20:18.000Z",
+      "cuplikan": "Luis Enrique mengincar kemenangan saat PSG menghadapi Barcelona di Liga Champions. Ia mengakui kedekatan emosionalnya dengan Blaugrana.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/e4i9CPZiv7J8ep0dBv-ZtsZLlwg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5564420/original/004586000_1776939924-Luis_Enrique.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "723b96c58238",
+      "judul": "Samsung P7 USB4 Dijual di Indonesia Mulai November 2026, Berapa Harganya?",
+      "tautan": "https://www.liputan6.com/tekno/read/8316913/samsung-p7-usb4-dijual-di-indonesia-mulai-november-2026-berapa-harganya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-20T03:17:21.000Z",
+      "cuplikan": "Apa kelebihan dari teknologi USB4 yang terbenam di SSD portabel Samsung P7?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/jfQAMyY7dcNWhv4TZcV1qfq4gRE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9377432/original/094481200_1792463183-Samsung.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "dd85247854be",
+      "judul": "Prediksi Persija vs Arema FC: Misi Balas Dendam Shin Tae-yong, Singo Edan Bukan Lawan Mudah",
+      "tautan": "https://www.viva.co.id/bola/1937204-prediksi-persija-vs-arema-fc-misi-balas-dendam-shin-tae-yong-singo-edan-bukan-lawan-mudah",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:16:55.000Z",
+      "cuplikan": "Persija Jakarta akan menjamu Arema FC dalam lanjutan Super League 2026/2027 di Stadion Patriot Candrabhaga, Rabu (21/10/2026) pukul 19.00 WIB. Macan Kemayoran bertekad ke",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acbb11c0d1fe-skuad-persija-jakarta-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "c93e768704d9",
+      "judul": "Top 3 Berita Bola: Keseruan Indonesia Women's League 2026/2027",
+      "tautan": "https://www.liputan6.com/bola/read/8316846/top-3-berita-bola-keseruan-indonesia-womens-league-20262027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:00:31.000Z",
+      "cuplikan": "Indonesia Women's League 2026/2027 resmi bergulir pada 18 Oktober 2026 di Stadion Madya, Jakarta.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/fnZ1PkbLNxQHYAgU7Q1r3rtD7RQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376342/original/088541700_1792332152-Indonesia_Womens_League_logo.webp",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "2298ac54e651",
+      "judul": "Tegas! Erick Thohir PSSI Usai Tonton Pertandingan Liga Putri: Siapa Tahu Lolos Piala Dunia ...",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8316908/tegas-erick-thohir-pssi-usai-tonton-pertandingan-liga-putri-siapa-tahu-lolos-piala-dunia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T03:00:00.000Z",
+      "cuplikan": "Ketua Umum PSSI, Erick Thohir, resmi membuka gelaran kompetisi sepak bola putri nasional dengan gebrakan baru dan pesan tegas bagi para pecinta sepak bola tanah air. Menanggapi desakan publik yang selama ini menuntut hadirnya kompetisi…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/_IWXWLFhCOXofE6rQOU4PPR69bw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9377427/original/010963600_1792462932-women-league-indonesia-press-conference-fd3d96.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "57c82359b11f",
+      "judul": "Daftar Harga Tiket FIA Rallycross World Cup Indonesia 2026: Paling Murah Rp315.000!",
+      "tautan": "https://sports.okezone.com/read/2026/10/20/43/3248942/daftar-harga-tiket-fia-rallycross-world-cup-indonesia-2026-paling-murah-rp315-000",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T02:57:55.000Z",
+      "cuplikan": "Berikut daftar harga tiket FIA Rallycross World Cup Indonesia 2026 yang digelar di Sirkuti Ancol, Jakarta Utara pada 5-6 Desember 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/20/43/3248942/ricky_wirjan_menjabarkan_rencana_penyelenggaraan_fia_rallycross_world_cup_indonesia_2026_okezone-C7Oh_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "9c5a9a16f02c",
+      "judul": "Andoni Iraola Puji Adaptasi Victor Munoz setelah Bersinar di Liverpool",
+      "tautan": "https://www.liputan6.com/bola/read/8316937/andoni-iraola-puji-adaptasi-victor-munoz-setelah-bersinar-di-liverpool",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T02:57:03.000Z",
+      "cuplikan": "Andoni Iraola memuji Victor Munoz yang cepat beradaptasi di Liverpool. Ia menilai pengalaman dan sikap Munoz membantunya memberikan kontribusi bagi tim.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/wESVbfCEORcYLfkCDZnaTJd_6-Y=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9335622/original/084078600_1788007004-000_C6T96R9.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "2cd2dececb7e",
+      "judul": "Barce alihkan fokus ke ganda campuran para tenis meja",
+      "tautan": "https://www.antaranews.com/berita/5798293/barce-alihkan-fokus-ke-ganda-campuran-para-tenis-meja",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T02:51:50.000Z",
+      "cuplikan": "Atlet para tenis meja Indonesia Barce Eynstend Layaba mengalihkan fokus ke nomor ganda campuran Asian Para Games ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/20/barcee.jpg"
+    },
+    {
+      "id": "302b3f54488f",
+      "judul": "Jadwal French Open 2026 Hari Ini: Jonatan Christie Tantang Ubed, 3 Duel Sesama Indonesia Tersaji",
+      "tautan": "https://www.viva.co.id/sport/1937200-jadwal-french-open-2026-hari-ini-jonatan-christie-tantang-ubed-3-duel-sesama-indonesia-tersaji",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T02:44:37.000Z",
+      "cuplikan": "Sebanyak delapan wakil Indonesia akan memulai perjuangan di babak 32 besar French Open 2026, Selasa (20/10/2026). Sejumlah pertandingan menarik tersaji, termasuk duel ses",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/24/6ab4f064952ce-jonatan-christie-kembali-gagal-poin-pembuka-indonesia-direbut-china-di-final-beregu-asian-games-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "32bb22db31b7",
+      "judul": "Kecepatan Internet Indonesia Ditargetkan 100 Mbps pada 2029",
+      "tautan": "https://www.liputan6.com/tekno/read/8316920/kecepatan-internet-indonesia-ditargetkan-100-mbps-pada-2029",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-20T02:37:53.000Z",
+      "cuplikan": "Target internet 100 Mbps pada 2029 dibarengi upaya memperluas jangkauan ke wilayah 3T.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/816omCxkwP_zKqC_gD_XgFVYnVQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9377442/original/071236100_1792463767-WhatsApp_Image_2026-10-20_at_9.33.07_AM.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "7accabc9bd6a",
+      "judul": "Update Ranking AFC: Indonesia Naik 3 Peringkat usai Borneo FC Menang",
+      "tautan": "https://www.viva.co.id/bola/1937193-update-ranking-afc-indonesia-naik-3-peringkat-usai-borneo-fc-menang",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T02:30:00.000Z",
+      "cuplikan": "Borneo FC menang 2-0 atas Yangon United dan mendongkrak ranking AFC Indonesia. Simak posisi Liga Indonesia serta peluang tambahan wakil di ACL Two 2028/2029.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/19/6ad5d89037b72-borneo-fc-vs-yangon-united_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "412a983e6df6",
+      "judul": "Hansi Flick Tantang Barcelona Buktikan Kualitas saat Hadapi PSG di Liga Champions",
+      "tautan": "https://www.liputan6.com/bola/read/8316914/hansi-flick-tantang-barcelona-buktikan-kualitas-saat-hadapi-psg-di-liga-champions",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T02:28:35.000Z",
+      "cuplikan": "Hansi Flick menantang Barcelona membuktikan kualitas saat menghadapi PSG di Liga Champions. Blaugrana juga menghadapi masalah cedera di lini belakang.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/z2M5Ondwa4RzNcM7fsKxvchuePg=/0x53:1620x966/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5305908/original/073766300_1754369716-AP25212516133853.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d07b2e38d5bb",
+      "judul": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+      "tautan": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-10-20T02:27:46.000Z",
+      "cuplikan": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
+      "gambar": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Artificial Intelligence",
+        "Ethics and Official Misconduct",
+        "Politics and Government",
+        "International Relations",
+        "Royal Families",
+        "Computers and the Internet",
+        "OpenAI Labs",
+        "Alfozan, Abdulrahman",
+        "San Francisco (Calif)"
+      ]
+    },
+    {
+      "id": "5dc4964e998c",
+      "judul": "Barce dan Komet persembahkan dua perunggu para tenis meja di Nagoya",
+      "tautan": "https://www.antaranews.com/berita/5798245/barce-dan-komet-persembahkan-dua-perunggu-para-tenis-meja-di-nagoya",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T02:26:55.000Z",
+      "cuplikan": "Dua atlet para tenis meja Indonesia, Barce Labaya dan Komet Akbar, mempersembahkan dua medali perunggu Asian Para Games ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2021/08/27/Akbar-Komet-2.jpg"
+    },
+    {
+      "id": "ad17c7d67642",
+      "judul": "Membanggakan, Penampilan Emil Audero saat Getafe Vs Rayo Vallecano Masuk Tiga Besar Pemain Terbaik",
+      "tautan": "https://www.viva.co.id/bola/1937196-membanggakan-penampilan-emil-audero-saat-getafe-vs-rayo-vallecano-masuk-tiga-besar-pemain-terbaik",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T02:20:14.000Z",
+      "cuplikan": "Kiper Timnas Indonesia, Emil Audero, tampil penuh saat Rayo Vallecano bertandang ke markas Getafe dalam lanjutan Liga Spanyol, Selasa (20/10/2026) dini hari WIB. Meski ke",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/09/6ac85e8965981-emil-audero_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "18a3d95d886d",
+      "judul": "Kabar Baik iPhone Duo, Jadwal Pengiriman Dimajukan",
+      "tautan": "https://www.liputan6.com/tekno/read/8316864/kabar-baik-iphone-duo-jadwal-pengiriman-dimajukan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-20T02:07:26.000Z",
+      "cuplikan": "Kini beberapa pengguna melaporkan perubahan jadwal pengiriman iPhone Duo jadi lebih cepat. Kapan?",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/ed6zoX85boFH1v5Ly5lA0Yoc5e8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9344727/original/025016300_1788980068-iPhon_Duo_.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "9e2f673f058e",
+      "judul": "Google Pixel 11 Series vs Samsung Galaxy S26 Series, Duel HP Flagship yang Bisa Mengubah Cara Orang Memilih Android",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1937160-google-pixel-11-series-vs-samsung-galaxy-s26-series-duel-hp-flagship-yang-bisa-mengubah-cara-orang-memilih-android",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-20T02:04:00.000Z",
+      "cuplikan": "Google Pixel 11 Series dan Samsung Galaxy S26 Series bersaing lewat AI, kamera, dan dukungan jangka panjang. Simak perbandingan fitur, harga Indonesia, serta pertimbangan",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/20/6ad65b0105f03-ilustrasi-hp-google-pixel-11-series-vs-samsung-galaxy-s26-series_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "f2ae11b0f555",
+      "judul": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "tautan": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-20T02:00:00.000Z",
+      "cuplikan": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Commerce",
+        "Amazon",
+        "Flipkart",
+        "food delivery",
+        "Walmart",
+        "zomato",
+        "Swiggy"
+      ]
+    },
+    {
+      "id": "7be8742ba55a",
+      "judul": "Nasib Trent Alexander-Arnold di Real Madrid Kian Suram, Mourinho Lebih Percaya Fede Valverde",
+      "tautan": "https://www.viva.co.id/bola/1937182-nasib-trent-alexander-arnold-di-real-madrid-kian-suram-mourinho-lebih-percaya-fede-valverde",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T01:54:00.000Z",
+      "cuplikan": "Masa depan Trent Alexander-Arnold di Real Madrid mulai menjadi sorotan setelah Jose Mourinho kembali tidak memainkannya. Bek kanan asal Inggris itu hanya menyaksikan dari",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/11/6a01c925bc77f-trent-alexander-arnold_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "43a12aa41763",
+      "judul": "Calvin Verdonk Tatap Liga Champions, Misi Hentikan 4 Bintang Galatasaray",
+      "tautan": "https://www.liputan6.com/bola/read/8316801/calvin-verdonk-tatap-liga-champions-misi-hentikan-4-bintang-galatasaray",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T01:50:40.000Z",
+      "cuplikan": "Calvin Verdonk berpeluang tampil pada laga Lille vs Galatasaray di Liga Champions.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/LpRauYHtTwgXdjM1UV5o-Ouzi-Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371683/original/036917800_1791799623-verdonk_3.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "75ac7b748ea0",
+      "judul": "NOC Indonesia Buka Jalan Beasiswa Atlet ke Amerika Serikat, Renang dan Tenis Terbanyak!",
+      "tautan": "https://sports.okezone.com/read/2026/10/20/43/3248933/noc-indonesia-buka-jalan-beasiswa-atlet-ke-amerika-serikat-renang-dan-tenis-terbanyak",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T01:50:27.000Z",
+      "cuplikan": "Atlet-atlet Indonesia mendapat beasiswa dari NOC Indonesia untuk melanjutkan pendidikan di Amerika Serikat.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/20/43/3248933/sejumlah_atlet_indonesia_akan_mendapatkan_beasiswa_untuk_menempuh_pendidikan_di_amerika_serikat_okezone-zVaU_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "3177df7a21cb",
+      "judul": "Keputusan Mengejutkan Manajemen MU terkait Nasib Michael Carrick",
+      "tautan": "https://www.viva.co.id/bola/1937181-keputusan-mengejutkan-manajemen-mu-terkait-nasib-michael-carrick",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T01:44:00.000Z",
+      "cuplikan": "Manchester United belum berencana memecat Michael Carrick meski kembali gagal meraih kemenangan di Liga Inggris. Hasil imbang 1-1 melawan Leeds United di Elland Road, Min",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/12/6acc4a6e5b5cb-pelatih-mu-michael-carrick_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a76e09420da5",
+      "judul": "Dean Zandbergen Sulit Bela Timnas Indonesia, John Herdman Ungkap Kendalanya",
+      "tautan": "https://www.viva.co.id/bola/1937189-dean-zandbergen-sulit-bela-timnas-indonesia-john-herdman-ungkap-kendalanya",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T01:34:04.000Z",
+      "cuplikan": "John Herdman disebut mengungkap Dean Zandbergen sulit membela Timnas Indonesia karena garis keturunannya berasal dari buyut. Simak penjelasan dan konteks aturan FIFA.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/19/6a34efd041fcf-dean-zandbergen_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "7afeb8e83f29",
+      "judul": "Duri Argentina di Manchester United",
+      "tautan": "https://www.liputan6.com/bola/read/8316775/duri-argentina-di-manchester-united",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T01:29:22.000Z",
+      "cuplikan": "Manchester United kerap memiliki masalah dengan pemain Argentina. Kasus Lisandro Martinez jadi contoh terbaru.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/tX7K_-KOfx_I0NBiVXmbEDn7n4I=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5555164/original/004580100_1776145398-manchester_united_vs_leeds_united-3.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ed298111b59a",
+      "judul": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "tautan": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-20T01:27:03.000Z",
+      "cuplikan": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Government & Policy",
+        "AI Now Institute",
+        "AI regulation",
+        "mamdani"
+      ]
+    },
+    {
+      "id": "727c33f10620",
+      "judul": "Fadli dan Kadek berpeluang raih emas pada hari kedua Asian Para Games",
+      "tautan": "https://www.antaranews.com/berita/5798161/fadli-dan-kadek-berpeluang-raih-emas-pada-hari-kedua-asian-para-games",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T01:18:03.000Z",
+      "cuplikan": "Kontingen Indonesia dijadwalkan mengikuti 21 nomor final dari tujuh cabang olahraga pada hari kedua perebutan medali ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2024/08/31/20240831_NPCI_AW_Paris2024_Cycling_M-Fadli-Imammuddin_03.jpg"
+    },
+    {
+      "id": "70c1fd013d3c",
+      "judul": "Modus Peretasan Baru Bisa Bobol Komputer Tanpa Klik Tautan",
+      "tautan": "https://www.liputan6.com/tekno/read/8315328/modus-peretasan-baru-bisa-bobol-komputer-tanpa-klik-tautan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-20T01:11:45.000Z",
+      "cuplikan": "Modus peretasan baru diungkapkan telah membobol sejumlah perangkat jurnalis Al Jazeera. Bagaimana modusnya?",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/wNg_QtToEGOSCOv-VidJ5wHoUtA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1764979/original/069457400_1510208095-hacker-1944688_960_720__Pixabay.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "a34da1580e48",
+      "judul": "Gianni Infantino Ditekan UEFA, Gaji hingga Hubungan dengan Donald Trump Jadi Masalah",
+      "tautan": "https://www.viva.co.id/bola/1937180-gianni-infantino-ditekan-uefa-gaji-hingga-hubungan-dengan-donald-trump-jadi-masalah",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-20T01:10:00.000Z",
+      "cuplikan": "Konfederasi Sepak Bola Eropa (UEFA) melayangkan 42 pertanyaan kepada FIFA terkait rencana investasi Piala Dunia senilai US$4,2 miliar yang dibatalkan pada Juli 2026. UEFA",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac3dc938ad7a-erick-thohir-dan-gianni-infantino_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
     {
       "id": "4b3c45d659ac",
       "judul": "Bhayangkara FC vs PSIM: Laskar Mataram Limbung",
@@ -104,19 +607,18 @@
     },
     {
       "id": "b0fb4c056719",
-      "judul": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "judul": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "tautan": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "sumber": "TechCrunch",
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-19T23:39:38.000Z",
-      "cuplikan": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "cuplikan": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
         "Anthropic",
-        "compute",
-        "data centers",
+        "In Brief",
         "nscale"
       ]
     },
@@ -184,11 +686,11 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-19T22:49:27.000Z",
-      "cuplikan": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these…",
+      "cuplikan": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have…",
       "gambar": "",
       "kategoriSumber": [
         "AI",
-        "TC",
+        "ai safety",
         "Hugging Face"
       ]
     },
@@ -360,7 +862,9 @@
         "Shotwell, Gwynne",
         "High Net Worth Individuals",
         "Philanthropy",
-        "Anthropic AI LLC"
+        "Anthropic AI LLC",
+        "Child Savings Accounts",
+        "Stocks and Bonds"
       ]
     },
     {
@@ -385,12 +889,11 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-19T22:04:28.000Z",
-      "cuplikan": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "cuplikan": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
         "Enterprise",
-        "TC",
         "Microsoft"
       ]
     },
@@ -492,28 +995,6 @@
       "terbit": "2026-10-19T21:19:11.000Z",
       "cuplikan": "Pelatih interim PSIM Yogyakarta Guntur Cahyo Utomo mengatakan tim asuhannya mengusung misi bangkit saat menghadapi ...",
       "gambar": "https://img.antaranews.com/cache/800x533/2026/10/16/PSM-menang-atas-PSIM-161026-afa-9.jpg"
-    },
-    {
-      "id": "d07b2e38d5bb",
-      "judul": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
-      "tautan": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
-      "sumber": "The New York Times",
-      "kanal": "nyt-tech",
-      "lajur": "global",
-      "terbit": "2026-10-19T21:17:42.000Z",
-      "cuplikan": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
-      "gambar": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
-      "kategoriSumber": [
-        "Artificial Intelligence",
-        "Ethics and Official Misconduct",
-        "Politics and Government",
-        "International Relations",
-        "Royal Families",
-        "Computers and the Internet",
-        "OpenAI Labs",
-        "Alfozan, Abdulrahman",
-        "San Francisco (Calif)"
-      ]
     },
     {
       "id": "790198d52827",
