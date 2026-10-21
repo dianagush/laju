@@ -1,39 +1,4 @@
 {
-  "12a63e6df536": {
-    "teks": "Google memperingati Pekan Antariksa Dunia 2026 dengan menampilkan citra Nebula Rosebud dari Teleskop Luar Angkasa James Webb pada halaman utamanya. Perayaan tersebut juga mengusung tema teknologi roket modern serta diramaikan kolaborasi khusus bersama karakter permainan populer untuk mengenalkan eksplorasi kosmik kepada masyarakat.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T15:17:15.889Z"
-  },
-  "35d1ebe15c31": {
-    "teks": "Masyarakat perlu mengenali karakteristik, fungsi, dan mekanisme berbagai instrumen berbasis teknologi blockchain sebelum melakukan transaksi aset digital. Selain fluktuasi harga yang berpotensi menghilangkan seluruh dana, risiko juga dapat timbul dari aspek teknologi, keamanan platform, hingga perubahan jaringan blockchain. Oleh karena itu, pemahaman mendalam terhadap dokumentasi dan pernyataan risiko sangat dianjurkan agar pengguna tidak hanya mengandalkan popularitas atau harga suatu aset.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T15:18:00.651Z"
-  },
-  "b9504567463f": {
-    "teks": "Presiden FIFA Gianni Infantino memuji keberhasilan Indonesia dalam menyelenggarakan turnamen FIFA ASEAN Cup 2026. Apresiasi tersebut disampaikan setelah ia bertemu Presiden Prabowo Subianto di Istana Negara. Kesuksesan edisi perdana kompetisi resmi Asia Tenggara ini membuat FIFA terbuka untuk kembali menggelar berbagai agenda sepak bola internasional di Tanah Air.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T15:18:33.459Z"
-  },
-  "9582adddaeb0": {
-    "teks": "MIT Technology Review merilis daftar sepuluh perusahaan teknologi iklim paling potensial di tengah meningkatnya suhu global serta berbagai bencana iklim yang terjadi. Perusahaan-perusahaan tersebut mengembangkan berbagai solusi untuk mengatasi tantangan lingkungan, mulai dari baterai canggih, reaktor nuklir generasi baru, hingga teknologi penyimpanan energi dan penahan banjir. Pemilihan ini juga menyoroti pergeseran tren industri dalam menjawab lonjakan kebutuhan energi untuk pusat data kecerdasan buatan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T15:19:07.824Z"
-  },
-  "fa3e4b59e59d": {
-    "teks": "Lembaga pengawas komunikasi Inggris, Ofcom, sedang menyelidiki Meta atas dugaan pelanggaran undang-undang keselamatan digital terkait peluncuran fitur Instagram Instants. Penyelidikan ini berfokus pada kecukupan penilaian risiko yang dilakukan perusahaan untuk mencegah potensi munculnya konten ilegal serta akses oleh anak-anak. Pihak Meta menyatakan telah melakukan analisis risiko dan menyediakan sistem perlindungan, serta berkomitmen untuk bekerja sama dalam pemeriksaan tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-06T15:19:22.353Z"
-  },
   "abd7dee04e23": {
     "teks": "Praktik merendam ponsel yang basah ke dalam beras ternyata dapat memicu efek samping yang membahayakan perangkat. Selain itu, ulasan mengenai performa Poco F9 Pro dalam melibas berbagai game berat serta pemanfaatan fitur peta offline di Google Maps untuk mengatasi koneksi internet lambat turut menjadi sorotan pembaca.",
     "penyedia": "gemini",
@@ -1650,5 +1615,68 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-20T11:30:02.686Z"
+  },
+  "1e4bce090520": {
+    "teks": "Badan Siber dan Sandi Negara mengingatkan potensi ancaman teknologi komputasi kuantum yang dapat membobol sistem enkripsi kriptografi secara cepat. Peretas berisiko menerapkan strategi mencuri data terenkripsi sekarang untuk dibuka di masa depan saat teknologi tersebut makin berkembang. Oleh karena itu, kesiapan nasional dan kerja sama antarlembaga diperlukan untuk menjaga keamanan ruang siber Indonesia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:38:56.251Z"
+  },
+  "c2a4fb42a4d0": {
+    "teks": "Ponsel Samsung terdahulu tetap mempunyai nilai ekonomi yang ditentukan oleh umur, kondisi fisik, seri perangkat, serta cara penjualannya. Penjualan secara langsung di pasaran umumnya mendatangkan keuntungan finansial yang lebih besar dibandingkan mengikuti program tukar tambah. Walaupun demikian, besaran harga tersebut bukanlah patokan resmi karena sangat bergantung pada keadaan unit serta kebijakan masing-masing penjual.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:39:05.327Z"
+  },
+  "ba1a3e353be6": {
+    "teks": "Meta menghentikan sementara fungsi berbagi percakapan pada platform AI Muse menyusul temuan celah keamanan oleh firma Claroc. Penyelidikan tersebut mendapati ribuan tautan percakapan yang memuat data pribadi dan dokumen internal dapat diakses publik akibat kelemahan struktur URL subdomain. Menanggapi temuan ini, pihak Meta langsung menangguhkan fitur tersebut untuk melakukan peninjauan dan evaluasi sistem lebih lanjut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:39:13.402Z"
+  },
+  "7e2714c3be9d": {
+    "teks": "Vivo resmi meluncurkan ponsel vivo V80 Lite 5G di Indonesia dengan kapasitas baterai jumbo 10.000 mAh yang dibalut bodi tipis berkat teknologi BlueVolt Battery. Perangkat yang hadir dalam tiga pilihan warna dan dua kapasitas penyimpanan ini juga dilengkapi fitur reverse charging serta jaminan kesehatan baterai jangka panjang. Selama masa promosi, pembelian smartphone ini menawarkan berbagai potongan harga dan cashback menarik bagi para konsumen.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:39:21.876Z"
+  },
+  "c408b89fc3c5": {
+    "teks": "Pelatih Persija Jakarta, Shin Tae-yong, yakin timnya mampu mengakhiri catatan buruk saat menjamu Arema FC di Stadion Patriot Candrabhaga, Bekasi. Ia telah mengevaluasi kelemahan tim dari laga sebelumnya dan meminta anak asuhnya mewaspadai serangan balik lawan. Selain itu, ia menyayangkan timnya belum bisa bertanding di stadion kandang sendiri di Jakarta untuk memberikan pengalaman terbaik bagi suporter.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:39:29.934Z"
+  },
+  "7f6bb9c0aa50": {
+    "teks": "Google menghadirkan fitur kecerdasan personal ke asisten Gemini pada Android Auto dan kendaraan dengan sistem Google bawaan. Pembaruan ini memungkinkan pengguna mengakses informasi pribadi dari berbagai aplikasi Google melalui perintah suara saat berkendara. Fitur opsional tersebut mulai diluncurkan hari ini untuk pengguna Android Auto dan akan segera menyusul untuk mobil dengan sistem Google bawaan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:39:37.745Z"
+  },
+  "9dabda8095fb": {
+    "teks": "Elon Musk menyatakan bahwa rencana penggabungan antara Tesla dan SpaceX sedang dipertimbangkan secara aktif. Komite khusus dari kedua perusahaan telah dibentuk untuk membahas potensi tersebut, meskipun belum ada jaminan kesepakatan yang akan tercapai. Keputusan akhir terkait rencana merger ini nantinya harus mendapatkan persetujuan dari para pemegang saham.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:39:45.628Z"
+  },
+  "b9aeb77ac64c": {
+    "teks": "Hakim federal memutuskan untuk menghentikan gugatan hukum yang diajukan Ann Altman terhadap saudaranya, CEO OpenAI Sam Altman. Pengadilan mengambil tindakan tersebut bukan berdasarkan substansi perkara, melainkan karena penggugat menolak menjalani pemeriksaan medis independen yang telah diwajibkan. Sebelumnya, Ann menuduh CEO OpenAI tersebut melakukan pelecehan seksual saat mereka masih anak-anak, namun tuduhan yang telah dibantah keras oleh pihak keluarga tersebut kini resmi dihentikan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:39:54.331Z"
+  },
+  "64dd9d868771": {
+    "teks": "OpenAI meluncurkan fitur baru yang memungkinkan pengguna melindungi percakapan sensitif di ChatGPT menggunakan kode PIN empat digit atau sistem autentikasi ponsel. Obrolan yang dikunci akan disembunyikan dari riwayat reguler dan dikelompokkan dalam proyek khusus, meski fitur ini tidak menyediakan enkripsi ujung-ke-ujung. Fitur tersebut kini sedang digulirkan secara bertahap untuk akun gratis maupun berbayar, sementara pengaturan penyimpanan dan pelatihan data tetap tidak berubah.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T01:40:02.291Z"
   }
 }
