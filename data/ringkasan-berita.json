@@ -1,46 +1,4 @@
 {
-  "abd7dee04e23": {
-    "teks": "Praktik merendam ponsel yang basah ke dalam beras ternyata dapat memicu efek samping yang membahayakan perangkat. Selain itu, ulasan mengenai performa Poco F9 Pro dalam melibas berbagai game berat serta pemanfaatan fitur peta offline di Google Maps untuk mengatasi koneksi internet lambat turut menjadi sorotan pembaca.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T06:43:58.315Z"
-  },
-  "40975540fc50": {
-    "teks": "Kaspersky memperkenalkan Kaspersky AI Protect untuk membantu perusahaan di kawasan Asia Pasifik menghadapi peningkatan ancaman siber berbasis kecerdasan artifisial. Solusi keamanan ini dirancang guna melindungi infrastruktur AI dari berbagai risiko, seperti serangan terhadap model Large Language Model dan agen AI. Melalui sistem tersebut, perusahaan diharapkan dapat mengamankan komponen teknologi AI sekaligus mendeteksi potensi bahaya yang mengincar sistem internal organisasi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T06:44:08.219Z"
-  },
-  "e09c52bf98b7": {
-    "teks": "Lionel Messi resmi mengakhiri karier internasionalnya bersama Timnas Argentina setelah mencatatkan 208 penampilan dan mencetak 126 gol. Selama memperkuat negaranya, pemain berusia 39 tahun tersebut berhasil mempersembahkan total empat trofi senior bergengsi. Gelar-gelar tersebut meliputi dua trofi Copa America, satu gelar Piala Dunia, serta satu trofi Finalissima.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T06:44:21.636Z"
-  },
-  "96c8a1a70fac": {
-    "teks": "Apple dikabarkan bekerja sama dengan LG untuk mengembangkan ekosistem perangkat rumah pintar, termasuk termostat, kunci pintar, bel pintu, serta berbagai kamera keamanan. Kolaborasi ini dirancang agar terintegrasi dengan pusat kendali rumah pintar Apple yang segera diluncurkan. Meskipun dikembangkan bersama, jajaran produk baru tersebut nantinya akan menggunakan merek LG.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T06:44:29.855Z"
-  },
-  "953b3368282d": {
-    "teks": "Perusahaan media hasil penggabungan berencana menggabungkan layanan HBO Max, Paramount+, dan Discovery+ menjadi satu platform tunggal seiring berjalannya waktu. Rencana penyatuan ini merupakan bagian dari proses akuisisi senilai 110 miliar dolar yang telah rampung setelah sempat tertunda oleh gugatan hukum. Meski demikian, pihak perusahaan belum mengumumkan nama resmi maupun tarif berlangganan untuk layanan terpadu tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T06:44:38.104Z"
-  },
-  "f93c04401f21": {
-    "teks": "Apple bekerja sama dengan LG Electronics untuk mengembangkan sejumlah perangkat rumah pintar, seperti bel pintu, termostat, kunci pintu, serta kamera keamanan. Berdasarkan dokumen regulasi, perangkat tersebut nantinya akan dipasarkan menggunakan merek LG, sementara pihak LG sendiri yang akan menangani proses produksi serta dukungannya. Kolaborasi ini melengkapi langkah Apple dalam memperluas ekosistem teknologi rumah pintar yang terhubung.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T07:11:39.029Z"
-  },
   "051aa8142e0e": {
     "teks": "Siaran langsung pertandingan final ASEAN Cup 2026 melalui kanal YouTube Rans Entertainment berhasil menorehkan rekor nasional baru dengan perolehan penonton serentak mencapai 4,5 juta orang. Angka tersebut melampaui rekor sebelumnya yang dipegang oleh laga antara Indonesia melawan Kamboja pada ajang AFF Cup 2026. Pencapaian ini menunjukkan tingginya minat masyarakat Indonesia dalam menyaksikan siaran langsung maupun mencari berbagai konten lanjutan terkait pertandingan olahraga melalui platform YouTube.",
     "penyedia": "gemini",
@@ -1713,5 +1671,12 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-21T04:09:01.767Z"
+  },
+  "a0eab379116c": {
+    "teks": "Advan Indonesia menyampaikan permohonan maaf atas kelirunya gambar pada boks ponsel Advan X1 Neo. Bagian belakang kemasan menampilkan desain kamera punch-hole, padahal unit aslinya memakai waterdrop notch. Perbaikan ilustrasi tersebut sudah dilakukan dan akan diterapkan pada proses cetak boks selanjutnya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T08:08:09.010Z"
   }
 }

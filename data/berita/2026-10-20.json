@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-20",
-  "diperbarui": "2026-10-21T04:07:43.236Z",
+  "diperbarui": "2026-10-21T08:07:48.952Z",
   "berita": [
     {
       "id": "5485edd84937",
@@ -58,7 +58,8 @@
         "Datacentres - UK",
         "UK news",
         "Technology",
-        "Google"
+        "Google",
+        "Business"
       ]
     },
     {
@@ -350,6 +351,24 @@
       "terbit": "2026-10-20T15:38:59.000Z",
       "cuplikan": "Pelatih Persela Lamongan Bima Sakti menegaskan timnya tidak gentar menghadapi klub Liga 1 pada League Cup setelah ...",
       "gambar": "https://img.antaranews.com/cache/800x533/2026/10/20/WhatsApp-Image-2026-10-20-at-20.45.30.jpeg"
+    },
+    {
+      "id": "4a94e60b5041",
+      "judul": "US judge dismisses sexual abuse lawsuit from Sam Altman’s sister",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-20T15:34:04.000Z",
+      "cuplikan": "Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades ago A judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday. Ann Altman accused the OpenAI CEO of…",
+      "gambar": "https://i.guim.co.uk/img/media/75838f30224e162b4eb6bdee8b48450c74b734d7/293_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=d6ce2ff4ce8bc39283634779b951bc8a",
+      "kategoriSumber": [
+        "Sam Altman",
+        "OpenAI",
+        "Technology",
+        "Law (US)",
+        "US news"
+      ]
     },
     {
       "id": "c3b02c1b618e",
