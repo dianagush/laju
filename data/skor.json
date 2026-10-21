@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-21T08:07:50.357Z",
+  "diperbarui": "2026-10-21T11:40:10.331Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -1026,6 +1026,28 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401874955/parma-lazio"
+        },
+        {
+          "id": "401875036",
+          "liga": "ita.1",
+          "mulai": "2026-10-25T11:30:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Inter Milan",
+            "namaLengkap": "Internazionale",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/110.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Fiorentina",
+            "namaLengkap": "Fiorentina",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/109.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401875036/fiorentina-internazionale"
         }
       ]
     },
@@ -1608,28 +1630,6 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401876428/nice-brest"
-        },
-        {
-          "id": "401876423",
-          "liga": "fra.1",
-          "mulai": "2026-10-24T15:15:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
-          "tuanRumah": {
-            "nama": "Toulouse",
-            "namaLengkap": "Toulouse",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/179.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Troyes",
-            "namaLengkap": "Troyes",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/170.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876423/troyes-toulouse"
         },
         {
           "id": "401876427",

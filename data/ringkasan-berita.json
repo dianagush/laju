@@ -1678,5 +1678,19 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-21T08:08:09.010Z"
+  },
+  "c3cb65ad8af1": {
+    "teks": "OpenAI meluncurkan fitur obrolan terkunci pada ChatGPT yang memungkinkan pengguna menyembunyikan riwayat percakapan sensitif. Akses ke obrolan khusus ini memerlukan PIN 4 digit atau pemindaian biometrik pada perangkat seluler. Fitur yang dirilis secara bertahap ini tidak menggunakan enkripsi end-to-end, serta akan menghapus obrolan secara permanen jika pengguna mereset PIN.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T11:40:28.230Z"
+  },
+  "b84510dac388": {
+    "teks": "Samsung dikabarkan sedang menyiapkan pembaruan antarmuka One UI 10 berbasis Android 18 yang membawa perubahan besar pada perangkat Galaxy. Selain peningkatan tampilan serta potensi pemanfaatan fitur grafis baru dari Android 18, muncul pula isu perubahan nama antarmuka menjadi Galaxy OS. Meski demikian, seluruh kabar mengenai fitur maupun pergantian nama tersebut masih sebatas rumor karena belum dikonfirmasi secara resmi oleh Samsung.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-21T11:40:54.962Z"
   }
 }
