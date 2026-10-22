@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-22T01:14:45.286Z",
+  "diperbarui": "2026-10-22T04:14:25.073Z",
   "sumber": [
     {
       "id": "liputan6-tekno",
@@ -26,14 +26,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 100,
-      "diterima": 51,
+      "diterima": 52,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 49,
+        "terlaluLama": 48,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-21T22:04:00.000Z"
+      "terbaru": "2026-10-22T02:04:00.000Z"
     },
     {
       "id": "jawapos-tekno",
@@ -43,14 +43,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 50,
-      "diterima": 47,
+      "diterima": 46,
       "dibuang": {
         "luarTopik": 3,
         "terbitUlang": 0,
-        "terlaluLama": 0,
+        "terlaluLama": 1,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-21T15:24:01.000Z"
+      "terbaru": "2026-10-22T04:00:23.000Z"
     },
     {
       "id": "okezone-techno",
@@ -60,11 +60,11 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 30,
-      "diterima": 9,
+      "diterima": 8,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 21,
+        "terlaluLama": 22,
         "masaDepan": 0
       },
       "terbaru": "2026-10-21T08:56:00.000Z"
@@ -94,14 +94,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 20,
-      "diterima": 10,
+      "diterima": 9,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
-        "terlaluLama": 10,
+        "terlaluLama": 11,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-16T07:24:11.000Z"
+      "terbaru": "2026-10-22T01:51:39.000Z"
     },
     {
       "id": "liputan6-bola",
@@ -118,7 +118,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-22T01:00:20.000Z"
+      "terbaru": "2026-10-22T04:00:08.000Z"
     },
     {
       "id": "viva-bola",
@@ -135,7 +135,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-22T00:44:54.000Z"
+      "terbaru": "2026-10-22T02:58:00.000Z"
     },
     {
       "id": "viva-sport",
@@ -169,7 +169,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-21T21:01:02.000Z"
+      "terbaru": "2026-10-22T03:45:55.000Z"
     },
     {
       "id": "antara-bola",
@@ -186,7 +186,7 @@
         "terlaluLama": 19,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-15T03:31:36.000Z"
+      "terbaru": "2026-10-22T01:20:31.000Z"
     },
     {
       "id": "antara-liga-indonesia",
@@ -203,7 +203,7 @@
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-21T19:30:58.000Z"
+      "terbaru": "2026-10-22T04:01:59.000Z"
     },
     {
       "id": "antara-bola-dunia",
@@ -305,7 +305,7 @@
         "terlaluLama": 7,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-21T23:06:37.000Z"
+      "terbaru": "2026-10-22T03:48:50.000Z"
     },
     {
       "id": "guardian-tech",
@@ -322,7 +322,7 @@
         "terlaluLama": 12,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-21T15:02:28.000Z"
+      "terbaru": "2026-10-22T01:13:01.000Z"
     },
     {
       "id": "nyt-tech",
@@ -331,15 +331,15 @@
       "lajur": "global",
       "ok": true,
       "galat": null,
-      "jumlahFeed": 21,
-      "diterima": 21,
+      "jumlahFeed": 20,
+      "diterima": 20,
       "dibuang": {
         "luarTopik": 0,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-21T22:57:53.000Z"
+      "terbaru": "2026-10-22T01:21:13.000Z"
     },
     {
       "id": "ars",
@@ -400,14 +400,14 @@
       "ok": true,
       "galat": null,
       "jumlahFeed": 50,
-      "diterima": 39,
+      "diterima": 40,
       "dibuang": {
-        "luarTopik": 11,
+        "luarTopik": 10,
         "terbitUlang": 0,
         "terlaluLama": 0,
         "masaDepan": 0
       },
-      "terbaru": "2026-10-21T22:39:50.000Z"
+      "terbaru": "2026-10-22T02:24:17.000Z"
     },
     {
       "id": "mit-tr",
