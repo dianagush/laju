@@ -1,39 +1,4 @@
 {
-  "051aa8142e0e": {
-    "teks": "Siaran langsung pertandingan final ASEAN Cup 2026 melalui kanal YouTube Rans Entertainment berhasil menorehkan rekor nasional baru dengan perolehan penonton serentak mencapai 4,5 juta orang. Angka tersebut melampaui rekor sebelumnya yang dipegang oleh laga antara Indonesia melawan Kamboja pada ajang AFF Cup 2026. Pencapaian ini menunjukkan tingginya minat masyarakat Indonesia dalam menyaksikan siaran langsung maupun mencari berbagai konten lanjutan terkait pertandingan olahraga melalui platform YouTube.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T14:38:04.169Z"
-  },
-  "ca25e6d37504": {
-    "teks": "Huawei Watch GT 7 Series resmi meluncur di Indonesia dengan fitur pembayaran QRIS offline pertama di tanah air hasil kolaborasi bersama LinkAja. Melalui integrasi ini, pengguna dapat bertransaksi langsung di berbagai jaringan merchant ritel tanpa harus membawa ponsel atau tersambung ke internet. Perangkat pintar tersebut juga dilengkapi sensor keamanan otomatis yang mengunci sistem jika jam terlepas dari pergelangan tangan pemiliknya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T14:40:08.026Z"
-  },
-  "3cb4f9fad5ad": {
-    "teks": "Google meluncurkan platform eksperimental bernama Playground yang memanfaatkan kecerdasan buatan untuk merancang permainan dua atau tiga dimensi tanpa memerlukan keahlian pemrograman atau menggambar. Pengguna dapat mengetikkan instruksi atau mengubah perintah awal, lalu menyempurnakan mekanika, fisika, serta grafik permainan tersebut melalui perintah lanjutan. Hasil karya ini dapat disimpan secara pribadi, dibagikan melalui tautan, atau dipublikasikan ke galeri komunitas. Saat ini, platform tersebut telah dapat diakses di Amerika Serikat bagi pengguna berusia minimal 18 tahun dengan akses bertingkat berdasarkan keanggotaan Google One.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T14:40:57.585Z"
-  },
-  "36f0b2067f81": {
-    "teks": "Microsoft menggelar acara Surface dan Windows di San Francisco yang berfokus pada teknologi kecerdasan buatan dan integrasi komputer lokal. Acara berdurasi sekitar satu jam ini disiarkan secara langsung melalui kanal YouTube resmi Microsoft. Petinggi perusahaan bersama CEO NVIDIA dijadwalkan hadir untuk membahas perkembangan terbaru, termasuk potensi peluncuran perangkat keras baru yang didukung cip berkapasitas tinggi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T14:44:10.074Z"
-  },
-  "ff4e201ecd75": {
-    "teks": "Obat penurun berat badan populer dari Eli Lilly dan Novo Nordisk dinilai berpotensi memperlambat proses penuaan berdasarkan indikator biologis tubuh. Selain itu, perusahaan Energy Dome mengembangkan baterai berskala besar yang memanfaatkan karbon dioksida terkompresi guna menyimpan energi terbarukan untuk pasokan listrik.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-07T14:47:03.340Z"
-  },
   "9cb8645dddcc": {
     "teks": "Generasi Z kembali menggunakan earphone kabel karena aksesori tersebut menjadi tren gaya retro yang populer di media sosial. Selain itu, perangkat ini dianggap lebih praktis karena langsung bisa dipakai tanpa perlu mengisi daya atau melakukan penyambungan Bluetooth. Keberadaan kabel juga berfungsi sebagai isyarat agar tidak diganggu, sekaligus menawarkan kualitas audio yang stabil tanpa latensi serta investasi yang lebih tahan lama.",
     "penyedia": "gemini",
@@ -1692,5 +1657,40 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-21T11:40:54.962Z"
+  },
+  "36cbb56336d6": {
+    "teks": "Pasar ponsel papan atas diramaikan oleh kehadiran iPhone 18 Pro Max dan OPPO Find X10 Pro Max yang mengandalkan keunggulan kamera masing-masing. iPhone 18 Pro Max hadir dengan tiga kamera 48 megapiksel berdiafragma variabel dan sudah dipasarkan secara resmi di Indonesia. Sementara itu, OPPO Find X10 Pro Max mengusung tiga kamera belakang beresolusi 200 megapiksel dan baru diperkenalkan secara global dengan harga kisaran Rp24 hingga Rp29 juta di Singapura.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T01:15:37.085Z"
+  },
+  "d092a3def486": {
+    "teks": "Bek Timnas Indonesia, Calvin Verdonk, dipercaya masuk susunan pemain inti Lille saat menghadapi Galatasaray pada matchday ketiga Liga Champions 2026/2027. Pelatih Davide Ancelotti menurunkan Verdonk di lini belakang guna mengawal pertahanan dari ancaman lini serang Galatasaray yang dipimpin Victor Osimhen. Kesempatan ini menjadi momen penting bagi Verdonk untuk menunjukkan kemampuannya di level tertinggi sepak bola Eropa.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T01:16:08.766Z"
+  },
+  "486d0ae198c8": {
+    "teks": "Kebijakan baru Airbnb yang melarang pemilik properti mewajibkan tamu melakukan pekerjaan rumah tangga saat keluar menuai kemarahan para host. Sebaliknya, aturan yang berlaku mulai akhir November tersebut disambut gembira oleh para pelancong yang sebelumnya mengeluhkan kewajiban bersih-bersih di samping biaya kebersihan yang mahal. Pihak platform menegaskan bahwa pelanggar aturan baru ini dapat menghadapi sanksi berupa peringatan hingga penghapusan akun.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T01:17:19.767Z"
+  },
+  "aa126a47b404": {
+    "teks": "Bose telah mengadopsi Skullcandy sebagai merek terpisah di bawah unit bisnis audio konsumennya untuk menjangkau audiens yang lebih luas dan muda. Meski nilai akuisisi tidak dibeberkan, kedua produsen perangkat audio tersebut telah menjalin kerja sama selama beberapa tahun. Melalui langkah ini, Bose memperluas portofolio mereknya, sementara Skullcandy dapat memanfaatkan pengembangan teknologi dari Bose.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T01:17:46.351Z"
+  },
+  "bab647f3d893": {
+    "teks": "Hakim New Mexico memerintahkan Meta membayar denda sebesar 25 miliar dolar AS atas pernyataan menyesatkan terkait privasi data pengguna. Pelanggaran terhadap undang-undang praktik tidak adil di negara bagian tersebut mencakup puluhan juta kekeliruan seputar moderasi konten dan pengaturan privasi Facebook. Hasil denda akan disalurkan ke sistem sekolah New Mexico, tetapi Meta berencana untuk mengajukan banding.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T01:18:02.408Z"
   }
 }
