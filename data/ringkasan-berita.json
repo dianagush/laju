@@ -1692,5 +1692,40 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-22T08:15:53.180Z"
+  },
+  "407348eeabb2": {
+    "teks": "Perkembangan teknologi kecerdasan buatan, khususnya agentic AI, berpotensi menggantikan berbagai tugas manusia dan menjadi tantangan bagi pekerja muda yang baru memasuki dunia profesional. Menghadapi situasi tersebut, Kementerian Komunikasi dan Digital menyiapkan peta jalan nasional yang bersifat fleksibel untuk menyeimbangkan pemanfaatan teknologi dan perlindungan tenaga kerja. Pemerintah juga mengandalkan sejumlah perangkat regulasi serta penguatan infrastruktur guna mendukung transformasi digital nasional menuju visi Indonesia Digital 2045.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T11:43:04.412Z"
+  },
+  "2d8d9d48b9a2": {
+    "teks": "ASUS ROG resmi menghadirkan handheld gaming PC ROG XBOX Ally X20 di Indonesia dengan dukungan prosesor AMD Ryzen AI Z2 Extreme, RAM 24GB, serta penyimpanan SSD 1TB. Perangkat ini mengusung layar OLED 7,4 inci berkecepatan 120Hz yang dibekali lapisan anti-pantulan untuk menjaga kenyamanan visual. Selain itu, penggunaan stik kontrol berbasis sensor magnetik dirancang demi meminimalkan risiko keausan komponen atau stick drift.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T11:43:19.956Z"
+  },
+  "2f1ec346db2f": {
+    "teks": "Pemesanan awal digital Grand Theft Auto VI berhasil melampaui sejumlah game AAA di Amerika Serikat, termasuk unggul 148 persen dari Call of Duty: Modern Warfare 2 pada periode sebanding. Analisis Sensor Tower ini menunjukkan antusiasme tinggi menjelang peluncuran game Rockstar Games tersebut pada 19 November 2026 di PlayStation 5 dan Xbox Series X/S. Namun, angka ini belum mencakup penjualan fisik atau laporan resmi dari pengembang.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T11:43:35.986Z"
+  },
+  "0a294696738b": {
+    "teks": "Media Korea Selatan tetap memfavoritkan Hyundai Hillstate sebagai kandidat juara V-League 2026-2027 meski sempat tersingkir pada babak awal KOVO Cup 2026. Kehadiran pevoli Indonesia, Megawati Hangestri, serta duetnya bersama Jordan Wilson menjadi tumpuan utama di lini serang. Saat ini, pelatih Kang Sung-hyung berupaya mencari solusi atas melemahnya sektor pertahanan sebelum liga resmi dimulai pada akhir Oktober 2026.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T11:43:52.032Z"
+  },
+  "e6dedf24d970": {
+    "teks": "Tesla berencana memasarkan Cybercab kepada konsumen sebelum tahun ini berakhir dan kini sudah memproduksi unit tersebut di Texas. Penjualan awal akan dimulai secara terbatas kepada pihak yang dapat membantu membangun jaringan robotaxi. Sebagian besar kendaraan tanpa setir dan pedal rem ini nantinya akan dioperasikan langsung di bawah layanan ride service milik perusahaan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T11:44:27.197Z"
   }
 }

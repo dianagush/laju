@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-21",
-  "diperbarui": "2026-10-22T08:14:24.380Z",
+  "diperbarui": "2026-10-22T11:42:30.195Z",
   "berita": [
     {
       "id": "621d2f60a253",
@@ -123,6 +123,20 @@
       ]
     },
     {
+      "id": "b1893daf8ca4",
+      "judul": "Jadwal Moto3 Australia 2026 di Phillip Island",
+      "tautan": "https://www.liputan6.com/bola/read/8317506/jadwal-moto3-australia-2026-di-phillip-island",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-21T16:43:31.000Z",
+      "cuplikan": "Moto3 2026 hadir di Australia. Balapan berlangsung di Phillip Island pada 23-25 Oktober.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/U7SaxaoffmKjMIm6iLf95vANQI4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5535977/original/020280500_1774192724-HBQzwpZWcAA_vyU.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
       "id": "2834a77ba749",
       "judul": "Victor Dethan Ungkap Kunci Kemenangan Persija atas Arema FC 5-1, Gol Perdana Jadi Momen Spesial",
       "tautan": "https://enamplus.liputan6.com/bola/read/8318591/victor-dethan-ungkap-kunci-kemenangan-persija-atas-arema-fc-5-1-gol-perdana-jadi-momen-spesial",
@@ -224,6 +238,20 @@
       "terbit": "2026-10-21T16:09:15.000Z",
       "cuplikan": "Surat kabar asal Inggris, The Times, telah mengkoreksi dan meminta maaf kepada Presiden FIFA Gianni Infantino dan FIFA ...",
       "gambar": "https://img.antaranews.com/cache/800x533/2026/08/14/thumbs_b_c_14c82cd40af1a4aa8cfed7cf8a4b2002.jpg"
+    },
+    {
+      "id": "c96a607e6c61",
+      "judul": "PSM vs Persebaya Sedang Tanding, Dapatkan Link Live Streaming BRI Super League",
+      "tautan": "https://www.liputan6.com/bola/read/8318555/psm-vs-persebaya-sedang-tanding-dapatkan-link-live-streaming-bri-super-league",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-21T16:06:57.000Z",
+      "cuplikan": "PSM Makassar memetik kemenangan perdana di laga terakhir, melawan Persebaya yang belum terkalahkan di BRI Super League musim ini.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/8EcCC1hU0iGLfWU-PxHUevtPXQk=/1x35:1080x643/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5435375/original/038675600_1765028451-Persebaya.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
     },
     {
       "id": "a020048a640d",
