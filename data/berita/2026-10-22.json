@@ -1,7 +1,375 @@
 {
   "tanggal": "2026-10-22",
-  "diperbarui": "2026-10-22T04:14:25.073Z",
+  "diperbarui": "2026-10-22T08:14:24.380Z",
   "berita": [
+    {
+      "id": "a064fa99f0bb",
+      "judul": "Asian Para Games 2026: Emas dalam genggaman Karisma Evi Tiarani",
+      "tautan": "https://www.antaranews.com/infografik/5804373/asian-para-games-2026-emas-dalam-genggaman-karisma-evi-tiarani",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T08:00:00.000Z",
+      "cuplikan": "Sprinter para atletik Indonesia Karisma Evi Tiarani sukses mengalahkan para pesaingnya dan mempersembah medali emas ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/22/20261022-Asian-Para-Games-2026-Emas-dalam-genggaman-Karisma-Evi-Tiarani.jpg"
+    },
+    {
+      "id": "5bab0c3192fb",
+      "judul": "Para Pelari Terbaik Indonesia Ikutan JRF 2026",
+      "tautan": "https://www.liputan6.com/bola/read/8318988/para-pelari-terbaik-indonesia-ikutan-jrf-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T07:40:39.000Z",
+      "cuplikan": "Sejumlah pelari top dalam dan luar negeri dipastikan akan ikut di Jakarta Running Festival 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/zYNA3_WtWecWveIfiIqe-MzmIyM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9379942/original/020977500_1792652668-20261022_111530.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "642f06306e3e",
+      "judul": "Asian Para Games rasa Paralimpiade",
+      "tautan": "https://www.antaranews.com/berita/5804317/asian-para-games-rasa-paralimpiade",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T07:36:35.000Z",
+      "cuplikan": "Skor 0-15 terpampang sebagai hasil akhir pertandingan atlet para anggar Indonesia Didit Diantoro melawan wakil Irak ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/22/npc.jpeg"
+    },
+    {
+      "id": "1f650095cfc7",
+      "judul": "JRF 2026 Diikuti 37 Ribu Lebih Pelari dari 49 Negara",
+      "tautan": "https://www.liputan6.com/bola/read/8318957/jrf-2026-diikuti-37-ribu-lebih-pelari-dari-49-negara",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T07:30:21.000Z",
+      "cuplikan": "Jakarta Running Festival 2026 akan diikuti banyak pelari dunia. Total peserta berasal dari 49 negara.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/VISTSnri3uCSPN-VAJZarOj4is8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9379941/original/004133900_1792652667-20261022_091913.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "700d6eba7724",
+      "judul": "Bimo/Nabila ke perempat final Indonesia Masters",
+      "tautan": "https://www.antaranews.com/berita/5804237/bimo-nabila-ke-perempat-final-indonesia-masters",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T07:11:59.000Z",
+      "cuplikan": "Ganda campuran Bimo Prasetyo/Arlya Nabila Thesya melaju ke perempat final Indonesia Masters setelah mengalahkan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/22/indonesia-master-bimo-alya.jpg"
+    },
+    {
+      "id": "86ae544aa54b",
+      "judul": "UK working to identify exposure after global cyber-security warning",
+      "tautan": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-22T06:58:38.000Z",
+      "cuplikan": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg"
+    },
+    {
+      "id": "19d7eb4360a8",
+      "judul": "Persib Jadi Klub Indonesia Terbaik di ASEAN Versi Opta, Beda Tipis dengan JDT dan Buriram United",
+      "tautan": "https://www.viva.co.id/bola/1937780-persib-jadi-klub-indonesia-terbaik-di-asean-versi-opta-beda-tipis-dengan-jdt-dan-buriram-united",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T06:47:12.000Z",
+      "cuplikan": "Persib Bandung menempati peringkat ketiga klub terbaik ASEAN versi Opta 2026. Maung Bandung jadi wakil Indonesia terbaik, hanya di bawah JDT dan Buriram United.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/22/6ad9af7267b5b-persib_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "1636ee1fc277",
+      "judul": "Highlights Bali United Tumbangkan PS Freeport! Aksi Koprol Anak-Anak Papua, Kiper Doa-Doa Bola",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8318924/highlights-bali-united-tumbangkan-ps-freeport-aksi-koprol-anak-anak-papua-kiper-doa-doa-bola",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T06:39:55.000Z",
+      "cuplikan": "Bali United U-15 berhasil melaju ke babak final Putaran Nasional Piala Soeratin U-15 2026 setelah mengalahkan PS Freeport Indonesia (Papua Tengah) lewat drama adu penalti. Kemenangan ini membawa Bali United U-15 mencatat sejarah baru…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/k0Zu4140j_b9X2S1DNsLDCxAXE4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9379883/original/034753400_1792651193-bali-freeport-7e2ae0.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "b499e72ac3ce",
+      "judul": "Pengakuan Jujur Calvin Verdonk Saat Hadapi Victor Osimhen, Akui Terpukau Sikap Bintang Galatasaray",
+      "tautan": "https://www.viva.co.id/bola/1937773-pengakuan-jujur-calvin-verdonk-saat-hadapi-victor-osimhen-akui-terpukau-sikap-bintang-galatasaray",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T06:29:27.000Z",
+      "cuplikan": "Calvin Verdonk akui sulit menghentikan Victor Osimhen saat Lille kalah 2-4 dari Galatasaray. Bek Timnas Indonesia itu memuji sikap Osimhen seusai mencetak gol.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/22/6ad9a783a3e90-calvin-verdonk-kiri_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "b2917dd007e7",
+      "judul": "What is PHP and why did it spark a global cyber-security scramble?",
+      "tautan": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-10-22T06:24:59.000Z",
+      "cuplikan": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "d95a80336adc",
+      "judul": "Lakers Buka NBA 2026/2027 dengan Lumat Warriors, Kessler Ukir Rekor",
+      "tautan": "https://www.liputan6.com/bola/read/8318909/lakers-buka-nba-20262027-dengan-lumat-warriors-kessler-ukir-rekor",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T06:19:13.000Z",
+      "cuplikan": "Lakers menang atas Warriors di laga pertama NBA 2026/2027. Kessler langsung mencuri hati fans Lakers.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/riGkqFaIT7CyvOsUHXy1nt6M7RY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9379862/original/023139000_1792649956-063_2301420153.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "dc91631bf352",
+      "judul": "Pengakuan Jujur Calvin Verdonk usai Lille Dihajar Galatasaray",
+      "tautan": "https://www.viva.co.id/bola/1937768-pengakuan-jujur-calvin-verdonk-usai-lille-dihajar-galatasaray",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T06:18:40.000Z",
+      "cuplikan": "Bek Timnas Indonesia, Calvin Verdonk, menyoroti rapuhnya pertahanan Lille setelah menelan kekalahan 2-4 dari Galatasaray pada matchday ketiga fase liga Liga Champions 202",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/03/24/69c23585e5b17-pemain-lille-calvin-verdonk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "944d658f534d",
+      "judul": "Reaksi AFC usai Borneo FC Comeback Luar Biasa atas Tainan City, Kebangkitan Pesut Etam Jadi Sorotan",
+      "tautan": "https://www.viva.co.id/bola/1937767-reaksi-afc-usai-borneo-fc-comeback-luar-biasa-atas-tainan-city-kebangkitan-pesut-etam-jadi-sorotan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T06:14:13.000Z",
+      "cuplikan": "Reaksi AFC usai Borneo FC comeback apik atas Tainan City: menang 3-1, Pesut Etam menjadi juara Grup D dan memastikan tiket perempat final AFC Challenge League.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/22/6ad9a6f22deab-borneo-fc_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a53c3560c8b3",
+      "judul": "Tempat Menonton PSM vs Persebaya di BRI Super League 2026/2027",
+      "tautan": "https://www.liputan6.com/bola/read/8318558/tempat-menonton-psm-vs-persebaya-di-bri-super-league-20262027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T06:00:06.000Z",
+      "cuplikan": "PSM Makassar vs Persebaya Surabaya berlangsung di Gelora BJ Habibie, Kamis (22/10/2026) pukul 15.30 WIB.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/9DmIvqmMxOJQjqqv-J8DjmJIRqk=/30x172:981x708/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9314647/original/077064900_1785756647-Persebaya_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "76f211c98a8e",
+      "judul": "Persib Dapat Kabar Gembira Jelang Hadapi MU",
+      "tautan": "https://www.viva.co.id/bola/1937763-persib-dapat-kabar-gembira-jelang-hadapi-mu",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T05:58:45.000Z",
+      "cuplikan": "Persib Bandung mendapat kabar positif dari gelandang asal Jepang, Gakuto Notsuda. Pemain berusia 32 tahun itu mengungkapkan kondisi fisiknya terus membaik setelah menjala",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/25/6a8d204c79a50-gelandang-persib-bandung-gakuto-notsuda_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "98f87483dc82",
+      "judul": "Tim Indonesia Lampaui Target Emas di Asian Para Games 2026, CdM Reda Manthovani Optimistis Ada Tambahan Medali",
+      "tautan": "https://sports.okezone.com/read/2026/10/22/43/3249495/tim-indonesia-lampaui-target-emas-di-asian-para-games-2026-cdm-reda-manthovani-optimistis-ada-tambahan-medali",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T05:29:43.000Z",
+      "cuplikan": "Kontingen Indonesia sudah melampaui target raihan medali emas di Asian Para Games 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/22/43/3249495/kontingen_indonesia_sudah_melampaui_target_raihan_medali_emas_di_asian_para_games_2026-4wqM_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "f2025f4a548e",
+      "judul": "Pimpin Inovasi AI Telkom, Veranita Yosephine Dorong Keterlibatan Perempuan di Sektor ICT",
+      "tautan": "https://www.liputan6.com/tekno/read/8318774/pimpin-inovasi-ai-telkom-veranita-yosephine-dorong-keterlibatan-perempuan-di-sektor-ict",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-22T05:21:45.000Z",
+      "cuplikan": "Keterlibatan perempuan dalam tampuk kepemimpinan Telkom terbukti menjadi elemen kunci dalam mempercepat transformasi perusahaan.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Rns3uDyHsaf6bQ-c3o2KOKch65M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9379616/original/054976900_1792640823-Telkom.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "045476e2f580",
+      "judul": "Meski Sudah Jadi Musuh, 2 Pemain Ini Doakan Persib Berjaya di Asia",
+      "tautan": "https://www.viva.co.id/bola/1937751-meski-sudah-jadi-musuh-2-pemain-ini-doakan-persib-berjaya-di-asia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T05:12:00.000Z",
+      "cuplikan": "Dukungan untuk Persib Bandung di kompetisi antarklub Asia datang dari dua mantan pemainnya, Nick Kuipers dan Sergio Castel. Meski kini memperkuat klub berbeda, keduanya t",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/07/09/686dc04923ae7-pemain-dewa-united-nick-kuipers_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "45978161846b",
+      "judul": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "tautan": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-22T05:00:08.000Z",
+      "cuplikan": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have 12 months to head off public opposition…",
+      "gambar": "https://i.guim.co.uk/img/media/35c9f0f2f37cd8a924ee3a4ce63b0697c2f947d6/945_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=d21042e0c51c31edf08072d054bbe0dc",
+      "kategoriSumber": [
+        "Datacentres - UK",
+        "UK news",
+        "AI (artificial intelligence)",
+        "Microsoft",
+        "Nvidia",
+        "Cisco"
+      ]
+    },
+    {
+      "id": "d60f4232b4a4",
+      "judul": "Dihantam Jadwal Neraka, Persib Tegaskan Satu Hal Jelang Lawan Madura United",
+      "tautan": "https://www.viva.co.id/bola/1937749-dihantam-jadwal-neraka-persib-tegaskan-satu-hal-jelang-lawan-madura-united",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T04:38:47.000Z",
+      "cuplikan": "Persib Bandung menghadapi tantangan berat saat bertandang ke markas Madura United pada pekan keenam BRI Super League 2026/2027, Kamis (22/10/2026). Jadwal pertandingan ya",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad3204566e88-thom-haye-dan-marc-klok_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "2a8aa258980c",
+      "judul": "Kejutan! Pengakuan Pelatih Arema Marcos Santos Soal Persija: Dengan Pemain & Uang Investasinya ...",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8318818/kejutan-pengakuan-pelatih-arema-marcos-santos-soal-persija-dengan-pemain-amp-uang-investasinya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T04:33:12.000Z",
+      "cuplikan": "Pelatih Arema FC, Marcos Santos, sepakat dengan penilaian bahwa Persija Jakarta menjadi kandidat kuat juara BRI Super League 2026/2027. Santos baru saja merasakan keganasan Persija setelah Arema FC dibantai 1-5 dalam pekan keenam di…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/IrMgJtTiqRYekvP6xP0rjSvyXxA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9379670/original/080137300_1792643590-arema-marcos-573849.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "1341c1eff520",
+      "judul": "Taktik Team Order Aprilia Takkan Mempan Lawan Marc Marquez, Malah Bisa Jadi Bumerang!",
+      "tautan": "https://sports.okezone.com/read/2026/10/22/38/3249474/taktik-team-order-aprilia-takkan-mempan-lawan-marc-marquez-malah-bisa-jadi-bumerang",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T04:32:16.000Z",
+      "cuplikan": "Keinginan Aprilia Racing itu menerapkan team order demi mengalahkan Marc Marquez tidak akan mempan.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/22/38/3249474/keinginan_aprilia_racing_itu_menerapkan_team_order_demi_mengalahkan_marc_marquez_tidak_akan_mempan-mbuL_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "3c5fece89c29",
+      "judul": "Bernardo Silva Bahagia Usai Cetak Gol Pertama untuk Real Madrid",
+      "tautan": "https://www.liputan6.com/bola/read/8318813/bernardo-silva-bahagia-usai-cetak-gol-pertama-untuk-real-madrid",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T04:31:12.000Z",
+      "cuplikan": "Bernardo Silva mencetak gol pertamanya untuk Real Madrid saat menang 4-1 atas RB Leipzig. Ia juga menyoroti pentingnya duel El Clasico berikutnya.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/Pb_M4-AGvs32y71BeNrCwvNKoGg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9379652/original/054347500_1792643055-AP26294713912819.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "7e99e031c190",
+      "judul": "Manchester United Dibantai Como 1-4, Begini Respons Michael Carrick",
+      "tautan": "https://www.liputan6.com/bola/read/8318658/manchester-united-dibantai-como-1-4-begini-respons-michael-carrick",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T04:30:05.000Z",
+      "cuplikan": "Manchester United kalah telak dari Como di Liga Champions. Carrick buka suara soal kemungkinan dipecat.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/5FsyoTp3UwAcFbu2e24ENGSNwc0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9379460/original/011012700_1792632204-000_D3ZM2UQ.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "9e9b7cc67cf1",
+      "judul": "AI Buka Peluang Kerja, Indonesia Perlu Perkuat Keahlian Digital",
+      "tautan": "https://www.liputan6.com/tekno/read/8318807/ai-buka-peluang-kerja-indonesia-perlu-perkuat-keahlian-digital",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-22T04:25:42.000Z",
+      "cuplikan": "Komdigi menekankan pentingnya penguatan SDM, keterampilan digital, dan keamanan siber.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/paaRf4kJNBL0fqckq2Vw2IO_Zo0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9379653/original/030123300_1792643141-WhatsApp_Image_2026-10-21_at_2.07.07_PM.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "b90353fddffe",
+      "judul": "Jose Mourinho Puji Performa Vinicius Junior Usai Real Madrid Hajar RB Leipzig",
+      "tautan": "https://www.liputan6.com/bola/read/8318799/jose-mourinho-puji-performa-vinicius-junior-usai-real-madrid-hajar-rb-leipzig",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-22T04:18:18.000Z",
+      "cuplikan": "Jose Mourinho memuji performa Vinicius Junior setelah Real Madrid menang 4-1 atas RB Leipzig. Ia juga menjelaskan alasan mengganti sang penyerang.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/7U_FyoviAqRhpgYPvwF-otes-G4=/0x131:1280x852/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9330775/original/091597700_1787444524-Jose-Mourinho.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "31b5ec84e770",
+      "judul": "Top 3 Tekno: Cara Lindungi Internet Banking dari Hacker Terpopuler",
+      "tautan": "https://www.liputan6.com/tekno/read/8318785/top-3-tekno-cara-lindungi-internet-banking-dari-hacker-terpopuler",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-22T04:16:42.000Z",
+      "cuplikan": "Cara melindungi internet banking dari serangan hacker membuat penasaran para pembaca.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/__HU0IDskrpMXsB8uhUT2eYZXEs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9378505/original/078924400_1792545940-WhatsApp_Image_2026-10-20_at_5.03.45_PM.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
     {
       "id": "33f3d00403a2",
       "judul": "Persik andalkan kekompakan hadapi PSS",
@@ -37,17 +405,6 @@
       "kategoriSumber": [
         "Bola"
       ]
-    },
-    {
-      "id": "b2917dd007e7",
-      "judul": "What is PHP and why did it spark a global cyber-security scramble?",
-      "tautan": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "sumber": "BBC News",
-      "kanal": "bbc-tech",
-      "lajur": "global",
-      "terbit": "2026-10-22T03:48:50.000Z",
-      "cuplikan": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "id": "b682cba0b216",
@@ -490,6 +847,25 @@
       ]
     },
     {
+      "id": "2355322f24b2",
+      "judul": "Flaw in PHP computer language leads to shutdown of websites around world",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-22T00:39:15.000Z",
+      "cuplikan": "Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sites Websites around the globe have gone dark after a serious vulnerability was found in a computer language used to build much…",
+      "gambar": "https://i.guim.co.uk/img/media/7b2ac9acb1cb8d1678d58a8d278df37914456a10/461_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=f3262289ef4e806a3e94a72dcc5581d6",
+      "kategoriSumber": [
+        "Internet",
+        "Data and computer security",
+        "Computing",
+        "Programming",
+        "Technology",
+        "World news"
+      ]
+    },
+    {
       "id": "2a56c4d03342",
       "judul": "Jadi Starter di Liga Champions, Berapa Total Gol yang Dicetak Calvin Verdonk sepanjang Karier?",
       "tautan": "https://www.viva.co.id/bola/1937710-jadi-starter-di-liga-champions-berapa-total-gol-yang-dicetak-calvin-verdonk-sepanjang-karier",
@@ -628,6 +1004,29 @@
       ]
     },
     {
+      "id": "bc3f63f707cf",
+      "judul": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-21T23:33:34.000Z",
+      "cuplikan": "Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in…",
+      "gambar": "https://i.guim.co.uk/img/media/21d5e45e012af879a997b720907ee632f9052e63/294_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3cac15c730f87c42b43f63646c6f830e",
+      "kategoriSumber": [
+        "Meta",
+        "US elections 2016",
+        "Donald Trump",
+        "Facebook",
+        "Cambridge Analytica",
+        "Privacy",
+        "Social networking",
+        "Technology",
+        "Law (US)",
+        "US politics"
+      ]
+    },
+    {
       "id": "397627a366df",
       "judul": "Tifo Horor Pendukung PSG Berbuntut Panjang, Barca Laporkan Suporter Tuan Rumah ke UEFA",
       "tautan": "https://www.viva.co.id/bola/1937702-tifo-horor-pendukung-psg-berbuntut-panjang-barca-laporkan-suporter-tuan-rumah-ke-uefa",
@@ -662,6 +1061,27 @@
       "terbit": "2026-10-21T23:04:03.000Z",
       "cuplikan": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
       "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "id": "2c9536723835",
+      "judul": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-21T23:03:16.000Z",
+      "cuplikan": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday…",
+      "gambar": "https://i.guim.co.uk/img/media/5079e04428f0108241397eee4e3383a1344455f5/436_0_4565_3655/master/4565.jpg?width=140&quality=85&auto=format&fit=max&s=645b2152a14156592f81a8cc071672a4",
+      "kategoriSumber": [
+        "Tesla",
+        "Quarterly results",
+        "Elon Musk",
+        "SpaceX",
+        "Technology",
+        "Science",
+        "Business",
+        "US news"
+      ]
     },
     {
       "id": "2e60e966c7c1",
@@ -1092,15 +1512,14 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-21T21:14:19.000Z",
-      "cuplikan": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "cuplikan": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
         "Apps",
         "Social",
         "agentic commerce",
-        "ai apps",
-        "eCommerce",
+        "e-commerce",
         "Meta",
         "muse"
       ]

@@ -1,18 +1,4 @@
 {
-  "b4d271e2568c": {
-    "teks": "Sebagai bentuk penerapan PP Tunas, TikTok telah menonaktifkan 9 juta akun pengguna berusia di bawah 16 tahun. Selain itu, Meta memblokir 85.000 akun Instagram dan 99.000 akun Facebook anak, serta mengalihkan 22,5 juta akun ke fitur Teen Accounts. Menteri Komunikasi dan Digital Meutya Hafid menegaskan bahwa pemerintah tidak hanya berpatokan pada penutupan akun, tetapi juga pembaruan fitur keamanan platform digital demi melindungi anak.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-08T08:01:06.983Z"
-  },
-  "f7f6d9c330ce": {
-    "teks": "Kementerian Komunikasi dan Digital mengimbau Penyelenggara Sistem Elektronik untuk memitigasi risiko demi memperkuat perlindungan anak di internet. Selain itu, pemerintah telah menindak lebih dari 5,3 juta konten negatif pada situs dan media sosial, dengan kasus perjudian sebagai pelanggaran terbanyak. Upaya menciptakan ruang digital yang aman ini memerlukan kolaborasi dengan pelaku industri serta partisipasi masyarakat dalam melaporkan konten berbahaya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-08T08:01:24.760Z"
-  },
   "727d999a34de": {
     "teks": "CEO OpenAI Sam Altman menilai risiko dari kecerdasan buatan sepadan dengan manfaatnya, sehingga publik perlu menerima sejumlah dampak negatif. Sikap ini disampaikan di tengah maraknya kasus peretasan dan gugatan hukum terkait penggunaan ChatGPT. Walau memilih aturan fleksibel, OpenAI tetap memperlambat pengembangan model terbarunya akibat kendala keandalan. Di sisi lain, Presiden Donald Trump mendorong para pelaku industri AI menandatangani kesepakatan moral demi pengembangan yang aman.",
     "penyedia": "gemini",
@@ -1678,5 +1664,33 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-22T04:16:07.954Z"
+  },
+  "aa38e4a36991": {
+    "teks": "Badan Siber dan Sandi Negara mengingatkan masyarakat untuk meningkatkan keamanan data pribadi guna mencegah peretasan pada layanan perbankan digital. Pengguna diminta mewaspadai ancaman siber jarak jauh dengan menjaga kerahasiaan kata sandi serta menghindari jaringan internet yang tidak aman. Selain itu, perlindungan informasi finansial harus dilakukan secara berlapis pada perangkat, aplikasi, maupun saat data sedang disimpan dan dikirimkan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T08:15:03.796Z"
+  },
+  "f2025f4a548e": {
+    "teks": "Direktur Telkom Indonesia Veranita Yosephine mengajak perempuan untuk mengambil peran strategis dalam kepemimpinan sektor ICT seiring pesatnya perkembangan teknologi AI. Saat menghadiri acara Bali Tech Week 2026, ia menekankan pentingnya kolaborasi dan program pendampingan bagi talenta baru. Keterwakilan perempuan pada tingkat puncak dianggap mampu memperkaya pertimbangan strategis serta mendorong terciptanya ekosistem digital yang inklusif dan berkelanjutan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T08:15:20.763Z"
+  },
+  "9e9b7cc67cf1": {
+    "teks": "Peluang pembukaan lapangan kerja baru dari perkembangan kecerdasan buatan di Indonesia perlu diimbangi dengan peningkatan kapasitas sumber daya manusia. Kementerian Komunikasi dan Digital menilai program pelatihan keterampilan tenaga kerja serta penguatan keamanan siber sejak dini sangat dibutuhkan untuk mengantisipasi ancaman digital. Selain itu, kolaborasi lintas sektor antara pemerintah, industri, akademisi, dan masyarakat menjadi kunci utama dalam menciptakan ekosistem digital yang aman dan tepercaya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T08:15:37.033Z"
+  },
+  "75dc9f037089": {
+    "teks": "Persib Bandung bakal melakoni laga tandang melawan Madura United yang belum terkalahkan di kandang pada pekan keenam BRI Super League. Untuk menghadapi gempuran tuan rumah, pelatih Igor Tolic dapat mengandalkan tiga pemain pilar. Thom Haye siap mengatur tempo permainan, Beckham Putra berpeluang menyisir lini sayap memanfaatkan kebugarannya, sedangkan Patricio Matricardi bertugas menjaga pertahanan sekaligus mengancam lewat duel udara.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-22T08:15:53.180Z"
   }
 }
