@@ -1,60 +1,4 @@
 {
-  "035bc3f450f1": {
-    "teks": "Pekan kedelapan MPL ID Season 18 menyajikan sembilan laga penting pada awal Oktober 2026, termasuk duel antara RRQ Hoshi melawan Team Liquid ID serta ONIC. Selain jadwal turnamen tersebut, topik terpopuler lainnya mencakup kebiasaan sepele yang berisiko merusak layar ponsel lipat. Topik hangat terakhir datang dari Grab Indonesia yang menyatakan siap mempelajari ketentuan dalam Peraturan Presiden Nomor 27 Tahun 2026 mengenai ekosistem transportasi digital.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T06:52:01.072Z"
-  },
-  "993ef2908994": {
-    "teks": "Rockstar Games mengumumkan kehadiran enam stasiun radio dengan berbagai genre musik dan siniar dalam gim Grand Theft Auto VI. Berbagai musisi terkenal dilibatkan sebagai pembawa acara untuk memandu saluran tersebut. Pemain kini dapat menikmati musik dan siniar tersebut sambil berjalan kaki menggunakan pelantang telinga yang terhubung ke ponsel karakter.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T06:52:09.454Z"
-  },
-  "828f5550a1f9": {
-    "teks": "Pembalap Indonesia Veda Ega Pratama bertekad mengerahkan kemampuan terbaiknya pada debut Moto3 di Sirkuit Mandalika di hadapan publik sendiri. Berbekal pengalaman positif sebelumnya di lintasan tersebut serta tambahan motivasi dari balapan sebelumnya, ia menyambut seri kandang ini dengan penuh percaya diri.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T06:52:17.499Z"
-  },
-  "2556129a46d8": {
-    "teks": "Tiga berita olahraga mendominasi perhatian pembaca, mulai dari kemenangan Persib Bandung atas Port FC dengan skor 3-1 di ajang ASEAN Club Championship hingga keberhasilan timnas Indonesia menjuarai FIFA ASEAN Cup 2026 usai mengalahkan Thailand lewat adu penalti. Selain itu, kabar dari ajang MotoGP turut disorot terkait tekad Marc Marquez untuk memperbaiki rekor buruknya di Mandalika serta kritik sang pembalap terhadap format baru MotoGP 2027.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T06:52:26.090Z"
-  },
-  "35e22bfd7b8c": {
-    "teks": "Kaspersky telah menghentikan lebih dari 31.000 pesan elektronik palsu yang menyalahgunakan fitur autentikasi Microsoft. Pelaku kejahatan siber memanipulasi tautan pengalihan serta notifikasi resmi guna menjebak target agar membuka situs berbahaya atau mengunduh program jahat. Mengingat modus ini sangat sulit dikenali secara kasat mata, penggunaan perangkat lunak dengan perlindungan anti-phishing sangat dianjurkan bagi pengguna individu maupun organisasi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T08:51:37.135Z"
-  },
-  "e940878f17ab": {
-    "teks": "SpaceX berencana menjadi operator seluler utama dengan menyetujui akuisisi portofolio spektrum 800 MHz milik Grain Management yang kini menunggu persetujuan FCC. Spektrum pita rendah ini memungkinkan sinyal Starlink menembus dinding dan menjangkau pelanggan di dalam bangunan melalui mayoritas perangkat seluler. Didukung konstelasi satelit Gen2, SpaceX akan menyediakan layanan internet cepat yang andal hingga ke lokasi terpencil.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T08:52:03.687Z"
-  },
-  "49be3bd07416": {
-    "teks": "Tiga peneliti keselamatan OpenAI yang dipecat membantah tuduhan pelanggaran penanganan informasi sensitif melalui surat terbuka. Mereka menegaskan bahwa komunikasi dengan pihak luar dilakukan sesuai norma perusahaan dan telah dikoordinasikan dengan jajaran pimpinan. Ketiganya juga mengkhawatirkan cara pemecatan tersebut memicu rasa takut bagi staf yang tersisa untuk menyuarakan masalah keselamatan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T08:52:30.473Z"
-  },
-  "c4dbc5506246": {
-    "teks": "Anthropic memperbarui kebijakan penggunaan dengan melarang perilaku kasar atau kejam yang berkepanjangan terhadap model AI mereka. Aturan yang berlaku untuk kasus ekstrem ini muncul setelah proyek penyiksaan bot percakapan memicu kecaman. Perusahaan tersebut juga memperbarui kebijakan pemilu untuk mencegah manipulasi proses demokrasi serta menyesuaikan aturan penargetan pemilih.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T08:53:06.618Z"
-  },
   "0c42662807ad": {
     "teks": "Kemajuan teknologi digital membuat masyarakat kini dapat dengan mudah mengakses berbagai instrumen investasi langsung melalui telepon pintar. Kendati demikian, investor pemula diingatkan untuk tetap cermat dengan memahami karakteristik produk, risiko kerugian, serta legalitas penyedia layanan sebelum mulai berinvestasi. Otoritas Jasa Keuangan menekankan pentingnya mengenali profil risiko dan menyesuaikan pilihan instrumen dengan tujuan keuangan agar terhindar dari potensi kerugian.",
     "penyedia": "gemini",
@@ -1734,5 +1678,47 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-23T06:00:46.588Z"
+  },
+  "132d4b4a504a": {
+    "teks": "Kementerian Komunikasi dan Digital menegaskan bahwa jawaban chatbot AI bukan merupakan pernyataan resmi maupun bukti kebijakan pemerintah. Klarifikasi ini diberikan merespons isu pembatasan konten yang dikaitkan dengan AI, sebab teknologi tersebut dapat mengalami halusinasi dan memberikan informasi yang tidak akurat. Komdigi pun mengimbau masyarakat agar kritis memverifikasi informasi dari AI, serta meminta platform digital meningkatkan transparansi algoritma dan pelabelan konten.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T11:31:04.522Z"
+  },
+  "46ea223ab9bf": {
+    "teks": "Anthropic mengajukan proposal aturan keselamatan yang mengizinkan hakim federal AS menghentikan perilisan model AI berbahaya. Intervensi pemerintah hanya berlaku pada kasus serangan siber, senjata biologis, atau lepas kendali yang melampaui ambang batas kerugian finansial maupun korban jiwa. Evaluator independen bertugas memeriksa laboratorium dan melaporkan bahaya mendesak kepada Departemen Perdagangan AS. Namun, rancangan ini menuai sorotan akibat potensi konflik kepentingan serta batasan kriteria risiko yang ketat.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T11:31:37.843Z"
+  },
+  "88fc173bb564": {
+    "teks": "Arema FC memutus kontrak pelatih Marcos Santos setelah mengalami kekalahan 1-5 dari Persija Jakarta. Langkah ini ditempuh manajemen menyusul tren buruk klub yang gagal memetik kemenangan dalam lima laga beruntun. General Manager Yusrinal Fitriandi menegaskan bahwa pemecatan tersebut bertujuan memberikan penyegaran taktis, dengan tetap menuntaskan seluruh hak kontrak juru taktik asal Brasil itu secara profesional.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T11:31:53.529Z"
+  },
+  "3a2f269655bd": {
+    "teks": "Pasangan ganda campuran Indonesia, Amri Syahnawi dan Nita Violina Marwah, berhasil melaju ke perempat final French Open 2026. Mereka mengalahkan wakil Taiwan, Ye Hong Wei dan Nicole Gonzales Chan, dua gim langsung dengan skor 21-14, 21-12 pada babak 16 besar. Selanjutnya, Amri/Nita dijadwalkan menghadapi ganda campuran asal China, Feng Yanzhe dan Huang Dongping.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T11:32:09.066Z"
+  },
+  "be059f72c96a": {
+    "teks": "Perusahaan rintisan Warhound meraih pendanaan 200 juta dolar AS untuk menciptakan anjing kerja rekayasa genetika bagi Amerika Serikat. Melalui metode kloning dan penyuntingan gen, perusahaan bertujuan menghilangkan masalah kesehatan serta meningkatkan kemampuan penciuman. Anjing-anjing ini juga akan dibekali pelindung tubuh canggih dari Anduril, dengan kelahiran pertama ditargetkan pada awal 2027.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T11:32:24.842Z"
+  },
+  "64f5d8ef45eb": {
+    "teks": "Oura kembali menggugat Ultrahuman dan produsen lokal SVTronics di pengadilan Texas atas dugaan pelanggaran dua hak paten pada cincin pintar Ring Pro. Oura mengklaim desain dan komponen internal produk tersebut masih melanggar kekayaan intelektualnya, sehingga menuntut ganti rugi serta pelarangan penjualan di Amerika Serikat. Menanggapi tuduhan ini, Ultrahuman menegaskan akan melawan gugatan tersebut dan tetap menjual produknya di pasar AS.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T11:32:53.842Z"
   }
 }
