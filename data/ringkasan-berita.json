@@ -1,39 +1,4 @@
 {
-  "727d999a34de": {
-    "teks": "CEO OpenAI Sam Altman menilai risiko dari kecerdasan buatan sepadan dengan manfaatnya, sehingga publik perlu menerima sejumlah dampak negatif. Sikap ini disampaikan di tengah maraknya kasus peretasan dan gugatan hukum terkait penggunaan ChatGPT. Walau memilih aturan fleksibel, OpenAI tetap memperlambat pengembangan model terbarunya akibat kendala keandalan. Di sisi lain, Presiden Donald Trump mendorong para pelaku industri AI menandatangani kesepakatan moral demi pengembangan yang aman.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T01:23:48.079Z"
-  },
-  "3753795fdf5c": {
-    "teks": "Persik Kediri dijadwalkan menjamu Madura United dalam lanjutan kompetisi BRI Super League di Stadion Brawijaya. Tim tamu datang dengan catatan positif setelah menyapu bersih tiga laga awal dengan kemenangan, sementara tuan rumah bertekad menghentikan tren tersebut. Pelatih Persik telah menyiapkan taktik khusus dan meminta para pemainnya tampil fokus sepanjang pertandingan untuk mengamankan kemenangan di kandang sendiri.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T01:23:56.593Z"
-  },
-  "9d095d7304bf": {
-    "teks": "Amazon meluncurkan lini perangkat baru bernama Alexa Tablet untuk menggantikan seri Fire yang akan segera dihentikan pengirimannya. Seri terbaru ini hadir dalam tiga varian ukuran, yaitu Alexa Tablet 12 Pro, Alexa Tablet 11, dan Alexa Tablet 8, serta menjalankan sistem operasi Android resmi yang dilengkapi akses penuh ke Google Play Store. Masa pemesanan awal telah dibuka dengan jadwal pengiriman mulai tanggal 14 Oktober mendatang.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T01:24:04.580Z"
-  },
-  "972dff165402": {
-    "teks": "Paramount Pictures bekerja sama dengan CD Projekt Red dan produser Lorenzo di Bonaventura untuk menggarap film laga hidup yang diadaptasi dari permainan video Cyberpunk 2077. Proyek film ini masih berada pada tahap awal sehingga belum ada informasi mengenai alur cerita maupun jajaran pemerannya. Sebelumnya, dunia permainan ini juga telah diadaptasi menjadi serial anime berjudul Cyberpunk: Edgerunners di Netflix.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T01:24:12.486Z"
-  },
-  "6b355b449f98": {
-    "teks": "Ritel busana asal Inggris, Asos, mengonfirmasi terjadinya kebocoran data pelanggan setelah peretas membobol platform pihak ketiga yang digunakan perusahaan. Peretas mencuri informasi pribadi seperti nama, alamat, nomor telepon, dan email, lalu memanfaatkan aplikasi resmi perusahaan untuk mengirimkan ancaman agar Asos mau merespons tuntutan mereka.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-09T01:24:20.332Z"
-  },
   "035bc3f450f1": {
     "teks": "Pekan kedelapan MPL ID Season 18 menyajikan sembilan laga penting pada awal Oktober 2026, termasuk duel antara RRQ Hoshi melawan Team Liquid ID serta ONIC. Selain jadwal turnamen tersebut, topik terpopuler lainnya mencakup kebiasaan sepele yang berisiko merusak layar ponsel lipat. Topik hangat terakhir datang dari Grab Indonesia yang menyatakan siap mempelajari ketentuan dalam Peraturan Presiden Nomor 27 Tahun 2026 mengenai ekosistem transportasi digital.",
     "penyedia": "gemini",
@@ -1727,5 +1692,47 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-22T11:44:27.197Z"
+  },
+  "9146e08d5a07": {
+    "teks": "Penyebab ponsel Android terjangkau memiliki bingkai layar lebih tebal ketimbang tipe premium terletak pada penggunaan panel kaku yang membutuhkan ruang konektor. Sementara itu, bocoran Oppo Reno X mengungkap spesifikasi HP berlayar lebar dengan kapasitas baterai besar dan kamera beresolusi tinggi. Di Indonesia, perkembangan kecerdasan buatan berpotensi menciptakan lapangan kerja baru yang membutuhkan kesiapan serta peningkatan keterampilan sumber daya manusia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T05:59:27.978Z"
+  },
+  "ffb7c4a81d02": {
+    "teks": "iBox Indonesia resmi merilis daftar harga dan promo untuk iPhone Duo yang hadir dalam varian penyimpanan 256GB hingga 2TB. Banderol resmi ponsel lipat Apple berbalut warna Star White dan Night Sky ini tercatat lebih tinggi dibandingkan perkiraan awal. Perangkat tersebut mulai tersedia pada 30 Oktober 2026 dengan tawaran skema cicilan bulanan serta beragam potongan harga aksesori dan bonus poin selama masa pemesanan awal.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T05:59:43.578Z"
+  },
+  "609d824ee51c": {
+    "teks": "Harga resmi ponsel lipat pertama Apple, iPhone Duo, di Indonesia dijual mulai Rp45,678 juta hingga Rp75,999 juta. Pemesanan gawai berkapasitas 256GB hingga 2TB ini dibuka mulai Jumat (23/10) sebelum dijual perdana pada 30 Oktober. Mengusung chip A20 Pro dan sistem operasi iOS 27, gawai khusus eSIM ini dilengkapi layar dalam 7,6 inci serta layar luar 5,4 inci.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T05:59:59.121Z"
+  },
+  "776c9248af5b": {
+    "teks": "Pemesanan awal ponsel lipat iPhone Duo di Indonesia telah dibuka oleh sejumlah distributor resmi sejak 23 Oktober 2026 sebelum penjualan resminya dimulai pada 30 Oktober. Perangkat ini hadir dalam dua pilihan warna dengan opsi kapasitas penyimpanan hingga 2 TB. Selain itu, iPhone Duo mengusung layar OLED 7,6 inci di bagian dalam dan 5,4 inci di luar yang mendukung refresh rate 120 Hz.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T06:00:13.934Z"
+  },
+  "bce9da56411f": {
+    "teks": "Posisi Michael Carrick sebagai pelatih Manchester United berada dalam tekanan setelah kekalahan telak dari Como, dengan laga kontra Bournemouth menjadi penentunya. Kepala perekrutan Christopher Vivell dilaporkan mengincar Julian Nagelsmann sebagai kandidat pengganti. Selain itu, manajemen klub juga mempertimbangkan empat nama lain, yaitu Antonio Conte, Eddie Howe, Kieran McKenna, dan Unai Emery.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T06:00:29.839Z"
+  },
+  "771f8b81cd83": {
+    "teks": "Meta mencapai kesepakatan dengan Mark Zuckerberg untuk mengantisipasi potensi pajak kekayaan khusus di California. Berdasarkan kesepakatan tersebut, Zuckerberg berkomitmen untuk tetap tinggal di negara bagian tersebut selama delapan tahun ke depan. Sebagai imbalannya, perusahaan akan menerbitkan saham baru agar ia dapat membayar kewajiban pajak tanpa harus kehilangan kendali atas perusahaan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-23T06:00:46.588Z"
   }
 }
