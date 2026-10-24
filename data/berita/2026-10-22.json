@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-22",
-  "diperbarui": "2026-10-23T11:30:35.864Z",
+  "diperbarui": "2026-10-24T05:43:41.316Z",
   "berita": [
     {
       "id": "6ddab5a565e6",
@@ -165,16 +165,16 @@
       "cuplikan": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
       "gambar": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg",
       "kategoriSumber": [
+        "Computer Network Outages",
+        "PHP Foundation",
+        "Software",
         "Computer Security",
         "Cyberwarfare and Defense",
         "Cyberattacks and Hackers",
         "Computers and the Internet",
         "Artificial Intelligence",
-        "PHP",
         "OpenAI Labs",
-        "PHP Foundation",
-        "Germany",
-        "Kenya"
+        "Germany"
       ]
     },
     {
@@ -555,15 +555,15 @@
       "gambar": "",
       "kategoriSumber": [
         "Data Centers",
-        "Science and Technology",
         "Artificial Intelligence",
-        "Infrastructure (Public Works)",
+        "Steel and Iron",
+        "Paint",
+        "Fires and Firefighters",
+        "Buildings (Structures)",
         "PPG Industries Inc",
         "Sherwin-Williams Company",
         "Pittsburgh (Pa)",
-        "Steel and Iron",
-        "Fires and Firefighters",
-        "Paint"
+        "Computers and the Internet"
       ]
     },
     {
@@ -2881,7 +2881,7 @@
       "judul": "Jadwal perdana League Cup Indonesia 2026/2027: Ada PSMS vs Persija",
       "tautan": "https://www.antaranews.com/berita/5803621/jadwal-perdana-league-cup-indonesia-2026-2027-ada-psms-vs-persija",
       "sumber": "ANTARA",
-      "kanal": "antara-liga-indonesia",
+      "kanal": "antara-bola",
       "lajur": "olahraga",
       "terbit": "2026-10-22T01:20:31.000Z",
       "cuplikan": "Kompetisi sepak bola Indonesia bakal kedatangan turnamen baru pada musim 2026/2027. League Cup atau Piala Liga ...",

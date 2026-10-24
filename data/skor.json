@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-10-23T11:30:37.384Z",
+  "diperbarui": "2026-10-24T05:43:42.615Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -229,20 +229,20 @@
           "id": "401879253",
           "liga": "eng.1",
           "mulai": "2026-10-23T19:00:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Ipswich",
             "namaLengkap": "Ipswich Town",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/373.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tamu": {
             "nama": "Nottm Forest",
             "namaLengkap": "Nottingham Forest",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/393.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401879253/nottingham-forest-ipswich-town"
@@ -450,28 +450,6 @@
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882844",
-          "liga": "esp.1",
-          "mulai": "2026-10-16T19:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Deportivo",
-            "namaLengkap": "Deportivo",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/90.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Levante",
-            "namaLengkap": "Levante",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1538.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882844/levante-deportivo"
-        },
         {
           "id": "401882843",
           "liga": "esp.1",
@@ -696,20 +674,20 @@
           "id": "401882836",
           "liga": "esp.1",
           "mulai": "2026-10-23T19:00:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Alavés",
             "namaLengkap": "Alavés",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/96.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tamu": {
             "nama": "Málaga",
             "namaLengkap": "Málaga",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/99.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401882836/malaga-alaves"
@@ -918,28 +896,6 @@
       "nama": "Serie A",
       "laga": [
         {
-          "id": "401874959",
-          "liga": "ita.1",
-          "mulai": "2026-10-16T18:45:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Frosinone",
-            "namaLengkap": "Frosinone",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4057.png&w=48&h=48",
-            "skor": 4,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Sassuolo",
-            "namaLengkap": "Sassuolo",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3997.png&w=48&h=48",
-            "skor": 2,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874959/sassuolo-frosinone"
-        },
-        {
           "id": "401874760",
           "liga": "ita.1",
           "mulai": "2026-10-17T13:00:00.000Z",
@@ -1141,20 +1097,20 @@
           "id": "401874957",
           "liga": "ita.1",
           "mulai": "2026-10-23T18:45:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Torino",
             "namaLengkap": "Torino",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/239.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
+            "skor": 3,
+            "menang": true
           },
           "tamu": {
             "nama": "Monza",
             "namaLengkap": "Monza",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4007.png&w=48&h=48",
-            "skor": 0,
+            "skor": 2,
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401874957/monza-torino"
@@ -1356,34 +1312,78 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401874779/ac-milan-udinese"
+        },
+        {
+          "id": "401874980",
+          "liga": "ita.1",
+          "mulai": "2026-10-27T17:30:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Sassuolo",
+            "namaLengkap": "Sassuolo",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3997.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Lazio",
+            "namaLengkap": "Lazio",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/112.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874980/lazio-sassuolo"
+        },
+        {
+          "id": "401874780",
+          "liga": "ita.1",
+          "mulai": "2026-10-27T19:45:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "AS Roma",
+            "namaLengkap": "AS Roma",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Cagliari",
+            "namaLengkap": "Cagliari",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2925.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874780/cagliari-as-roma"
+        },
+        {
+          "id": "401874786",
+          "liga": "ita.1",
+          "mulai": "2026-10-27T19:45:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Torino",
+            "namaLengkap": "Torino",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/239.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Como",
+            "namaLengkap": "Como",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2572.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874786/como-torino"
         }
       ]
     },
     "ger.1": {
       "nama": "Bundesliga",
       "laga": [
-        {
-          "id": "401884770",
-          "liga": "ger.1",
-          "mulai": "2026-10-16T18:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Frankfurt",
-            "namaLengkap": "Eintracht Frankfurt",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/125.png&w=48&h=48",
-            "skor": 1,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Cologne",
-            "namaLengkap": "FC Cologne",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/122.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401884770/fc-cologne-eintracht-frankfurt"
-        },
         {
           "id": "401884769",
           "liga": "ger.1",
@@ -1564,21 +1564,21 @@
           "id": "401884761",
           "liga": "ger.1",
           "mulai": "2026-10-23T18:30:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Stuttgart",
             "namaLengkap": "VfB Stuttgart",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/134.png&w=48&h=48",
-            "skor": 0,
+            "skor": 2,
             "menang": false
           },
           "tamu": {
             "nama": "Gladbach",
             "namaLengkap": "Borussia Mönchengladbach",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/268.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
+            "skor": 3,
+            "menang": true
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401884761/borussia-monchengladbach-vfb-stuttgart"
         },
@@ -1764,28 +1764,6 @@
       "nama": "Ligue 1",
       "laga": [
         {
-          "id": "401876437",
-          "liga": "fra.1",
-          "mulai": "2026-10-16T18:45:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Le Mans",
-            "namaLengkap": "Le Mans",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2697.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Toulouse",
-            "namaLengkap": "Toulouse",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/179.png&w=48&h=48",
-            "skor": 3,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876437/toulouse-le-mans"
-        },
-        {
           "id": "401876432",
           "liga": "fra.1",
           "mulai": "2026-10-17T15:15:00.000Z",
@@ -1965,21 +1943,21 @@
           "id": "401876428",
           "liga": "fra.1",
           "mulai": "2026-10-23T18:45:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Brest",
             "namaLengkap": "Brest",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6997.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tamu": {
             "nama": "Nice",
             "namaLengkap": "Nice",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2502.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
+            "skor": 2,
+            "menang": true
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401876428/nice-brest"
         },
@@ -2140,7 +2118,7 @@
         {
           "id": "401876422",
           "liga": "fra.1",
-          "mulai": "2026-10-25T19:45:00.000Z",
+          "mulai": "2026-10-26T19:30:00.000Z",
           "status": "pra",
           "detail": "Scheduled",
           "tuanRumah": {
