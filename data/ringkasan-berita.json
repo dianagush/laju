@@ -1,32 +1,4 @@
 {
-  "57579a081102": {
-    "teks": "Bocoran informasi mengenai Samsung Galaxy S27 Series memperkirakan hadirnya empat tipe, termasuk varian baru Galaxy S27 Pro. Model standar dan Plus disebut memakai panel OLED M14+, sedangkan varian Pro dan Ultra mengusung panel M16. Perkiraan harga awal di Amerika Serikat berkisar antara USD 899 hingga USD 1.499, tetapi pihak Samsung belum memberikan konfirmasi resmi mengenai rincian spesifikasi dan tarif tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-10T13:35:00.198Z"
-  },
-  "83ce8b5eece4": {
-    "teks": "Menteri Komunikasi dan Digital mendatangi kantor Telin di Los Angeles untuk meninjau perkembangan infrastruktur serta bisnis perusahaan tersebut di kancah internasional. Kunjungan ini membahas strategi penguatan konektivitas global guna memperluas peran Indonesia dalam ekosistem digital dunia. Pemerintah mendorong perusahaan nasional agar terus memperkuat kemitraan strategis demi menarik investasi dan kemajuan teknologi ke tanah air.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-10T13:35:40.826Z"
-  },
-  "f7b5fd8650a2": {
-    "teks": "Pembalap Ducati Lenovo, Marc Marquez, meraih kemenangan pertamanya di Sirkuit Mandalika dengan menjuarai Sprint Race MotoGP Indonesia 2026. Marquez mengungguli Ai Ogura serta Fabio Di Giannantonio setelah berhasil mengambil alih pimpinan balapan dari Jorge Martin yang mengalami kendala tekanan ban. Kemenangan ini sekaligus membawa pembalap asal Spanyol tersebut merebut puncak klasemen dari Martin.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-10T13:35:58.713Z"
-  },
-  "f7dce56f9ff1": {
-    "teks": "Arema FC bermain imbang 2-2 saat menjamu Bhayangkara Presisi Lampung FC dalam laga Super League di Stadion Kanjuruhan. Tim tamu sempat memimpin dua gol pada babak pertama melalui aksi Matias Ocampo dan Milan Ristovski. Namun, Arema FC mampu bangkit di babak kedua dan menyamakan kedudukan lewat gol Marcos Vinicius serta Samuel Otusanya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-10T13:36:26.436Z"
-  },
   "d4b3a4f73aa1": {
     "teks": "Memilih ponsel pintar pada 2026 memerlukan pertimbangan spesifikasi yang bermanfaat untuk aktivitas harian, bukan sekadar merek atau megapiksel kamera. Layar OLED dengan refresh rate adaptif 120Hz menjadi standar ideal karena menyajikan pergerakan mulus dan tampilan visual yang kaya warna. Selain itu, daya tahan baterai berkapasitas sekitar 5.000 mAh perlu dipastikan melalui pengujian penggunaan nyata agar nyaman dipakai dalam jangka panjang.",
     "penyedia": "gemini",
@@ -1720,5 +1692,54 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-24T10:52:43.002Z"
+  },
+  "20283331f3ad": {
+    "teks": "WhatsApp kini menguji fitur penjadwalan pesan bagi sebagian pengguna versi beta di iPhone setelah sebelumnya mengujinya di Android. Melalui fitur ini, pengguna dapat mengatur waktu pengiriman pesan teks maupun media secara otomatis hingga dua minggu ke depan. Meski pesan terjadwal dilindungi enkripsi dan bisa dihapus sebelum terkirim, pihak perusahaan belum menentukan tanggal perilisannya secara resmi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-25T06:00:10.933Z"
+  },
+  "d7bac28c6db0": {
+    "teks": "Model kecerdasan buatan mengidentifikasi celah keamanan berbahaya bernama PHP2Shell yang telah lama tersembunyi di sistem utama PHP. Kerentanan tersebut memberi penyerang akses penuh untuk menguasai server tanpa memerlukan kata sandi atau otorisasi masuk. Mengingat PHP menopang sebagian besar situs web global, ancaman ini berdampak luas pada berbagai layanan digital. Penutupan sementara server menjadi tindakan pencegahan darurat yang disarankan guna menghindari peretasan otomatis selama pembaruan sistem.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-25T06:00:28.458Z"
+  },
+  "e9fe061eed20": {
+    "teks": "Xiaomi 18 Pro dan Samsung Galaxy S26 bersaing di pasar ponsel pintar unggulan ringkas dengan menawarkan keunggulan berbeda. Xiaomi menonjol dari sektor perangkat keras lewat fitur layar sekunder, baterai 7.000 mAh, serta sistem kamera beresolusi tinggi. Sementara itu, Samsung menghadirkan opsi yang lebih terjangkau dengan jaminan pembaruan sistem operasi hingga 7 tahun untuk penggunaan jangka panjang.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-25T06:00:43.894Z"
+  },
+  "698c6db24fc5": {
+    "teks": "Pemerintah daerah menyediakan layanan pengajuan penambahan anggota keluarga pada Kartu Keluarga secara daring tanpa dipungut biaya melalui portal atau aplikasi resmi Disdukcapil. Pemohon harus menyiapkan serta mengunggah dokumen persyaratan yang sesuai dengan kondisi anggota keluarga yang akan ditambahkan. Setelah petugas selesai menguji kelengkapan berkas, dokumen kependudukan terbaru dapat diunduh atau diambil sesuai prosedur wilayah masing-masing.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-25T06:01:06.371Z"
+  },
+  "a33b8bbe657c": {
+    "teks": "Ajang balap Moto3 Australia 2026 resmi dibatalkan akibat cuaca buruk yang membatasi jarak pandang helikopter medis. Keputusan ini membuat pembalap Indonesia, Veda Ega Pratama, batal tampil meski sebelumnya mencetak sejarah sebagai pembalap nasional pertama yang meraih pole position di grand prix. Pembatalan yang terjadi setelah berkali-kali ditunda tersebut mengecewakan para penggemar yang menantikan aksinya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-25T06:01:20.818Z"
+  },
+  "20fae35df429": {
+    "teks": "Pebulu tangkis Indonesia Mohammad Zaki Ubaidillah melaju ke final French Open 2026 usai mengalahkan wakil tuan rumah Alex Lanier dengan skor 21-16, 16-21, 21-17. Hasil ini mengantarkan atlet berusia 19 tahun tersebut ke partai puncak BWF World Tour Super 750 untuk pertama kalinya. Di laga final, ia akan memperebutkan gelar juara melawan pemain tuan rumah lainnya, Christo Popov.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-25T06:01:37.741Z"
+  },
+  "33eca10dd012": {
+    "teks": "Pengguna dapat mengubah fitur CarPlay berkabel menjadi nirkabel menggunakan adaptor praktis tanpa perlu memperbarui sistem hiburan mobil. Sebelum membeli, pastikan kendaraan sudah memiliki CarPlay bawaan dan periksa kesesuaian adaptor dengan model mobil, jenis port USB, serta versi iOS. Selain itu, pertimbangkan spesifikasi seperti dukungan Wi-Fi 5GHz, Bluetooth 5.0, dan fitur sambung otomatis demi menjaga kestabilan koneksi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-25T06:01:56.593Z"
   }
 }
