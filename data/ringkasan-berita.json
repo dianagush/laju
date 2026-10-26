@@ -1,53 +1,4 @@
 {
-  "b838d215a8a2": {
-    "teks": "Oppo dijadwalkan merilis lini ponsel kelas atas Find X10 dan Find X10 Pro Max secara global di Spanyol pada 21 Oktober 2026. Setelah pertama kali diperkenalkan di China pada September 2026, kedua model tersebut dipastikan hadir di pasar internasional. Informasi mengenai ketersediaan dan harga resmi untuk pasar luar China baru akan diungkapkan dalam acara peluncuran mendatang.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-12T07:17:58.910Z"
-  },
-  "00fa9bfb8e78": {
-    "teks": "POCO meluncurkan gawai flagship F9 Ultra dan F9 Pro di Indonesia yang mengandalkan chipset Snapdragon 8 Elite Gen 5, layar 185Hz, kamera 200MP, dan pengisian cepat 100W. Tipe Ultra hadir dengan spesifikasi lebih tinggi, termasuk baterai 8.050mAh, yang dijual seharga Rp13.999.000. Sementara itu, tipe Pro membawa baterai 6.330mAh dan dibanderol dengan harga Rp12.499.000.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-12T07:18:37.924Z"
-  },
-  "81594775a67f": {
-    "teks": "Manajemen Persija Jakarta mengecam penyerangan terhadap bus rombongan tim Persib Bandung U-18 di Rest Area Batang pada Minggu malam. Peristiwa tersebut merusak kendaraan, membahayakan keselamatan, serta merugikan para pemain dan ofisial. Persija menegaskan bahwa rivalitas tidak membenarkan kekerasan dan mendesak aparat penegak hukum mengusut tuntas peristiwa ini. Selain itu, mereka mengimbau seluruh suporter bersikap dewasa demi menciptakan sepak bola Indonesia yang aman.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-12T07:18:54.971Z"
-  },
-  "572b3f16e5d7": {
-    "teks": "iPhone 18 Pro Max membawa keunggulan layar 6,9 inci, chip A20 Pro, fitur kamera variable aperture, serta kecerdasan buatan Siri terbaru. Perangkat ini menawarkan daya tahan baterai hingga tiga hari dan kemampuan fotografi yang sangat baik. Meski demikian, bobotnya yang berat serta ukurannya yang besar membuat gawai berharga tinggi ini sulit digunakan hanya dengan satu tangan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-12T07:19:43.228Z"
-  },
-  "b925f514203c": {
-    "teks": "Kinerja laptop yang menurun umumnya dipicu oleh penyimpanan yang hampir penuh, terlalu banyak aplikasi berjalan, serta sistem operasi yang jarang diperbarui. Sirkulasi udara yang terhambat dan perangkat keras usang juga turut memperlambat responsivitas perangkat. Pengguna dapat mengatasinya dengan menutup program tak terpakai, membersihkan berkas, memperbarui sistem, atau meningkatkan kapasitas komponen seperti RAM.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-12T08:20:35.176Z"
-  },
-  "3707026a6493": {
-    "teks": "Apple dikabarkan menggelar dua acara peluncuran produk terpisah pada Oktober ini. Acara pertama pada 13 Oktober diperkirakan mengenalkan tiga perangkat rumah pintar berbasis Siri AI. Selanjutnya, peluncuran kedua pada 27 Oktober diprediksi menampilkan MacBook layar sentuh, iPad mini OLED, MacBook Pro 14 inci, dan iMac M6. Laptop layar sentuh tersebut kemungkinan dibanderol dengan harga lebih tinggi dibanding lini MacBook lainnya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-12T08:21:05.179Z"
-  },
-  "8424fb9459d6": {
-    "teks": "Presiden Microsoft Brad Smith mendesak pembentukan aturan keselamatan global untuk AI yang dinilainya kurang teratur dibanding produk harian. Ia mengusulkan pelaporan wajib saat sistem AI bermasalah, pengujian independen, serta mekanisme penghentian darurat, dengan Inggris dinilai paling tepat memimpin penyusunan standar tersebut. Sikap ini berseberangan dengan Presiden Donald Trump yang mendorong regulasi mandiri, yang menurut Smith tidak cukup untuk mengatur seluruh perusahaan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-12T08:21:34.773Z"
-  },
   "6a18f18eef1b": {
     "teks": "Presiden Microsoft Brad Smith meminta pemerintah berbagai negara untuk memperketat regulasi keselamatan kecerdasan buatan karena pengawasannya saat ini masih kalah ketat dibandingkan produk rumah tangga seperti susu dan mesin cuci. Ia mengusulkan agar pengembang teknologi tersebut wajib menyertakan fitur rem darurat, melakukan pelaporan insiden, serta menjalani pengujian independen sebelum produknya diluncurkan ke publik. Smith menilai komitmen sukarela dari industri belum cukup memadai sehingga aturan hukum yang tegas sangat diperlukan untuk mencegah risiko penyalahgunaan teknologi.",
     "penyedia": "gemini",
@@ -1671,5 +1622,75 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-26T06:07:38.915Z"
+  },
+  "0522913bab3c": {
+    "teks": "Kementerian Komunikasi dan Digital mengawasi maraknya drama pendek berbasis AI di media sosial yang bermuatan pornografi, kekerasan seksual, serta perjudian. Tayangan ini memanfaatkan media sosial sebagai perantara menuju platform berbayar yang minim sensor. Guna memperkuat pengawasan, pemerintah bekerja sama dengan pengelola platform digital serta berencana melibatkan Lembaga Sensor Film.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T12:51:17.934Z"
+  },
+  "58065c6342ed": {
+    "teks": "Teknologi pendingin gedung modern kini memanfaatkan sensor otomatis dan sistem kontrol pintar untuk mengontrol suhu serta kelembapan secara efisien. Inovasi pada HVAC ini mampu meningkatkan kualitas udara ruangan, menghemat konsumsi energi, dan mendukung pengurangan emisi karbon. Langkah tersebut sejalan dengan peta jalan bangunan gedung hijau yang diluncurkan pemerintah Indonesia pada Oktober 2024. Melalui pengelolaan yang tepat, sistem dapat menyesuaikan pengoperasiannya secara otomatis berdasarkan keberadaan penghuni.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T12:52:06.613Z"
+  },
+  "9fe8e7eb6835": {
+    "teks": "Menteri Komunikasi dan Digital Meutya Hafid mengategorikan YouTube, Instagram, dan Threads sebagai platform berisiko tinggi sehingga melarang akses bagi anak-anak. Keputusan dengan pendekatan berbasis risiko ini didasarkan pada tujuh kategori, seperti ancaman konten tidak sesuai usia hingga keamanan data. Pemerintah menegaskan pembatasan tersebut dapat dilonggarkan apabila pihak pengembang memperbarui layanannya agar lebih ramah dan aman bagi anak.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T12:53:38.701Z"
+  },
+  "82b61a893677": {
+    "teks": "Wakil Menteri Komunikasi dan Digital Nezar Patria mengingatkan bahwa kemudahan produksi film berbasis kecerdasan artifisial berisiko memicu konten bermuatan kekerasan dan pornografi. Banyaknya karya yang harus diperiksa membuat Lembaga Sensor Film mempertimbangkan penggunaan teknologi tersebut untuk mendeteksi adegan. Meski demikian, Nezar menegaskan bahwa peran manusia tetap dibutuhkan dalam penyensoran karena mesin belum mampu memahami konteks serta pesan cerita.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T12:54:57.435Z"
+  },
+  "c9e994646f78": {
+    "teks": "Pengurus Besar Persatuan Catur Seluruh Indonesia berencana meluncurkan Liga Catur Nasional pada April 2027 guna menciptakan ekosistem kompetisi profesional yang merata di berbagai daerah. Agenda yang disepakati dalam Rapat Kerja Nasional 2026 tersebut dihadiri oleh perwakilan 32 pengurus provinsi. Pada kesempatan yang sama, organisasi ini juga menetapkan Jakarta sebagai tuan rumah Kejuaraan Nasional 2027 serta bersiap menghadapi Pekan Olahraga Nasional 2028.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T12:56:02.902Z"
+  },
+  "f8eed301fc46": {
+    "teks": "Tim Aprilia optimistis Jorge Martin dapat kembali bertanding pada MotoGP Malaysia pekan depan setelah mengalami cedera pergelangan tangan di Australia. Hasil pemeriksaan mengindikasikan cederanya tidak membutuhkan tindakan bedah sehingga kondisinya kini terus dipantau. Sementara itu, jarak sepuluh poin Martin dari Marc Marquez di klasemen tetap bertahan lantaran balapan utama Grand Prix Australia dibatalkan akibat cuaca buruk.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T12:56:53.782Z"
+  },
+  "b44db786f513": {
+    "teks": "Aplikasi bawaan Android seperti Digital Wellbeing membantu pengguna memantau dan membatasi waktu penggunaan ponsel melalui menu Settings. Fitur ini melacak riwayat pemakaian, menyediakan pengatur waktu aplikasi, serta mode khusus seperti Bedtime mode dan Focus mode untuk meminimalkan gangguan. Merek seperti Samsung juga menyertakan versi serupa untuk membantu pengguna mengatur waktu layar dan menjaga konsentrasi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T12:58:02.285Z"
+  },
+  "832465b0681f": {
+    "teks": "Baterai CMOS pada motherboard komputer berfungsi sebagai daya cadangan untuk menyimpan pengaturan BIOS atau UEFI serta menjaga akurasi waktu saat perangkat dimatikan. Jika daya baterai ini habis, tanggal sistem akan teriset dan pengaturan hardware kembali ke setelan pabrik setiap kali komputer dinyalakan. Kendati demikian, proses penggantian baterai koin ini terhitung murah, mudah, dan hanya membutuhkan waktu singkat.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T12:58:36.593Z"
+  },
+  "6333a388ac31": {
+    "teks": "Lembaga keamanan siber Australia memperingatkan bahwa berbagai layanan daring berpotensi terhenti mendadak demi memprioritaskan keamanan sistem di tengah meningkatnya ancaman digital. Laporan tahunan menunjukkan lonjakan serangan dari peretas dan aktor asing yang kini memanfaatkan kecerdasan buatan. Oleh karena itu, seluruh organisasi didesak untuk memodernisasi teknologi lama dan mengadopsi alat AI guna memperkuat pertahanan siber.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T13:00:30.356Z"
+  },
+  "400f2dcadce2": {
+    "teks": "Pemilik hak cipta musik Elvis Presley melayangkan gugatan senilai 41 juta dolar AS terhadap Anthropic atas dugaan pelanggaran hak cipta. Anthropic dituduh melatih model AI menggunakan ratusan lagu Elvis tanpa izin serta menerobos perlindungan DRM. Gugatan ini memperpanjang deretan tindakan hukum industri musik terhadap perusahaan tersebut. Pihak Anthropic menolak tuduhan ini dan menyatakan siap membela diri di pengadilan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-26T13:01:28.098Z"
   }
 }
