@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-25",
-  "diperbarui": "2026-10-26T12:50:25.163Z",
+  "diperbarui": "2026-10-27T06:12:25.653Z",
   "berita": [
     {
       "id": "71334093a413",
@@ -14,7 +14,8 @@
       "gambar": "",
       "kategoriSumber": [
         "AI",
-        "Apollo Global Management"
+        "Apollo Global Management",
+        "In Brief"
       ]
     },
     {
@@ -625,12 +626,12 @@
       "cuplikan": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
       "gambar": "",
       "kategoriSumber": [
-        "Hardware",
         "AI",
         "Gadgets",
-        "wearables",
+        "Hardware",
+        "AI wearables",
         "evergreens",
-        "AI wearables"
+        "wearables"
       ]
     },
     {
@@ -1508,16 +1509,16 @@
       "cuplikan": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
       "gambar": "https://static01.nyt.com/images/2026/10/16/business/00techfix/00techfix-mediumSquareAt3X.jpg",
       "kategoriSumber": [
-        "Computers and the Internet",
         "Artificial Intelligence",
         "Mobile Applications",
         "Content Type: Service",
         "Meta Platforms Inc",
         "OpenAI Labs",
-        "Restaurants",
-        "ChatGPT",
         "Innovation",
-        "Cooking and Cookbooks"
+        "Cooking and Cookbooks",
+        "Reservations (Airlines, Hotels, Etc.)",
+        "Restaurants",
+        "Exercise"
       ]
     },
     {
