@@ -1,32 +1,4 @@
 {
-  "ae0e6910068e": {
-    "teks": "Ponsel yang menjadi terlalu panas dapat mengalami penurunan kinerja, masa pakai baterai yang lebih singkat, hingga risiko keselamatan. Pengguna dapat mengatasi masalah ini secara aman melalui beberapa langkah, seperti melepas pelindung ponsel, menjauhkannya dari sinar matahari langsung, serta menurunkan kecerahan layar. Selain itu, mendinginkan perangkat juga bisa dilakukan dengan menutup aplikasi atau game berat, membatasi aktivitas latar belakang, menonaktifkan koneksi yang tidak perlu, dan memperhatikan cara pengisian daya yang benar.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-13T07:40:19.339Z"
-  },
-  "ff12e57cd2d9": {
-    "teks": "Samsung meluncurkan ponsel pintar terbarunya yang ditujukan bagi profesional muda di pasar Indonesia. Perangkat ini ditenagai chipset Mediatek Helio G99+ dan memori LPDDR5 guna mencegah penurunan performa. Produsen juga menjamin pembaruan perangkat lunak serta sistem keamanan selama enam tahun bagi para penggunanya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-13T08:18:10.131Z"
-  },
-  "5ac0e1221941": {
-    "teks": "Calvin Verdonk berpeluang mencetak sejarah sebagai pemain Timnas Indonesia pertama yang tampil di Liga Champions saat Lille bertandang ke markas Arsenal. Kesempatan tersebut terbuka karena bek kiri utama Lille, Romain Perraud, tengah memulihkan diri dari masalah kebugaran. Pelatih Davide Ancelotti dapat mempertimbangkan Verdonk untuk masuk ke susunan pemain utama setelah sebelumnya hanya duduk di bangku cadangan pada laga pembuka melawan Real Betis.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-13T08:18:42.961Z"
-  },
-  "cba5d058e152": {
-    "teks": "Dana Moneter Internasional memperingatkan bahwa ekonomi global berisiko menghadapi batas ketahanan akibat cadangan minyak darurat yang menipis dan anggaran pemerintah yang terbebani utang tinggi. Peringatan tersebut disampaikan dalam World Economic Outlook karena ketegangan geopolitik serta lonjakan harga energi berpotensi mengganggu stabilitas keuangan dunia. Selain itu, lembaga tersebut juga mengingatkan adanya ancaman kejatuhan pasar yang digerakkan oleh AI terhadap perekonomian global.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-13T08:19:33.218Z"
-  },
   "8e79cef83792": {
     "teks": "Pemain Persib Bandung, Thom Haye, menilai jadwal padat dari keikutsertaan klub dalam empat kompetisi musim ini berdampak negatif terhadap kebugaran pemain dan performa tim di lapangan. Akibat kelelahan fisik tersebut, Maung Bandung kesulitan tampil maksimal dan hanya mampu bermain imbang 2-2 saat menjamu Dewa United Banten FC. Kendati kondisi stamina tim terus tergerus karena harus bertanding setiap tiga hari, Thom menyatakan dukungan suporter tetap menjadi motivasi utama skuad untuk berjuang hingga akhir laga.",
     "penyedia": "gemini",
@@ -1664,5 +1636,61 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-27T06:15:23.007Z"
+  },
+  "0e291559315c": {
+    "teks": "Apple merilis iPad mini terbaru yang dibekali layar OLED 8,5 inci dan cip A20 Pro. Varian dengan kapasitas penyimpanan lebih kecil memiliki spesifikasi CPU serta NPU yang lebih rendah dibandingkan model 512GB. Tablet ini juga mendukung penggunaan Apple Pencil, kamera 12MP berfitur Center Stage, serta sistem audio Acoustic Display di bawah layar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-27T12:38:46.913Z"
+  },
+  "5f2f5ca6863e": {
+    "teks": "Berdasarkan riset NIQ-GfK sepanjang 2026, LG memimpin pasar mesin cuci bukaan depan di Indonesia dengan mencatatkan empat dari sepuluh unit yang terjual merupakan produk mereka. Keberhasilan ini didorong oleh perluasan lini produk berteknologi kecerdasan buatan, perangkat berkapasitas besar, serta kemudahan kontrol pintar. Bertepatan dengan perayaan 36 tahun kiprahnya di Indonesia, LG menggelar pameran teknologi interaktif sekaligus membagikan 36 unit mesin cuci kepada para guru.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-27T12:39:25.464Z"
+  },
+  "99047981d18c": {
+    "teks": "OpenAI merilis model kecerdasan buatan GPT-6.1 Terra yang diklaim memiliki kecepatan tiga kali lipat lebih tinggi daripada versi sebelumnya untuk mendukung tugas berbasis komputer. Model baru ini dirancang untuk memahami visual, menulis, memprogram, serta menjalankan tindakan pada aplikasi dengan tingkat kesalahan faktual yang lebih rendah. Selain itu, OpenAI menawarkan tarif API yang lebih murah dan menyediakan model ini bagi pengguna berbagai paket ChatGPT serta para pengembang.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-27T12:40:34.032Z"
+  },
+  "bd9614bd3d56": {
+    "teks": "Pembalap Aprilia Racing, Jorge Martin, berusaha tampil pada seri MotoGP Malaysia demi menjaga peluangnya dalam perebutan gelar juara dunia 2026. Meski tengah menjalani perawatan akibat patah pergelangan tangan pascakecelakaan di Australia, kepastian tampilnya masih bergantung pada tes medis. Hasil pemeriksaan kebugaran pada Kamis mendatang akan menentukan apakah ia diizinkan turun balapan di Sirkuit Sepang.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-27T12:40:52.428Z"
+  },
+  "d835cafe603e": {
+    "teks": "Borneo FC Samarinda berhasil meraih tiga poin usai menaklukkan tuan rumah PSS Sleman dengan skor 2-1 pada laga pekan ketujuh Super League 2026/2027 di Stadion Internasional Maguwoharjo. Tim tamu memimpin lewat gol Dandy Sonriza dan Hugo Samir, sedangkan PSS Sleman yang harus tampil dengan sepuluh pemain memperkecil kedudukan melalui Matheus Fornazari. Pelatih Borneo FC Mauro Jeronimo bersyukur atas kemenangan ini meski menilai timnya sejatinya bisa mencetak lebih banyak gol.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-27T12:41:09.919Z"
+  },
+  "9dd6f01b1a9f": {
+    "teks": "Persija Jakarta mengamankan posisi puncak klasemen sementara BRI Super League 2026/2027 usai mengalahkan Persik Kediri 2-1 di Jakarta International Stadium. Sempat tertinggal pada babak pertama, Persija mampu membalikkan keadaan lewat gol Denis Kolinger dan Rizky Ridho usai jeda. Hasil ini membuat Persija memimpin klasemen dengan 18 poin, sementara Persik menempati peringkat kesembilan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-27T12:41:37.214Z"
+  },
+  "8e8a1460ad36": {
+    "teks": "Acer akan merilis konsol genggam pertamanya di Amerika Serikat, Predator Atlas 8, pada 1 November mendatang seharga $1.300 secara eksklusif melalui Best Buy. Perangkat ini hadir dalam varian Intel Arc G3 Extreme yang dibekali RAM 24GB, layar 8 inci 120Hz, serta sistem operasi Windows 11. Sesi pra-pemesanan perangkat ini dilaporkan langsung ludes terjual, sehingga tahap pemesanan daring berikutnya baru akan dibuka kembali saat hari peluncuran resminya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-27T12:41:56.199Z"
+  },
+  "38511e8540d1": {
+    "teks": "OpenAI mengumumkan penemuan baru di bidang matematika, ilmu komputer, dan fisika yang dihasilkan oleh model kecerdasan buatan mereka. Guna meninjau serta menjelaskan hasil tersebut, OpenAI menggandeng kelompok pakar eksternal, termasuk untuk membuktikan asumsi Exponential Time Hypothesis keliru. Perusahaan memastikan tidak akan meminta kredit akademis atas temuan ini dan menyerahkan pengakuan ilmiah sepenuhnya kepada para peneliti yang mempublikasikannya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-27T12:42:11.610Z"
   }
 }
