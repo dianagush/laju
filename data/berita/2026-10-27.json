@@ -1,7 +1,971 @@
 {
   "tanggal": "2026-10-27",
-  "diperbarui": "2026-10-27T12:38:12.019Z",
+  "diperbarui": "2026-10-28T06:48:47.712Z",
   "berita": [
+    {
+      "id": "affd5609324f",
+      "judul": "Pokémon Unite is shutting down",
+      "tautan": "https://www.engadget.com/2298514/pokemon-unite-is-shutting-down/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:57:44.000Z",
+      "cuplikan": "Its journey ends in March 2027.",
+      "gambar": "https://www.engadget.com/img/gallery/pokmon-unite-is-shutting-down/l-intro-1793120222.jpg",
+      "kategoriSumber": [
+        "Gaming"
+      ]
+    },
+    {
+      "id": "b5269deab48c",
+      "judul": "Porprov VII Banten 2026 Pecahkan Rekor, 60 Cabor Siap Dipertandingkan",
+      "tautan": "https://www.viva.co.id/sport/1939091-porprov-vii-banten-2026-pecahkan-rekor-60-cabor-siap-dipertandingkan",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:57:42.000Z",
+      "cuplikan": "Pekan Olahraga Provinsi (Porprov) VII Banten 2026 akan menjadi panggung bagi atlet-atlet daerah untuk menunjukkan kemampuan terbaiknya. Sebanyak 60 cabang olahraga (cabor",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6ae0d7ce13ec7-porprov-vii-banten-2026-pecahkan-rekor-60-cabor-siap-dipertandingkan_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "d6351a698127",
+      "judul": "Hasil Hylo Open 2026: 3 Ganda Indonesia Melaju, Leo/Daniel Mundur",
+      "tautan": "https://www.liputan6.com/bola/read/8322708/hasil-hylo-open-2026-3-ganda-indonesia-melaju-leodaniel-mundur",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:56:04.000Z",
+      "cuplikan": "Dari tujuh wakil Indonesia yang bertanding di hari pertama Hylo Open 2026, baru hasil empat pertandingan yang diketahui.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/J0MovysVWlnU33pCPYkC4JEPkWs=/0x412:3999x2666/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/7673081/original/014614200_1780467710-20260603BL_Tiwi-Fadia_Vs_Baek-Lee_Indonesia_Open_2026_13.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "5d9174dd4f1a",
+      "judul": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:51:22.000Z",
+      "cuplikan": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Anthropic",
+        "Policy",
+        "Report"
+      ]
+    },
+    {
+      "id": "9d6175d9584a",
+      "judul": "Why does the FCC hate Minions routers?",
+      "tautan": "https://www.engadget.com/2296043/why-does-the-fcc-hate-minions-routers/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:45:00.000Z",
+      "cuplikan": "These themed routers are surprisingly (inexplicably) capable, but they are under threat by the FCC.",
+      "gambar": "https://www.engadget.com/img/gallery/why-does-the-fcc-hate-minions-routers/l-intro-1792572728.jpg",
+      "kategoriSumber": [
+        "Computing"
+      ]
+    },
+    {
+      "id": "c6e06340f0a4",
+      "judul": "Pieter Huistra Sebut Alasan PSS Sleman Takluk dari Borneo FC",
+      "tautan": "https://www.liputan6.com/bola/read/8322693/pieter-huistra-sebut-alasan-pss-sleman-takluk-dari-borneo-fc",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:44:54.000Z",
+      "cuplikan": "PSS Sleman kalah 1-2 dari Borneo FC di Maguwoharjo pada lanjutan BRI Super League 2026/2027.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/nEKt1mBzt_xhGbdvpGjkRA2LfBw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383929/original/098952600_1793112332-1000138489.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "fe16a3aa9a31",
+      "judul": "Meta’s $25 billion legal loss just put blood in the water",
+      "tautan": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:44:40.000Z",
+      "cuplikan": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Analysis",
+        "Meta",
+        "Policy",
+        "Report",
+        "Social Media",
+        "Tech"
+      ]
+    },
+    {
+      "id": "f5adcedc1790",
+      "judul": "Umar Wachdin Ungkap Update Cedera Jordy Wehrmann, Tantangan Madura United di League Cup hingga Duet Asing Baru",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8322715/umar-wachdin-ungkap-update-cedera-jordy-wehrmann-tantangan-madura-united-di-league-cup-hingga-duet-asing-baru",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:40:17.000Z",
+      "cuplikan": "Manajer Madura United, Umar Wachdin, mengungkap perkembangan terbaru pemulihan Jordy Wehrmann setelah menjalani operasi bahu akibat cedera saat pramusim. Progres pemulihan Jordy berjalan positif dan ia sudah mulai kembali berlatih bersama…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/qpXXAeKm3ki8ast0PK9tvxDb0pE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9383978/original/025632400_1793119215-20261027_umar-wachdin-392410.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ca09b772aec8",
+      "judul": "Sempat Viral Salahkan Pemain, Pelatih Persija Putri Dicopot",
+      "tautan": "https://www.viva.co.id/bola/1939086-sempat-viral-salahkan-pemain-pelatih-persija-putri-dicopot",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:35:39.000Z",
+      "cuplikan": "Persija Putri melakukan pergantian pelatih kepala meski Indonesia Women's League (IWL) 2026/2027 baru berjalan dua pertandingan. Manajemen Macan Kemayoran menunjuk Ricky",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/25/6addd67e39b1e-pelatih-persija-jakarta-women-muhamad-yusup-prasetiyo_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "4d7643dd971c",
+      "judul": "Shin Tae-yong, Ismed Sofyan dan Atep Turun Gunung Latih 40 Pemain Muda",
+      "tautan": "https://www.viva.co.id/bola/1939084-shin-tae-yong-ismed-sofyan-dan-atep-turun-gunung-latih-40-pemain-muda",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:32:44.000Z",
+      "cuplikan": "Di tengah kesibukannya menangani Persija Jakarta, Shin Tae-yong tetap meluangkan waktu untuk berkontribusi dalam pembinaan sepak bola usia dini. Mantan pelatih Timnas Ind",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6ae0d1f082f50-shin-tae-yong_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "dddf43d553b6",
+      "judul": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "tautan": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:30:57.000Z",
+      "cuplikan": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Media & Entertainment",
+        "Genie",
+        "Google",
+        "google deepmind",
+        "world models"
+      ]
+    },
+    {
+      "id": "d30e723f5e7c",
+      "judul": "4 Pemain Inggris Pemenang Ballon d'Or Sebelum Harry Kane: Ada yang Boyong 2 Gelar Beruntun",
+      "tautan": "https://www.liputan6.com/bola/read/8322670/4-pemain-inggris-pemenang-ballon-dor-sebelum-harry-kane-ada-yang-boyong-2-gelar-beruntun",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:30:14.000Z",
+      "cuplikan": "Harry Kane menjadi pemain Inggris ke-5 yang pernah memenangkan Ballon d'Or dan yang pertama dalam 25 tahun.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/HqWlmheGhhfxdtlLt0pQj0b_uok=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383004/original/095589400_1793058426-kane_3.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "c75fb62a9269",
+      "judul": "iOS 27.2 Rilis, Apple Perbaiki Lebih dari 130 Celah Keamanan",
+      "tautan": "https://www.liputan6.com/tekno/read/8322494/ios-272-rilis-apple-perbaiki-lebih-dari-130-celah-keamanan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-27T16:24:54.000Z",
+      "cuplikan": "iOS 27.2 meluncur dengan lebih dari 130 perbaikan keamanan, termasuk perlindungan tambahan untuk kamera, Bluetooth, dan data pribadi.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/PcnCfoVPtKCdjt6Ktz1yniR5zLU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8129349/original/029948800_1780981085-ios-apple.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "0aaa7346cb5a",
+      "judul": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "tautan": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:24:34.000Z",
+      "cuplikan": "Despite the agency's human resources department saying he hadn’t even been onboarded, Jeremy Lewin oversaw the destruction of USAID. It’s not clear he had the legal authority to do so.",
+      "gambar": "https://media.wired.com/photos/6acf8c83ca8681083870745e/master/pass/GettyImages-2253183585.jpg",
+      "kategoriSumber": [
+        "Politics",
+        "Politics / Politics News"
+      ]
+    },
+    {
+      "id": "dd8b26fe5080",
+      "judul": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
+      "tautan": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:21:44.000Z",
+      "cuplikan": "Final Cut clips can finally be unlocked from the primary timeline - hallelujah.",
+      "gambar": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/l-intro-1793118031.jpg",
+      "kategoriSumber": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "04011d5a5c5a",
+      "judul": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+      "tautan": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:17:58.000Z",
+      "cuplikan": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg",
+      "kategoriSumber": [
+        "Cars",
+        "Ford Fathom"
+      ]
+    },
+    {
+      "id": "613884713d8b",
+      "judul": "Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style",
+      "tautan": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:15:00.000Z",
+      "cuplikan": "With the iPhone Duo now in people's hands, how does it compare to Google's Pixel 11 Pro Fold?",
+      "gambar": "https://www.engadget.com/img/gallery/apple-iphone-duo-vs-google-pixel-11-pro-fold-the-differences-beyond-foldable-style/l-intro-1792405273.jpg",
+      "kategoriSumber": [
+        "Smartphones"
+      ]
+    },
+    {
+      "id": "abb96e9fdd6f",
+      "judul": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "tautan": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:14:18.000Z",
+      "cuplikan": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your…",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "News",
+        "Tech",
+        "Web"
+      ]
+    },
+    {
+      "id": "f76e593530c8",
+      "judul": "Pelatih Melbourne Victory Kagum Kualitas Persib Bandung",
+      "tautan": "https://www.liputan6.com/bola/read/8322685/pelatih-melbourne-victory-kagum-kualitas-persib-bandung",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:09:33.000Z",
+      "cuplikan": "Pelatih Melbourne Victory, Giovanni Savarese, menilai Persib Bandung lawan berat jelang duel Grup E ACL 2 di Si Jalak Harupat.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/3-oYcAFIAwEXHgG4XwK5sTYHrFw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383851/original/092933900_1793105543-savarese.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "935659a6b116",
+      "judul": "Major League Baseball is looking for a new kind of fan",
+      "tautan": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:02:43.000Z",
+      "cuplikan": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Creators",
+        "Culture",
+        "Entertainment",
+        "Internet Culture",
+        "Report",
+        "Sports",
+        "Tech"
+      ]
+    },
+    {
+      "id": "a24d9a0d4ad3",
+      "judul": "Berbagai Aksi Atlet di Hari Pembuka Liga Voli Mahasiswa Seri Jakarta 2026, Perjuangan Menuju Play-off Dimulai!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8322702/berbagai-aksi-atlet-di-hari-pembuka-liga-voli-mahasiswa-seri-jakarta-2026-perjuangan-menuju-play-off-dimulai",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T16:02:18.000Z",
+      "cuplikan": "Hari pertama Liga Voli Mahasiswa Seri Jakarta 2026 pada Selasa (27/10/2026) menyajikan berbagai aksi menarik dan momen mendebarkan di lapangan. Para atlet menunjukkan kemampuan terbaik mereka melalui smes keras, blok solid, hingga…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/FI8y9dwS4NAcbtCcfq10oZ9QG3Y=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9383961/original/056097500_1793116936-20261027_hari-pertama-liga-voli-mahasiswa-seri-jak-3a5029.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a60188d04998",
+      "judul": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "tautan": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-27T16:00:22.000Z",
+      "cuplikan": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png",
+      "kategoriSumber": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "deepmind",
+        "google",
+        "world models"
+      ]
+    },
+    {
+      "id": "8b7c3e50fad1",
+      "judul": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+      "tautan": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-27T15:50:19.000Z",
+      "cuplikan": "Huge price hikes force loyal users to reconsider their favorite apps.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg",
+      "kategoriSumber": [
+        "Tech",
+        "software",
+        "subscriptions"
+      ]
+    },
+    {
+      "id": "39864631664d",
+      "judul": "Sikat PSS Sleman, Pelatih Borneo FC Keluhkan Ini",
+      "tautan": "https://www.liputan6.com/bola/read/8322680/sikat-pss-sleman-pelatih-borneo-fc-keluhkan-ini",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T15:47:11.000Z",
+      "cuplikan": "Borneo FC menang 2-1 di Sleman. Mauro Jeronimo menilai timnya layak unggul lebih besar dan menyesalkan banyak peluang tak berbuah gol.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/eoj0HOgQ3o4nzsE7Gu0c5_JtJQE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383935/original/087937900_1793112831-SaveInta.com_868483123_18638060971056586_3156801235984591609_n.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ef50f8a46c80",
+      "judul": "You can finally see who's talking in voice chat on PlayStation 5 — here's how",
+      "tautan": "https://www.engadget.com/2284038/playstation-5-display-whos-speaking-party-voice-feature/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-27T15:45:00.000Z",
+      "cuplikan": "You don't have to guess who's loudly eating chips in your PlayStation 5 party anymore - now you can see who's speaking in real-time.",
+      "gambar": "https://www.engadget.com/img/gallery/you-can-finally-see-whos-talking-in-voice-chat-on-playstation-5-heres-how/l-intro-1791817383.jpg",
+      "kategoriSumber": [
+        "PlayStation"
+      ]
+    },
+    {
+      "id": "8963720025d8",
+      "judul": "Persib vs Melbourne Victory: Rival Tersulit Pangeran Biru",
+      "tautan": "https://www.liputan6.com/bola/read/8322677/persib-vs-melbourne-victory-rival-tersulit-pangeran-biru",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T15:39:45.000Z",
+      "cuplikan": "Persib Bandung menjamu Melbourne Victory di ACL 2, Rabu (28/10/2026). Igor Tolic menyebut laga ini paling serius.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/LrrHL7oSDmV7Ahq3s2UOqxl0Bc4=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9382254/original/092135100_1792985760-0L5A8147.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "698763bfe706",
+      "judul": "Vivo's X500 Pro Max is another camera-focused smartphone with more video tricks",
+      "tautan": "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-27T15:30:00.000Z",
+      "cuplikan": "Vivo and Oppo are launching similar phones with different priorities.",
+      "gambar": "https://www.engadget.com/img/gallery/vivos-x500-pro-max-is-another-camera-focused-smartphone-with-more-video-tricks/l-intro-1793029784.jpg",
+      "kategoriSumber": [
+        "Smartphones"
+      ]
+    },
+    {
+      "id": "9e5c07ded43e",
+      "judul": "Anthropic accelerates – for the rest of us, the speed of growth spells precarity",
+      "tautan": "https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-27T15:15:20.000Z",
+      "cuplikan": "The AI industry is still defined by a careening intensity that’s taking the world’s finances along for the ride This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here…",
+      "gambar": "https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/456_0_4580_3666/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=b7eef94194c3f1d3c639a4b9a8fc4668",
+      "kategoriSumber": [
+        "Technology",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "ae72bdec54e1",
+      "judul": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "tautan": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-27T15:10:26.000Z",
+      "cuplikan": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "gambar": "https://media.wired.com/photos/6ada70c6eb086323489423af/master/pass/GettyImages-2275955534.jpg",
+      "kategoriSumber": [
+        "Politics",
+        "Politics / Policy"
+      ]
+    },
+    {
+      "id": "cb494d813c17",
+      "judul": "Jejak Baru Striker Indonesia di Eropa, Lassana Doucoure Resmi Dikontrak FK Haugesund",
+      "tautan": "https://www.viva.co.id/bola/1939063-jejak-baru-striker-indonesia-di-eropa-lassana-doucoure-resmi-dikontrak-fk-haugesund",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T15:08:00.000Z",
+      "cuplikan": "Striker muda Indonesia, Lassana Doucoure, resmi menjadi bagian dari klub kasta kedua Liga Norwegia, FK Haugesund. Pemain berusia 23 tahun itu mendapat kontrak setelah pro",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6ae0b7699eb7d-lassana-doucoure_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "802e1779c637",
+      "judul": "Real Madrid Kesulitan Boyong Vitinha, Ini Penjelasan Agen",
+      "tautan": "https://www.liputan6.com/bola/read/8321847/real-madrid-kesulitan-boyong-vitinha-ini-penjelasan-agen",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T15:00:30.000Z",
+      "cuplikan": "Real Madrid dikabarkan belum melakukan pendekatan resmi untuk merekrut Vitinha dari Paris Saint-Germain. Perwakilan sang pemain, Jorge Mendes, memberi jawaban.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/FiLjjNrGlD8rB_KyvwbK3qNyJ24=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5426668/original/034986000_1764313257-000_86AZ4BC.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "122f4e228239",
+      "judul": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "tautan": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-27T14:59:09.000Z",
+      "cuplikan": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Startups",
+        "Enterprise AI",
+        "Exclusive",
+        "Meta",
+        "meta superintelligence labs"
+      ]
+    },
+    {
+      "id": "10bb40fe29fd",
+      "judul": "Highlight PSS Sleman vs Borneo FC 1-2: Pesut Etam Kembali Menggigit, Amankan Tiga Poin dari Maguwoharjo!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8322660/highlight-pss-sleman-vs-borneo-fc-1-2-pesut-etam-kembali-menggigit-amankan-tiga-poin-dari-maguwoharjo",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T14:56:01.000Z",
+      "cuplikan": "Borneo FC kembali ke jalur kemenangan setelah menaklukkan PSS Sleman dengan skor 2-1 pada pekan ketujuh BRI Super League 2026/2027 di Stadion Maguwoharjo, Sleman, Selasa (27/10/2026). Pesut Etam mencetak dua gol melalui Rahmad Dandy…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/ugMOgBITNmKfOFV88CsG6ee6T3o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9383939/original/044297800_1793112959-20261027_borneo-fc-3e2678.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a9bc7a3a1e21",
+      "judul": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
+      "tautan": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-10-27T14:55:35.000Z",
+      "cuplikan": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
+      "gambar": "https://static01.nyt.com/images/2026/10/26/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "California",
+        "High Net Worth Individuals",
+        "Referendums",
+        "Taxation",
+        "Midterm Elections (2026)",
+        "Computers and the Internet",
+        "Venture Capital",
+        "Income Inequality",
+        "Stripe Inc",
+        "Kleiner Perkins Caufield & Byers"
+      ]
+    },
+    {
+      "id": "8652a5d73cd2",
+      "judul": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "tautan": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-27T14:51:33.000Z",
+      "cuplikan": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Climate",
+        "Transportation",
+        "electric vehicles",
+        "Ford",
+        "wall chargers",
+        "V2X"
+      ]
+    },
+    {
+      "id": "97030c77df50",
+      "judul": "US government says hackers are now exploiting critical PHP web bugs",
+      "tautan": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-27T14:40:39.000Z",
+      "cuplikan": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Security",
+        "CISA",
+        "cyberattacks",
+        "cybersecurity",
+        "php",
+        "us government"
+      ]
+    },
+    {
+      "id": "5d38c88afd1f",
+      "judul": "RUU Adminduk Dibahas, Komdigi Tekankan Pelindungan Data Pribadi dan Hak Akses",
+      "tautan": "https://www.jawapos.com/teknologi/2610270475/ruu-adminduk-dibahas-komdigi-tekankan-pelindungan-data-pribadi-dan-hak-akses",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-27T14:39:44.000Z",
+      "cuplikan": "Kementerian Komunikasi dan Digital menekankan pentingnya pengaturan akses dan keamanan data kependudukan dalam RUU Adminduk.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/08/10/wamenkomdigi-nezar-patria-dok-komdigi-o19Gc.webp"
+    },
+    {
+      "id": "9a346a5ecd64",
+      "judul": "Evolusi Pemeliharaan Gedung: Drone Pembersih Tekan Risiko Kerja di Ketinggian",
+      "tautan": "https://www.jawapos.com/teknologi/2610270474/evolusi-pemeliharaan-gedung-drone-pembersih-tekan-risiko-kerja-di-ketinggian",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-27T14:38:51.000Z",
+      "cuplikan": "Teknologi drone cleaning hadir sebagai solusi modern untuk pembersihan gedung tinggi, meningkatkan efisiensi dan keselamatan kerja.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/27/uji-coba-teknologi-drone-cleaning-frogs-indonesia-istimewa-W9dFx.webp"
+    },
+    {
+      "id": "9ab50e811219",
+      "judul": "Pernyataaan Berkelas Adam Alis usai Bawa Persib Bandung Kalahkan Garudayaksa FC",
+      "tautan": "https://www.viva.co.id/bola/1939058-pernyataaan-berkelas-adam-alis-usai-bawa-persib-bandung-kalahkan-garudayaksa-fc",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T14:31:13.000Z",
+      "cuplikan": "Adam Alis menjadi sosok penentu kemenangan Persib Bandung saat bertandang ke markas Garudayaksa FC pada pekan ketujuh Super League 2026/2027. Meski mencetak gol kemenanga",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/25/6a646ac851aae-adam-alis_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "4bd50dc53ae4",
+      "judul": "Penyebab Dean Zandbergen Sulit Bela Timnas Indonesia",
+      "tautan": "https://www.liputan6.com/bola/read/8322585/penyebab-dean-zandbergen-sulit-bela-timnas-indonesia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T14:26:29.000Z",
+      "cuplikan": "Noor Korompot jelaskan alasan mengapa Dean Zandbergen sulit bela timnas Indonesia.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/yG3bmMWTXELT1Brs9jz_oLEYobU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5193002/original/077128400_1745210638-Dean_Zandbergen_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "568e455d0b5a",
+      "judul": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "tautan": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-27T14:25:11.000Z",
+      "cuplikan": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Gadgets",
+        "Hardware",
+        "Apple",
+        "macbook pros"
+      ]
+    },
+    {
+      "id": "5a9a13a86b62",
+      "judul": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "tautan": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-27T14:20:26.000Z",
+      "cuplikan": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg",
+      "kategoriSumber": [
+        "Apple",
+        "Features",
+        "Tech",
+        "apple",
+        "ios 27",
+        "iphone",
+        "iphone duo"
+      ]
+    },
+    {
+      "id": "6f62b44780ca",
+      "judul": "Ballon d'Or Tak Selalu Milik Juara Piala Dunia, Lamine Yamal Bukan yang Pertama",
+      "tautan": "https://www.liputan6.com/bola/read/8322632/ballon-dor-tak-selalu-milik-juara-piala-dunia-lamine-yamal-bukan-yang-pertama",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T14:10:56.000Z",
+      "cuplikan": "Lamine Yamal bukan pemenang Piala Dunia pertama yang gagal memenangkan Ballon d'Or di tahun yang sama.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/WhY7wut22jiUWsDus6NxY6xcXN8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383006/original/042155200_1793060045-yamal_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "e75a77880d1a",
+      "judul": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-27T14:08:41.000Z",
+      "cuplikan": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster Elon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to…",
+      "gambar": "https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/408_0_1983_1586/master/1983.jpg?width=140&quality=85&auto=format&fit=max&s=36c9f5dfa8f5fbfd22bbacb9882bab09",
+      "kategoriSumber": [
+        "Elon Musk",
+        "AI (artificial intelligence)",
+        "Technology",
+        "Christopher Nolan",
+        "Homer",
+        "The Odyssey",
+        "Grok AI",
+        "X",
+        "Film"
+      ]
+    },
+    {
+      "id": "66deeda2bd41",
+      "judul": "Peraturan Pemain Asing Berbeda di League Cup 2026/2027, Ini Penjelasannya",
+      "tautan": "https://www.liputan6.com/bola/read/8322582/peraturan-pemain-asing-berbeda-di-league-cup-20262027-ini-penjelasannya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T14:05:25.000Z",
+      "cuplikan": "I.League membatasi tiga pemain asing per klub di League Cup 2026/2027.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/-4T4Zjy_qNVZ63ewgD3rRpW3IHI=/0x0:1280x960/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9368085/original/063945600_1791377067-WhatsApp_Image_2026-10-07_at_7.11.03_PM.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ec2a619f2f91",
+      "judul": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "tautan": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-27T14:00:49.000Z",
+      "cuplikan": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
+      "kategoriSumber": [
+        "Apple",
+        "Tech",
+        "apple",
+        "Foldables",
+        "iphone duo",
+        "smartphones"
+      ]
+    },
+    {
+      "id": "437a78e8d00f",
+      "judul": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "tautan": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-27T13:54:51.000Z",
+      "cuplikan": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apps",
+        "Apple",
+        "iOS",
+        "siri ai"
+      ]
+    },
+    {
+      "id": "d684d09e4c5a",
+      "judul": "Alasan Shin Tae-yong Uji Peran Ganda Rizky Ridho di Persija",
+      "tautan": "https://www.liputan6.com/bola/read/8322577/alasan-shin-tae-yong-uji-peran-ganda-rizky-ridho-di-persija",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T13:49:29.000Z",
+      "cuplikan": "Kapten Persija Rizky Ridho dipercaya mengisi bek dan gelandang pada BRI Super League 2026/2027.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/eqIxkiQNM9CTkuV3FWwTdxmPQY8=/0x0:4032x3024/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9335178/original/029675500_1787917355-IMG_9385.JPG.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "817986c672fc",
+      "judul": "Asep Saputra Ungkap Persiapan League Cup 2026/2027, Bahas Regulasi 3 Pemain Asing hingga Mitigasi Suporter",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8322621/asep-saputra-ungkap-persiapan-league-cup-20262027-bahas-regulasi-3-pemain-asing-hingga-mitigasi-suporter",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T13:49:06.000Z",
+      "cuplikan": "Direktur Kompetisi I.League, Asep Saputra, mengungkap persiapan League Cup 2026/2027 yang dijadwalkan kick-off pada 3 November 2026. Persiapan meliputi format kompetisi, mekanisme pertandingan, serta pengaturan jadwal di tengah padatnya…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/6lDBSUqL4qPhvGDLdL1sgDgYtE4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9383896/original/082121000_1793108945-20261027_asep-saputra-28ca77.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "6c930674e3dc",
+      "judul": "Japan internet giant GMO says hackers posted stolen customer data",
+      "tautan": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-27T13:32:57.000Z",
+      "cuplikan": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Security",
+        "CrowdStrike",
+        "cybersecurity",
+        "GMO Internet",
+        "Japan",
+        "security",
+        "south korea"
+      ]
+    },
+    {
+      "id": "f85a05bebb58",
+      "judul": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+      "tautan": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-27T13:32:35.000Z",
+      "cuplikan": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg",
+      "kategoriSumber": [
+        "Science",
+        "photonics"
+      ]
+    },
+    {
+      "id": "b60d62ac1631",
+      "judul": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "tautan": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-27T13:29:41.000Z",
+      "cuplikan": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
+      "gambar": "https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/master/pass/Big-Interview-UV-Solo-Illo-1027.jpg",
+      "kategoriSumber": [
+        "The Big Story",
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "id": "c127b1692ac6",
+      "judul": "Isenmulang FC Berambisi Kejutkan Persib di GBLA",
+      "tautan": "https://www.liputan6.com/bola/read/8322418/isenmulang-fc-berambisi-kejutkan-persib-di-gbla",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T13:29:02.000Z",
+      "cuplikan": "Isenmulang FC menyiapkan skuad untuk menghadapi tuan rumah Persib Bandung.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/16moNNm3qOTbEsD0Bj1_gw0fJ6w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9348463/original/077457500_1789444781-isenmulang.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "270fef5bbd91",
+      "judul": "US officials want Section 702 renewed before damaging court ruling goes public",
+      "tautan": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-27T13:22:16.000Z",
+      "cuplikan": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg",
+      "kategoriSumber": [
+        "Policy",
+        "domestic surveillance",
+        "FISA",
+        "Foreign Intelligence Surveillance Court",
+        "section 702",
+        "surveillance"
+      ]
+    },
+    {
+      "id": "39b071429079",
+      "judul": "Highlight Persebaya Surabaya vs Madura United 3-1: Bajul Ijo Kembali Menari di Derby Jawa Timur!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8322604/highlight-persebaya-surabaya-vs-madura-united-3-1-bajul-ijo-kembali-menari-di-derby-jawa-timur",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T13:21:39.000Z",
+      "cuplikan": "Persebaya Surabaya kembali menunjukkan tajinya di Derby Jawa Timur! Bajul Ijo sukses menaklukkan Madura United dengan skor 3-1 pada pekan ke-7 BRI Super League 2026/2027 di Stadion Gelora Bung Tomo, Senin (26/10/2026). Miguel Pereira…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/7YCq-gXlJuU0LATfC2Af4JD5dnE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9383875/original/050791500_1793107297-highlight-persebaya-surabaya-vs-madura-united-3-1-bajul-ijo-kembali-menari-di-derby-jawa-timur-88710c.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ad598a6788aa",
+      "judul": "Persija Putri tunjuk Ricky Nelson sebagai pelatih baru",
+      "tautan": "https://www.antaranews.com/berita/5815471/persija-putri-tunjuk-ricky-nelson-sebagai-pelatih-baru",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T13:09:15.000Z",
+      "cuplikan": "Persija Putri menunjuk Ricky Nelson sebagai pelatih baru untuk mengarungi kompetisi Liga Putri Indonesia atau Indonesia ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/05/17/IMG-20260517-WA0019.jpg"
+    },
+    {
+      "id": "4db1563ca83f",
+      "judul": "Rizky Ridho Coba Peran Jangkar di Persija, Belajar dari Gelandang Eropa",
+      "tautan": "https://www.liputan6.com/bola/read/8322496/rizky-ridho-coba-peran-jangkar-di-persija-belajar-dari-gelandang-eropa",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T13:09:00.000Z",
+      "cuplikan": "Shin Tae-yong menggeser peran Rizky Ridho di Persija. Ia menikmati tugas baru dan belajar dari gelandang Eropa.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/HOpW14lWTqxg3sPKtf-9YulYp6o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9377015/original/017715000_1792401055-rizky.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "af4cfd64d752",
+      "judul": "Film Timnas Indonesia \"The Longest Wait\" tayang di bioskop mulai Rabu",
+      "tautan": "https://www.antaranews.com/berita/5815419/film-timnas-indonesia-the-longest-wait-tayang-di-bioskop-mulai-rabu",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T12:57:54.000Z",
+      "cuplikan": "Film dokumenter \"The Longest Wait\" yang menceritakan perjalanan Timnas Indonesia di Kualifikasi Piala Dunia ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2025/06/05/Timnas-Indonesia-melawan-China-05062025-fzn-1.jpg"
+    },
+    {
+      "id": "59ddbbc46273",
+      "judul": "Persija Women Ganti Pelatih di Awal IWL 2026/2027",
+      "tautan": "https://www.liputan6.com/bola/read/8322579/persija-women-ganti-pelatih-di-awal-iwl-20262027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T12:53:37.000Z",
+      "cuplikan": "Persija Putri melepas Muhamad Yusup Prasetiyo di awal IWL 2026/2027. Keputusan datang tak lama setelah kritiknya pada striker asing Christi-Anne.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/AOrtMKHQRAfLSs3H5Sf73p-Z1JI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376413/original/058943300_1792351856-Pelatih_Persija.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "89f61d27b40b",
+      "judul": "I.League perjelas regulasi pemain asing di kompetisi League Cup",
+      "tautan": "https://www.antaranews.com/berita/5815387/ileague-perjelas-regulasi-pemain-asing-di-kompetisi-league-cup",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T12:45:12.000Z",
+      "cuplikan": "Operator kompetisi sepak bola Indonesia, I.League, memperjelas regulasi penggunaan pemain asing di League Cup 2026/27, ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/05/18/IMG-20260517-WA0014_1.jpg"
+    },
+    {
+      "id": "d86c53cef6d0",
+      "judul": "Michael Carrick Belum Dipecat, Manchester United Beri Kesempatan Hadapi Chelsea",
+      "tautan": "https://www.viva.co.id/bola/1939037-michael-carrick-belum-dipecat-manchester-united-beri-kesempatan-hadapi-chelsea",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T12:44:09.000Z",
+      "cuplikan": "Michael Carrick masih dipercaya menangani Manchester United menjelang pertandingan melawan Chelsea pada lanjutan Liga Inggris, Sabtu (31/10/2026). Keputusan ini diambil s",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/12/6acc4a6e5b5cb-pelatih-mu-michael-carrick_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "00532e71cc91",
+      "judul": "Naturalisasi Taisei Marukawa Lancar, Peluang Bela Timnas Indonesia Terbuka",
+      "tautan": "https://www.liputan6.com/bola/read/8322389/naturalisasi-taisei-marukawa-lancar-peluang-bela-timnas-indonesia-terbuka",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T12:42:41.000Z",
+      "cuplikan": "Stafsus Menkumham Noor Korompot jelaskan naturalisasi Taisei Marukawa jalur mandiri; syarat tinggal 5 tahun terpenuhi. Kans perkuat Timnas Indonesia terbuka.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/_Janr6TT0Kh0cO3VGG6szjSfHog=/0x157:4160x2502/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5281193/original/021103800_1752328659-WhatsApp_Image_2025-07-12_at_8.55.23_PM.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "b53f3aad6c1c",
+      "judul": "Paman Lamine Yamal Sindir Kemenangan Harry Kane",
+      "tautan": "https://www.viva.co.id/bola/1939033-paman-lamine-yamal-sindir-kemenangan-harry-kane",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-27T12:38:31.000Z",
+      "cuplikan": "Kemenangan Harry Kane dalam perebutan Ballon d'Or 2026 menuai reaksi dari keluarga Lamine Yamal. Paman bintang muda Barcelona tersebut, Abdul Abdellaoui, secara terbuka m",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6adfecc9ec9be-lamine-yamal-ukir-sejarah-3-kali-beruntun-jadi-pemain-muda-terbaik-ballon-dor_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
     {
       "id": "c4e26c13e430",
       "judul": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
@@ -106,7 +1070,7 @@
       "lajur": "olahraga",
       "terbit": "2026-10-27T12:06:52.000Z",
       "cuplikan": "Direktur Kompetisi I.League Asep Saputra mengungkapkan laga antara PSMS Medan melawan Persija Jakarta di Grup A Zona ...",
-      "gambar": "https://img.antaranews.com/cache/800x533/2026/06/19/IMG-20260619-WA0020_1.jpg"
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/05/18/IMG-20260517-WA0014_1.jpg"
     },
     {
       "id": "5f2f5ca6863e",
@@ -431,7 +1395,7 @@
       "lajur": "olahraga",
       "terbit": "2026-10-27T10:52:59.000Z",
       "cuplikan": "Petenis putri Indonesia Janice Tjen tampil kuat saat menyingkirkan petenis Rusia Polina Kudermetova dua set langsung ...",
-      "gambar": "https://img.antaranews.com/cache/800x533/2025/12/03/pelatnas-tenis-putri-indonesia-jelang-sea-games-2025-2682225.jpg"
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/27/AFP_20261015_D3E387H_v1_MidRes_TennisChnWta.jpg"
     },
     {
       "id": "78b24c1ff2ff",
@@ -657,6 +1621,29 @@
       ]
     },
     {
+      "id": "7cf337f05984",
+      "judul": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
+      "tautan": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-27T10:00:10.000Z",
+      "cuplikan": "Social media companies including Meta have pulled back on efforts to protect voters from election-meddling lies Social media feeds are awash with an unprecedented flood of AI -driven disinformation ahead of November’s US midterm elections…",
+      "gambar": "https://i.guim.co.uk/img/media/d68f11cd3f15233005d45b70d00a9d9862b743ac/433_0_4332_3466/master/4332.jpg?width=140&quality=85&auto=format&fit=max&s=ea723306e08654b82b719f3e561e63a2",
+      "kategoriSumber": [
+        "US midterm elections 2026",
+        "US politics",
+        "Digital media",
+        "US news",
+        "Social media",
+        "Media",
+        "World news",
+        "Election interference",
+        "Meta",
+        "YouTube"
+      ]
+    },
+    {
       "id": "b5311eeeed20",
       "judul": "Eight great new indie horror games for Halloween",
       "tautan": "https://www.theguardian.com/games/2026/oct/27/new-indie-horror-games-halloween",
@@ -685,7 +1672,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-10-27T10:00:08.000Z",
-      "cuplikan": "From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Nelissa Moukoudi, 19, a university student in Canada, noticed a shift once she joined…",
+      "cuplikan": "From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding your vote in the US midterm elections? Nelissa…",
       "gambar": "https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=ebbe85b844bcbc75c8b2812a86351342",
       "kategoriSumber": [
         "Technology",
@@ -971,18 +1958,17 @@
       "sumber": "The New York Times",
       "kanal": "nyt-tech",
       "lajur": "global",
-      "terbit": "2026-10-27T09:02:36.000Z",
+      "terbit": "2026-10-27T09:02:37.000Z",
       "cuplikan": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.",
       "gambar": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-Robots-Europe-still-hplk/26Biz-Robots-Europe-still-hplk-mediumSquareAt3X.jpg",
       "kategoriSumber": [
         "Robots and Robotics",
         "Artificial Intelligence",
-        "Neura Robotics",
-        "Germany",
         "Factories and Manufacturing",
-        "NVIDIA Corporation",
-        "Amazon.com Inc",
-        "China"
+        "Neura Robotics GmbH",
+        "Germany",
+        "China",
+        "Europe"
       ]
     },
     {
