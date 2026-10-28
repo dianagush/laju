@@ -1,53 +1,4 @@
 {
-  "128eecc3a4ee": {
-    "teks": "Di tengah pesatnya perkembangan teknologi kecerdasan buatan, perusahaan-perusahaan didorong untuk menyiapkan langkah antisipasi yang tepat dalam penerapan bisnis. Virtus Technology Indonesia menilai bahwa pemanfaatan AI harus diiringi dengan tata kelola data serta keamanan yang memadai guna mencegah timbulnya risiko. Selain itu, kesiapan platform dan pengelolaan aliran data yang terarah menjadi kunci agar adopsi teknologi ini dapat meningkatkan efisiensi secara optimal.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-14T08:18:05.594Z"
-  },
-  "f43448c195e0": {
-    "teks": "Apple meluncurkan HomeView, perangkat layar sentuh yang memadukan sarana hiburan, komunikasi, serta kendali perangkat rumah pintar dalam satu produk. Perangkat ini ditenagai kecerdasan buatan Siri AI dan dilengkapi kemampuan pengenalan wajah untuk memberikan pengalaman yang personal bagi setiap anggota keluarga. Selain itu, produk baru tersebut juga mendukung fitur keamanan data privasi yang terisolasi dan dijadwalkan mulai dipasarkan di sejumlah negara pada pertengahan November 2026.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-14T08:18:54.341Z"
-  },
-  "50f88f71a86d": {
-    "teks": "Persib Bandung akan menjamu The Cong-Viettel pada laga Grup E Liga Champions Asia 2 di Stadion Si Jalak Harupat. Menghadapi jadwal padat di berbagai kompetisi, pelatih harus memutar otak di tengah potensi kelelahan pemain demi mengamankan kemenangan. Pertandingan lanjutan kompetisi antarklub Asia ini dapat disaksikan melalui layanan penayangan langsung Vision+.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-14T08:19:38.752Z"
-  },
-  "75bee0576268": {
-    "teks": "Samsung memperbarui layanan Samsung Health secara bertahap mulai Oktober 2026 untuk mengoptimalkan pemantauan kesehatan pengguna. Aplikasi ini kini mempermudah analisis pola tidur hanya dari data tiga hari, mendukung impor rute lari dan bersepeda dari Strava, serta menambah pilihan Running Coach menjadi 12 tingkat latihan. Melalui pengembangan ini, pengguna dapat mengelola rutinitas kebugaran secara personal dan membagikan pencapaian olahraga mereka ke media sosial.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-14T11:45:28.112Z"
-  },
-  "37a89550e895": {
-    "teks": "Pengguna iPhone dapat menekan penggunaan kuota internet dengan mengaktifkan fitur Mode Hemat Data pada menu pengaturan seluler. Langkah ini membantu menurunkan kualitas tayangan media sekaligus membatasi pembaruan aplikasi di latar belakang. Selain itu, efisiensi data juga bisa dilakukan dengan mematikan akses seluler untuk aplikasi tertentu, menonaktifkan pemutaran otomatis video, serta mengunduh konten terlebih dahulu sebelum bepergian.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-14T11:45:42.742Z"
-  },
-  "e02167c25181": {
-    "teks": "Kapasitas pengisi daya portabel sebesar 10.000 mAh dinilai ideal untuk mengisi daya ponsel hingga beberapa kali dengan bodi yang mudah digenggam. Sejumlah produsen menawarkan beragam keunggulan, seperti ukuran ringkas, fitur fast charging, teknologi nirkabel MagSafe, hingga kabel bawaan. Pengguna disarankan memilih perangkat berkualitas yang sesuai dengan jenis ponsel dan kebutuhan mobilitas agar kesehatan baterai gawai tetap terjamin.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-14T11:45:59.107Z"
-  },
-  "47a31cbd8db3": {
-    "teks": "Pengendali 8BitDo Ultimate 2C seharga $30 menawarkan fitur utama seperti stik analog Hall effect, sensor gerak, dan getaran untuk pengguna Switch 2. Meski tidak dilengkapi lampu RGB maupun kemampuan membangunkan konsol, perangkat ini memiliki baterai berdaya tahan 15 jam. Produk ergonomis ini menjadi alternatif presisi yang jauh lebih terjangkau dibanding pengendali resmi Nintendo seharga $90.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-14T11:46:14.703Z"
-  },
   "6d1000ba73a1": {
     "teks": "Google meluncurkan perangkat pelacak kebugaran terbaru bernama Fitbit Edge yang dilengkapi layar AMOLED, GPS terintegrasi, serta baterai berdaya tahan hingga sepekan. Perangkat ini menawarkan berbagai fitur kesehatan canggih seperti pemantauan detak jantung, SpO2, EKG, dan asisten kebugaran berbasis kecerdasan buatan. Di pasar Amerika Serikat, pelacak ini dijual mulai dari 179,99 dolar AS, sementara ketersediaan dan harga resmi untuk wilayah Indonesia belum diumumkan.",
     "penyedia": "gemini",
@@ -1643,5 +1594,47 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-28T06:51:24.747Z"
+  },
+  "58a703ebb55a": {
+    "teks": "Instagram sedang menguji format video horizontal baru bernama \"Features\" yang berdurasi hingga 90 menit untuk kreator terpilih di Amerika Serikat dan Brasil. Ditujukan terutama bagi para podcaster, tayangan ini awalnya muncul sebagai cuplikan di tab Jelajahi dengan tombol khusus untuk menyaksikan video selengkapnya. Layanan tersebut akan tersedia lebih dahulu di aplikasi seluler sebelum diperluas ke Instagram for TV dan seluruh pengguna.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-28T13:58:11.406Z"
+  },
+  "aa3a33fadf78": {
+    "teks": "Indonesia Anti-Scam Centre mencatat 702.342 laporan penipuan digital pada periode 22 November 2024 hingga 30 September 2026. Maraknya kasus seperti penyalahgunaan identitas dan pemalsuan dokumen mendorong pentingnya langkah perlindungan data pribadi. Masyarakat diimbau untuk selalu menjaga kerahasiaan informasi sensitif serta memverifikasi pihak yang menghubungi melalui saluran resmi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-28T13:58:31.364Z"
+  },
+  "92f98fec378e": {
+    "teks": "Amazon meluncurkan rangkaian perangkat pintar terbarunya, termasuk pembaruan pengeras suara Echo Dot dan Echo Studio yang kini dilengkapi kamera. Perusahaan tersebut juga memperkenalkan bingkai foto digital Alexa Photo Frame, jam alaram pintar Echo Time, serta layar pintar Echo Show 16 yang berdesain lebih tipis. Lini produk ini membawa peningkatan integrasi kecerdasan buatan, kontrol rumah pintar, dan fitur pemantauan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-28T13:58:48.568Z"
+  },
+  "11f050d60379": {
+    "teks": "Meta meluncurkan gim merawat hewan peliharaan berbasis kecerdasan buatan bernama Waddle World yang saat ini baru dirilis di Filipina. Permainan visual 16-bit ini berkonsep buku harian, tempat hewan virtual akan merespons tulisan pengguna dengan teks dan gambar buatan AI. Selain berinteraksi, pemain dapat menyelesaikan minigim untuk mendapatkan poin guna membeli makanan serta mainan hewan mereka.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-28T13:59:05.035Z"
+  },
+  "a7b04485d3e1": {
+    "teks": "Amazon memperbarui pengeras suara pintar Echo Studio dengan menambahkan kamera bawaan seharga 250 dolar AS. Selain berfungsi sebagai pemantau rumah dan webcam panggilan video, perangkat ini memanfaatkan fitur Alexa+ untuk membantu tugas harian. Perangkat ini tetap mempertahankan kualitas audio tinggi melalui penyesuaian akustik otomatis, sedangkan versi standar tanpa kamera masih dijual seharga 220 dolar AS.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-28T13:59:21.267Z"
+  },
+  "0bce78513e7d": {
+    "teks": "Amazon merilis generasi terbaru Kindle Paperwhite dan Kindle Colorsoft yang membawa perubahan desain minimal serta dukungan aksesori baru. Varian Signature Edition dari kedua perangkat layar tujuh inci ini menawarkan bodi belakang aluminium, pilihan warna eksklusif, dan pengisian daya nirkabel. Selain memiliki performa yang mirip dengan versi sebelumnya, kedua e-reader tersebut kini dilengkapi fitur kecerdasan buatan untuk merangkum cerita tanpa bocoran.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-28T13:59:36.745Z"
   }
 }
