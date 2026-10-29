@@ -1,53 +1,4 @@
 {
-  "d0709def5b9e": {
-    "teks": "Fenomena menyewa ponsel kelas atas untuk dokumentasi konser menjadi pilihan ekonomis yang menarik perhatian masyarakat kelas menengah. Sementara itu, jaringan Telkomsel di Batam mulai pulih pascapemadaman listrik yang melumpuhkan berbagai infrastruktur selama belasan jam. Di samping itu, peningkatan adopsi kecerdasan buatan memunculkan ancaman siber baru yang dapat melumpuhkan sistem cadangan data perusahaan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T08:23:32.928Z"
-  },
-  "e45f481f15f6": {
-    "teks": "Rockstar Games dikabarkan berencana merilis permainan GTA 6 untuk perangkat komputer pada awal tahun 2027. Berdasarkan laporan media yang bersumber dari orang dalam industri, peluncuran tersebut diprediksi terjadi antara bulan Januari hingga Maret. Kendati demikian, pihak pengembang belum memberikan tanggal pasti maupun konfirmasi resmi terkait jadwal peluncuran versi komputer tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T08:24:13.094Z"
-  },
-  "897a56c53208": {
-    "teks": "Valuasi Apple kembali melampaui US$ 5 triliun seiring menguatnya harga saham perusahaan di bursa. Peningkatan nilai pasar ini dipicu oleh besarnya minat masyarakat terhadap seri iPhone 18 Pro. Mantan CEO Tim Cook menegaskan bahwa keterbatasan pasokan murni disebabkan oleh tingginya antusiasme pembeli. Ke depan, pertumbuhan lini layanan dan pembaruan Siri AI diperkirakan akan terus menopang pendapatan Apple.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T08:24:31.682Z"
-  },
-  "3b143a78afdd": {
-    "teks": "Deezer akan menyediakan fitur pengalih pada akhir tahun ini untuk menyaring dan menghapus musik buatan kecerdasan buatan dari aplikasinya secara total. Fitur ini melayani permintaan pengguna yang ingin fokus pada karya manusia, di tengah melonjaknya proporsi lagu buatan AI hingga melampaui 50 persen dari total unggahan harian. Langkah tersebut memanfaatkan teknologi pendeteksi AI milik Deezer guna mengatasi maraknya konten otomatis sekaligus menekan penipuan pemutaran.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T08:24:47.156Z"
-  },
-  "3cbf459f0e52": {
-    "teks": "Alibaba meluncurkan kacamata pintar Qwen Glasses N1 untuk menantang Meta dalam persaingan perangkat kecerdasan buatan. Perangkat baru ini menawarkan kamera beresolusi tinggi, baterai yang lebih tahan lama, serta fitur pelacakan mata yang terintegrasi dengan layanan digital perusahaan. Kehadiran produk tersebut memperketat kompetisi teknologi pintar sekaligus memberi tantangan baru bagi posisi Meta di pasar.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T11:20:10.513Z"
-  },
-  "d90dc4de5674": {
-    "teks": "Perusahaan semikonduktor asal Amerika Serikat, Nvidia, memberikan daya komputasi senilai USD 250 juta untuk mendukung riset keamanan kecerdasan buatan di Inggris selama lima tahun ke depan. Bantuan ini disalurkan guna memperkuat penelitian berbagai lembaga di Inggris dalam menghadapi meningkatnya kekhawatiran terhadap agen AI mandiri. Pemerintah Inggris menilai dukungan tersebut sebagai bentuk kepercayaan terhadap keahlian riset di negaranya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T11:21:02.958Z"
-  },
-  "ff4bd3cae102": {
-    "teks": "Pelatih Persib Bandung, Igor Tolic, mengapresiasi penampilan Sandy Walsh yang bermain penuh pada laga debutnya di kompetisi Asia melawan The Cong Viettel. Tolic menilai timnya memiliki kualitas mumpuni untuk bersaing di tingkat domestik maupun Asia. Meski demikian, ia menekankan pentingnya menjaga kebugaran fisik para pemain di tengah jadwal pertandingan yang padat agar performa tim dapat maksimal.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T11:21:20.689Z"
-  },
   "8ecae10feb52": {
     "teks": "Pengujian jaringan 5G XLSmart di rute Yogyakarta sampai Solo menunjukkan kecepatan unduh maksimal mencapai 564 Mbps. Saat ini, cakupan jaringan tersebut telah melingkupi 23 kota dan kabupaten di Jawa Tengah serta DIY dengan dukungan lebih dari 9.600 BTS 5G. Perluasan ini dilakukan XLSmart guna meningkatkan kualitas konektivitas demi mendorong percepatan transformasi digital dan pertumbuhan ekonomi daerah.",
     "penyedia": "gemini",
@@ -1594,5 +1545,47 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-29T07:02:23.398Z"
+  },
+  "c17dcbebb357": {
+    "teks": "Pendapatan iklan YouTube pada kuartal ketiga 2026 naik 9,2 persen menjadi USD 11,21 miliar, tetapi laju pertumbuhannya melambat dan gagal memenuhi proyeksi analis. Kinerja tersebut memengaruhi induk perusahaannya, Alphabet, yang turut meleset dari estimasi pasar terkait total pendapatan serta laba per saham. Di sisi lain, pertumbuhan bisnis langganan YouTube kini melampaui pendapatan iklannya, sementara Google Cloud mencetak lonjakan pendapatan sebesar 103 persen.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T14:10:59.514Z"
+  },
+  "18e3befd77d5": {
+    "teks": "Ruang penyimpanan ponsel dapat habis meski jarang digunakan untuk memotret karena penumpukan berkas sementara dari berbagai aplikasi. Layanan pesan dan media sosial seperti WhatsApp, Telegram, TikTok, serta Instagram terus mengumpulkan file media dan cache saat diakses. Pengguna disarankan memeriksa menu pengaturan untuk membersihkan cache atau berkas berukuran besar guna mengosongkan memori perangkat.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T14:11:36.990Z"
+  },
+  "b61b705352e3": {
+    "teks": "Para atlet peraih medali Asian Games dan Asian Para Games 2026 mendatangi Istana Kepresidenan Jakarta untuk menerima penghargaan dari Presiden Prabowo Subianto. Menteri Pemuda dan Olahraga Erick Thohir menyampaikan bahwa besaran bonus yang diberikan kali ini mengalami peningkatan agar kesejahteraan para atlet lebih terjamin. Kontingen Indonesia sendiri berhasil melampaui target dengan mengantongi lima medali emas di Asian Games serta 15 medali emas di Asian Para Games.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T14:13:31.631Z"
+  },
+  "38417d3001b2": {
+    "teks": "Ketua Umum PSSI menyoroti kisah perjuangan dan pengorbanan personal para pemain tim nasional dalam film dokumenter yang merekam perjalanan Kualifikasi Piala Dunia. Sejumlah tokoh sepak bola menilai karya audio visual tersebut mampu memuat sisi manusiawi skuad Garuda serta memberikan motivasi berharga bagi generasi muda. Para pemain juga menyambut positif penayangan film ini karena menghadirkan kembali memori kebersamaan selama membela Merah Putih.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T14:15:17.220Z"
+  },
+  "3bdf9f6cc127": {
+    "teks": "DoorDash resmi mencapai kesepakatan untuk membeli perusahaan pesaingnya, Instacart, senilai $17 miliar. Aksi korporasi ini akan menyatukan dua platform pengiriman bahan makanan terbesar di Amerika Serikat. Meskipun demikian, rencana penggabungan usaha tersebut masih berpotensi menghadapi pemeriksaan terkait undang-undang anti-monopoli.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T14:17:10.252Z"
+  },
+  "e0ffe5029075": {
+    "teks": "Google meluncurkan model AI Gemini 4 Carbon yang mengungguli Claude Opus 5.5 dan GPT-6 Astra pada sejumlah tolok ukur utama, terutama pemrograman serta keamanan siber. Model ini mampu mendeteksi dan menambal kerentanan sistem, sekaligus menghasilkan kode aman dua kali lipat dibanding Gemini 4 Argon. Akses awal Gemini 4 Carbon diberikan terbatas kepada perusahaan pertahanan siber tertentu sebelum nantinya dirilis secara umum.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T14:18:07.198Z"
   }
 }
