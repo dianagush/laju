@@ -1,74 +1,4 @@
 {
-  "6d1000ba73a1": {
-    "teks": "Google meluncurkan perangkat pelacak kebugaran terbaru bernama Fitbit Edge yang dilengkapi layar AMOLED, GPS terintegrasi, serta baterai berdaya tahan hingga sepekan. Perangkat ini menawarkan berbagai fitur kesehatan canggih seperti pemantauan detak jantung, SpO2, EKG, dan asisten kebugaran berbasis kecerdasan buatan. Di pasar Amerika Serikat, pelacak ini dijual mulai dari 179,99 dolar AS, sementara ketersediaan dan harga resmi untuk wilayah Indonesia belum diumumkan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T01:54:16.581Z"
-  },
-  "96e7c23deefe": {
-    "teks": "Meta meluncurkan fitur berbasis kecerdasan buatan bernama Your Algorithm di Facebook agar pengguna dapat mengatur konten linimasa dan Reels sesuai minat mereka. Melalui fitur ini, pengguna bisa menentukan topik yang ingin lebih sering atau jarang muncul menggunakan bahasa sehari-hari. Pembaruan pada menu tiga titik juga disematkan untuk memudahkan akses terhadap preferensi konten secara real-time.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T01:54:26.870Z"
-  },
-  "661ebc63c8bc": {
-    "teks": "Samsung Galaxy A06 dan Oppo A38 merupakan dua pilihan ponsel entry-level yang sama-sama mengandalkan kapasitas baterai 5.000 mAh dan chipset MediaTek Helio G85. Kendati demikian, kedua perangkat ini memiliki perbedaan spesifikasi, salah satunya pada teknologi pengisian daya di mana Oppo A38 mendukung pengisian 33W SUPERVOOC dan Galaxy A06 mendukung pengisian cepat hingga 25W. Perbedaan fitur tersebut dapat menjadi pertimbangan bagi konsumen dalam memilih perangkat yang paling sesuai dengan kebutuhan harian mereka.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T01:54:35.155Z"
-  },
-  "8bc8c4c7ae90": {
-    "teks": "Persib Bandung sukses mengalahkan Cong Viettel FC dengan skor tipis 1-0 dalam laga Grup E AFC Champions League Two 2026/2027 di Stadion Si Jalak Harupat. Gol semata wayang tuan rumah dicetak oleh Mariano Peralta melalui eksekusi penalti menjelang akhir babak pertama. Pertandingan sempat diwarnai kartu merah bagi pemain kedua tim, tetapi keunggulan satu gol tersebut berhasil dipertahankan Maung Bandung hingga laga usai.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T01:54:43.847Z"
-  },
-  "42168fd35ca6": {
-    "teks": "Delapan negara bagian di Amerika Serikat mengajukan gugatan hukum terhadap OpenAI karena dinilai membahayakan anak-anak melalui layanan ChatGPT. Perusahaan tersebut dituduh memberikan saran berbahaya, mempromosikan tindakan bunuh diri, serta melanggar undang-undang perlindungan konsumen. Para penggugat menuntut ganti rugi finansial dan meminta pengadilan memaksa OpenAI mengubah sistem keamanannya bagi pengguna muda. Di sisi lain, juru bicara OpenAI menyatakan bahwa perusahaannya telah menerapkan perlindungan khusus usia serta berkomitmen terus memperkuat pengamanan produk.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T01:54:52.124Z"
-  },
-  "2af446043d10": {
-    "teks": "Epic Games merilis versi uji coba aplikasi peluncur gim terbarunya yang dikembangkan menggunakan kecerdasan buatan untuk meningkatkan kecepatan dan responsivitas. Pengujian menunjukkan bahwa aplikasi versi baru tersebut dapat memuat halaman toko lebih cepat dibandingkan Steam. Meskipun demikian, versi pratinjau ini masih minim fitur dan berpotensi memiliki sejumlah kutu perangkat lunak.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T01:55:00.033Z"
-  },
-  "dad0300d4964": {
-    "teks": "Pengguna smartphone Android dapat mengatasi gangguan notifikasi iklan berlebih melalui menu pengaturan perangkat tanpa perlu mengunduh aplikasi tambahan. Langkah yang bisa dilakukan meliputi menonaktifkan izin notifikasi dari aplikasi tertentu atau situs web di peramban, mencopot pemasangan aplikasi mencurigakan, serta memindai keamanan menggunakan Google Play Protect.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T04:23:36.755Z"
-  },
-  "23586d61af7e": {
-    "teks": "Penurunan performa dan penuhnya penyimpanan pada iPhone sering kali disebabkan oleh tumpukan data sementara dari aplikasi serta situs web. Meski tidak menyediakan fitur pembersihan instan secara keseluruhan, pengguna dapat menghapusnya melalui pengaturan browser Safari. Langkah tersebut mencakup penghapusan riwayat penelusuran, data situs, serta berbagai izin akses tanpa memengaruhi aplikasi lain.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T04:23:44.807Z"
-  },
-  "c0cbce9312cf": {
-    "teks": "Pengguna Android dapat memeriksa daftar kata sandi yang tersimpan melalui menu Google Password Manager untuk menjaga keamanan berbagai akun digital. Fitur tersebut memungkinkan pemilik perangkat untuk mendeteksi sandi yang lemah, berulang, atau pernah bocor. Selain memperbarui kata sandi, pengguna disarankan mengaktifkan verifikasi dua langkah serta memasang pengaman layar agar perangkat tidak mudah diakses pihak lain.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T04:23:53.978Z"
-  },
-  "275c9b5e10d2": {
-    "teks": "Hyundai Hillstate harus mengakui keunggulan Gimcheon Korea Expressway Hi-Pass setelah takluk tiga set langsung dengan skor 0-3 di ajang KOVO Cup 2026. Megawati Hangestri Pertiwi tampil sebagai tumpuan serangan dan menyumbangkan 14 poin, namun kontribusinya belum mampu menyelamatkan timnya dari kekalahan telak. Hasil negatif tersebut membuat langkah Hyundai Hillstate menuju babak semifinal menjadi semakin berat dan wajib memenangkan laga terakhir fase grup.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-15T04:24:01.926Z"
-  },
   "d0709def5b9e": {
     "teks": "Fenomena menyewa ponsel kelas atas untuk dokumentasi konser menjadi pilihan ekonomis yang menarik perhatian masyarakat kelas menengah. Sementara itu, jaringan Telkomsel di Batam mulai pulih pascapemadaman listrik yang melumpuhkan berbagai infrastruktur selama belasan jam. Di samping itu, peningkatan adopsi kecerdasan buatan memunculkan ancaman siber baru yang dapat melumpuhkan sistem cadangan data perusahaan.",
     "penyedia": "gemini",
@@ -1636,5 +1566,33 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-28T13:59:36.745Z"
+  },
+  "5e0a649a8581": {
+    "teks": "Persib Bandung menundukkan Melbourne Victory 2-0 pada laga Grup E AFC Champions League 2 di Stadion Si Jalak Harupat. Seluruh gol kemenangan tim asuhan Igor Tolic diborong oleh Balsa Sekulic pada babak kedua. Hasil ini mengokohkan Persib di puncak klasemen dengan raihan sembilan poin dari tiga pertandingan, unggul lima angka atas Melbourne Victory di posisi kedua.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T07:01:11.424Z"
+  },
+  "79393ff040e8": {
+    "teks": "Persib Bandung berpeluang memperkokoh posisi di puncak klasemen Grup E ACL 2 saat menghadapi Melbourne Victory. Meski demikian, hasil kemenangan dalam laga tersebut belum memastikan kelulusan mereka ke babak 16 besar. Sebab, setelah mengumpulkan sembilan poin, Persib masih harus menjalani tiga pertandingan tersisa dari total enam laga fase grup demi mengamankan tempat di dua besar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T07:01:30.533Z"
+  },
+  "224c11353eac": {
+    "teks": "Apple resmi merilis MacBook Pro berlayar sentuh yang ditenagai opsi chip M5 Pro dan M5 Max. Laptop ini hadir dalam pilihan ukuran 14 inci serta 16 inci yang dilengkapi paparan PROLED XDR dan engsel khusus penstabil layar. Dijual mulai dari harga $2.899, pemesanan awal dibuka pada 30 Oktober dan unit akan tersedia mulai 6 November.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T07:01:55.605Z"
+  },
+  "8ea683e1423d": {
+    "teks": "Celah keamanan CVE-2026-97631 ditemukan pada basis kode TianoCore EDK II yang banyak digunakan produsen perangkat keras dan penyedia cloud. Kerentanan ini memungkinkan peretas dengan akses jaringan lokal menjalankan kode berbahaya saat proses boot sebelum sistem operasi dan perlindungan keamanan aktif. Meski kode perbaikan telah dirilis, pembaruan pada jutaan perangkat yang terdampak diperkirakan membutuhkan waktu lama.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-29T07:02:23.398Z"
   }
 }
