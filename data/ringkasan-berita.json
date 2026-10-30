@@ -1,102 +1,4 @@
 {
-  "8ecae10feb52": {
-    "teks": "Pengujian jaringan 5G XLSmart di rute Yogyakarta sampai Solo menunjukkan kecepatan unduh maksimal mencapai 564 Mbps. Saat ini, cakupan jaringan tersebut telah melingkupi 23 kota dan kabupaten di Jawa Tengah serta DIY dengan dukungan lebih dari 9.600 BTS 5G. Perluasan ini dilakukan XLSmart guna meningkatkan kualitas konektivitas demi mendorong percepatan transformasi digital dan pertumbuhan ekonomi daerah.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:30:48.832Z"
-  },
-  "e14a12f398ae": {
-    "teks": "Layanan YouTube Music mulai menyematkan label khusus pada musik yang sebagian besar diciptakan menggunakan kecerdasan buatan. Penentuan ini dilakukan melalui alat pendeteksi internal serta laporan mitra musik guna memberikan transparansi kepada pendengar. Kebijakan tersebut menyusul langkah platform lain, seperti Apple Music dan Spotify, yang turut menandai konten berbasis AI.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:31:05.974Z"
-  },
-  "dbba271a64ac": {
-    "teks": "LinkedIn memperkenalkan beragam fitur baru guna mendukung pengguna yang memiliki pekerjaan sampingan, kreator, dan pemilik usaha. Pembaruan tersebut meliputi uji coba network feed, kartu nama digital, hingga layanan konsultasi berbayar Advice Sessions untuk pelanggan Business Premium di Amerika Serikat. Platform ini juga menyediakan dasbor analitik baru serta memperluas pembagian pendapatan iklan video bagi kreator. Inovasi ini dihadirkan menyusul melonjaknya tren pengguna yang memulai bisnis dan memegang beberapa peran sekaligus.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:31:38.873Z"
-  },
-  "f052d9252f73": {
-    "teks": "Pebulu tangkis tunggal putra Alwi Farhan menembus babak perempat final Denmark Open 2026 usai mengalahkan Jonatan Christie. Dalam pertandingan dua gim langsung dengan skor 21-14 dan 21-19, Alwi mampu mengendalikan emosinya saat menghadapi sang idola. Jonatan pun mengapresiasi permainan juniornya yang dinilai tampil semakin siap, matang, dan memiliki arah permainan yang jelas.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:31:54.944Z"
-  },
-  "6901ec75a3e6": {
-    "teks": "Timnas futsal Indonesia menelan kekalahan tiga gol tanpa balas dari Brasil dalam pertandingan pembuka Grup A Copa das Nacoes de Futsal 2026. Skuad asuhan Hector Souto sempat tampil disiplin dan menahan imbang tuan rumah sebelum akhirnya kebobolan lewat aksi Cleber dan Fabinho pada paruh pertama. Memasuki babak kedua, Brasil menambah satu gol melalui Rufino untuk memastikan kemenangan, sementara Indonesia dijadwalkan menghadapi Tanjung Verde pada laga berikutnya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:32:03.562Z"
-  },
-  "bbd18e35172a": {
-    "teks": "Bek Manchester United, Lisandro Martinez, dikabarkan enggan memperpanjang kontraknya menyusul kritik terbuka yang ia layangkan kepada manajemen klub terkait minimnya investasi skuad. Hubungan yang merenggang ini membuat masa depan pemain asal Argentina tersebut di Old Trafford menjadi tidak pasti. Di tengah situasi tersebut, Atletico Madrid muncul sebagai salah satu destinasi yang diminati sang pemain untuk melanjutkan kariernya di Spanyol.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:32:11.514Z"
-  },
-  "04f2eea71d22": {
-    "teks": "Meta meluncurkan model kecerdasan buatan sumber terbuka berparameter 800 miliar bernama Muse Spark Open yang dioptimalkan untuk perangkat Apple Silicon. Model ini diklaim mengungguli beberapa model asal Tiongkok dalam tugas agen dan penalaran visual. Untuk menjalankannya secara lokal, pengguna membutuhkan kapasitas RAM sebesar satu terabyte yang dapat dipenuhi dengan menggabungkan dua unit komputer Mac Studio.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:32:19.394Z"
-  },
-  "6ff3deb9ed01": {
-    "teks": "Perusahaan perangkat kesehatan Withings menerapkan kebijakan baru yang mewajibkan pengguna baru berlangganan untuk menyinkronkan data mereka ke aplikasi pihak ketiga seperti Apple Health. Akun yang dibuat setelah tanggal tertentu harus bergabung dengan layanan berbayar tahunan untuk menikmati fitur sinkronisasi otomatis. Kebijakan ini menuai kritik dari para pengguna karena mengenakan biaya tambahan untuk fitur dasar tersebut. Pengguna baru tanpa langganan harus melakukan ekspor dan unggah data secara manual jika ingin memindahkannya ke platform lain.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:32:27.409Z"
-  },
-  "35dbf45b5abf": {
-    "teks": "Hari terakhir penyelenggaraan TechCrunch Disrupt 2026 di San Francisco menghadirkan berbagai diskusi mengenai inovasi kecerdasan buatan, strategi pertumbuhan rintisan, serta teknologi masa depan. Acara yang mempertemukan ribuan pendiri, investor, dan pemimpin teknologi di Moscone West ini juga dimeriahkan oleh pameran ratusan perusahaan rintisan dan ajang Startup Battlefield.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:32:35.264Z"
-  },
-  "41d2a43ff64d": {
-    "teks": "Tesla menampilkan purwarupa Tesla Roadster generasi berikutnya dalam sebuah acara di Texas. Kendaraan listrik tersebut memperlihatkan kemampuan melaju hingga 60 mph dalam waktu kurang dari satu detik, berkendara secara terbalik, dan terbang singkat. Model supercar tersebut dijadwalkan baru akan mulai diproduksi pada tahun 2028 setelah mengalami berbagai penundaan sejak pertama kali diperkenalkan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T01:32:43.206Z"
-  },
-  "78da752e3500": {
-    "teks": "Lanjutan fase reguler MPL ID S18 pada Jumat, 16 Oktober 2026 menghadirkan dua laga penting. Pemimpin klasemen sementara, NAVI, bertemu dengan tim juru kunci RRQ yang telah dipastikan tidak lolos ke babak playoffs. Selanjutnya, Alter Ego berhadapan dengan GEEK Fam demi mengejar posisi upper bracket.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T04:29:57.699Z"
-  },
-  "7986e734be71": {
-    "teks": "Daftar harga iPhone 14 baru maupun bekas di Indonesia menjadi topik terpopuler, bersamaan dengan peluncuran program Pesta Hadiah IMPoin 2026 oleh Indosat Ooredoo Hutchison. Di samping itu, lembaga pengelola domain global ICANN menerbitkan standar aturan teknis baru yang mendukung penggunaan aksara Nusantara, seperti Jawa dan Pegon, pada nama domain internet. Langkah tersebut dinilai memperkuat integrasi warisan budaya lokal dalam ekosistem digital dunia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T04:30:12.279Z"
-  },
-  "f86faa5103a9": {
-    "teks": "Persaingan ponsel berkinerja tinggi tahun 2026 mempertemukan iQOO 15R dan POCO X8 Pro yang menyasar pengguna gemar bermain gim serta multitasking. iQOO 15R ditenagai chipset Snapdragon 8 Gen 5 dengan banderol mulai Rp8.499.000, sedangkan POCO X8 Pro mengandalkan MediaTek Dimensity 8500-Ultra dengan harga awal lebih terjangkau yakni Rp4.999.000. Masing-masing perangkat juga dibekali sistem pendingin khusus serta beragam pilihan kapasitas penyimpanan untuk mendukung kebutuhan pengguna.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T04:30:20.722Z"
-  },
-  "fb64bec0a80c": {
-    "teks": "Tesla mendemonstrasikan purwarupa sport car Roadster 2 tanpa pengemudi di fasilitas SpaceX yang mampu melayang beberapa kaki di udara. Mobil sport berharga mahal yang dijadwalkan diproduksi pada 2028 tersebut diperkirakan akan menghadapi berbagai tantangan regulasi penerbangan yang ketat dari otoritas terkait. Selain izin dari FAA dan lisensi khusus bagi pengemudi, pengoperasian kendaraan ini juga terkendala aturan lepas landas di jalan umum serta tantangan teknis keseimbangan bobot.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T04:30:29.338Z"
-  },
   "560b313cc2d4": {
     "teks": "Performa laptop yang melambat saat memutar video daring dapat dipicu oleh jaringan internet yang tidak stabil, pemakaian memori yang berlebihan, serta tingginya beban kerja CPU dan GPU. Masalah panas berlebih dan perangkat lunak yang belum diperbarui juga mampu memperburuk gangguan tersebut. Untuk mengatasinya, pengguna dapat menghentikan aplikasi yang tidak diperlukan, menurunkan kualitas resolusi tampilan, serta memperbarui sistem maupun peramban secara berkala.",
     "penyedia": "gemini",
@@ -1587,5 +1489,47 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-29T14:18:07.198Z"
+  },
+  "25d8597c2e51": {
+    "teks": "Google telah memperbaiki gangguan pada aplikasi Google Photos yang menyebabkan foto hasil editan tidak dapat diakses melalui menu pemilih gambar pada aplikasi lain. Sebelum masalah ini teratasi, pengguna Android harus menyimpan foto sebagai salinan agar bisa dibagikan ke media sosial atau layanan pesan. Perbaikan ini menyusul penanganan gangguan pada bulan lalu yang sempat membuat beberapa tombol fungsi tidak merespons setelah pengeditan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T07:02:30.801Z"
+  },
+  "cb6a2e02195e": {
+    "teks": "Asosiasi Penyelenggara Jaringan Telekomunikasi meminta Pemerintah Kota Bandung menghentikan pemotongan kabel udara secara sepihak untuk mencegah kelumpuhan layanan internet. Apjatel menilai tindakan tersebut bertentangan dengan aturan karena infrastruktur bawah tanah pengganti belum siap sepenuhnya. Guna mengatasi masalah tersebut, asosiasi mendesak adanya dialog terbuka untuk mengevaluasi kapasitas saluran dan mengatur jadwal migrasi bertahap.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T07:03:03.266Z"
+  },
+  "1105ada6b02d": {
+    "teks": "Google memperkenalkan Gemini 4 Carbon, kecerdasan buatan terbaru yang berfokus pada pemrograman kompleks dan keamanan siber. Meski mencatatkan skor tinggi dalam menangani kerentanan perangkat lunak, ketersediaan model ini untuk masyarakat umum masih ditunda demi pengujian sistem pengamanan tambahan. Saat ini, akses API berbayar tersebut hanya diberikan secara terbatas kepada tim pertahanan siber dan mitra tepercaya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T07:03:23.056Z"
+  },
+  "329d09609714": {
+    "teks": "Penyerang berpaspor Indonesia, Lassana Doucoure, resmi melanjutkan kariernya di Eropa dengan bergabung ke klub Norwegia, FK Haugesund. Kepindahan mantan pemain Barito Putera berusia 23 tahun ini membuka peluang baginya untuk menjadi pilihan pelatih John Herdman di Timnas Indonesia menjelang Piala Asia 2027. Meski demikian, pemain kelahiran Jakarta tersebut tetap dituntut membuktikan kualitas dan konsistensi permainannya di kompetisi baru.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T07:03:38.627Z"
+  },
+  "7e77344e5aa1": {
+    "teks": "Presiden Rusia Vladimir Putin memuji Elon Musk sebagai sosok jenius dan mengaku menjalin hubungan dekat terkait proyek satelit internet Rassvet. Hubungan tersebut memicu kekhawatiran Ukraina yang sangat bergantung pada jaringan Starlink milik SpaceX dalam menghadapi invasi Rusia. Akses Starlink Ukraina bahkan sempat dibatasi setelah Musk menyebut penggunaan teknologi tersebut untuk serangan drone ofensif telah melanggar ketentuan layanan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T07:04:01.002Z"
+  },
+  "adc226400758": {
+    "teks": "CEO Reddit Steve Huffman mengumumkan rencana untuk mewajibkan pengguna masuk ke akun agar dapat menggunakan platform tersebut. Uji coba kebijakan ini akan dimulai pada kuartal keempat di sejumlah pasar luar Amerika Serikat guna mengatasi penurunan lalu lintas pencarian dan mengoptimalkan iklan. Langkah ini melanjutkan berbagai pembatasan akses sebelumnya, seiring melonjaknya pendapatan perusahaan pada kuartal ketiga.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T07:04:19.630Z"
   }
 }

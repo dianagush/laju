@@ -1,7 +1,609 @@
 {
   "tanggal": "2026-10-29",
-  "diperbarui": "2026-10-29T14:10:13.921Z",
+  "diperbarui": "2026-10-30T07:01:32.325Z",
   "berita": [
+    {
+      "id": "31c321496db5",
+      "judul": "Celah PHP Dieksploitasi, Antarmuka Perusahaan Keamanan Jaringan Jadi Target",
+      "tautan": "https://www.liputan6.com/tekno/read/8324217/celah-php-dieksploitasi-antarmuka-perusahaan-keamanan-jaringan-jadi-target",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T16:58:37.000Z",
+      "cuplikan": "Palo Alto Networks memperingatkan eksploitasi aktif dua celah PHP yang menyasar antarmuka manajemen perangkat yang terbuka ke internet.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/x8xY5XExLVB6_Z9GgHuT3sdc-VQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4452780/original/002117000_1685879636-Ilustrasi_Serangan_Siber_01.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "a9c1243379ec",
+      "judul": "Hendra Kurniawan Bidik Gelar Juara Bersama UMI Bekasi di Liga Voli Mahasiswa, Pengalaman Timnas dan Proliga Jadi Modal",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8324550/hendra-kurniawan-bidik-gelar-juara-bersama-umi-bekasi-di-liga-voli-mahasiswa-pengalaman-timnas-dan-proliga-jadi-modal",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:53:54.000Z",
+      "cuplikan": "Hendra Kurniawan membawa ambisi besar bersama Universitas Muhammadiyah Indonesia (UMI) Bekasi di Liga Voli Mahasiswa Seri Jakarta 2026. Berbekal pengalaman bermain di Proliga dan memperkuat Timnas Voli Indonesia sejak 2023, Hendra membidik…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Z2b4BPqjBOdzhXDnMjmc_QHrW3Y=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9386003/original/021099000_1793292833-20261029_pa_umi_hendra-kurniawan-4feb06.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d451cf653633",
+      "judul": "Soal Meta AI, Komdigi Tegaskan Tak Pernah Minta Batasi Konten Karhutla",
+      "tautan": "https://www.liputan6.com/tekno/read/8324002/soal-meta-ai-komdigi-tegaskan-tak-pernah-minta-batasi-konten-karhutla",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T16:53:45.000Z",
+      "cuplikan": "Komdigi mendorong platform digital transparan soal algoritma dan moderasi konten, termasuk menyediakan kanal banding bagi pengguna.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/s2rslz2VwdsnomU19V8gOhhpfZc=/0x0:1429x804/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9385367/original/068181800_1793255320-WhatsApp_Image_2026-10-29_at_13.23.19.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "faa9707ab1a6",
+      "judul": "Menengok Starter Persib Bandung di Jadwal Neraka: Pemain Ini Paling Diandalkan",
+      "tautan": "https://www.liputan6.com/bola/read/8324505/menengok-starter-persib-bandung-di-jadwal-neraka-pemain-ini-paling-diandalkan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:46:44.000Z",
+      "cuplikan": "Persib Bandung memainkan 12 laga di tiga kompetisi awal musim 2026/2027. Matricardi starter terbanyak, Balsa Sekulic dan Dedi Kusnandar supersub andalan.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/c1rMxVMb2BVZbK8Un7CxwkyVybM=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9382258/original/076068000_1792986135-0L5A8155.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "1dc4bae8b84c",
+      "judul": "Apjatel Desak Pemkot Bandung Setop Pemutusan Kabel Sepihak, Internet Bisa Lumpuh!",
+      "tautan": "https://www.liputan6.com/tekno/read/8324202/apjatel-desak-pemkot-bandung-setop-pemutusan-kabel-sepihak-internet-bisa-lumpuh",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T16:45:54.000Z",
+      "cuplikan": "Ketua Umum Apjatel, Jerry Siregar, mengimbau Wali Kota Bandung agar meninjau ulang rencana penertiban kabel semrawut di lapangan.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/wTERF-cvSNpS9rAg5M-3BgUvscg=/0x70:742x488/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9299306/original/078886800_1784210110-Apjatel.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "f002c003a0b6",
+      "judul": "Demi Main GTA 6, Pengajuan Cuti Naik hingga 17 Persen",
+      "tautan": "https://www.liputan6.com/tekno/read/8321922/demi-main-gta-6-pengajuan-cuti-naik-hingga-17-persen",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T16:44:52.000Z",
+      "cuplikan": "Peluncuran GTA 6 pada 19 November 2026 memicu lonjakan pengajuan cuti kerja di AS hingga 17 persen. Simak fenomena unik penggemar game Rockstar ini.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/haHTI-WiFtHKxatjUapLyD4ok8k=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375125/original/091066900_1792130783-0637b4bb19438399bc5b3e7bbdfe6936f79cdbf3.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "7610575f9544",
+      "judul": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "tautan": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-29T16:42:32.000Z",
+      "cuplikan": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ]
+    },
+    {
+      "id": "99695408ca3d",
+      "judul": "Prediksi Persebaya vs Persijap: Rotasi Jadi Solusi",
+      "tautan": "https://www.liputan6.com/bola/read/8324534/prediksi-persebaya-vs-persijap-rotasi-jadi-solusi",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:37:05.000Z",
+      "cuplikan": "Persebaya vs Persijap meramaikan pekan ke-8 BRI Super League musim ini.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/9DmIvqmMxOJQjqqv-J8DjmJIRqk=/30x172:981x708/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9314647/original/077064900_1785756647-Persebaya_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "46c2a576f960",
+      "judul": "Dua atlet meninggal di Porprov, KONI Jateng soroti SOP keselamatan",
+      "tautan": "https://www.antaranews.com/video/5820543/dua-atlet-meninggal-di-porprov-koni-jateng-soroti-sop-keselamatan",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:36:37.000Z",
+      "cuplikan": "Komite Olahraga Nasional Indonesia (KONI) Jawa Tengah bersama panitia penyelenggara Pekan Olahraga ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/DUA-ATLET-MENINGGAL-DI-PORPROV-KONI-JATENG-SOROTI-SOP-KESELAMATAN.jpg"
+    },
+    {
+      "id": "40c666597e4d",
+      "judul": "Highlight Liga Voli Mahasiswa 2026: UMI Bekasi Sikat Trisakti Jakarta 3-0, Melaju Mulus ke Semifinal!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8324540/highlight-liga-voli-mahasiswa-2026-umi-bekasi-sikat-trisakti-jakarta-3-0-melaju-mulus-ke-semifinal",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:33:10.000Z",
+      "cuplikan": "Universitas Muhammadiyah Indonesia (UMI) Bekasi tampil dominan saat menghadapi Universitas Trisakti Jakarta pada sektor putra Liga Voli Mahasiswa Seri Jakarta 2026. UMI memastikan kemenangan telak 3-0 dengan skor per set 25-17, 25-19, dan…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/AaxMJRCi2S2IwlI9z9gEI4Nr3hw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385997/original/095734700_1793291588-20261029_pa_um-indonesia-vs-trisakti-5704fd.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "4fecc0fbd4de",
+      "judul": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "tautan": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-29T16:24:55.000Z",
+      "cuplikan": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Google",
+        "Tech",
+        "ai search",
+        "Artificial Intelligence",
+        "finance",
+        "google",
+        "quarterly earnings"
+      ]
+    },
+    {
+      "id": "88294416a4cb",
+      "judul": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "tautan": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-29T16:21:00.000Z",
+      "cuplikan": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Andreessen Horowitz",
+        "architecture",
+        "dream",
+        "Palantir",
+        "world models"
+      ]
+    },
+    {
+      "id": "4ffd90c4a5f4",
+      "judul": "SuperMe raises $20M for its network of AI expert profiles",
+      "tautan": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-29T16:19:43.000Z",
+      "cuplikan": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apps",
+        "expert network",
+        "forerunner",
+        "greylock"
+      ]
+    },
+    {
+      "id": "2beb28b3432b",
+      "judul": "Bill Gates Mengaku Tak Gunakan AI untuk Urusi Kehidupan Pribadi, Ogah Jadikan AI Teman Curhat",
+      "tautan": "https://www.jawapos.com/teknologi/2610290667/bill-gates-mengaku-tak-gunakan-ai-untuk-urusi-kehidupan-pribadi-ogah-jadikan-ai-teman-curhat",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T16:18:55.000Z",
+      "cuplikan": "Bill Gates mengaku tidak menggunakan kecerdasan buatan (AI) untuk hubungan pribadi atau mencari pengakuan emosional.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/29/bill-gates-menegaskan-tak-menggunakan-ai-untuk-hubungan-pribadi-dan-mendesak-pemerintah-memperketat-pengawasan-teknologi-tersebut-demi-melindungi-pekerja-people-oUbJb.webp"
+    },
+    {
+      "id": "87db815b697f",
+      "judul": "AI Berhasil Ciptakan 16 Virus Baru, Pakar Peringatkan Ancaman Patogen Mematikan bagi Manusia",
+      "tautan": "https://www.jawapos.com/teknologi/2610290663/ai-berhasil-ciptakan-16-virus-baru-pakar-peringatkan-ancaman-patogen-mematikan-bagi-manusia",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T16:14:21.000Z",
+      "cuplikan": "Peneliti Arc Institute di Amerika Serikat berhasil menggunakan AI untuk merancang virus baru yang menyerang bakteri, termasuk bakteri yang telah mengembangkan resistansi terhadap virus alami.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/29/ilustrasi-ilmuwan-mengembangkan-penelitian-berbasis-kecerdasan-buatan-di-laboratorium-people-YVxYA.webp"
+    },
+    {
+      "id": "a8d6a51bee97",
+      "judul": "Jejak Persib di Panggung Asia: Peluang Cetak Sejarah Baru",
+      "tautan": "https://www.liputan6.com/bola/read/8324507/jejak-persib-di-panggung-asia-peluang-cetak-sejarah-baru",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:12:46.000Z",
+      "cuplikan": "Persib Bandung menang 2-0 atas Melbourne Victory dan memimpin Grup E ACL2 musim ini.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/F12Fp9faWqTPuShGasAZU21yMyg=/0x463:4528x3015/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385015/original/057954300_1793206131-1000472902.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "3bea650c8894",
+      "judul": "Bill Gates Peringatkan 20 Tahun Gejolak Dunia AI, Microsoft Tawarkan Pesangon bagi 60.000 Karyawan",
+      "tautan": "https://www.jawapos.com/teknologi/2610290659/bill-gates-peringatkan-20-tahun-gejolak-dunia-ai-microsoft-tawarkan-pesangon-bagi-60000-karyawan",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T16:10:26.000Z",
+      "cuplikan": "Bill Gates memperingatkan bahwa kecerdasan buatan (AI) dapat memicu 20 tahun gejolak sebelum manfaat ekonominya dirasakan secara luas.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/29/bill-gates-memperingatkan-dampak-kecerdasan-buatan-terhadap-dunia-kerja-dan-pentingnya-pengawasan-pemerintah-dalam-mengantisipasi-risikonya-people-GZgAq.webp"
+    },
+    {
+      "id": "bd5289bbb895",
+      "judul": "ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts",
+      "tautan": "https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-29T16:04:13.000Z",
+      "cuplikan": "The RFX Meat Mini offers nearly identical performance to the full-sized grilling probe.",
+      "gambar": "https://www.engadget.com/img/gallery/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/l-intro-1793289798.jpg",
+      "kategoriSumber": [
+        "News"
+      ]
+    },
+    {
+      "id": "0c5bf9159172",
+      "judul": "Bill Gates Usul Manusia Batasi AI seperti Komunitas Amish, Minta Generasi Muda Tentukan Masa Depan",
+      "tautan": "https://www.jawapos.com/teknologi/2610290658/bill-gates-usul-manusia-batasi-ai-seperti-komunitas-amish-minta-generasi-muda-tentukan-masa-depan",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T16:03:48.000Z",
+      "cuplikan": "Bill Gates mengusulkan agar manusia membatasi penggunaan kecerdasan buatan (AI) pada bidang tertentu, meskipun teknologi itu kelak mampu bekerja lebih baik daripada manusia",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/29/pendiri-microsoft-bill-gates-berbicara-tentang-pilihan-manusia-untuk-membatasi-penggunaan-kecerdasan-buatan-ai-di-tengah-perkembangan-teknologi-yang-kian-pesat-barchart-YdJ7G.webp"
+    },
+    {
+      "id": "d41a699b792a",
+      "judul": "Jadwal MotoGP Malaysia 2026: Persaingan Juara Dunia Memanas",
+      "tautan": "https://www.liputan6.com/bola/read/8323433/jadwal-motogp-malaysia-2026-persaingan-juara-dunia-memanas",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:00:05.000Z",
+      "cuplikan": "Malaysia menghadirkan seri ke-19 MotoGP 2026 di Sepang.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/b5DdISny8HQxperfK9ytUqDzivs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5124594/original/041232200_1738893454-MM93.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "41231686d593",
+      "judul": "KONI Jateng evaluasi keselamatan atlet usai tiga insiden Porprov",
+      "tautan": "https://www.antaranews.com/berita/5820535/koni-jateng-evaluasi-keselamatan-atlet-usai-tiga-insiden-porprov",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:55:10.000Z",
+      "cuplikan": "Komite Olahraga Nasional Indonesia (KONI) Jawa Tengah bersama panitia Pekan Olahraga Provinsi (Porprov) 2026 ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/29/IMG_20261029_212725.jpg"
+    },
+    {
+      "id": "dcf24b48f952",
+      "judul": "Java United vs Bhayangkara FC: Ambisi Tamu Jaga Rekor Tak Terkalahkan",
+      "tautan": "https://www.liputan6.com/bola/read/8324520/java-united-vs-bhayangkara-fc-ambisi-tamu-jaga-rekor-tak-terkalahkan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:53:49.000Z",
+      "cuplikan": "Java United menjamu Bhayangkara FC di Stadion Jatidiri, Jumat (30/10/2026) pada lanjutan BRI Super League.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/fbgN9p-Pd_YAwQL3PTUEircz6f4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9378579/original/030811500_1792552688-bfc_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "ea9924de6788",
+      "judul": "Top 3 Berita Bola: Legenda Manchester United Sebut Bruno Fernandes Tamat",
+      "tautan": "https://www.liputan6.com/bola/read/8324518/top-3-berita-bola-legenda-manchester-united-sebut-bruno-fernandes-tamat",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:50:28.000Z",
+      "cuplikan": "Kabar dari Liga Inggris, MotoGP, dan bursa transfer masuk daftar top 3 berita terpopuler Kanal Bola Liputan6.com dalam sehari terakhir.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/AZ3Yb1IcQOTxscDQfCQS7y_ak3o=/0x118:3506x2094/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9336110/original/023036200_1788132048-Manchester_United_s_Bruno_Fernandes.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "49b5d3e967b8",
+      "judul": "Sabar/Reza Kandas di 16 Besar Hylo Open 2026, Jojo dan Amri/Nita Melaju",
+      "tautan": "https://www.liputan6.com/bola/read/8324515/sabarreza-kandas-di-16-besar-hylo-open-2026-jojo-dan-amrinita-melaju",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:44:16.000Z",
+      "cuplikan": "Sabar/Reza berstatus unggulan pertama pada Hylo Open 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Kd6lskJXVmndcqDSO9mu8q1kCCk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8258519/original/071421300_1781355563-IMG-20260613-WA0072.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "f2092674d2fb",
+      "judul": "SAFENet Kritik Aturan Takedown 4 Jam Komdigi: Tak Cukup bagi Platform, Picu Overblocking",
+      "tautan": "https://www.jawapos.com/teknologi/2610290652/safenet-kritik-aturan-takedown-4-jam-komdigi-tak-cukup-bagi-platform-picu-overblocking",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T15:34:04.000Z",
+      "cuplikan": "SAFENet menilai kebijakan takedown konten ujaran kebencian oleh Komdigi berpotensi membatasi kebebasan berekspresi.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/27/kapolri-jenderal-pol-suyudi-ario-seto-kiri-dan-menteri-komunikasi-dan-digital-menkomdigi-meutya-hafid-kanan-dok-komdigi-lnl51.webp"
+    },
+    {
+      "id": "3a3e6a74cf52",
+      "judul": "Jadwal Moto3 Malaysia 2026 dan Link Live Streaming, Jumat 30 Oktober",
+      "tautan": "https://www.liputan6.com/bola/read/8323428/jadwal-moto3-malaysia-2026-dan-link-live-streaming-jumat-30-oktober",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:33:05.000Z",
+      "cuplikan": "Berlangsung dua sesi latihan pada hari pertama Moto3 Malaysia 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/aKEm90iNyqz-JqINHnHvtlDPaEA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5535816/original/097111200_1774143223-unnamed__66_.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "9853ca08021e",
+      "judul": "Syahla Octavia Bawa Pengalaman Proliga ke UNJ, Target Tegas: Harus Juara Satu!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8324508/syahla-octavia-bawa-pengalaman-proliga-ke-unj-target-tegas-harus-juara-satu",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:33:05.000Z",
+      "cuplikan": "Syahla Octavia membawa pengalaman berharga dari kompetisi Proliga untuk memperkuat Universitas Negeri Jakarta (UNJ) di Liga Voli Mahasiswa Seri Jakarta 2026. Menghadapi persaingan yang semakin ketat, Syahla menilai setiap tim memiliki…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/HtCuC5LP6i3I7kmp1TfhJIvwqU0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385974/original/062062500_1793287983-20261029_pi_syahla-octavia-pro-liga_unj-abbe8c.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "0a081ed8e418",
+      "judul": "Melbourne Victory Berambisi Balas Dendam Lawan Persib Bandung",
+      "tautan": "https://www.liputan6.com/bola/read/8324506/melbourne-victory-berambisi-balas-dendam-lawan-persib-bandung",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:32:48.000Z",
+      "cuplikan": "Giovanni Savarese menyebut Grup E ACL Two 2026 masih terbuka. Melbourne Victory menargetkan tiga poin saat menjamu Persib Bandung pada awal November.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/3-oYcAFIAwEXHgG4XwK5sTYHrFw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383851/original/092933900_1793105543-savarese.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "6de91f641e17",
+      "judul": "Jadwal MotoGP Malaysia 2026 dan Link Live Streaming, Jumat 30 Oktober",
+      "tautan": "https://www.liputan6.com/bola/read/8323432/jadwal-motogp-malaysia-2026-dan-link-live-streaming-jumat-30-oktober",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:30:19.000Z",
+      "cuplikan": "Jorge Martin akan coba mengikuti latihan bebas pertama MotoGP Malaysia 2026 dalam kondisi patah tulang pergelangan tangan.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/OwDVe7YydNzgcj97U3ZKq71k3B8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9364772/original/094600000_1791029411-000_C9ZV3N2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "18957b5acb5d",
+      "judul": "Persebaya Surabaya Harus Siap Bongkar Taktik Parkir Bus Persijap Jepara",
+      "tautan": "https://www.liputan6.com/bola/read/8324502/persebaya-surabaya-harus-siap-bongkar-taktik-parkir-bus-persijap-jepara",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:15:42.000Z",
+      "cuplikan": "Jelang pekan kedelapan BRI Super League 2026/2027, Bernardo Tavares mengingatkan Persebaya Surabaya mewaspadai Persijap yang bisa bermain defensif di GBT.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/wbBnfHuQDFAnJtPefBTpI--Y76M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9309810/original/078110300_1785286920-taveres_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "4c0cbb93ff92",
+      "judul": "Penyebab Veda Ega Pratama Diliputi Perasaan Campur Aduk Jelang Moto3 Malaysia 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/29/38/3250997/penyebab-veda-ega-pratama-diliputi-perasaan-campur-aduk-jelang-moto3-malaysia-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:09:08.000Z",
+      "cuplikan": "Veda Ega Pratama diliputi perasaan campur aduk jelang Moto3 Malaysia 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/29/38/3250997/veda_ega_pratama_diliputi_perasaan_campur_aduk_jelang_moto3_malaysia_2026-VdhX_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "8ba4b83ca08e",
+      "judul": "FromSoftware delays The Duskbloods until 2027",
+      "tautan": "https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-29T15:02:41.000Z",
+      "cuplikan": "The studio is taking more time to refine the \"rules and balance\" of the Nintendo Switch 2 exclusive.",
+      "gambar": "https://www.engadget.com/img/gallery/fromsoftware-delays-the-duskbloods-until-2027/l-intro-1793286117.jpg",
+      "kategoriSumber": [
+        "Nintendo"
+      ]
+    },
+    {
+      "id": "291a16b6f10c",
+      "judul": "Mobile Legends Bukan Sekadar Game, Ekosistem Esports Indonesia Buka Peluang Ekonomi Digital",
+      "tautan": "https://www.liputan6.com/bola/read/8324411/mobile-legends-bukan-sekadar-game-ekosistem-esports-indonesia-buka-peluang-ekonomi-digital",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T15:00:54.000Z",
+      "cuplikan": "Mobile Legends memiliki banyak penggemar dan begitu populer di Indonesia. MLBB tak sekadar game esports saja.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/oLkDwykrkmL1FzhKtOn_UvBk4DU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385887/original/056829400_1793277099-20261029_140726.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "7aa9dd32e3c7",
+      "judul": "What is it like to work when your co-workers are AI agents?",
+      "tautan": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-29T15:00:46.000Z",
+      "cuplikan": "Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workers On an average workday, Dhruv Amin chats with dozens of colleagues to get things…",
+      "gambar": "https://i.guim.co.uk/img/media/96ab1d348d65947d1e741dfb0c36ee6140aa89e2/438_0_4207_3367/master/4207.jpg?width=140&quality=85&auto=format&fit=max&s=06dcc75fbd53921f5ff2eb3d6ebeea8a",
+      "kategoriSumber": [
+        "Technology",
+        "AI (artificial intelligence)",
+        "Chatbots"
+      ]
+    },
+    {
+      "id": "172589dc6def",
+      "judul": "Puddlesuits, movie nights and daytime baths: how to survive rainy days with small kids",
+      "tautan": "https://www.theguardian.com/thefilter/2026/oct/29/rainy-day-hacks-for-kids-uk",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-29T15:00:46.000Z",
+      "cuplikan": "Wet weather dampening your plans? From screen-free stories and craft kits to waterproof gear, here’s how to keep little ones – and grownups – entertained • The best gifts for kids by age Before becoming a mum, I never appreciated quite how…",
+      "gambar": "https://i.guim.co.uk/img/media/3751fea5e6d3ad1dfbf60046c0c619526f10c981/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=50c689bd2af7147ebd5aaef7c25bee70",
+      "kategoriSumber": [
+        "Activities for children",
+        "Life and style",
+        "Toys",
+        "Homes",
+        "Interiors",
+        "Gadgets",
+        "Technology",
+        "Family",
+        "Hobbies",
+        "Craft"
+      ]
+    },
+    {
+      "id": "a2aa84b8c0fc",
+      "judul": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "tautan": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-29T15:00:00.000Z",
+      "cuplikan": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "gambar": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif",
+      "kategoriSumber": [
+        "Business",
+        "Business / Artificial Intelligence",
+        "Business / Startups"
+      ]
+    },
+    {
+      "id": "bf250164e4d0",
+      "judul": "Highlight Liga Voli Mahasiswa 2026: UNJ Jakarta Libas UPI Bandung 3-0, Tiket Semifinal Diamankan!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8324492/highlight-liga-voli-mahasiswa-2026-unj-jakarta-libas-upi-bandung-3-0-tiket-semifinal-diamankan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T14:47:10.000Z",
+      "cuplikan": "Universitas Negeri Jakarta (UNJ) sukses mengamankan tiket semifinal sektor putri Liga Voli Mahasiswa Seri Jakarta 2026 setelah menundukkan Universitas Pendidikan Indonesia (UPI) Bandung dengan skor 3-0 di GOR Pertamina Simprug, Jakarta…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/u-9YwVjKDk7MOywvpyNLN1nfy54=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385956/original/076635400_1793285228-20261029_pi_upi-vs-unj-e456fc.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "71ab99af2258",
+      "judul": "Jadwal Super League: Duel Persija vs Dewa United",
+      "tautan": "https://www.antaranews.com/berita/5820351/jadwal-super-league-duel-persija-vs-dewa-united",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T14:36:24.000Z",
+      "cuplikan": "Pekan kedelapan Super League dijadwalkan berlangsung mulai Jumat (30/10) hingga Minggu (1/11) untuk menyajikan duel dua ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/03/16/persija-jakarta-bermain-imbang-lawan-dewa-united-banten-fc-150326-dr-02.jpg"
+    },
+    {
+      "id": "a560f1f027f7",
+      "judul": "Persijap bertekad curi poin di kandang Persebaya",
+      "tautan": "https://www.antaranews.com/berita/5820339/persijap-bertekad-curi-poin-di-kandang-persebaya",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T14:31:12.000Z",
+      "cuplikan": "Pelatih Persijap Jepara Juan Cortes menyatakan timnya bertekad mencuri poin di kandang Persebaya Surabaya demi ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/29/WhatsApp-Image-2026-10-29-at-19.15.37.jpeg"
+    },
+    {
+      "id": "1cd2d9d2a813",
+      "judul": "Pelatih nilai Persijap berpotensi sulitkan Persebaya",
+      "tautan": "https://www.antaranews.com/berita/5820315/pelatih-nilai-persijap-berpotensi-sulitkan-persebaya",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T14:20:42.000Z",
+      "cuplikan": "Pelatih Persebaya Bernardo Tavares menilai Persijap berpotensi menyulitkan timnya saat kedua tim bertemu dalam laga ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/29/WhatsApp-Image-2026-10-29-at-18.44.16.jpeg"
+    },
+    {
+      "id": "45efcc28dfc1",
+      "judul": "Indonesia takluk 1-5 kepada Prancis pada Piala Dunia U15",
+      "tautan": "https://www.antaranews.com/berita/5820299/indonesia-takluk-1-5-kepada-prancis-pada-piala-dunia-u15",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T14:13:40.000Z",
+      "cuplikan": "Timnas U15 Indonesia takluk 1-5 kepada Prancis pada laga semifinal runner-up Tier C Piala Dunia & Festival U15 FIFA ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/02/20/bolailustrasi.jpg"
+    },
+    {
+      "id": "17a64f6330f4",
+      "judul": "Timnas Indonesia U-15 Takluk 1-5 dari Prancis di Piala Dunia U-15 2026",
+      "tautan": "https://www.viva.co.id/bola/1939653-timnas-indonesia-u-15-takluk-1-5-dari-prancis-di-piala-dunia-u-15-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T14:12:20.000Z",
+      "cuplikan": "Timnas Indonesia U-15 harus mengakui keunggulan Prancis dengan skor 1-5 dalam lanjutan Piala Dunia U-15 2026. Pertandingan tersebut berlangsung di Lapangan 9B Hovsan Comp",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/26/6adf0b83e0bec-timnas-indonesia-u-15_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "06a68ac0bde9",
+      "judul": "Perkuat Fondasi Infrastruktur Digital, PLN Siap Pasok Daya Andal untuk Telkom Group",
+      "tautan": "https://ototekno.okezone.com/read/2026/10/29/16/3250999/perkuat-fondasi-infrastruktur-digital-pln-siap-pasok-daya-andal-untuk-telkom-group",
+      "sumber": "Okezone",
+      "kanal": "okezone-techno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T14:10:52.000Z",
+      "cuplikan": "Kerja sama ini menjadi langkah menyelaraskan kebutuhan infrastruktur digital dengan kesiapan pasokan listrik dan jaringan ketenagalistrikan.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/29/16/3250999/pln_siap_pasok_daya_andal_untuk_jaringan_usaha_telkom-wnEF_large.jpeg",
+      "kategoriSumber": [
+        "Techno"
+      ]
+    },
     {
       "id": "9ea949e1df65",
       "judul": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
@@ -67,6 +669,20 @@
       "id": "c6bff58d2956",
       "judul": "Jadwal Pemain Timnas Indonesia di: Kevin Diks hingga Jay Idzes Berpeluang Tampil",
       "tautan": "https://www.viva.co.id/bola/1939636-jadwal-pemain-timnas-indonesia-di-kevin-diks-hingga-jay-idzes-berpeluang-tampil",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T13:48:00.000Z",
+      "cuplikan": "Sejumlah pemain Timnas Indonesia yang berkarier di luar negeri bersiap kembali merumput sepanjang akhir pekan ini. Dari Prancis hingga Belanda, beberapa pemain berpeluang",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/25/6add75c32e5b1-jay-idzes_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "70c1b39376a2",
+      "judul": "Jadwal Pemain Timnas Indonesia di Eropa: Kevin Diks hingga Jay Idzes Berpeluang Tampil",
+      "tautan": "https://www.viva.co.id/bola/1939636-jadwal-pemain-timnas-indonesia-di-eropa-kevin-diks-hingga-jay-idzes-berpeluang-tampil",
       "sumber": "VIVA",
       "kanal": "viva-bola",
       "lajur": "olahraga",
@@ -326,6 +942,25 @@
         "Venture",
         "Fundraising",
         "TechCrunch Founder Summit 2026"
+      ]
+    },
+    {
+      "id": "ec59d102565d",
+      "judul": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "tautan": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-29T12:58:34.000Z",
+      "cuplikan": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg",
+      "kategoriSumber": [
+        "Security",
+        "DHS",
+        "doxxing",
+        "hacking",
+        "ice",
+        "syndication"
       ]
     },
     {
@@ -873,6 +1508,25 @@
       ]
     },
     {
+      "id": "702a646ae510",
+      "judul": "A new wave of electric ferries is here in the US. Some even fly",
+      "tautan": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-29T10:00:31.000Z",
+      "cuplikan": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of…",
+      "gambar": "https://i.guim.co.uk/img/media/ae28ea8755028f99a2f7893c18cb6170afa4e5f5/483_0_2415_1932/master/2415.jpg?width=140&quality=85&auto=format&fit=max&s=73008edc2dfa33d5832c28c80327b2ea",
+      "kategoriSumber": [
+        "US news",
+        "Environment",
+        "Electric, hybrid and low-emission cars",
+        "Greenhouse gas emissions",
+        "Technology",
+        "Ferry travel"
+      ]
+    },
+    {
       "id": "f5ece0df2009",
       "judul": "Despite the teething issues, Dyson’s Camerajet toothbrush packs in a lot of clever tech – but is it worth £420?",
       "tautan": "https://www.theguardian.com/thefilter/2026/oct/29/dyson-camerajet-electric-toothbrush-review-tested-uk",
@@ -1366,6 +2020,20 @@
       "terbit": "2026-10-29T08:50:55.000Z",
       "cuplikan": "Program Kiro for Students hadir untuk membantu mahasiswa dalam mengembangkan aplikasi dengan dukungan AI.",
       "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/29/ilustrasi-ai-saat-ini-banyak-digunakan-untuk-membantu-membuat-aplikasi-bpointer-jn6ox.webp"
+    },
+    {
+      "id": "a06a5278dba5",
+      "judul": "eSIM vs SIM Fisik, Mana yang Lebih Praktis?",
+      "tautan": "https://www.liputan6.com/tekno/read/8321360/esim-vs-sim-fisik-mana-yang-lebih-praktis",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-29T08:46:05.000Z",
+      "cuplikan": "eSIM menawarkan aktivasi digital yang praktis, sementara kartu SIM fisik unggul dalam kemudahan gonta-ganti HP. Simak perbandingan lengkapnya di sini.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/8GU8j7Qwy5baPsf8yPApL9MRDTo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2124325/original/018930200_1524734211-sim-card-stack.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
     },
     {
       "id": "f73c08bc97a4",
@@ -2606,7 +3274,7 @@
       "kanal": "ars",
       "lajur": "global",
       "terbit": "2026-10-28T22:51:15.000Z",
-      "cuplikan": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+      "cuplikan": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
       "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
       "kategoriSumber": [
         "Science",
@@ -2648,7 +3316,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-10-28T22:44:58.000Z",
-      "cuplikan": "Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value Wednesday afternoon after it reported better than expected…",
+      "cuplikan": "Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value on Wednesday afternoon after it reported better than…",
       "gambar": "https://i.guim.co.uk/img/media/36447ca68a44687ae5f40f5d254f97c4546afd43/450_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=36fadd07ebe089cedad7cd70e1741809",
       "kategoriSumber": [
         "Microsoft",
