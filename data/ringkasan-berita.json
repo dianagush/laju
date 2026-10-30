@@ -1,67 +1,4 @@
 {
-  "560b313cc2d4": {
-    "teks": "Performa laptop yang melambat saat memutar video daring dapat dipicu oleh jaringan internet yang tidak stabil, pemakaian memori yang berlebihan, serta tingginya beban kerja CPU dan GPU. Masalah panas berlebih dan perangkat lunak yang belum diperbarui juga mampu memperburuk gangguan tersebut. Untuk mengatasinya, pengguna dapat menghentikan aplikasi yang tidak diperlukan, menurunkan kualitas resolusi tampilan, serta memperbarui sistem maupun peramban secara berkala.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T08:31:22.871Z"
-  },
-  "977afdc43f27": {
-    "teks": "Laporan media Tiongkok mengenai pemangkasan produksi iPhone 18 Pro sebesar 15 persen dinilai tidak akurat. Analisis tersebut keliru karena hanya mengacu pada fluktuasi pesanan komponen dan salah mengklasifikasikan model perangkat. Riset lembaga JP Morgan serta AppleInsider juga mengonfirmasi bahwa tidak ada bukti kuat yang menunjukkan penurunan volume manufaktur untuk seri iPhone 18 Pro.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T08:31:39.834Z"
-  },
-  "68a9b9a2aa76": {
-    "teks": "Ratusan penggemar Apple memadati acara peluncuran iBox di Jakarta sejak dini hari untuk membeli iPhone 18 Pro Series yang dijual mulai Rp27.499.000. Fenomena antrean yang ramai di media sosial ini tidak hanya dipicu oleh gengsi dan gaya hidup semata. Sebagian konsumen rela mengantre demi berburu hadiah, merasakan pengalaman membeli di hari pertama, hingga memenuhi kebutuhan pekerjaan dan pembuatan konten.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T08:31:56.446Z"
-  },
-  "f4e737d54331": {
-    "teks": "Pelatih Timnas Indonesia John Herdman berencana menaturalisasi gelandang Arsenal U-21, Demiane Agustien, guna memperkuat lini tengah Skuad Garuda. Tim hukum PSSI kini tengah mengurus proses tersebut lantaran ia memiliki garis keturunan Indonesia dari ibunya. Pemain muda kelahiran Belanda yang berposisi sebagai gelandang kreatif ini diharapkan dapat melengkapi skema permainan tim nasional.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T08:32:12.072Z"
-  },
-  "bdad458aadf3": {
-    "teks": "Berbagai negara berencana atau telah memberlakukan pembatasan usia untuk mengakses media sosial, namun aturan tersebut terbukti mudah diakali oleh para remaja. Upaya memperketat verifikasi usia dinilai tidak efektif dan justru berisiko merusak privasi pengguna serta mendorong anak-anak beralih ke ruang digital yang lebih berbahaya dan kurang terawasi. Daripada memblokir akses, pembuat kebijakan sebaiknya fokus membatasi pengumpulan data oleh perusahaan dan menyediakan alat kontrol yang fleksibel bagi keluarga.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T08:32:47.876Z"
-  },
-  "fcf51d6a261c": {
-    "teks": "iPhone 18 Pro dan iPhone 18 Pro Max resmi dijual di Indonesia sejak 16 Oktober 2026 dengan warna burgundy sebagai opsi paling favorit. Tingginya minat terhadap warna unggulan ini berpotensi membuat ketersediaannya terbatas di toko, meskipun pasokan barang secara umum terbilang cukup. Distributor tetap melayani pemesanan bagi konsumen yang belum mendapatkan warna pilihan mereka.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T11:15:16.442Z"
-  },
-  "f0aa67d437d3": {
-    "teks": "Samsung resmi meluncurkan Galaxy A08 yang mengunggulkan baterai berkapasitas 6.000 mAh serta layar PLS LCD 6,7 inci. Smartphone ini ditenagai chipset Mediatek Helio G99+ dan RAM 4GB untuk memberikan performa harian yang responsif. Selain memiliki kamera belakang ganda 50MP, perangkat berbobot 197 gram ini hadir dengan pilihan ruang penyimpanan 64GB dan 128GB.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T11:16:29.880Z"
-  },
-  "3799d463233f": {
-    "teks": "OpenAI memperbarui ekstensi ChatGPT untuk Chrome agar dapat mengakses tab peramban pengguna demi memberikan jawaban yang lebih personal. Pembaruan ini memungkinkan asisten AI membantu menyelesaikan berbagai tugas, mulai dari membandingkan produk hingga mengisi formulir dan mengirim pesan secara otomatis. Selain Chrome, ekstensi tersebut juga kompatibel dengan berbagai peramban berbasis Chromium lainnya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T11:17:16.772Z"
-  },
-  "499d98db9d61": {
-    "teks": "Pemesanan awal untuk iPhone Duo, ponsel lipat pertama Apple seharga 2.000 dolar AS, resmi dibuka hari ini sebelum meluncur pada 23 Oktober. Perangkat ini diprediksi memiliki tingkat permintaan tinggi dengan pasokan yang relatif terbatas. Meski menawarkan layar OLED yang besar, gawai ini memiliki kekurangan seperti ketiadaan FaceID serta fitur bukaan kamera variabel.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-16T11:18:08.059Z"
-  },
   "33e042a029aa": {
     "teks": "Kaspersky mengingatkan pencari kerja agar waspada saat memanfaatkan kecerdasan buatan untuk menyusun riwayat hidup. Pelamar disarankan menghapus informasi pribadi sensitif sebelum menggunakan platform AI guna mencegah bahaya kebocoran data. Selain itu, teknologi tersebut sebaiknya difungsikan sebagai alat penyunting untuk merapikan format dan kata kunci, bukan sebagai pembuat utama dokumen.",
     "penyedia": "gemini",
@@ -1531,5 +1468,61 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-30T07:04:19.630Z"
+  },
+  "fc1ef3f3095f": {
+    "teks": "PT LG Electronics Indonesia menambah jangkauan program purnajual WhiteGlove Service menjadi 12 lini produk premium. Kebijakan ini bertepatan dengan perayaan 36 tahun keberadaan perusahaan di tanah air serta didorong oleh pembaruan teknologi perangkat. Untuk menjamin kualitas penanganan dari konsultasi hingga perbaikan, LG menyiagakan teknisi tingkat master yang tersebar di 25 kota besar.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T14:02:37.557Z"
+  },
+  "f33902955b83": {
+    "teks": "Asosiasi kreator komik Korea Selatan mendorong UNESCO memperkuat perlindungan hak cipta di tengah maraknya penggunaan kecerdasan buatan. Melalui konferensi di Paris, mereka menuntut mekanisme persetujuan awal sebelum karya dipakai untuk melatih AI, serta kewajiban transparansi data dan pelabelan konten. Pihak UNESCO menyatakan usulan ini akan menjadi pertimbangan dalam merumuskan kebijakan digital organisasi tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T14:02:57.961Z"
+  },
+  "6ab19acaeda5": {
+    "teks": "Bursa kripto Binance sedang menginvestigasi dugaan peretasan yang diperkirakan berdampak hingga 6,3 miliar dolar AS. Untuk mengantisipasi kerugian, pihak perusahaan membekukan sementara perdagangan token di Binance Alpha beserta fasilitas penyetoran dan penarikan dana. Melalui kerja sama dengan penerbit stablecoin dan berbagai pihak terkait, aset digital bernilai sekitar 3 miliar dolar AS berhasil dibekukan, sementara dana pengguna dipastikan aman.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T14:04:18.753Z"
+  },
+  "6999dcd97559": {
+    "teks": "Membeli ponsel Android kelas terjangkau memerlukan kecermatan pada tiga fitur utama agar nyaman digunakan dalam jangka panjang. Konsumen disarankan memilih perangkat dengan RAM sedikitnya 6GB untuk menjaga kelancaran alih aplikasi. Di samping itu, dukungan pengisian daya cepat minimal 25 Watt serta jaminan pembaruan keamanan paling tidak selama 3 tahun sangat penting demi efisiensi dan perlindungan data pribadi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T14:04:48.294Z"
+  },
+  "45efcc28dfc1": {
+    "teks": "Timnas Indonesia U15 menderita kekalahan 1-5 dari Prancis dalam babak semifinal Tier C Piala Dunia U15 FIFA 2026 di Baku, Azerbaijan. Prancis mendominasi pertandingan dengan mencetak tiga gol pada babak pertama dan menambah keunggulan di awal babak kedua. Meski Garuda Muda sempat mencetak satu gol balasan, Prancis mengunci kemenangan melalui gol tambahan di menit-menit akhir.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T14:06:34.740Z"
+  },
+  "c2cdb67b6705": {
+    "teks": "Pasangan ganda campuran Amri Syahnawi dan Nita Violina Marwah melaju ke perempat final Hylo Open 2026 di Jerman. Kemenangan diraih usai mengalahkan sesama wakil Indonesia, Dejan Ferdinansyah dan Felisha Alberta Nathaniel Pasaribu, dua gim langsung 21-18 dan 22-20. Ketahanan mental serta fokus pada poin kritis menjadi faktor penentu hasil positif tersebut. Menatap babak berikutnya, Amri dan Nita memilih fokus pada pemulihan fisik dan evaluasi variasi permainan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T14:06:53.465Z"
+  },
+  "64c6b61b5024": {
+    "teks": "Toyota dan Waymo akan mulai menguji armada mobil listrik otonom bZ4X di Jepang pada tahun 2027 sebelum berekspansi ke pasar kemudi kanan lain seperti Inggris. Seluruh kendaraan tersebut akan dirakit sekaligus dipasangi perangkat keras kemudi otomatis Waymo di pabrik Takaoka milik Toyota. Kolaborasi ini menggabungkan keahlian manufaktur Toyota dengan teknologi Level 4 Waymo guna mempercepat penyebaran kendaraan tanpa pengemudi secara global.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T14:07:08.353Z"
+  },
+  "ab2d8c132145": {
+    "teks": "Bursa kripto Binance melaporkan pencurian aset digital senilai 6,3 miliar dolar AS akibat serangan siber yang diduga terbesar dalam sejarah. Perusahaan menyatakan dana pengguna tetap aman karena sekitar 3 miliar dolar AS dari aset terdampak telah dibekukan, sementara penarikan serta penyetoran sementara dihentikan. Binance berkomitmen menanggung seluruh kerugian melalui dana cadangan dan bekerja sama dengan pihak penegak hukum untuk menyelidiki celah keamanan kompleks tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-30T14:07:38.481Z"
   }
 }

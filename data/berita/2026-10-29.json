@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-29",
-  "diperbarui": "2026-10-30T07:01:32.325Z",
+  "diperbarui": "2026-10-30T14:02:13.697Z",
   "berita": [
     {
       "id": "31c321496db5",
@@ -59,6 +59,20 @@
       ]
     },
     {
+      "id": "315a15a821f3",
+      "judul": "Tempat Menonton Persebaya vs Persijap di BRI Super League 2026/2027",
+      "tautan": "https://www.liputan6.com/bola/read/8324532/tempat-menonton-persebaya-vs-persijap-di-bri-super-league-20262027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:46:04.000Z",
+      "cuplikan": "Laga Persebaya vs Persijap menjadi tantangan terbaru Bajul Ijo yang coba mencari konsistensi di tengah jadwal padat",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/sjQd55OnWZwVAcqHlh2Sg6-8uqc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385825/original/030630200_1793271114-persebaya.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
       "id": "1dc4bae8b84c",
       "judul": "Apjatel Desak Pemkot Bandung Setop Pemutusan Kabel Sepihak, Internet Bisa Lumpuh!",
       "tautan": "https://www.liputan6.com/tekno/read/8324202/apjatel-desak-pemkot-bandung-setop-pemutusan-kabel-sepihak-internet-bisa-lumpuh",
@@ -84,6 +98,20 @@
       "gambar": "https://cdn1-production-images-kly.akamaized.net/haHTI-WiFtHKxatjUapLyD4ok8k=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375125/original/091066900_1792130783-0637b4bb19438399bc5b3e7bbdfe6936f79cdbf3.jpg",
       "kategoriSumber": [
         "Tekno"
+      ]
+    },
+    {
+      "id": "c74ace03625e",
+      "judul": "Persebaya vs Persijap Sudah Mulai, Dapatkan Link Live Streaming BRI Super League",
+      "tautan": "https://www.liputan6.com/bola/read/8324531/persebaya-vs-persijap-sudah-mulai-dapatkan-link-live-streaming-bri-super-league",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-29T16:44:10.000Z",
+      "cuplikan": "Duel Persebaya vs Persijap berlangsung di Gelora Bung Tomo, Jumat (30/10/2026) pukul 19.00 WIB",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/2ii5bpNIuz5cKl6rlfKC824tcEw=/0x192:1067x793/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9309761/original/075947900_1785252758-Persebaya.jpg",
+      "kategoriSumber": [
+        "Bola"
       ]
     },
     {
