@@ -1,53 +1,4 @@
 {
-  "33e042a029aa": {
-    "teks": "Kaspersky mengingatkan pencari kerja agar waspada saat memanfaatkan kecerdasan buatan untuk menyusun riwayat hidup. Pelamar disarankan menghapus informasi pribadi sensitif sebelum menggunakan platform AI guna mencegah bahaya kebocoran data. Selain itu, teknologi tersebut sebaiknya difungsikan sebagai alat penyunting untuk merapikan format dan kata kunci, bukan sebagai pembuat utama dokumen.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T05:32:37.451Z"
-  },
-  "612b07d028ff": {
-    "teks": "Binus University kembali menghelat Jakarta Game Fest 2026 di Kampus Anggrek untuk memamerkan potensi pengembang game lokal. Ajang ini menghadirkan beragam agenda interaktif yang menjembatani dunia pendidikan dengan industri kreatif digital. Melalui kolaborasi dan pameran karya mahasiswa, festival ini diharapkan mampu mengubah ekosistem nasional dari konsumen menjadi produsen game utama di Asia Tenggara.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T05:32:53.708Z"
-  },
-  "d15aa575d6c0": {
-    "teks": "Persaingan ponsel kelas atas pada Oktober 2026 mempertemukan Poco F9 Ultra dan Oppo Find X9 Pro dengan keunggulan masing-masing. Poco F9 Ultra dirancang untuk performa tinggi dan gaming berkat Snapdragon 8 Elite Gen 5, cip VisionBoost D8, layar ber-refresh rate tinggi, serta kamera utama 200MP. Sebaliknya, Oppo Find X9 Pro mengandalkan MediaTek Dimensity 9500, RAM besar, serta sistem kamera hasil kolaborasi dengan Hasselblad yang menonjolkan kemampuan telefoto dan videografi. Calon pembeli disarankan mempertimbangkan kebutuhan spesifik mereka antara fokus gaming atau produktivitas dan pembuatan konten.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T05:33:02.052Z"
-  },
-  "9287bbcce441": {
-    "teks": "Garudayaksa FC menumbuhkan keyakinan tinggi untuk meraih kemenangan perdana saat bertanding melawan Arema FC pada pekan kelima BRI Super League. Pelatih Milos Joksic mengakui timnya sempat menghadapi kendala akibat absennya sejumlah pemain pilar serta penyelesaian akhir yang kurang maksimal pada laga sebelumnya. Meski menaruh hormat pada kekuatan lini serang lawan, sang pelatih optimistis skuadnya mampu bangkit dan menampilkan performa yang lebih baik.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T05:33:11.268Z"
-  },
-  "b8f1c963b9ec": {
-    "teks": "Federasi Sepak Bola Malaysia pernah terkecoh oleh candaan Sem Scheperman, kapten klub Heracles Almelo, terkait klaim keturunan pemain tersebut. Sekitar empat tahun lalu, gelandang asal Belanda itu merespons sebuah akun media sosial dengan berbohong bahwa ia memiliki darah Malaysia dari neneknya. Tanpa diduga, gurauan tersebut menyebar luas di dunia maya dan berkembang menjadi situasi yang di luar kendali.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T05:33:21.236Z"
-  },
-  "732bba2e68a9": {
-    "teks": "Sutradara Nathan Fielder bersama Lance Oppenheim mengarahkan film dokumenter berdurasi tiga jam berjudul You Can See Everything tentang Elizabeth Holmes. Fielder dikenal melalui karya-karyanya seperti Nathan for You dan The Rehearsal, di mana ia kerap menampilkan gaya komedi deadpan, aksi publisitas yang rumit, serta batas persona yang kabur. Pendekatan unik dan gaya interogasi canggung tersebut dinilai cocok untuk mengupas sosok Holmes yang dikenal menipu investor dan publik.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T05:33:32.092Z"
-  },
-  "2f33b19f8174": {
-    "teks": "Platform prediksi Polymarket mencatatkan volume perdagangan global yang masif pada pasar pemilihan umum di Ethiopia dan Romania setelah pemilihan tersebut selesai. Sebagian besar aktivitas perdagangan tersebut diduga melibatkan praktik wash trading atau manipulasi volume oleh akun-akun yang saling bertransaksi. Analisis menduga para pelaku melakukan aktivitas tersebut untuk mendongkrak volume perdagangan demi mengincar potensi perolehan token kripto di masa mendatang.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T05:33:41.784Z"
-  },
   "41a88b18b8f5": {
     "teks": "Persaingan ponsel pintar kelas atas menghadirkan keunggulan berbeda antara iPhone 18 Pro dan Samsung Galaxy S26 Ultra. iPhone 18 Pro lebih ditujukan bagi pembuat konten profesional melalui fitur perekaman video tingkat lanjut dan integrasi ekosistem. Sementara itu, Galaxy S26 Ultra menawarkan fleksibilitas lewat berbagai pilihan zoom optik, kebebasan sistem Android, ketersediaan S Pen, serta layar lebih besar.",
     "penyedia": "gemini",
@@ -1524,5 +1475,47 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-30T14:07:38.481Z"
+  },
+  "fe0715007cbc": {
+    "teks": "Perusahaan keamanan siber Socket menemukan ratusan ekstensi Google Chrome yang menyamar sebagai alat gratisan telah membajak mesin pencari pengguna secara sembunyi-sembunyi. Berkedok sebagai konverter PDF atau fitur pencarian, ekstensi tersebut memanfaatkan fitur bawaan browser untuk mengalihkan kueri demi meraup komisi rujukan. Praktik ini dinilai berbahaya bagi privasi karena pengembang dapat memantau riwayat pencarian serta berpotensi mengarahkan pengguna ke situs berbahaya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T06:56:54.856Z"
+  },
+  "7ff58915d331": {
+    "teks": "Pendiri Microsoft, Bill Gates, memperingatkan bahwa perkembangan kecerdasan buatan dan robotika berpotensi memicu pergolakan ekonomi serta sosial selama dua dekade ke depan. Otomasi tersebut diperkirakan mengubah peta ketenagakerjaan secara drastis karena mampu menggantikan tenaga kerja manusia di berbagai sektor fisik. Gates menilai pemerintah dan publik belum sepenuhnya siap menghadapi transisi ini, sehingga ia mendesak adanya pengawasan yang lebih ketat untuk mengantisipasi berbagai risiko.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T06:57:03.129Z"
+  },
+  "946943a308c5": {
+    "teks": "Samsung Electronics membukukan rekor laba operasional tertinggi berkat lonjakan permintaan chip memori untuk infrastruktur kecerdasan buatan secara global. Pertumbuhan signifikan pada divisi semikonduktor tersebut berhasil mendongkrak total pendapatan sekaligus laba bersih perusahaan secara drastis. Kendati lini bisnis ponsel pintar mengalami tantangan akibat kenaikan biaya produksi, Samsung tetap membagikan dividen tunai kepada para pemegang saham.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T06:57:12.975Z"
+  },
+  "b3e54bd08dea": {
+    "teks": "Pembalap muda Indonesia, Veda Ega Pratama, berhasil mengamankan posisi start kedelapan dalam sesi kualifikasi Moto3 Malaysia 2026 di Sirkuit Sepang. Setelah sempat bersaing ketat dan kesulitan masuk lima besar, pembalap berusia 17 tahun tersebut mencatatkan waktu terbaik di akhir sesi untuk melewati lawannya. Sementara itu, posisi terdepan diraih oleh Maximo Quiles, disusul Brian Uriarte di tempat kedua, dan pembalap tuan rumah Hakim Danish di posisi ketiga.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T06:57:21.817Z"
+  },
+  "ab51ae28f22e": {
+    "teks": "Jonatan Christie sukses melaju ke semifinal Hylo Open di Jerman usai menundukkan perwakilan Jepang, Kodai Naraoka. Kemenangan lewat pertandingan tiga gim tersebut berhasil menjaga asa pebulu tangkis tunggal putra Indonesia itu untuk mempertahankan gelar juaranya. Hasil positif ini turut mendongkrak rasa percaya diri Jonatan untuk menghadapi laga-laga berikutnya pada turnamen tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T06:57:29.920Z"
+  },
+  "a9dc4b454028": {
+    "teks": "Ganda putri Amallia Cahaya Pratiwi dan Siti Fadia Silva Ramadhanti mengalihkan konsentrasi penuh untuk menghadapi pasangan Bulgaria, Gabriela Stoeva dan Stefani Stoeva, pada babak semifinal turnamen Hylo Open. Tiket empat besar tersebut diraih pasangan unggulan kelima ini usai menundukkan wakil tuan rumah melalui dua gim langsung. Dalam laga berikutnya, mereka bertekad menjaga fokus, meminimalisasi kesalahan sendiri, serta memanfaatkan pengalaman dari pertandingan sebelumnya demi mempertahankan performa positif.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T06:57:38.873Z"
   }
 }

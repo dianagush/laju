@@ -1,7 +1,649 @@
 {
   "tanggal": "2026-10-30",
-  "diperbarui": "2026-10-30T14:02:13.697Z",
+  "diperbarui": "2026-10-31T06:55:56.525Z",
   "berita": [
+    {
+      "id": "1a9f926a45b8",
+      "judul": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "tautan": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-30T16:53:49.000Z",
+      "cuplikan": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg",
+      "kategoriSumber": [
+        "AI",
+        "Policy",
+        "AI fraud",
+        "department of education",
+        "DoJ",
+        "higher ed",
+        "higher education"
+      ]
+    },
+    {
+      "id": "b5f849ef9045",
+      "judul": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+      "tautan": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-30T16:35:44.000Z",
+      "cuplikan": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? The world’s…",
+      "gambar": "https://i.guim.co.uk/img/media/4824d0b9ac9b676f0f7a9915bd1edd46731ae136/366_0_3924_3139/master/3924.jpg?width=140&quality=85&auto=format&fit=max&s=27f44bf7541cca708bf964e7d5dfd1bc",
+      "kategoriSumber": [
+        "Binance",
+        "Cryptocurrencies",
+        "Business",
+        "Hacking",
+        "US news",
+        "Technology",
+        "World news",
+        "North Korea",
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "1e8d5ea9a16a",
+      "judul": "Aset Digital Semakin Bernilai, Ini Cara Memperkuat Keamanan Akun agar Tidak Mudah Dibobol",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1939926-aset-digital-semakin-bernilai-ini-cara-memperkuat-keamanan-akun-agar-tidak-mudah-dibobol",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-30T16:30:00.000Z",
+      "cuplikan": "Kenali cara memperkuat keamanan akun aset digital melalui kata sandi unik, autentikasi multifaktor, pemeriksaan tautan, dan perlindungan private key. Berikut jelasnya.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2024/07/08/668b35b65ee14-ilustrasi-keamanan-data-siber_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "6d3e784b482a",
+      "judul": "Bedah Finansial Klub: Bagaimana Pelemahan Kurs Rupiah Bisa Mengancam Operasional Sepak Bola Nasional",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8325098/bedah-finansial-klub-bagaimana-pelemahan-kurs-rupiah-bisa-mengancam-operasional-sepak-bola-nasional",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T16:22:55.000Z",
+      "cuplikan": "Merosotnya nilai tukar rupiah terhadap dolar Amerika Serikat pasca pengumuman MSCI di New York membawa efek domino yang jarang disadari ke industri sepak bola nasional. Klub-klub profesional di Indonesia sejatinya tidak lepas dari…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/aXcbX729-v6mQlSctJz_S9sU7PM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9386627/original/027084800_1793352774-daifan-ngejelasin-dampak-ekonomi-lama-banget-ed8ba2.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "43a5e16195e4",
+      "judul": "New tvOS 27.2 features to try for an upgraded Apple TV experience",
+      "tautan": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-30T16:22:49.000Z",
+      "cuplikan": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
+      "gambar": "https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg",
+      "kategoriSumber": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "ca41bbca5a3e",
+      "judul": "Edisi 2008 Ungguli Rekor 2012 Messi, Cristiano Ronaldo Sabet Penghargaan Ballon d'Or of All Time",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8325333/edisi-2008-ungguli-rekor-2012-messi-cristiano-ronaldo-sabet-penghargaan-ballon-dor-of-all-time",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T16:21:37.000Z",
+      "cuplikan": "Megabintang asal Portugal, Cristiano Ronaldo, kembali mencatatkan pengakuan bergengsi dalam perjalanan kariernya usai dinobatkan sebagai peraih penghargaan simbolis Ballon d'Or of All Time dalam rangka memperingati 70 tahun sejarah…",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/_TVgAkHvtPolRr5aCIu1AU0-aQE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9386834/original/088093800_1793377296-ronaldo-ballon-dor-of-all-time-d68233.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "e0a2a20b82e0",
+      "judul": "Jadwal BRI Super League Pekan ke-8, Persija Tandang ke Markas Dewa United",
+      "tautan": "https://www.liputan6.com/bola/read/8324565/jadwal-bri-super-league-pekan-ke-8-persija-tandang-ke-markas-dewa-united",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T16:21:22.000Z",
+      "cuplikan": "Jadwal BRI Super League pekan ke-8 menghadirkan Dewa United vs Persija Jakarta pada 31 Oktober 2026 serta Persib vs Isenmulang Kalteng FC.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/4smfz9NkuVS6GKpu2Bd8Zr3G4ms=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5337356/original/073892400_1756892646-super_league.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d9e654ecbd53",
+      "judul": "Hasil Semifinal Liga Voli Mahasiswa Seri Jakarta 2026: Peluang STIES Mitra Karya Kawinkan Gelar",
+      "tautan": "https://www.liputan6.com/bola/read/8325310/hasil-semifinal-liga-voli-mahasiswa-seri-jakarta-2026-peluang-sties-mitra-karya-kawinkan-gelar",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T16:18:17.000Z",
+      "cuplikan": "Pertandingan semifinal Liga Voli Mahasiswa Seri Jakarta 2026 tuntas dengan 4 tim berhasil lolos ke partai final.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dJG1lD6PUssYP6IRgPKCDQa2rMs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9386816/original/062559400_1793372663-lvm_5.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "f6163eced81a",
+      "judul": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+      "tautan": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-30T16:12:59.000Z",
+      "cuplikan": "There's no evidence that Starship will launch traditional satellites, either.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg",
+      "kategoriSumber": [
+        "Space",
+        "falcon 9",
+        "launch crisis",
+        "NASA",
+        "space",
+        "spacex"
+      ]
+    },
+    {
+      "id": "8cb2db80dc5c",
+      "judul": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "tautan": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-10-30T16:03:45.000Z",
+      "cuplikan": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "gambar": "",
+      "kategoriSumber": [
+        "AI",
+        "elizabeth holmes",
+        "Theranos"
+      ]
+    },
+    {
+      "id": "0ebff86689cb",
+      "judul": "UNJ Tembus Partai Final Liga Voli Mahasiswa Seri Jakarta 2026, Kembali Jumpa STIES Mitra Karya",
+      "tautan": "https://www.liputan6.com/bola/read/8325228/unj-tembus-partai-final-liga-voli-mahasiswa-seri-jakarta-2026-kembali-jumpa-sties-mitra-karya",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T16:00:59.000Z",
+      "cuplikan": "Universitas Negeri Jakarta bertekad membalaskan dendam kekalahan atas STIES Mitra Karya di partai final Liga Voli Mahasiswa 2026.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/XJZNEYHQ_oEa7ApPe4U_1KOXqAg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9386762/original/013651500_1793364272-lvm_1.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "91116b79929e",
+      "judul": "Pelatih Persijap puas bisa curi poin di kandang Persebaya",
+      "tautan": "https://www.antaranews.com/berita/5822699/pelatih-persijap-puas-bisa-curi-poin-di-kandang-persebaya",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T16:00:30.000Z",
+      "cuplikan": "Pelatih Persijap Jepara Juan Cortes menyatakan kepuasaannya bisa membawa pulang satu poin dari kandang Persebaya ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/30/643016_1.jpg"
+    },
+    {
+      "id": "272fd6607f72",
+      "judul": "Denis Kolinger Absen saat Persija Hadapi Dewa United, Shin Tae-yong Siapkan Kombinasi Baru",
+      "tautan": "https://www.viva.co.id/bola/1939905-denis-kolinger-absen-saat-persija-hadapi-dewa-united-shin-tae-yong-siapkan-kombinasi-baru",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T16:00:00.000Z",
+      "cuplikan": "Denis Kolinger absen akibat akumulasi kartu kuning saat Persija menghadapi Dewa United. Shin Tae-yong siapkan kombinasi baru di lini pertahanan Macan Kemayoran.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/13/6aa5ed05447f2-pemain-persija-jakarta-denis-kolinger_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "513751170635",
+      "judul": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
+      "tautan": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:57:35.000Z",
+      "cuplikan": "The fanfic site could be down for weeks due to a “security incident.” Users are not taking it well.",
+      "gambar": "https://media.wired.com/photos/6ae3d487c091c8b8d1ebfb9c/master/pass/culture_ao3_crash_fanfic_meltdown.jpg",
+      "kategoriSumber": [
+        "Culture",
+        "Culture / Digital Culture"
+      ]
+    },
+    {
+      "id": "321b2fcf508d",
+      "judul": "Pelatih Persebaya kritik wasit soal gol Persijap",
+      "tautan": "https://www.antaranews.com/berita/5822683/pelatih-persebaya-kritik-wasit-soal-gol-persijap",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T15:55:44.000Z",
+      "cuplikan": "Pelatih Persebaya Bernardo Tavares mengkritik wasit yang mensahkan gol Persijap Jepara saat kedua tim bermain imbang ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/30/643004.jpg"
+    },
+    {
+      "id": "e323672ff9e6",
+      "judul": "Shin Tae-yong minta rumput JIS segera diperbaiki",
+      "tautan": "https://www.antaranews.com/berita/5822671/shin-tae-yong-minta-rumput-jis-segera-diperbaiki",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T15:48:46.000Z",
+      "cuplikan": "Pelatih kepala Persija Shin Tae-yong meminta rumput Jakarta International Stadium (JIS) di Jakarta Utara segera ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/21/Persija-kalahkan-Arema-FC-211026-ryl-8.jpg"
+    },
+    {
+      "id": "857fd61df4e4",
+      "judul": "Persebaya Surabaya ditahan imbang 1-1 oleh tim tamu Persijap Jepara",
+      "tautan": "https://www.antaranews.com/foto/5822667/persebaya-surabaya-ditahan-imbang-1-1-oleh-tim-tamu-persijap-jepara",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T15:48:08.000Z",
+      "cuplikan": "Pesepak bola Persebaya Surabaya Alex Martins (kanan) berebut bola udara dengan pesepak bola Persijap Jepara Sergio ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/30/Persijap-Jepara-tahan-imbang-Persebaya-Surabaya-301026-3.jpg"
+    },
+    {
+      "id": "9a611f6a9482",
+      "judul": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
+      "tautan": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:47:12.000Z",
+      "cuplikan": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.",
+      "gambar": "https://www.engadget.com/img/gallery/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/l-intro-1793374984.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "f9d03faf28fb",
+      "judul": "Stjepan Loncar sangat menikmati bermain di Persija",
+      "tautan": "https://www.antaranews.com/berita/5822655/stjepan-loncar-sangat-menikmati-bermain-di-persija",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T15:43:02.000Z",
+      "cuplikan": "Stjepan Loncar mengaku sangat menikmati bermain bersama Persija, baik karena kebersamaan di dalam tim, maupun karena ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/09/12/persija-jakarta-kalahkan-persib-bandung-2862284.jpg"
+    },
+    {
+      "id": "9ec02b09da0f",
+      "judul": "Ketum PP PESTI Awal Chairuddin Pacu Regenerasi Soft Tennis, 100 Atlet dari 15 Provinsi Bersaing di Makassar",
+      "tautan": "https://sports.okezone.com/read/2026/10/30/43/3251229/ketum-pp-pesti-awal-chairuddin-pacu-regenerasi-soft-tennis-100-atlet-dari-15-provinsi-bersaing-di-makassar",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T15:30:40.000Z",
+      "cuplikan": "Ketum PP PESTI Awal Chairuddin Pacu Regenerasi Soft Tennis, 100 Atlet dari 15 Provinsi Bersaing di Makassar",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/30/43/3251229/soft_tennis-E3F1_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "b0177d5e5a90",
+      "judul": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "tautan": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:29:02.000Z",
+      "cuplikan": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ]
+    },
+    {
+      "id": "d32bebfb8414",
+      "judul": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+      "tautan": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:16:55.000Z",
+      "cuplikan": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
+      "gambar": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Binance",
+        "Virtual Currency",
+        "Cyberwarfare and Defense",
+        "North Korea",
+        "Robberies and Thefts",
+        "Regulation and Deregulation of Industry",
+        "Computer Security",
+        "Computers and the Internet",
+        "Banking and Financial Institutions",
+        "Zhao, Changpeng"
+      ]
+    },
+    {
+      "id": "305296d746b8",
+      "judul": "Thibaut Courtois Pulih, Langsung Inti Lawan Racing Santander?",
+      "tautan": "https://www.liputan6.com/bola/read/8325312/thibaut-courtois-pulih-langsung-inti-lawan-racing-santander",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T15:08:36.000Z",
+      "cuplikan": "Thibaut Courtois siap kembali mengawal gawang Real Madrid setelah pulih dari cedera",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/_OwOgTBETb9ETfYdR5iHpVbJVsc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5402859/original/037411600_1762307756-Thibaut_Courtois.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "d85aa26f05ea",
+      "judul": "The Death Stranding anime's first teaser trailer arrives ahead of its Disney+ debut",
+      "tautan": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:07:09.000Z",
+      "cuplikan": "The adaptation has a fittingly strange tagline: \"My mom became a crater.\"",
+      "gambar": "https://www.engadget.com/img/gallery/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/l-intro-1793372769.jpg",
+      "kategoriSumber": [
+        "Gaming",
+        "TV & Movies",
+        "Streaming"
+      ]
+    },
+    {
+      "id": "9486e5ae65c4",
+      "judul": "Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms",
+      "tautan": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:00:19.000Z",
+      "cuplikan": "It was an ambitious notion – now Californians will vote on a one-time 5% billionaire tax, and state’s super rich have pulled out all the stops in opposition One year ago, the idea of a billionaire tax in California was still in its…",
+      "gambar": "https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=140&quality=85&auto=format&fit=max&s=d3e08772ea4eae20d747d5b40f7669cf",
+      "kategoriSumber": [
+        "California",
+        "Technology",
+        "US news",
+        "West Coast",
+        "The super-rich",
+        "US politics",
+        "World news",
+        "Sergey Brin",
+        "Media",
+        "Google"
+      ]
+    },
+    {
+      "id": "16b286503267",
+      "judul": "Buy a wind-up radio – and don’t forget the chocolate: survival experts on how to prepare for an emergency",
+      "tautan": "https://www.theguardian.com/thefilter/2026/oct/30/expert-guide-prepare-stockpile-emergency-uk",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:00:17.000Z",
+      "cuplikan": "UK government guidance says we should be ready for the unexpected, but what’s actually helpful to have at home? We ask the specialists • The best power banks – tested How prepared are you for an emergency? Do you have a few extra tins of…",
+      "gambar": "https://i.guim.co.uk/img/media/6c33fbc461789e6726bdc56066e5e3e42066799c/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=35ece83cba5b145fe6d6bbf500e18fa3",
+      "kategoriSumber": [
+        "Emergency planning",
+        "Life and style",
+        "Gadgets",
+        "Technology",
+        "Extreme weather",
+        "Climate crisis",
+        "Hacking",
+        "Food"
+      ]
+    },
+    {
+      "id": "0e7ece3c16a9",
+      "judul": "Ghost in the machine: how AI is haunting the search for the supernatural",
+      "tautan": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:00:16.000Z",
+      "cuplikan": "Ghost hunting has changed in recent years due to AI chatbots, and paranormal enthusiasts are concerned Ghost hunting is a tech-heavy pursuit. When Amy Waine and Jarrad Cutting investigate haunted locations, they’re loaded up with software…",
+      "gambar": "https://i.guim.co.uk/img/media/1d39796c4dc7d5a873ed01119d02771c61581e07/414_0_1885_1508/master/1885.jpg?width=140&quality=85&auto=format&fit=max&s=ac27e695d908ce6a95cebbbd871a4de0",
+      "kategoriSumber": [
+        "Technology",
+        "AI (artificial intelligence)",
+        "Chatbots",
+        "Folklore and mythology",
+        "ChatGPT",
+        "OpenAI",
+        "Halloween",
+        "US news"
+      ]
+    },
+    {
+      "id": "58347b6f4192",
+      "judul": "Mitchell Baker Ungkap Alasan Menjadikan Erling Haaland sebagai Inspirasi",
+      "tautan": "https://www.viva.co.id/bola/1939881-mitchell-baker-ungkap-alasan-menjadikan-erling-haaland-sebagai-inspirasi",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T15:00:00.000Z",
+      "cuplikan": "Penyerang Timnas Indonesia, Mitchell Baker, mengungkapkan alasannya mengagumi Erling Haaland dan mempelajari gaya permainannya sebagai inspirasi di lapangan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/31/6a6c924dc6315-mitchell-baker_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a5af7245d082",
+      "judul": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+      "tautan": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-30T15:00:00.000Z",
+      "cuplikan": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.",
+      "gambar": "https://media.wired.com/photos/6ae3a32037c72c5b8eae6889/master/pass/Backchannel-Top-Art-10302026.jpg",
+      "kategoriSumber": [
+        "Business",
+        "Business / Tech Culture"
+      ]
+    },
+    {
+      "id": "365cecb1e095",
+      "judul": "Real Madrid Siapkan Jalan Pulang untuk Jacobo Ramon",
+      "tautan": "https://www.liputan6.com/bola/read/8325307/real-madrid-siapkan-jalan-pulang-untuk-jacobo-ramon",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:57:33.000Z",
+      "cuplikan": "Performa konsisten Jacobo Ramon bersama Como membuka peluang kembali ke Real Madrid",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/vE78J0pPLudExySmr4s_a3pr8Rw=/0x0:4500x2536/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5933619/original/066194300_1778831147-000_98443CN.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "0cb961c3f2f9",
+      "judul": "Arema FC pastikan Bali United akan sulit kembangkan permainan terbaik",
+      "tautan": "https://www.antaranews.com/berita/5822563/arema-fc-pastikan-bali-united-akan-sulit-kembangkan-permainan-terbaik",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:55:05.000Z",
+      "cuplikan": "Pelatih Interim Arema FC Andre Caldas memastikan Bali United akan mengalami kesulitan mengembangkan permainan terbaik ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/30/1001592538.jpg"
+    },
+    {
+      "id": "db95fb98f6f0",
+      "judul": "Persebaya bermain imbang 1-1 lawan Persijap",
+      "tautan": "https://www.antaranews.com/berita/5822555/persebaya-bermain-imbang-1-1-lawan-persijap",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:52:35.000Z",
+      "cuplikan": "Persebaya Surabaya bermain imbang 1-1 saat melawan Persijap Jepara dalam pertandingan pekan kedelapan BRI Super League ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/30/642801.jpg"
+    },
+    {
+      "id": "5e9483a5e73e",
+      "judul": "Barcelona Cemas Karena Raphinha Dipanggil Timnas Brasil",
+      "tautan": "https://www.liputan6.com/bola/read/8325302/barcelona-cemas-karena-raphinha-dipanggil-timnas-brasil",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:47:22.000Z",
+      "cuplikan": "Barcelona khawatir sang kapten kembali cedera akibat beban pertandingan dan perjalanan internasional.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/iyicmp4d77QKbWpo0NYxHcJj_VE=/0x485:4706x3137/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8258667/original/015531500_1781400113-Brazil_s_Raphinha__left__is_helped_up_by_Morocco_s_Ayoub_Amaimouni.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "c6ffb821e7bc",
+      "judul": "Perkuat Bisnis Enterprise, Matrix NAP Info Andalkan Strategi Customer Experience",
+      "tautan": "https://www.jawapos.com/teknologi/2610300397/perkuat-bisnis-enterprise-matrix-nap-info-andalkan-strategi-customer-experience",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-30T14:37:41.000Z",
+      "cuplikan": "Matrix NAP Info memperkuat strategi bisnis enterprise melalui Matrix Experience — Nobar Edition. Pendekatan customer engagement ini menjadi upaya membangun kepercayaan dan hubungan jangka panjang dengan pelanggan.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/30/persaingan-bisnis-teknologi-makin-ketat-matrix-nap-info-perkuat-hubungan-pelanggan-istimewa-109Jj.webp"
+    },
+    {
+      "id": "0092370e7ce7",
+      "judul": "Faktor Kunci Bagi Barcelona untuk Rekrut Lisandro Martinez",
+      "tautan": "https://www.liputan6.com/bola/read/8325297/faktor-kunci-bagi-barcelona-untuk-rekrut-lisandro-martinez",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:37:36.000Z",
+      "cuplikan": "Barcelona berpeluang merekrut Lisandro Martinez dari Manchester United pada Januari",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dRPDbYc0sTd77Vr8ndgnm5hXQlY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5554886/original/044577700_1776135999-lisandro.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "95fb82498f67",
+      "judul": "Kenali Perbedaan Teknologi Layar TV, Precise Dimming Jadi Faktor Penting",
+      "tautan": "https://ameera.republika.co.id/berita/tnpml0522/kenali-perbedaan-teknologi-layar-tv-precise-dimming-jadi-faktor-penting",
+      "sumber": "Republika",
+      "kanal": "republika-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-30T14:37:00.000Z",
+      "cuplikan": "Perkembangan teknologi televisi menghadirkan beragam pilihan bagi konsumen, mulai dari Quantum Dot Light Emitting Diode (QLED) hingga Mini LED. Di tengah semakin banyaknya istilah teknologi layar di...",
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/tcl_261030143848-592.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "b43be1913225",
+      "judul": "Shin Tae-yong Tegaskan Persija Siap Pertahankan Puncak Klasemen di Markas Dewa United",
+      "tautan": "https://www.viva.co.id/bola/1939901-shin-tae-yong-tegaskan-persija-siap-pertahankan-puncak-klasemen-di-markas-dewa-united",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:33:31.000Z",
+      "cuplikan": "Pelatih Persija Jakarta Shin Tae-yong menegaskan timnya siap tempur di markas Dewa United demi mempertahankan posisi puncak klasemen Super League 2026-2027.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/06/6a9caa8912630-pelatih-persija-jakarta-shin-tae-yong_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "2f058c86da7e",
+      "judul": "Shin Tae-yong minta Persija tidak besar kepala saat hadapi Dewa United",
+      "tautan": "https://www.antaranews.com/berita/5822531/shin-tae-yong-minta-persija-tidak-besar-kepala-saat-hadapi-dewa-united",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:32:59.000Z",
+      "cuplikan": "Pelatih kepala Persija Jakarta Shin Tae-yong meminta timnya untuk tidak besar kepala saat menghadapi tuan rumah Dewa ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/26/persija-jakarta-kalahkan-persik-kediri-2893707.jpg"
+    },
+    {
+      "id": "582573e6a7b8",
+      "judul": "Pieter Huistra pastikan Frederic Injai bisa kembali diturunkan",
+      "tautan": "https://www.antaranews.com/berita/5822523/pieter-huistra-pastikan-frederic-injai-bisa-kembali-diturunkan",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:29:43.000Z",
+      "cuplikan": "Pelatih PSS Sleman Pieter Huistra memastikan gelandang Frederic Injai bisa kembali diturunkan pada laga pekan kedelapan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/18/590762_1.jpg"
+    },
+    {
+      "id": "00816a2a1d32",
+      "judul": "Jorge Martin Tulis Pesan Menyentuh Usai Terpaksa Mundur dari Practice MotoGP Malaysia 2026",
+      "tautan": "https://sports.okezone.com/read/2026/10/30/38/3251218/jorge-martin-tulis-pesan-menyentuh-usai-terpaksa-mundur-dari-practice-motogp-malaysia-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:25:49.000Z",
+      "cuplikan": "Jorge Martin menuliskan kalimat menyentuh usai terpaksa harus mundur dari Practice MotoGP Malaysia 2026.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/30/38/3251218/jorge_martin_menuliskan_kalimat_menyentuh_usai_terpaksa_harus_mundur_dari_practice_motogp_malaysia_2026-YM0f_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "676b0f55e93c",
+      "judul": "Gakuto Notsuda lega bisa lakoni debut bersama Persib Bandung",
+      "tautan": "https://www.antaranews.com/berita/5822491/gakuto-notsuda-lega-bisa-lakoni-debut-bersama-persib-bandung",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:19:32.000Z",
+      "cuplikan": "Gelandang Gakuto Notsuda lega bisa melakoni debut bersama Persib Bandung pada kompetisi resmi setelah mendapatkan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/08/04/persib-lolos-final-piala-presiden-2026-040826-nhw-3.jpg"
+    },
+    {
+      "id": "342be0a487f3",
+      "judul": "Tandukan Risto Mitrevski Selamatkan Persebaya, Duel Kontra Persijap Berakhir 1-1",
+      "tautan": "https://www.liputan6.com/bola/read/8325279/tandukan-risto-mitrevski-selamatkan-persebaya-duel-kontra-persijap-berakhir-1-1",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:12:42.000Z",
+      "cuplikan": "Persebaya bermain imbang 1-1 lawan Persijap di GBT. Risto Mitrevski menyamakan skor pada menit 90+2'. Persebaya kini di peringkat kelima, Persijap juru kunci.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/zNFPitGUwx7yODHX750Q-0n4Ro0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9386785/original/053043300_1793367584-Yuran.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "cdd9c2a0200e",
+      "judul": "Hasil Persebaya Vs Persijap, Gol Menit Akhir Risto Mitrevski Selamatkan Bajul Ijo dari Kekalahan",
+      "tautan": "https://www.viva.co.id/bola/1939894-hasil-persebaya-vs-persijap-gol-menit-akhir-risto-mitrevski-selamatkan-bajul-ijo-dari-kekalahan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:10:16.000Z",
+      "cuplikan": "Gol Risto Mitrevski pada masa injury time menyelamatkan Persebaya Surabaya dari kekalahan dan memaksakan hasil imbang 1-1 saat menjamu Persijap Jepara.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/30/6ae4a3812f767-persebaya-surabaya-vs-persijap-jepara_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "1a5be2c970c4",
+      "judul": "Liverpool Tertarik Permanenkan Ronald Araujo",
+      "tautan": "https://www.liputan6.com/bola/read/8325276/liverpool-tertarik-permanenkan-ronald-araujo",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-30T14:08:28.000Z",
+      "cuplikan": "Liverpool dikabarkan mempertimbangkan menebus Ronald Araujo secara permanen dari Barcelona",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/4zz8w4vKVzBiSnZgyNEA3sLQxr8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9341249/original/002045200_1788595215-000_C6C33VE-Ronald_Araujo.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
     {
       "id": "14975117d775",
       "judul": "GBK Renovasi Lapangan Stadion Utama, Ternyata Ini Alasannya",
@@ -35,6 +677,29 @@
         "cybersecurity",
         "data breach",
         "North Korea"
+      ]
+    },
+    {
+      "id": "9656678bad8e",
+      "judul": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+      "tautan": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-30T14:00:18.000Z",
+      "cuplikan": "Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to allow AI companies…",
+      "gambar": "https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=140&quality=85&auto=format&fit=max&s=2593b4fbc81435c52aba38620941ff0c",
+      "kategoriSumber": [
+        "Australian law",
+        "AI (artificial intelligence)",
+        "Australia news",
+        "Technology",
+        "Australian politics",
+        "Australian music",
+        "Australian books",
+        "Australian film",
+        "Australian television",
+        "Arts policy"
       ]
     },
     {
@@ -79,7 +744,7 @@
       "kanal": "techcrunch",
       "lajur": "global",
       "terbit": "2026-10-30T13:54:25.000Z",
-      "cuplikan": "DoorDash said that it is open to working with third-party agent makers",
+      "cuplikan": "DoorDash said that it is open to working with third-party agent makers.",
       "gambar": "",
       "kategoriSumber": [
         "AI",
@@ -101,6 +766,23 @@
       "gambar": "https://img.antaranews.com/cache/800x533/2023/10/25/antarafoto-kejurnas-atletik-pplp-2023-251023-ysw-2.jpg"
     },
     {
+      "id": "ff7b8812916f",
+      "judul": "GM to pay $220 million after selling customer Smart Driver data",
+      "tautan": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-30T13:53:20.000Z",
+      "cuplikan": "Owners of GM cars found their driving data had been sold to insurance companies.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg",
+      "kategoriSumber": [
+        "Cars",
+        "GM",
+        "OnStar",
+        "Smart Driver system"
+      ]
+    },
+    {
       "id": "2a619c52a57b",
       "judul": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
       "tautan": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
@@ -120,24 +802,21 @@
       ]
     },
     {
-      "id": "d32bebfb8414",
-      "judul": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-      "tautan": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-      "sumber": "The New York Times",
-      "kanal": "nyt-tech",
+      "id": "ff5ccffe8e2c",
+      "judul": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "tautan": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
       "lajur": "global",
-      "terbit": "2026-10-30T13:46:48.000Z",
-      "cuplikan": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
-      "gambar": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
+      "terbit": "2026-10-30T13:46:39.000Z",
+      "cuplikan": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
       "kategoriSumber": [
-        "Virtual Currency",
-        "Robberies and Thefts",
-        "Regulation and Deregulation of Industry",
-        "Computer Security",
-        "Computers and the Internet",
-        "Banking and Financial Institutions",
+        "Security",
         "Binance",
-        "Zhao, Changpeng"
+        "cryptocurrency",
+        "North Korea",
+        "syndication"
       ]
     },
     {
@@ -339,7 +1018,8 @@
       "kategoriSumber": [
         "AI",
         "Startups",
-        "data centers"
+        "data centers",
+        "Runware"
       ]
     },
     {
@@ -382,28 +1062,6 @@
       "gambar": "https://cdn0-production-images-kly.akamaized.net/CmjiHYwG5qpnCDAfwjyOsSnwrAs=/0x0:1357x765/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2919793/original/057377000_1569286158-Carabao_Cup.jpg",
       "kategoriSumber": [
         "Bola"
-      ]
-    },
-    {
-      "id": "b5f849ef9045",
-      "judul": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
-      "tautan": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-      "sumber": "The Guardian",
-      "kanal": "guardian-tech",
-      "lajur": "global",
-      "terbit": "2026-10-30T12:48:40.000Z",
-      "cuplikan": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live –…",
-      "gambar": "https://i.guim.co.uk/img/media/a0e5af33d483d9aab5e06bd85fc2dc72c9948b20/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a4ece422cf50883b089653bc4db277a9",
-      "kategoriSumber": [
-        "Binance",
-        "Cryptocurrencies",
-        "Business",
-        "Hacking",
-        "US news",
-        "Technology",
-        "World news",
-        "North Korea",
-        "Bitcoin"
       ]
     },
     {
@@ -659,7 +1317,7 @@
       "kanal": "ars",
       "lajur": "global",
       "terbit": "2026-10-30T11:30:01.000Z",
-      "cuplikan": "Elizabeth Holmes has some people falling for her act all over again.",
+      "cuplikan": "Disgraced founder of Theranos has some people falling for her act all over again.",
       "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg",
       "kategoriSumber": [
         "Culture",
@@ -794,7 +1452,7 @@
       "kanal": "ars",
       "lajur": "global",
       "terbit": "2026-10-30T11:00:35.000Z",
-      "cuplikan": "It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight.",
+      "cuplikan": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
       "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg",
       "kategoriSumber": [
         "Science",
@@ -1132,7 +1790,7 @@
       "lajur": "global",
       "terbit": "2026-10-30T10:00:00.000Z",
       "cuplikan": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
-      "gambar": "https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/master/pass/Crematoriams.jpg",
+      "gambar": "https://media.wired.com/photos/6ae4b5c0d55a0e2bc0a8d62b/master/pass/GettyImages-567391969.jpg",
       "kategoriSumber": [
         "Science",
         "Science / Environment"
@@ -1147,7 +1805,7 @@
       "lajur": "global",
       "terbit": "2026-10-30T09:33:51.000Z",
       "cuplikan": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg"
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/15f26510-d4f1-11f1-9df7-95635b0b4a0d.jpg"
     },
     {
       "id": "6b9940d9e24f",
@@ -1189,20 +1847,6 @@
       "terbit": "2026-10-30T09:32:58.000Z",
       "cuplikan": "Cristiano Ronaldo terpilih sebagai Ballon d'Or of All Time lewat voting penggemar, mengungguli Lionel Messi. Ia mengucapkan terima kasih kepada fans di media sosial.",
       "gambar": "https://cdn0-production-images-kly.akamaized.net/4uws27ndisQkn59_izjko3UIboc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9386477/original/079320000_1793348183-ronaldo_2.jpg",
-      "kategoriSumber": [
-        "Bola"
-      ]
-    },
-    {
-      "id": "6d3e784b482a",
-      "judul": "Bedah Finansial Klub: Bagaimana Pelemahan Kurs Rupiah Bisa Mengancam Operasional Sepak Bola Nasional",
-      "tautan": "https://enamplus.liputan6.com/bola/read/8325098/bedah-finansial-klub-bagaimana-pelemahan-kurs-rupiah-bisa-mengancam-operasional-sepak-bola-nasional",
-      "sumber": "Liputan6",
-      "kanal": "liputan6-bola",
-      "lajur": "olahraga",
-      "terbit": "2026-10-30T09:32:55.000Z",
-      "cuplikan": "Merosotnya nilai tukar rupiah terhadap dolar Amerika Serikat pasca pengumuman MSCI di New York membawa efek domino yang jarang disadari ke industri sepak bola nasional. Klub-klub profesional di Indonesia sejatinya tidak lepas dari…",
-      "gambar": "https://cdn0-production-images-kly.akamaized.net/aXcbX729-v6mQlSctJz_S9sU7PM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9386627/original/027084800_1793352774-daifan-ngejelasin-dampak-ekonomi-lama-banget-ed8ba2.png",
       "kategoriSumber": [
         "Bola"
       ]
@@ -1661,7 +2305,7 @@
     },
     {
       "id": "3e717ff96762",
-      "judul": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "judul": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
       "tautan": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
       "sumber": "TechCrunch",
       "kanal": "techcrunch",
@@ -1671,6 +2315,10 @@
       "gambar": "",
       "kategoriSumber": [
         "Transportation",
+        "autonomous vehicles",
+        "robotaxis",
+        "Toyota",
+        "toyota bz4x ev",
         "Waymo"
       ]
     },
@@ -2602,7 +3250,7 @@
       "lajur": "global",
       "terbit": "2026-10-29T21:18:22.000Z",
       "cuplikan": "The site's data is reportedly intact, but the cause of the outage is still unknown.",
-      "gambar": "https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg",
+      "gambar": "https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793388818.jpg",
       "kategoriSumber": [
         "News"
       ]
@@ -2614,15 +3262,14 @@
       "sumber": "The New York Times",
       "kanal": "nyt-tech",
       "lajur": "global",
-      "terbit": "2026-10-29T21:17:40.000Z",
+      "terbit": "2026-10-29T21:17:41.000Z",
       "cuplikan": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers.",
       "gambar": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-intel-earnings-1-vcjt/29biz-intel-earnings-1-vcjt-mediumSquareAt3X.jpg",
       "kategoriSumber": [
         "Intel Corporation",
-        "Tan, Lip-Bu",
+        "Company Reports",
         "Computer Chips",
         "Artificial Intelligence",
-        "Company Reports",
         "United States Politics and Government"
       ]
     },
@@ -2633,7 +3280,7 @@
       "sumber": "The New York Times",
       "kanal": "nyt-tech",
       "lajur": "global",
-      "terbit": "2026-10-29T21:08:30.000Z",
+      "terbit": "2026-10-29T21:08:31.000Z",
       "cuplikan": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino.",
       "gambar": "https://static01.nyt.com/images/2026/11/01/multimedia/POLYMARKET-MONEY3-fbwc/POLYMARKET-MONEY-fbwc-mediumSquareAt3X.jpg",
       "kategoriSumber": [
