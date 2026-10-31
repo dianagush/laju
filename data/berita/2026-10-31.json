@@ -1,7 +1,1227 @@
 {
   "tanggal": "2026-10-31",
-  "diperbarui": "2026-10-31T06:55:56.525Z",
+  "diperbarui": "2026-10-31T13:35:40.420Z",
   "berita": [
+    {
+      "id": "cd476e605cfe",
+      "judul": "Here's how much the iPhone Pro cost in 2019 vs. 2026",
+      "tautan": "https://www.engadget.com/2300201/how-much-iphone-pro-cost-2021-vs-2026/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-31T13:30:00.000Z",
+      "cuplikan": "The iPhone Pro has changed plenty since it was released in 2019, but how do the 2026 iPhone Pro prices fare in comparison with its original price?",
+      "gambar": "https://www.engadget.com/img/gallery/heres-how-much-the-iphone-pro-cost-in-2019-vs-2026/l-intro-1793120601.jpg",
+      "kategoriSumber": [
+        "Smartphones",
+        "Apple"
+      ]
+    },
+    {
+      "id": "06e7fe4c87ab",
+      "judul": "ICF usulkan 76 Ultimate Downhill jadi ajang tingkat Asia",
+      "tautan": "https://www.antaranews.com/berita/5823979/icf-usulkan-76-ultimate-downhill-jadi-ajang-tingkat-asia",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T13:22:55.000Z",
+      "cuplikan": "Pengurus Pusat Indonesia Cycling Federation (ICF) mengusulkan peningkatan status kompetisi balap sepeda gunung 76 ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/Icf.jpg.jpeg"
+    },
+    {
+      "id": "8416c1a5df9f",
+      "judul": "Alex Marquez akui kesalahan sendiri sebabkan kecelakaan di Sepang",
+      "tautan": "https://www.antaranews.com/berita/5823975/alex-marquez-akui-kesalahan-sendiri-sebabkan-kecelakaan-di-sepang",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T13:19:04.000Z",
+      "cuplikan": "Pembalap Gresini Racing Alex Marquez mengakui kesalahannya sendiri menyebabkan kecelakaan yang membuatnya gagal ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/AFP_20261031_D4Z72UP_v2_MidRes_CorrectionMotoPrixMasSprint.jpg"
+    },
+    {
+      "id": "c300d360cb3c",
+      "judul": "Why you should never point a laser pointer at any aircraft",
+      "tautan": "https://www.engadget.com/2301206/why-you-should-never-point-a-laser-pointer-at-any-aircraft/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-31T13:15:00.000Z",
+      "cuplikan": "Unfortunately, some people need to hear this.",
+      "gambar": "https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-any-aircraft/l-intro-1793289097.jpg",
+      "kategoriSumber": [
+        "EVs and Transportation"
+      ]
+    },
+    {
+      "id": "001b0d3fbeef",
+      "judul": "Gubernur Banten dorong pembinaan atlet lewat liga futsal pelajar",
+      "tautan": "https://www.antaranews.com/berita/5823971/gubernur-banten-dorong-pembinaan-atlet-lewat-liga-futsal-pelajar",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T13:14:49.000Z",
+      "cuplikan": "Gubernur Banten Andra Soni menilai FIN Super League Futsal Antarpelajar 2026 menjadi ajang strategis untuk menjaring ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/1001528160.jpg"
+    },
+    {
+      "id": "2e4845f8a79f",
+      "judul": "Aprilia berharap Jorge Martin kembali balapan di GP Qatar",
+      "tautan": "https://www.antaranews.com/berita/5823959/aprilia-berharap-jorge-martin-kembali-balapan-di-gp-qatar",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T13:08:35.000Z",
+      "cuplikan": "Direktur Teknik Aprilia Racing Fabiano Sterlacchini berharap pembalapnya, Jorge Martin, dapat kembali tampil pada Grand ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/27/jorge.jpg"
+    },
+    {
+      "id": "4643d7e18ab1",
+      "judul": "Mundur dari MotoGP Malaysia 2026, Jorge Martin Prediksi Marc Marquez Bakal Berjaya",
+      "tautan": "https://sports.okezone.com/read/2026/10/31/38/3251337/mundur-dari-motogp-malaysia-2026-jorge-martin-prediksi-marc-marquez-bakal-berjaya",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T13:05:45.000Z",
+      "cuplikan": "Mundur dari MotoGP Malaysia 2026, Jorge Martin Prediksi Marc Marquez Bakal Berjaya",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/31/38/3251337/jorge_martin-dYZQ_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "1e8f55161682",
+      "judul": "Why your games take up way more drive space than expected (even when uninstalled)",
+      "tautan": "https://www.engadget.com/2299478/games-take-up-more-drive-space-expected/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-31T13:00:00.000Z",
+      "cuplikan": "Even after uninstalling a game, there are often remnants of data left in your storage. Some you may want to leave, and some you should delete manually.",
+      "gambar": "https://www.engadget.com/img/gallery/why-your-games-take-up-way-more-drive-space-than-expected-even-when-uninstalled/l-intro-1793197497.jpg",
+      "kategoriSumber": [
+        "Nintendo",
+        "PC Gaming",
+        "PlayStation",
+        "Xbox"
+      ]
+    },
+    {
+      "id": "ba1a1074f942",
+      "judul": "Hasil Babak Pertama Dewa United Vs Persija Jakarta: Rayhan Hannan Buka Gol, Denilson Samakan Kedudukan",
+      "tautan": "https://www.viva.co.id/bola/1940070-hasil-babak-pertama-dewa-united-vs-persija-jakarta-rayhan-hannan-buka-gol-denilson-samakan-kedudukan",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:51:25.000Z",
+      "cuplikan": "Hasil babak pertama pertandingan BRI Super League 2026-2027 antara Dewa United vs Persija Jakarta di Banten International Stadium sementara imbang 1-1.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae5e3de136a6-pemain-persija-jakarta-rayhan-hannan_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "a33936511cd2",
+      "judul": "Jorge Martin batal tampil di GP Malaysia akibat cedera",
+      "tautan": "https://www.antaranews.com/berita/5823923/jorge-martin-batal-tampil-di-gp-malaysia-akibat-cedera",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:47:40.000Z",
+      "cuplikan": "Pembalap Aprilia Racing Jorge Martin mengaku telah berupaya maksimal untuk tampil pada Grand Prix (GP) Malaysia, tetapi ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/27/martin.jpg"
+    },
+    {
+      "id": "ac4d7d9bec0b",
+      "judul": "How to improve audio quality on your Android phone with Bluetooth or wired headphones",
+      "tautan": "https://www.engadget.com/2298724/how-to-improve-android-phone-audio-quality-with-bluetooth-wired-headphones/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-31T12:45:00.000Z",
+      "cuplikan": "Maximizing your listening experience on Android can get very complicated, but we'll guide you through settings and headphone choices to get you there.",
+      "gambar": "https://www.engadget.com/img/gallery/how-to-improve-audio-quality-on-your-android-phone-with-bluetooth-or-wired-headphones/l-intro-1793124520.jpg",
+      "kategoriSumber": [
+        "Entertainment",
+        "Accessories",
+        "Smartphones"
+      ]
+    },
+    {
+      "id": "43b03a7a5565",
+      "judul": "Pecco incar hasil terbaik pada balapan utama GP Malaysia",
+      "tautan": "https://www.antaranews.com/berita/5823915/pecco-incar-hasil-terbaik-pada-balapan-utama-gp-malaysia",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:42:04.000Z",
+      "cuplikan": "Pembalap Ducati Lenovo Francesco \"Pecco\" Bagnaia menargetkan hasil terbaik pada balapan utama Grand Prix (GP) ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/09/sesi-latihan-bebas-1-motogp-mandalika-2026-2880962.jpg"
+    },
+    {
+      "id": "214dc794c023",
+      "judul": "Khoiful Mukhib tercepat di kualifikasi downhill Kudus",
+      "tautan": "https://www.antaranews.com/berita/5823907/khoiful-mukhib-tercepat-di-kualifikasi-downhill-kudus",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:37:07.000Z",
+      "cuplikan": "Pebalap 76Rider DH Squad Khoiful Mukhib mencatatkan waktu tercepat pada sesi kualifikasi kelas utama Men Elite ajang 76 ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/balap-1.jpg.jpeg"
+    },
+    {
+      "id": "ef8efb23bbb0",
+      "judul": "Chelsea vs Man Utd Sedang Tanding, Dapatkan Link Live Streaming Liga Inggris 2026/2027",
+      "tautan": "https://www.liputan6.com/bola/read/8325354/chelsea-vs-man-utd-sedang-tanding-dapatkan-link-live-streaming-liga-inggris-20262027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:30:25.000Z",
+      "cuplikan": "Duel Liga Inggris Chelsea vs Man Utd bisa ditonton melalui Vidio.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/FBiGa-WkWPff3Wujj1klV1ZwxuE=/0x0:3300x1860/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376337/original/006107400_1792331664-000_D3MT39D.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a7b214da15e0",
+      "judul": "What happens when AI starts self-replicating?",
+      "tautan": "https://www.engadget.com/2302896/what-happens-when-ai-starts-self-replicating/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-31T12:30:00.000Z",
+      "cuplikan": "Anthropic warns that future is soon, but the threat is less novel than it seems.",
+      "gambar": "https://www.engadget.com/img/gallery/what-happens-when-ai-starts-self-replicating/l-intro-1793389611.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "02be91672357",
+      "judul": "The pros and cons of using an all-in-one desktop computer",
+      "tautan": "https://www.engadget.com/2298592/pros-and-cons-using-all-in-one-desktop-computer/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-31T12:30:00.000Z",
+      "cuplikan": "All-in-one (AIO) computers are more compact and easier to use than desktop setups, but they also trade simplicity for flexibility when it's time to upgrade.",
+      "gambar": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-all-in-one-desktop-computer/l-intro-1793120330.jpg",
+      "kategoriSumber": [
+        "Computing"
+      ]
+    },
+    {
+      "id": "305ff75eb2c0",
+      "judul": "Dua kartu merah warnai kemenangan Bali United atas Arema 3-1",
+      "tautan": "https://www.antaranews.com/berita/5823891/dua-kartu-merah-warnai-kemenangan-bali-united-atas-arema-3-1",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:29:16.000Z",
+      "cuplikan": "Bali United membawa pulang tiga poin setelah mengalahkan tuan rumah Arema FC dengan skor 3-1 dalam pertandingan pekan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/Bali-United-Menang-Atas-Arema-FC-311026-abs-2.jpg"
+    },
+    {
+      "id": "925ab275686d",
+      "judul": "Startup Teknologi Indonesia Bidik Pasar Enterprise Lewat Infrastruktur Inferensi AI",
+      "tautan": "https://www.jawapos.com/teknologi/2610310419/startup-teknologi-indonesia-bidik-pasar-enterprise-lewat-infrastruktur-inferensi-ai",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T12:27:12.000Z",
+      "cuplikan": "Startup teknologi asal Indonesia, Netra Runtime, memperoleh investasi dari perusahaan modal ventura Init-6.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/06/10/ilustrasi-ai-pinterest-MwTfU.webp"
+    },
+    {
+      "id": "c932a3b951b7",
+      "judul": "Ratu STIES Mitra Karya Bekasi Bertakhta di Liga Voli Mahasiswa 2026 Seri Jakarta",
+      "tautan": "https://www.liputan6.com/bola/read/8325702/ratu-sties-mitra-karya-bekasi-bertakhta-di-liga-voli-mahasiswa-2026-seri-jakarta",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:19:27.000Z",
+      "cuplikan": "STIES Mitra Karya Bekasi Putri keluar sebagai juara Liga Voli Mahasiswa Seri Jakarta 2026 setelah mengalahkan Universitas Negeri Jakarta.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/wZG9dca3UD_tT6IJbXQ26j2vjBg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9387217/original/082381400_1793446001-final_lvm_1.jpeg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "a0e0d4a04717",
+      "judul": "This Microsoft 365 Family plan cloud storage change may leave you frustrated",
+      "tautan": "https://www.engadget.com/2301048/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-31T12:15:00.000Z",
+      "cuplikan": "Your Microsoft 365 Family plan will transition to a new (smaller) shared storage model when you renew it.",
+      "gambar": "https://www.engadget.com/img/gallery/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/l-intro-1793280260.jpg",
+      "kategoriSumber": [
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "f540c5c2b1e5",
+      "judul": "Finis kedua di Sepang, Marc Marquez puas dengan hasil sprint",
+      "tautan": "https://www.antaranews.com/berita/5823855/finis-kedua-di-sepang-marc-marquez-puas-dengan-hasil-sprint",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:01:27.000Z",
+      "cuplikan": "Pembalap Ducati Lenovo Marc Marquez mengaku puas setelah finis kedua pada balapan sprint MotoGP Malaysia di Sirkuit ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/30/AFP_20261030_D4VT6TR_v1_HighRes_MotoPrixMas.jpg"
+    },
+    {
+      "id": "0c01375b9245",
+      "judul": "Is AI your new wingman? How chatbots are transforming dating",
+      "tautan": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-31T12:00:42.000Z",
+      "cuplikan": "Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners After Sam’s ex joked that her sister found him ugly, he turned to AI. Google Gemini had a look at the photo and politely…",
+      "gambar": "https://i.guim.co.uk/img/media/f57dcf1a8bbea5c0f23d491b38cd69b5b7d99f18/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e31ca46ee09a0e757f9394788a52ffd8",
+      "kategoriSumber": [
+        "Dating",
+        "AI (artificial intelligence)",
+        "Chatbots",
+        "UK news",
+        "Society",
+        "Tinder",
+        "Life and style",
+        "Technology",
+        "Computing"
+      ]
+    },
+    {
+      "id": "ed2868e3aa92",
+      "judul": "Dewa United vs Persija Sudah Mulai, Dapatkan Link Live Streaming di Indosiar dan Vidio",
+      "tautan": "https://www.liputan6.com/bola/read/8325348/dewa-united-vs-persija-sudah-mulai-dapatkan-link-live-streaming-di-indosiar-dan-vidio",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T12:00:11.000Z",
+      "cuplikan": "Laga BRI Super League Dewa United vs Persija Jakarta dipredksi berlangsung sengit.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/zlkMDqhDd-HUAxC8gFXeGXPiHEI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9386740/original/038510400_1793361880-ridho_shin.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "0b58bfa85dcc",
+      "judul": "Touchscreens everywhere!",
+      "tautan": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-31T12:00:00.000Z",
+      "cuplikan": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Gadgets",
+        "Gaming",
+        "Installer",
+        "Tech"
+      ]
+    },
+    {
+      "id": "fe0e51086ed4",
+      "judul": "Here’s why you can’t shake those unhinged political texts",
+      "tautan": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "sumber": "The Verge",
+      "kanal": "verge",
+      "lajur": "global",
+      "terbit": "2026-10-31T12:00:00.000Z",
+      "cuplikan": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB…",
+      "gambar": "",
+      "kategoriSumber": [
+        "Policy",
+        "Politics",
+        "Report",
+        "US Elections"
+      ]
+    },
+    {
+      "id": "bc2326c848ae",
+      "judul": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "tautan": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T12:00:00.000Z",
+      "cuplikan": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "gambar": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
+      "kategoriSumber": [
+        "Security",
+        "Security / Cyberattacks and Hacks"
+      ]
+    },
+    {
+      "id": "e38e1496c71f",
+      "judul": "Sedang Berlangsung, Ini Link Live Streaming Dewa United Vs Persija Jakarta di Super League",
+      "tautan": "https://www.viva.co.id/bola/1940065-sedang-berlangsung-ini-link-live-streaming-dewa-united-vs-persija-jakarta-di-super-league",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T11:59:13.000Z",
+      "cuplikan": "Dewa United menghadapi Persija Jakarta pada pekan kedelapan Super League musim 2026/2027. Simak kondisi kedua tim, rekor pertemuan, dan link live streamingnya",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/10/6aca1e94dc257-pemain-persija-merayakan-kemenangan-atas-psim_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "42aedb19d3c7",
+      "judul": "Highlight Semifinal Liga Voli Mahasiswa 2026: STIES MIKAR Bekasi Tekuk Trisakti Jakarta 3-0, Tiket Final Diamankan!",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8325645/highlight-semifinal-liga-voli-mahasiswa-2026-sties-mikar-bekasi-tekuk-trisakti-jakarta-3-0-tiket-final-diamankan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T11:32:47.000Z",
+      "cuplikan": "STIES Mitra Karya (STIES MIKAR) Bekasi sukses melaju ke final sektor putri Liga Voli Mahasiswa Seri Jakarta 2026 setelah menaklukkan Universitas Trisakti Jakarta dengan skor telak 3-0 pada babak semifinal. STIES MIKAR tampil dominan dengan…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/_YnGJxc_bK0HwBRHQjzQkVBFExM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9387153/original/019163000_1793437477-20261031_pi_sties-mikar-vs-usakti-3efce4.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "12cbcc7b4f77",
+      "judul": "Google Perluas Iklan, Konten Bersponsor Akan Muncul di Fitur Pencarian AI",
+      "tautan": "https://www.jawapos.com/teknologi/2610310383/google-perluas-iklan-konten-bersponsor-akan-muncul-di-fitur-pencarian-ai",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T11:30:07.000Z",
+      "cuplikan": "Google memperluas penayangan iklan pada fitur pencarian berbasis AI ke lebih banyak negara, meningkatkan monetisasi.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/10/07/google-memperluas-pasokan-energi-nuklir-untuk-menopang-kebutuhan-listrik-data-center-ai-di-amerika-serikat-the-verge-LKrrA.webp"
+    },
+    {
+      "id": "eb76d796a118",
+      "judul": "Jorge Martin Blak-Blakan Alasan Mundur dari MotoGP Malaysia 2026.",
+      "tautan": "https://www.liputan6.com/bola/read/8325698/jorge-martin-blak-blakan-alasan-mundur-dari-motogp-malaysia-2026",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T11:19:37.000Z",
+      "cuplikan": "Jorge Martin tidak jadi membalap di sprint dan balapan utama MotoGP Malaysia usai belum sembuh dari cedera pergelangan tangan.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/rgfKsFREBmIaKvPXPfx3_zdFyDI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5122661/original/072330200_1738748675-000_36X43VL.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "cc3a16b4ec78",
+      "judul": "Prediksi Dewa United Vs Persija Jakarta: Ujian Berat Macan Kemayoran Pertahankan Puncak Klasemen",
+      "tautan": "https://www.viva.co.id/bola/1940061-prediksi-dewa-united-vs-persija-jakarta-ujian-berat-macan-kemayoran-pertahankan-puncak-klasemen",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T11:15:43.000Z",
+      "cuplikan": "Prediksi pertandingan pekan kedelapan Super League 2026-2027 antara Dewa United vs Persija Jakarta yang mempertemukan dua tim papan atas di tangga klasemen.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acbb11c0d1fe-skuad-persija-jakarta-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "e58df0c82cd4",
+      "judul": "Seabirds racing home over the ocean can get jet-lagged",
+      "tautan": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-31T11:15:26.000Z",
+      "cuplikan": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
+      "kategoriSumber": [
+        "Science",
+        "Behavioral science",
+        "Biology",
+        "chronobiology",
+        "circadian",
+        "internal clocks",
+        "navigation"
+      ]
+    },
+    {
+      "id": "154cead31466",
+      "judul": "Ini Deretan Peningkatan iOS 27.2 yang Wajib Dicoba",
+      "tautan": "https://www.liputan6.com/tekno/read/8325044/ini-deretan-peningkatan-ios-272-yang-wajib-dicoba",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T11:07:49.000Z",
+      "cuplikan": "Apple telah menghadirkan pembaruan sistem operasi, iOS 27.2 secara global. Intip fitur-fitur barunya.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/EUogS98wLzKtDg8QPj2smil6Zbw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9287305/original/019245600_1783210087-iOS-27-Trust-Insights-featured.webp",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "c002ed5d5740",
+      "judul": "HP Terkena Air dan Suaranya Jadi Sember? Hindari Kebiasaan Ini agar Speaker Tidak Makin Bermasalah",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1940008-hp-terkena-air-dan-suaranya-jadi-sember-hindari-kebiasaan-ini-agar-speaker-tidak-makin-bermasalah",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T11:06:00.000Z",
+      "cuplikan": "HP terkena air dan suara speaker jadi sember? Hindari hair dryer, beras, jarum, dan mengisi daya saat basah. Simak cara mengeringkan HP dengan aman agar kerusakan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/05/6a4a449129866-ilustrasi-hp-murah-tahan-air_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "fbd4ad46df8c",
+      "judul": "PSIM Yogyakarta Resmi Tunjuk Risto Vidakovic Jadi Pelatih Baru",
+      "tautan": "https://www.liputan6.com/bola/read/8325694/psim-yogyakarta-resmi-tunjuk-risto-vidakovic-jadi-pelatih-baru",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T11:02:58.000Z",
+      "cuplikan": "PSIM Yogyakarta menunjuk Risto Vidakovic sebagai pelatih kepala menggantikan Jean-Paul van Gastel. Manajemen mengungkap alasan dan tugas awal yang menanti.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/ecEPNko1oWWPuSVt-4i-NBP9w30=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2787300/original/066673200_1556102941-20190423IQ_Persija_Jakarta_Vs_Ceres_Negros_31.JPG",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "58f1874bf514",
+      "judul": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "tautan": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-10-31T11:02:34.000Z",
+      "cuplikan": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
+      "kategoriSumber": [
+        "Science",
+        "fda",
+        "syndication"
+      ]
+    },
+    {
+      "id": "aa5b372385b6",
+      "judul": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+      "tautan": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T11:00:00.000Z",
+      "cuplikan": "Glow up your home indoors or out with these versatile, discounted, full color smart string lights. They’re WIRED-tested and 25 percent off right now.",
+      "gambar": "https://media.wired.com/photos/6ae4f146e0310df801ec3341/master/pass/My%20Favorite%20Affordable%20Smart%20String%20Lights%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Deals",
+        "Gear / Products / Smart Home"
+      ]
+    },
+    {
+      "id": "ef4444f09a83",
+      "judul": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+      "tautan": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T11:00:00.000Z",
+      "cuplikan": "The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed.",
+      "gambar": "https://media.wired.com/photos/6ae3636efade877474b75a13/master/pass/102926-Egg%20Whisky.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Gear News and Events"
+      ]
+    },
+    {
+      "id": "431d3e82d4a7",
+      "judul": "Penalti PSM gagal, Madura United menang lewat gol Iran Junior",
+      "tautan": "https://www.antaranews.com/berita/5823767/penalti-psm-gagal-madura-united-menang-lewat-gol-iran-junior",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:53:04.000Z",
+      "cuplikan": "Gol tunggal Iran Junior membawa Madura United mengalahkan tuan rumah PSM Makassar dengan skor 1-0 pada pekan kedelapan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/madura-united-menang-atas-psm-makassar-2896855.jpg"
+    },
+    {
+      "id": "e9028908598d",
+      "judul": "Borneo FC Usung Modal Positif dari Asia, Ingin Lanjutkan Momentum di BRI Super League",
+      "tautan": "https://www.liputan6.com/bola/read/8325688/borneo-fc-usung-modal-positif-dari-asia-ingin-lanjutkan-momentum-di-bri-super-league",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:51:00.000Z",
+      "cuplikan": "Sapu bersih fase grup ACGL, Borneo FC melaju ke perempat final dan membidik momentum saat tandang ke PSIM di pekan kedelapan BRI Super League.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/b4havh-EuCjLM_Fl16TzWni3KR0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385065/original/033100000_1793234661-rahmad-dandy-sonriza-bangga-bisa-bawa-borneo-fc-menang-20261028205216.webp",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "080721fc62df",
+      "judul": "BRI Super League: Tiga Tim Tamu Berpesta, Persita Menggila dengan Lima Gol",
+      "tautan": "https://www.liputan6.com/bola/read/8325682/bri-super-league-tiga-tim-tamu-berpesta-persita-menggila-dengan-lima-gol",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:44:12.000Z",
+      "cuplikan": "Bali United, Madura United, dan Persita menang tandang pada Sabtu (31/10/2026). Pekan kedelapan BRI Super League 2026/2027 melahirkan 11 gol.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/ra743TYW4BLFglHJR0A9DXH_2_0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9387172/original/090346600_1793439830-ramalingom.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "06fd849dad0b",
+      "judul": "Hasil Persik Vs Persita Tangerang: Pablo Ganet Hattrick, Pendekar Cisadane Pesta Gol 5-1",
+      "tautan": "https://www.viva.co.id/bola/1940053-hasil-persik-vs-persita-tangerang-pablo-ganet-hattrick-pendekar-cisadane-pesta-gol-5-1",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:42:17.000Z",
+      "cuplikan": "Persita Tangerang sukses membantai Persik Kediri 1-5 di Stadion Brawijaya lewat aksi gemilang Alexandre Ramalingom dan hattrick Pablo Ganet, Sabtu (31/10/2026).",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae5c218c3acb-persik-kediri-vs-persita-tangerang-di-super-league-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "bc1bbb5bca38",
+      "judul": "Keras, Reaksi Erick Thohir Buntut Dua Atlet Meninggal Dunia Dalam Satu Ajang",
+      "tautan": "https://www.viva.co.id/sport/1940052-keras-erick-thohir-minta-koni-jawa-tengah-evaluasi-sistem-keselamatan-buntut-dua-atlet-meninggal-dunia",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:37:27.000Z",
+      "cuplikan": "Dua peserta ajang Pekan Olahraga Provinsi (Porprov) XVII Jawa Tengah 2026 meninggal dunia membuat Menteri Pemuda dan Olahraga Erick Thohir ikut bersuara.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acbb2de679da-menteri-pemuda-dan-olahraga-menpora-erick-thohir_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "3957c9363eef",
+      "judul": "Hasil PSM Vs Madura United: Penalti Gagal, Juku Eja Dipermalukan 0-1 di Kandang",
+      "tautan": "https://www.viva.co.id/bola/1940051-hasil-psm-vs-madura-united-penalti-gagal-juku-eja-dipermalukan-0-1-di-kandang",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:35:41.000Z",
+      "cuplikan": "PSM Makassar harus mengakui keunggulan Madura United usai kalah 0-1 di Stadion BJ Habibie akibat gol cepat Iran Junior dan kegagalan eksekusi penalti.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae5c2ffe96e2-psm-makassar-vs-madura-united-di-super-league-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "aae19058b915",
+      "judul": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "tautan": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+      "sumber": "Engadget",
+      "kanal": "engadget",
+      "lajur": "global",
+      "terbit": "2026-10-31T10:34:31.000Z",
+      "cuplikan": "Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.",
+      "gambar": "https://www.engadget.com/img/gallery/google-joins-openai-and-anthropic-in-promising-new-scraping-controls/l-intro-1793442580.jpg",
+      "kategoriSumber": [
+        "AI"
+      ]
+    },
+    {
+      "id": "3ae2216aa1e5",
+      "judul": "Backup by Biolite Review: A Cool Idea",
+      "tautan": "https://www.wired.com/review/backup-by-biolite/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T10:33:00.000Z",
+      "cuplikan": "Backup by BioLite is designed to power your fridge when the grid goes down. It works, but protecting your ice cream doesn’t come cheap.",
+      "gambar": "https://media.wired.com/photos/6ae2c94850875d11b16a4a53/master/pass/Review%20Backup%20by%20BioLite%20102026%20top%20art%20SOURCE%20BioLite.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Home"
+      ]
+    },
+    {
+      "id": "3e8d1a13be19",
+      "judul": "Hasil Arema FC Vs Bali United: Diwarnai 2 Kartu Merah, Serdadu Tridatu Pesta Gol 3-1",
+      "tautan": "https://www.viva.co.id/bola/1940050-hasil-arema-fc-vs-bali-united-diwarnai-2-kartu-merah-serdadu-tridatu-pesta-gol-3-1",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:32:04.000Z",
+      "cuplikan": "Bali United sukses mengamankan kemenangan tandang perdana mereka usai menumbangkan Arema FC 3-1 pada pekan kedelapan Super League 2026-2027 di Kanjuruhan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae5c28c1de39-arema-fc-vs-bali-united-di-super-league-20262027_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "2ec3abacf294",
+      "judul": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "tautan": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T10:30:00.000Z",
+      "cuplikan": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "gambar": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg",
+      "kategoriSumber": [
+        "Business",
+        "Business / Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "2eeb08d8f8c9",
+      "judul": "Lagi Terpuruk, Manchester United Ditolak Pemain Leeds United untuk Januari 2027",
+      "tautan": "https://www.liputan6.com/bola/read/8325606/lagi-terpuruk-manchester-united-ditolak-pemain-leeds-united-untuk-januari-2027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:00:52.000Z",
+      "cuplikan": "Prestasi buruk Manchester United membuat mereka mulai mendapat penolakan dari pemain yang diincar. Kini pemain Leeds berani menolak MU.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Z1NZPzKSJsgAwb4Fg0umoQZ441o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9386283/original/049455500_1793341665-000_D3MV3MQ.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "2d783fcf19df",
+      "judul": "Mitchell Baker Kenang Film 'Garuda di Dadaku' yang Menginspirasinya Membela Timnas Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1940043-mitchell-baker-kenang-film-garuda-di-dadaku-yang-menginspirasinya-membela-timnas-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T10:00:00.000Z",
+      "cuplikan": "Mitchell Baker mengungkap film Garuda di Dadaku yang menginspirasinya sejak kelas tujuh. Kini, mimpi masa kecilnya terwujud setelah membela Timnas Indonesia.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/01/6abe858dbec89-pemain-timnas-indonesia-mitchell-baker_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "44be6d9cd9ec",
+      "judul": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "tautan": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T10:00:00.000Z",
+      "cuplikan": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "gambar": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Science / Biotech"
+      ]
+    },
+    {
+      "id": "4d6492bda7ba",
+      "judul": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+      "tautan": "https://www.wired.com/story/bose-deals-october-2026/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T10:00:00.000Z",
+      "cuplikan": "They’re a steal at over 40 percent off in multiple colors. Plus, other great Bose deals you should know about ahead of Black Friday.",
+      "gambar": "https://media.wired.com/photos/6ae4c869b2b1587e7c6da348/master/pass/Bose%20Headphone%20Deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Deals",
+        "Gear / Products / Headphones",
+        "Gear / Products / Audio"
+      ]
+    },
+    {
+      "id": "8aa28ceae4da",
+      "judul": "Cegah kekerasan suporter, I.League dan klub perkuat keamanan",
+      "tautan": "https://www.antaranews.com/berita/5823695/cegah-kekerasan-suporter-ileague-dan-klub-perkuat-keamanan",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T09:38:58.000Z",
+      "cuplikan": "Operator kompetisi sepak bola Indonesia, I.League, bersama klub-klub peserta BRI Super League 2026/2027 menegaskan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/872578.jpg"
+    },
+    {
+      "id": "c1f30977fb2c",
+      "judul": "Klasemen Sementara MotoGP 2026 Kelar Sprint Race GP Malaysia: Marc Marquez Jauhi Jorge Martin",
+      "tautan": "https://sports.okezone.com/read/2026/10/31/38/3251331/klasemen-sementara-motogp-2026-kelar-sprint-race-gp-malaysia-marc-marquez-jauhi-jorge-martin",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T09:38:02.000Z",
+      "cuplikan": "Berikut Klasemen Sementara MotoGP 2026 Kelar Sprint Race GP Malaysia.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/10/31/38/3251331/marc_marquez-lguT_large.jpg",
+      "kategoriSumber": [
+        "MotoGP"
+      ]
+    },
+    {
+      "id": "8e141f4fc5e8",
+      "judul": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+      "tautan": "https://www.wired.com/review/keurig-alta-brewer/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T09:35:00.000Z",
+      "cuplikan": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
+      "gambar": "https://media.wired.com/photos/6ae379a84c0c94a306d058dd/master/pass/Keurig%20Alta%20Review%20102026%20top%20art%20SOURCE%20Keurig.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Kitchen"
+      ]
+    },
+    {
+      "id": "9388b7b1332e",
+      "judul": "Update Naturalisasi untuk Timnas Indonesia, Mulai Taisei Marukawa, Dean Zandbergen, hingga Markus Pall Ellertsson",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8325611/update-naturalisasi-untuk-timnas-indonesia-mulai-taisei-marukawa-dean-zandbergen-hingga-markus-pall-ellertsson",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T09:32:52.000Z",
+      "cuplikan": "Bola Break di YouTube BolacomID kedatangan Noor Korompot, Staf Khusus Menteri Hukum RI, untuk membahas perkembangan naturalisasi pemain Timnas Indonesia. Mulai dari proses Taisei Marukawa, nama Dean Zandbergen yang turut menjadi sorotan…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/8TD0_VRI2kcgHAHTP2YDqjQ40gA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9387121/original/094567400_1793434493-bola-break-kemenhum-2-acc454.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "49e9ce27009d",
+      "judul": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+      "tautan": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T09:30:00.000Z",
+      "cuplikan": "In the 1960’s, an odd experiment showed planarian worms could transfer memories by consuming each other. It was a sensational finding—that is until the worms stopped learning.",
+      "gambar": "https://media.wired.com/photos/6ae09b5cfd6437553a9fb6ee/master/pass/Qualia%20Eating%20Memory%20cr-Lisett%20Ledo%CC%81n-Lede.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Science / Psychology and Neuroscience"
+      ]
+    },
+    {
+      "id": "acbc7c3764fc",
+      "judul": "Dua atlet Porprov meninggal, Menpora minta evaluasi keselamatan",
+      "tautan": "https://www.antaranews.com/berita/5823683/dua-atlet-porprov-meninggal-menpora-minta-evaluasi-keselamatan",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T09:28:44.000Z",
+      "cuplikan": "Menteri Pemuda dan Olahraga Erick Thohir menekankan perlunya perbaikan menyeluruh terhadap sistem perlindungan dan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/29/pembukaan-indonesia-youth-summit-2026-2895839.jpg"
+    },
+    {
+      "id": "d48e0538ce38",
+      "judul": "Fokus Naturalisasi Timnas Indonesia Bergeser, PSSI Kini Sasar Talenta Diaspora di Jerman hingga AS",
+      "tautan": "https://www.viva.co.id/bola/1940040-fokus-naturalisasi-timnas-indonesia-bergeser-pssi-kini-sasar-talenta-diaspora-di-jerman-hingga-as",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T09:07:00.000Z",
+      "cuplikan": "PSSI dikabarkan mengalihkan fokus pencarian pemain diaspora ke luar Belanda akibat aturan ketenagakerjaan dan imigrasi, menyasar talenta di Jerman, AS, hingga Australia.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acbb2de679da-menteri-pemuda-dan-olahraga-menpora-erick-thohir_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "aa2a5e9f3333",
+      "judul": "Protes Pemain Barcelona Karena Terlalu Lama Menginap di Hotel",
+      "tautan": "https://www.liputan6.com/bola/read/8325648/protes-pemain-barcelona-karena-terlalu-lama-menginap-di-hotel",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T09:06:39.000Z",
+      "cuplikan": "Sejumlah pemain Barcelona dikabarkan keberatan dengan kebijakan Hansi Flick yang mewajibkan tim menginap di hotel demi menjaga kebugaran.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/dcada40Dz4zztzNWKs_PMlsgyZk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9342792/original/092502300_1788830912-BARCA.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "3d489b60f5e2",
+      "judul": "PSIM Resmi Tunjuk Risto Vidakovic Jadi Pelatih Baru, Bidik Kebangkitan di Super League",
+      "tautan": "https://www.viva.co.id/bola/1940039-psim-resmi-tunjuk-risto-vidakovic-jadi-pelatih-baru-bidik-kebangkitan-di-super-league",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T09:01:04.000Z",
+      "cuplikan": "PSIM Yogyakarta secara resmi menunjuk Risto Vidakovic sebagai pelatih kepala baru didampingi Edin Prljaca untuk mengarungi BRI Super League 2026/2027.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae5add5eaa99-pelatih-baru-psim-yogyakarta-risto-vidakovic_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "c31df6eb88e5",
+      "judul": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
+      "tautan": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T09:01:00.000Z",
+      "cuplikan": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
+      "gambar": "https://media.wired.com/photos/6ae4fa24ff45389e1b5f1706/master/pass/Sunrise%20Alarms%20102026%20top%20art%20SOURCE%20Hatch-Amazon.jpg",
+      "kategoriSumber": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "Gear / Products / Sleep"
+      ]
+    },
+    {
+      "id": "c20cd1c8688f",
+      "judul": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
+      "tautan": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
+      "sumber": "The New York Times",
+      "kanal": "nyt-tech",
+      "lajur": "global",
+      "terbit": "2026-10-31T09:00:54.000Z",
+      "cuplikan": "When there is A.I. to build, who has time for romance? Techies are going out less and expecting more on each date — including a family health history.",
+      "gambar": "https://static01.nyt.com/images/2026/10/31/multimedia/31BIZ-SF-DATING-1-04-mwjv/31BIZ-SF-DATING-1-04-mwjv-mediumSquareAt3X.jpg",
+      "kategoriSumber": [
+        "Dating and Relationships",
+        "San Francisco Bay Area (Calif)",
+        "Artificial Intelligence",
+        "Start-ups",
+        "Entrepreneurship",
+        "Computers and the Internet",
+        "Love (Emotion)",
+        "San Francisco (Calif)",
+        "Silicon Valley (Calif)"
+      ]
+    },
+    {
+      "id": "aa7a77c63d58",
+      "judul": "Tempat Menonton Chelsea vs Manchester United di Liga Inggris 2026/2027",
+      "tautan": "https://www.liputan6.com/bola/read/8325356/tempat-menonton-chelsea-vs-manchester-united-di-liga-inggris-20262027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T09:00:26.000Z",
+      "cuplikan": "Chelsea vs Manchester United memanaskan pekan ke-9 Liga Inggris 2026/2027.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/yXH0-N51HInnpVGazFlhxl75qDc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9330705/original/093931200_1787408486-000_C6A77LT.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "6e1923fb5008",
+      "judul": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+      "tautan": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-10-31T09:00:00.000Z",
+      "cuplikan": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
+      "gambar": "https://media.wired.com/photos/6ae4f2b6964b916949bd5905/master/pass/2026-10-16T090008Z_1895378929_RC2IYNATEQ2X_RTRMADP_3_SPACE-STAR.jpg",
+      "kategoriSumber": [
+        "Science",
+        "Science / Space"
+      ]
+    },
+    {
+      "id": "c9664b0389c6",
+      "judul": "Daftar 5 Pemain yang Bisa Dinaturalisasi Timnas Indonesia usai PSSI Dikabarkan Tak Jadikan Belanda sebagai Prioritas",
+      "tautan": "https://www.viva.co.id/bola/1940038-daftar-5-pemain-yang-bisa-dinaturalisasi-timnas-indonesia-usai-pssi-dikabarkan-tak-jadikan-belanda-sebagai-prioritas",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:57:59.000Z",
+      "cuplikan": "Belanda disebut bukan lagi prioritas naturalisasi PSSI. Lima pemain keturunan di luar Belanda berpotensi dilirik Timnas Indonesia, termasuk wonderkid Arsenal.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae5ac726cea8-demiane-agustien_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "46aed8ffa3bd",
+      "judul": "Komdigi Akan Hadirkan Internet 100 Mbps di Bawah Rp200 Ribu untuk Warga",
+      "tautan": "https://www.jawapos.com/teknologi/2610310358/komdigi-akan-hadirkan-internet-100-mbps-di-bawah-rp200-ribu-untuk-warga",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T08:57:37.000Z",
+      "cuplikan": "Kemkomdigi berupaya menghadirkan layanan internet berkecepatan tinggi dengan tarif terjangkau bagi masyarakat, termasuk adopsi 5G.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/02/04/7357c267-8092-44fb-890f-819625ffaf80-3452740471.jpeg"
+    },
+    {
+      "id": "b31b7b8596cc",
+      "judul": "Barcelona Harus Bangkit Saat Lawan Alaves",
+      "tautan": "https://www.liputan6.com/bola/read/8325636/barcelona-harus-bangkit-saat-lawan-alaves",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:55:39.000Z",
+      "cuplikan": "Barcelona mengincar kebangkitan saat menjamu Deportivo Alaves di La Liga 2026/2027",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/byjM1zoMstuMty_H8ARvNd3o-nA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350230/original/057806600_1789598453-000_C8JC4H3.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "65d186dae8c2",
+      "judul": "Wamenkomdigi:Penggunaan Agentic AI di Perbankan Bisa Picu Kekacauan Apabila Terjadi Kesalahan",
+      "tautan": "https://www.jawapos.com/teknologi/2610310351/wamenkomdigipenggunaan-agentic-ai-di-perbankan-bisa-picu-kekacauan-apabila-terjadi-kesalahan",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T08:49:33.000Z",
+      "cuplikan": "Wakil Menteri Komunikasi dan Digital, Nezar Patria, menyoroti tantangan penggunaan AI di sektor keuangan dan kesehatan.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/08/10/wamenkomdigi-nezar-patria-dok-komdigi-o19Gc.webp"
+    },
+    {
+      "id": "d62c887f5f15",
+      "judul": "Opsi Darurat di Jantung Pertahanan Barcelona",
+      "tautan": "https://www.liputan6.com/bola/read/8325631/opsi-darurat-di-jantung-pertahanan-barcelona",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:44:44.000Z",
+      "cuplikan": "Barcelona menghadapi Alaves dengan empat bek absen. Hansi Flick menyiapkan opsi darurat, termasuk Frenkie de Jong sebagai tandem Pau Cubarsi.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/nqHX6cwvWtBBqMJLfJXq_BcRzv4=/0x380:4623x2986/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382161/original/033872300_1792975721-AP26298782425248.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "8cceb30c1b75",
+      "judul": "UU PDP Dinilai Belum Cukup Lindungi Data Pribadi",
+      "tautan": "https://www.jawapos.com/teknologi/2610310340/uu-pdp-dinilai-belum-cukup-lindungi-data-pribadi",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T08:40:24.000Z",
+      "cuplikan": "UU PDP bertujuan memperkuat kedaulatan digital, namun ancaman terhadap privasi belum sepenuhnya teratasi.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/jawapos/2022/12/images-2022-12-02T122739.936.jpeg"
+    },
+    {
+      "id": "efe077cc7aeb",
+      "judul": "Mario Aji start dari posisi ke-11 Moto2 GP Malaysia",
+      "tautan": "https://www.antaranews.com/berita/5823615/mario-aji-start-dari-posisi-ke-11-moto2-gp-malaysia",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:39:04.000Z",
+      "cuplikan": "Pembalap Indonesia Mario Aji start dari posisi ke-11 pada Moto2 Grand Prix Malaysia 2026 setelah ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/11/aksi-mario-aji-di-moto2-indonesia-2026-2882424.jpg"
+    },
+    {
+      "id": "4da162ad8025",
+      "judul": "PSSI Dikabarkan Tak Lagi Prioritaskan Naturalisasi Pemain Timnas Indonesia dari Belanda, Kini Bidik 5 Negara Lain",
+      "tautan": "https://www.viva.co.id/bola/1940034-pssi-dikabarkan-tak-lagi-prioritaskan-naturalisasi-pemain-timnas-indonesia-dari-belanda-kini-bidik-5-negara-lain",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:39:03.000Z",
+      "cuplikan": "PSSI dikabarkan mengalihkan fokus naturalisasi Timnas Indonesia dari Belanda. Noor Korompot mengungkap lima negara yang disebut masuk radar pencarian pemain.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae5a83fd8204-emil-audero_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "eebc7c904c67",
+      "judul": "Alex Marquez terjatuh, Acosta menangi sprint race MotoGP Malaysia",
+      "tautan": "https://www.antaranews.com/berita/5823599/alex-marquez-terjatuh-acosta-menangi-sprint-race-motogp-malaysia",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:34:11.000Z",
+      "cuplikan": "Pembalap Red Bull KTM Pedro Acosta memenangi sprint race MotoGP Malaysia 2026 di Sirkuit Sepang, Malaysia, ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/10/1000550482.jpg"
+    },
+    {
+      "id": "71dda7c1ca1e",
+      "judul": "Persebaya Ditahan Persijap, Bernardo Tavares Minta Maaf Usai Didemo Bonek",
+      "tautan": "https://www.liputan6.com/bola/read/8325623/persebaya-ditahan-persijap-bernardo-tavares-minta-maaf-usai-didemo-bonek",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:32:05.000Z",
+      "cuplikan": "Persebaya Surabaya tertahan 1-1 oleh Persijap di GBT. Bernardo Tavares menyampaikan permohonan maaf kepada Bonek dan Bonita seusai laga.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/wbBnfHuQDFAnJtPefBTpI--Y76M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9309810/original/078110300_1785286920-taveres_2.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "16c802eea4fa",
+      "judul": "Inter Milan Dibayangi Rekor Buruk Jelang Derbi",
+      "tautan": "https://www.liputan6.com/bola/read/8325621/inter-milan-dibayangi-rekor-buruk-jelang-derbi",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:30:48.000Z",
+      "cuplikan": "Inter Milan membawa catatan buruk jelang derbi kontra AC Milan",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/EdONieG1az33ocUx9fNLqKhu9Yc=/0x0:5447x3070/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383804/original/010291700_1793099049-AP26298488083025.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "05e635aaea2b",
+      "judul": "Penindakan Konten Maksimal 4 Jam, Pengamat Soroti Ketimpangan Penanganan Judol",
+      "tautan": "https://www.jawapos.com/teknologi/2610310336/penindakan-konten-maksimal-4-jam-pengamat-soroti-ketimpangan-penanganan-judol",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T08:30:02.000Z",
+      "cuplikan": "Menteri Komunikasi dan Digital mengatur kewajiban penanganan konten disinformasi, namun judi online masih menjadi masalah.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/jawapos/2019/04/jelang-pemilu-israel-ujaran-kebencian-bermunculan-di-akun-medsos_m_.jpg"
+    },
+    {
+      "id": "9d17ae6495ea",
+      "judul": "Asisten AI Ini Bisa Bantu Pesan Tiket hingga Susun Itinerary",
+      "tautan": "https://www.liputan6.com/tekno/read/8325530/asisten-ai-ini-bisa-bantu-pesan-tiket-hingga-susun-itinerary",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T08:16:18.000Z",
+      "cuplikan": "Asisten AI dalam aplikasi ini membantu pengguna mencari inspirasi, menyusun itinerary, hingga melakukan transaksi tanpa perlu berpindah platform.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/0Qn_ZgT8Q2D7ZZ9qtOs9huw73VQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5486445/original/080264700_1769587107-ai-illustration-omar-lopez-rincon-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "ba60f87c641a",
+      "judul": "Kontrak Baru dan Gaji Besar Christian Pulisic di AC Milan",
+      "tautan": "https://www.liputan6.com/bola/read/8325610/kontrak-baru-dan-gaji-besar-christian-pulisic-di-ac-milan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:14:07.000Z",
+      "cuplikan": "Christian Pulisic resmi memperpanjang kontrak bersama AC Milan hingga 2031.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/vNhttkp8I_UWE8h7MNXyg2Iv-Sk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382123/original/035568600_1792964911-pulisic.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "93d447450747",
+      "judul": "Highlight Semifinal Liga Voli Mahasiswa 2026: STIES MIKAR Bekasi Libas Budi Luhur Jakarta 3-1, Melaju ke Final",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8325583/highlight-semifinal-liga-voli-mahasiswa-2026-sties-mikar-bekasi-libas-budi-luhur-jakarta-3-1-melaju-ke-final",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T08:03:17.000Z",
+      "cuplikan": "STIES Mitra Karya (STIES MIKAR) Bekasi sukses melaju ke final sektor putra Liga Voli Mahasiswa Seri Jakarta 2026 setelah mengalahkan Universitas Budi Luhur Jakarta dengan skor 3-1 pada babak semifinal. STIES MIKAR merebut dua set pertama…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/ZRVJqwfSTB-RL4LNPU2LCOScb5A=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9387084/original/053490100_1793431650-20261031_pa_budi-luhur-vs-sties-mikar-545ae1.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "64b565fbf988",
+      "judul": "Klasemen MotoGP 2026: Marc Marquez Jauhi Martin Meski Gagal Juara Sprint Race Malaysia",
+      "tautan": "https://www.liputan6.com/bola/read/8325599/klasemen-motogp-2026-marc-marquez-jauhi-martin-meski-gagal-juara-sprint-race-malaysia",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T07:54:05.000Z",
+      "cuplikan": "Marc Marquez kini semakin meninggalkan Jorge Martin di klasemen pembalap MotoGP 2026 usai jadi runner-up di Sprint Race MotoGP Malaysia 2026.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/kozXIdQIkdupRCxL53innRWvMmc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9386724/original/085227900_1793359347-000_D4RR39P.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "c5f57736b036",
+      "judul": "Kondisi Tangan Memburuk, Jorge Martin Resmi Mundur dari MotoGP Malaysia 2026",
+      "tautan": "https://www.viva.co.id/sport/1940027-kondisi-tangan-memburuk-jorge-martin-resmi-mundur-dari-motogp-malaysia-2026",
+      "sumber": "VIVA",
+      "kanal": "viva-sport",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T07:45:12.000Z",
+      "cuplikan": "Pembalap Aprilia Racing Jorge Martin resmi mundur dari MotoGP Malaysia 2026 di Sirkuit Sepang akibat cedera retak tangan kanan yang tak kunjung membaik.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/22/6a899cb7292c3-pembalap-aprilia-racing-asal-spanyol-jorge-martin_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "sport"
+      ]
+    },
+    {
+      "id": "3c1d79b3d57f",
+      "judul": "Cerita Mitchell Baker Perjuangkan Mimpi Bela Timnas Indonesia, Nekat Lakukan Ini hingga John Herdman Terpikat",
+      "tautan": "https://www.viva.co.id/bola/1940025-cerita-mitchell-baker-perjuangkan-mimpi-bela-timnas-indonesia-nekat-lakukan-ini-hingga-john-herdman-terpikat",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T07:39:14.000Z",
+      "cuplikan": "Mitchell Baker membeberkan kisahnya demi membela Timnas Indonesia, termasuk keberaniannya mengirim email langsung ke pelatih John Herdman pada April 2026.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/02/6abe98a922347-pelatih-timnas-indonesia-john-herdman-bersama-mitchell-baker-usai-mengalahkan-bangladesh-9-2-di-fifa-asean-cup-2026_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "c02f6fa8fdf4",
+      "judul": "Hasil MotoGP Malaysia 2026: Pedro Acosta Juara Sprint Race, Marc Marquez Kedua",
+      "tautan": "https://www.liputan6.com/bola/read/8325584/hasil-motogp-malaysia-2026-pedro-acosta-juara-sprint-race-marc-marquez-kedua",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T07:30:37.000Z",
+      "cuplikan": "Alex Marquez terjatuh sehingga Pedro Acosta yang menjadi juara di Sprint Race. Marc Marquez main aman dan mengunci posisi kedua.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/rtREkPuwHCoACAGiC75dqb3Jgqs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9387085/original/012938000_1793431757-000_D4W43RT.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "e797ba502313",
+      "judul": "Tempat Menonton Dewa United vs Persija Jakarta di BRI Super League 2026/2027",
+      "tautan": "https://www.liputan6.com/bola/read/8325349/tempat-menonton-dewa-united-vs-persija-jakarta-di-bri-super-league-20262027",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T07:29:29.000Z",
+      "cuplikan": "Dewa United vs Persija Jakarta bisa disaksikan melalui Indosiar atau Vidio.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/M-vGhW4xWY95iT2yVmaXbfHgxVM=/0x0:1638x923/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382921/original/052212300_1793027831-MACAN_MENGAMUK___________PersijaDay__BRISuperLeague__Persija.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "8f006e1b2c18",
+      "judul": "Persik waspadai kualitas pemain Persita",
+      "tautan": "https://www.antaranews.com/berita/5823503/persik-waspadai-kualitas-pemain-persita",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T07:21:23.000Z",
+      "cuplikan": "Persik Kediri mewaspadai kualitas pemain Persita Tangerang yang akan mereka hadapi pada pertandingan lanjutan kompetisi ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/1001063099.jpg"
+    },
+    {
+      "id": "64897f3153ac",
+      "judul": "Alex Marquez rebut pole position MotoGP Malaysia 2026",
+      "tautan": "https://www.antaranews.com/berita/5823479/alex-marquez-rebut-pole-position-motogp-malaysia-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-balap",
+      "lajur": "olahraga",
+      "terbit": "2026-10-31T07:06:05.000Z",
+      "cuplikan": "Pembalap BK8 Gresini Racing Alex Marquez mengunci posisi start pertama (pole position) MotoGP Malaysia ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/31/AFP_20261031_D4Z72UP_v2_MidRes_CorrectionMotoPrixMasSprint.jpg"
+    },
+    {
+      "id": "20b67a2a2381",
+      "judul": "Infinix GT 30 vs Poco X7 Pro, HP Gaming Mana yang Lebih Tahan Diajak Push Rank Berjam-jam?",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1939994-infinix-gt-30-vs-poco-x7-pro-hp-gaming-mana-yang-lebih-tahan-diajak-push-rank-berjam-jam",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-10-31T07:02:00.000Z",
+      "cuplikan": "Hp Infinix GT 30 vs POCO X7 Pro, mana lebih tahan untuk push rank berjam-jam? Simak perbandingan baterai, chipset, pendingin, layar, fitur gaming, dan harga Indonesia.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae56d6d99c89-infinix-gt-30-vs-poco-x7-pro_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
     {
       "id": "da7a069be024",
       "judul": "AFC Resmi Umumkan Ranking Terbaru: Indonesia Tembus 2 Besar Asia Zona Timur, Kangkangi Malaysia hingga Korea Selatan",
@@ -1279,6 +2499,23 @@
       "gambar": "https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg",
       "kategoriSumber": [
         "Social Media"
+      ]
+    },
+    {
+      "id": "4aba13433844",
+      "judul": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
+      "tautan": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-10-30T19:57:13.000Z",
+      "cuplikan": "Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human…",
+      "gambar": "https://i.guim.co.uk/img/media/287a932e6182e9c13725a754a783f28dac7965a5/509_0_5029_4024/master/5029.jpg?width=140&quality=85&auto=format&fit=max&s=9dcafd63ef1a53d66ee342b865c9d181",
+      "kategoriSumber": [
+        "Anthropic",
+        "AI (artificial intelligence)",
+        "Technology",
+        "US news"
       ]
     },
     {

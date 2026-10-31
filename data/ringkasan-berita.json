@@ -1,25 +1,4 @@
 {
-  "41a88b18b8f5": {
-    "teks": "Persaingan ponsel pintar kelas atas menghadirkan keunggulan berbeda antara iPhone 18 Pro dan Samsung Galaxy S26 Ultra. iPhone 18 Pro lebih ditujukan bagi pembuat konten profesional melalui fitur perekaman video tingkat lanjut dan integrasi ekosistem. Sementara itu, Galaxy S26 Ultra menawarkan fleksibilitas lewat berbagai pilihan zoom optik, kebebasan sistem Android, ketersediaan S Pen, serta layar lebih besar.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T09:38:53.882Z"
-  },
-  "2556674f9fc0": {
-    "teks": "Pelatih Persija Jakarta Shin Tae-yong meyakini anak asuhnya bisa membawa pulang kemenangan saat melakoni laga tandang melawan Persita Tangerang di BRI Super League. Pemimpin klasemen sementara tersebut datang dengan modal empat kemenangan beruntun dan kondisi seluruh pemain yang bugar tanpa cedera. Sementara itu, kubu tuan rumah menyusul di peringkat kelima setelah mengantongi dua kemenangan dan dua hasil imbang.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T09:39:08.934Z"
-  },
-  "8747a8654e4a": {
-    "teks": "Peneliti menemukan bahwa air mampu mengaktifkan permukaan mikroplastik secara kimiawi dalam kondisi lingkungan normal. Reaksi ini menghasilkan senyawa reaktif yang berpotensi merusak jaringan serta molekul penting pada makhluk hidup. Eksperimen pada sel darah merah tikus membuktikan bahwa paparan mikroplastik dapat menyebabkan sel mengalami deformasi dan pecah. Temuan tersebut membantah anggapan sebelumnya bahwa partikel plastik mikroskopis bersifat tidak aktif secara kimia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-17T09:39:24.912Z"
-  },
   "423c28d0f7cc": {
     "teks": "Pemesanan awal ponsel lipat pertama Apple, iPhone Duo, langsung habis terjual hingga jadwal pengiriman terdorong mundur ke akhir Januari. Perusahaan mengonfirmasi tingginya minat konsumen terhadap perangkat premium ini dan tetap melayani pemesanan daring. Analis menilai integrasi ke dalam ekosistem Apple serta harga yang lebih murah dari perkiraan menjadi faktor pendorong kuatnya permintaan awal tersebut.",
     "penyedia": "gemini",
@@ -1517,5 +1496,54 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-10-31T06:57:38.873Z"
+  },
+  "925ab275686d": {
+    "teks": "Perusahaan rintisan Netra Runtime memperoleh suntikan modal dari Init-6 untuk mendukung efisiensi infrastruktur pemrosesan kecerdasan buatan. Lewat dua skema layanan, yaitu Private Deployment dan Netra Cloud, inovasi ini dirancang guna mengoptimalkan kinerja GPU serta menekan biaya operasional. Ke depan, penyedia perangkat lunak ini membidik pasar enterprise di Indonesia sebelum berekspansi ke tingkat global.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T13:38:16.767Z"
+  },
+  "12cbcc7b4f77": {
+    "teks": "Google memperluas jangkauan iklan pada fitur pencarian berbasis kecerdasan buatan ke sejumlah negara sekaligus memperkenalkan format iklan multiturn di Amerika Serikat. Langkah ini dilakukan menyusul laporan Alphabet yang menunjukkan biaya operasional fitur AI masih lebih besar daripada pendapatannya. Melalui langkah tersebut, perusahaan berharap dapat meningkatkan pendapatan dan mengoptimalkan monetisasi dari fitur tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T13:38:57.786Z"
+  },
+  "154cead31466": {
+    "teks": "Apple resmi merilis pembaruan sistem operasi iOS 27.2 secara global dengan berbagai peningkatan antarmuka, privasi, dan fitur aksesibilitas. Pembaruan ini menghadirkan integrasi kecerdasan buatan Siri yang lebih kontekstual pada iMessage, opsi dua kamera di FaceTime, hingga penyegaran desain Apple Music. Meski berjalan stabil di berbagai perangkat, sejumlah fitur kecerdasan buatan tingkat lanjut baru akan meluncur pada akhir 2026.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T13:39:26.521Z"
+  },
+  "c002ed5d5740": {
+    "teks": "Pengguna disarankan tidak menggunakan pengering rambut panas, menyemprotkan udara bertekanan, atau memasukkan benda kecil ke lubang speaker ketika HP terkena air. Tindakan tersebut berisiko merusak komponen internal serta memperparah masalah suara speaker yang terganggu. Langkah pengeringan yang lebih aman adalah mengelap ponsel dengan kain lembut dan meletakkannya di tempat kering yang memiliki sirkulasi udara baik.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T13:40:15.445Z"
+  },
+  "c932a3b951b7": {
+    "teks": "Tim voli putri STIES Mitra Karya Bekasi menjuarai Liga Voli Mahasiswa Seri Jakarta 2026 setelah mengungguli Universitas Negeri Jakarta dengan skor 3-1 di partai final. Walaupun sempat tertinggal pada set awal, tim asal Bekasi ini berhasil membalikkan keadaan dengan memenangi tiga set berturut-turut. Hasil positif tersebut menjaga rekor tidak terkalahkan Mitra Karya sepanjang turnamen, yang sekaligus menjadi ajang perdana bagi skuad ini.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T13:40:37.388Z"
+  },
+  "e797ba502313": {
+    "teks": "Persija Jakarta akan bertandang ke markas Dewa United pada laga BRI Super League 2026/2027 di Banten International Stadium, Sabtu (31/10/2026). Tim tamu berambisi menjaga posisi puncak klasemen usai bangkit dan meraih kemenangan atas Arema FC serta Persik Kediri. Sementara itu, Dewa United berupaya memangkas selisih empat poin setelah hanya mengemas satu kemenangan dalam tiga pertandingan terakhir. Duel ini disiarkan langsung melalui Indosiar dan siaran streaming Vidio mulai pukul 19.00 WIB.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T13:41:11.518Z"
+  },
+  "cd476e605cfe": {
+    "teks": "Harga jajaran iPhone milik Apple mengalami kenaikan akibat tingginya biaya RAM dan komponen. Model dasar iPhone 18 Pro kini dijual seharga $1.199, naik $200 dibandingkan harga awal iPhone 11 Pro sebesar $999 pada 2019. Kenaikan harga tersebut dibarengi dengan peningkatan kapasitas penyimpanan menjadi 256 GB serta penyematan teknologi baru seperti prosesor A20 Pro dan kamera variable aperture.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-10-31T13:41:46.160Z"
   }
 }
