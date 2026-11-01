@@ -1,60 +1,4 @@
 {
-  "423c28d0f7cc": {
-    "teks": "Pemesanan awal ponsel lipat pertama Apple, iPhone Duo, langsung habis terjual hingga jadwal pengiriman terdorong mundur ke akhir Januari. Perusahaan mengonfirmasi tingginya minat konsumen terhadap perangkat premium ini dan tetap melayani pemesanan daring. Analis menilai integrasi ke dalam ekosistem Apple serta harga yang lebih murah dari perkiraan menjadi faktor pendorong kuatnya permintaan awal tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-18T05:48:50.907Z"
-  },
-  "57e0bb674726": {
-    "teks": "Pengguna dapat memindahkan data dari iPhone lama ke perangkat baru secara praktis menggunakan fitur Quick Start, cadangan iCloud, atau komputer. Sebelum transfer dimulai, pengguna perlu mencadangkan data, memperbarui sistem perangkat, serta memastikan koneksi internet dan kata sandi Akun Apple sudah siap. Pemindahan langsung lewat Quick Start mengharuskan kedua perangkat berdekatan dan terhubung ke sumber daya, sedangkan opsi iCloud dilakukan dengan memulihkan cadangan terbaru.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-18T05:49:05.811Z"
-  },
-  "4efb233f7054": {
-    "teks": "Pasangan ganda putra Indonesia Fajar Alfian dan Muhammad Shohibul Fikri berhasil menembus babak final Denmark Open 2026. Keberhasilan ini diraih usai menundukkan wakil China, Liang Wei Keng dan Wang Chang, melalui laga tiga gim di Odense. Selanjutnya, ganda unggulan ketiga tersebut bakal berhadapan dengan pasangan asal Malaysia, Aaron Chia dan Soh Wooi Yik, di partai puncak.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-18T05:49:22.000Z"
-  },
-  "c92b7dd24959": {
-    "teks": "Tim nasional futsal Indonesia mengakhiri kiprahnya di Copa das Nacoes de Futsal 2026 setelah kalah 1-2 dari Peru dalam perebutan tempat kelima. Gol tunggal dari Yogi Saputra gagal menyelamatkan Indonesia usai Peru unggul lebih dulu lewat aksi Usquiano dan Juarez. Hasil tersebut membuat tim Garuda menutup turnamen tanpa kemenangan setelah sebelumnya juga menelan kekalahan dari Brasil serta Tanjung Verde.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-18T05:49:39.039Z"
-  },
-  "5c37b2406edd": {
-    "teks": "TikTok telah melarang akun iklan untuk film dokumenter tentang Elon Musk karena alasan konten politik. Sebelumnya, promosi film garapan Alex Gibney ini juga sempat menghadapi hambatan dan penolakan dari platform media sosial lain seperti Meta dan YouTube. Film dokumenter tersebut kini mulai memperluas penayangannya di bioskop setelah sempat mengalami berbagai kendala distribusi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-18T05:50:17.134Z"
-  },
-  "090cac728b32": {
-    "teks": "Meskipun ponsel modern memungkinkan penggantian kartu SIM fisik dalam kondisi menyala, mematikan perangkat atau menggunakan mode pesawat tetap disarankan untuk mencegah gangguan sistem. Langkah ini membantu ponsel memperbarui pengaturan operator dan terhubung ke jaringan baru dengan lebih cepat. Jika slot SIM menyatu dengan microSD, kartu memori perlu dilepas secara digital terlebih dahulu agar data tidak hilang.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-18T05:50:32.777Z"
-  },
-  "ffa91a50501d": {
-    "teks": "Pengguna Nintendo Switch 2 yang mengalami kendala koneksi ke TV dapat melakukan pemecahan masalah mandiri. Langkah awal mencakup melepaskan kabel dock, menggunakan AC adapter minimal 54W, serta memakai kabel Ultra High Speed HDMI. Jika layar tetap tidak terhubung, pengguna perlu memeriksa pengaturan TV, memperbarui sistem konsol, atau menghubungi layanan pelanggan Nintendo.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-18T05:50:51.810Z"
-  },
-  "083c1a19a74d": {
-    "teks": "OpenAI tengah merancang robot humanoid yang disesuaikan dengan lingkungan manusia. Pemimpin perusahaan, Sam Altman, menegaskan bahwa fokus utama pengembangan berada pada sistem kecerdasan atau otak robotik, bukan sekadar bentuk fisiknya. Perusahaan menargetkan demonstrasi awal pada 2027 untuk membantu pekerja terampil sebelum nantinya merilis robot asisten pribadi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-18T05:51:07.145Z"
-  },
   "5bd6d7154afb": {
     "teks": "Kementerian Komunikasi dan Digital merancang regulasi pelabelan materi berbasis kecerdasan buatan guna mengikis potensi manipulasi data. Upaya ini dipicu oleh maraknya penyebaran rekayasa media terkait kebakaran hutan dan lahan yang kian mirip fakta. Wakil Menteri Angga Raka Prabowo meminta publik lebih cermat memilah informasi, seraya mencatat bahwa beberapa platform digital sudah mulai membubuhkan tanda khusus pada konten AI.",
     "penyedia": "gemini",
@@ -1545,5 +1489,54 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-10-31T13:41:46.160Z"
+  },
+  "477f2c3e4021": {
+    "teks": "Samsung memperbarui lini ponsel kelas menengah Galaxy A Series di Indonesia secara bertahap sepanjang 2025 hingga 2026. Model teranyar dibekali peningkatan performa, efisiensi daya, kamera OIS yang lebih stabil, serta ketahanan air dan debu IP68. Selain memberikan jaminan pembaruan OS Android hingga 6 tahun, rincian harga dan varian warna untuk lini ponsel ini telah dirilis per November 2026.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-01T07:27:26.337Z"
+  },
+  "9fb87d6295fc": {
+    "teks": "WhatsApp menggulirkan empat fitur baru untuk obrolan grup, seperti penyematan pesan permanen, filter sebutan dan balasan, riwayat pesan bagi anggota baru, serta status khusus grup. Pembaruan yang dirilis secara bertahap ini dirancang untuk mempermudah pengelolaan percakapan. Selain itu, platform ini sedang memperluas pengujian fitur pesan terjadwal bagi sebagian pengguna versi beta di iPhone.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-01T07:27:44.023Z"
+  },
+  "6513b15f3a42": {
+    "teks": "Peneliti dari National University of Singapore berhasil menciptakan pakaian berlayar sentuh yang terhubung ke ponsel pintar melalui Bluetooth. Busana berbahan serat digital ini memungkinkan pengguna menelusuri foto, memutar video, hingga memberikan perintah suara langsung dari lengan baju. Meskipun kemampuan visualnya masih terbatas, kemeja pintar ini tetap nyaman digunakan serta terbukti tahan hingga 50 kali pencucian.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-01T07:27:58.263Z"
+  },
+  "93335abfe580": {
+    "teks": "Laporan perusahaan Hiya kuartal I-2025 mencatat Indonesia sebagai negara dengan persentase panggilan spam tertinggi di kawasan Asia Pasifik. Sebanyak 89 persen telepon masuk dari nomor tidak dikenal di Indonesia terindikasi spam atau penipuan, dengan rata-rata 16 panggilan per orang setiap bulan. Kondisi ini makin mengkhawatirkan karena para pelaku kini mulai memanfaatkan teknologi kecerdasan buatan untuk meyakinkan korbannya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-01T07:28:12.405Z"
+  },
+  "3727eb219c8f": {
+    "teks": "Laga Liga Italia 2026/2027 akan menyajikan pertarungan antara AC Milan dan Inter Milan di San Siro pada Minggu (1/11/2026). AC Milan mengejar kemenangan demi memperbaiki posisi klasemen setelah takluk dari Bologna yang membuat mereka tertinggal tujuh poin dari puncak. Sementara itu, Inter Milan bertekad menjaga keunggulan di posisi teratas bermodalkan hasil positif usai menaklukkan Venezia. Pertemuan dua tim sekota ini dapat ditonton melalui platform Vidio.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-01T07:28:28.718Z"
+  },
+  "a8e3b1a57cd2": {
+    "teks": "Isu kecerdasan buatan dan pusat data kini menjadi topik penting yang memengaruhi pemilihan sela di berbagai wilayah. Penolakan warga terkait dampak lingkungan dan hilangnya kendali publik telah menunda proyek pembangunan infrastruktur teknologi bernilai besar. Oleh karena itu, masyarakat dan pejabat daerah menuntut transparansi serta akuntabilitas yang lebih ketat dari para pemimpin industri teknologi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-01T07:28:44.997Z"
+  },
+  "bb2770895061": {
+    "teks": "Perusahaan neocloud yang menyewakan infrastruktur data bagi pengembang kecerdasan buatan kini menghadapi ketidakpastian finansial akibat ketergantungan utang yang tinggi dan anjloknya harga saham. Para analis memprediksi banyak firma di sektor ini akan mengalami akuisisi atau penghentian operasi seiring perubahan strategi belanja raksasa teknologi. Meski demikian, tingginya permintaan atas daya komputasi masih menjaga keberlangsungan peran mereka dalam ekosistem AI.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-01T07:29:01.443Z"
   }
 }
