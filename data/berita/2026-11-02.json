@@ -1,7 +1,43 @@
 {
   "tanggal": "2026-11-02",
-  "diperbarui": "2026-11-02T07:37:01.786Z",
+  "diperbarui": "2026-11-02T08:00:17.446Z",
   "berita": [
+    {
+      "id": "2eceda6c8e26",
+      "judul": "PSMS siap hadapi Persija pada laga pembuka League Cup",
+      "tautan": "https://www.antaranews.com/berita/5826255/psms-siap-hadapi-persija-pada-laga-pembuka-league-cup",
+      "sumber": "ANTARA",
+      "kanal": "antara-liga-indonesia",
+      "lajur": "olahraga",
+      "terbit": "2026-11-02T07:50:16.000Z",
+      "cuplikan": "PSMS Medan siap tempur menghadapi Persija Jakarta pada laga pembuka League Cup di Stadion Utama Sumatera Utara ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/11/02/1000615807.jpg"
+    },
+    {
+      "id": "e7855e9ad9af",
+      "judul": "Masih Ingat Park Hang-seo? Mantan Pelatih Vietnam Itu Ribut dengan Suporter di Thailand",
+      "tautan": "https://www.viva.co.id/bola/1940410-masih-ingat-park-hang-seo-mantan-pelatih-vietnam-itu-ribut-dengan-suporter-di-thailand",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-02T07:42:37.000Z",
+      "cuplikan": "Mantan pelatih Timnas Vietnam, Park Hang Seo, terlibat ketegangan dengan suporter lawan setelah diduga menerima ejekan bernada rasial dalam pertandingan Thai League 2.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/30/6a6af71616771-eks-pelatih-vietnam-park-hang-seo_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "ff254917f921",
+      "judul": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "tautan": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "sumber": "BBC News",
+      "kanal": "bbc-tech",
+      "lajur": "global",
+      "terbit": "2026-11-02T07:42:33.000Z",
+      "cuplikan": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
+    },
     {
       "id": "4526da3d0830",
       "judul": "File Download Lama Bisa Menumpuk Bertahun-tahun, Ini Cara Membersihkannya Tanpa Menghapus Data Penting",
@@ -420,17 +456,6 @@
       "kategoriSumber": [
         "Bola"
       ]
-    },
-    {
-      "id": "ff254917f921",
-      "judul": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "tautan": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "sumber": "BBC News",
-      "kanal": "bbc-tech",
-      "lajur": "global",
-      "terbit": "2026-11-02T03:32:14.000Z",
-      "cuplikan": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "gambar": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "0298a1333880",
