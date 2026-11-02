@@ -1503,5 +1503,19 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-11-02T01:31:36.272Z"
+  },
+  "e06774b1e841": {
+    "teks": "Indodax sempat menghentikan sementara layanan deposit dan penarikan guna menginvestigasi indikasi aktivitas tidak wajar yang terdeteksi pada 29 Oktober 2026. Hasil pemeriksaan memastikan seluruh dana, aset kripto, serta data pengguna tetap aman tanpa adanya kebocoran atau transaksi ilegal. Setelah proses mitigasi dan asesmen keamanan selesai, platform tersebut mulai membuka kembali layanannya secara bertahap sejak 31 Oktober 2026.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T04:00:20.191Z"
+  },
+  "06e228096a49": {
+    "teks": "Laporan Opensignal menunjukkan persaingan layanan internet rumah di Indonesia semakin ketat dengan performa penyedia yang bervariasi berdasarkan wilayah dan kebutuhan pengguna. XL Home mendominasi kategori kecepatan unduh dan keandalan di perkotaan, sementara MyRepublic unggul dalam kecepatan unggah serta mendominasi kawasan pedesaan. Di wilayah terpencil seperti Maluku dan Papua, layanan satelit seperti Starlink menjadi alternatif penting karena keterbatasan infrastruktur jaringan darat.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T04:00:40.322Z"
   }
 }
