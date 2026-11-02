@@ -1,67 +1,4 @@
 {
-  "7c70e8194cb6": {
-    "teks": "Kementerian Komunikasi dan Digital sedang merancang regulasi pelabelan konten berbasis kecerdasan artifisial guna mempermudah masyarakat mengenali keaslian informasi serta meminimalkan risiko penipuan digital. Aturan ini akan mewajibkan pengembang AI memberikan tanda otentisitas pada produk buatan mereka. Di samping itu, pemerintah turut menyusun peta jalan nasional untuk memperkuat pengamanan dan tata kelola pemanfaatan teknologi tersebut di Indonesia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:22:28.796Z"
-  },
-  "de3b98881d5a": {
-    "teks": "Kapasitas penyimpanan ponsel 64 GB yang penuh kerap dipicu oleh penumpukan cache, data aplikasi, serta berkas unduhan. Cache menyimpan data sementara agar aplikasi memuat cepat, tetapi aman dibersihkan meski membuat aplikasi berjalan sedikit lebih lambat di awal. Sebaliknya, pengguna perlu berhati-hati saat menghapus data aplikasi karena tindakan tersebut menghapus pengaturan dan sesi masuk, sehingga mengembalikan aplikasi ke kondisi semula.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:22:44.089Z"
-  },
-  "42e1178693e6": {
-    "teks": "Merawat HP secara rutin setiap minggu dapat menjaga performa serta memperpanjang masa pakai perangkat. Pengguna disarankan memantau konsumsi daya baterai, menghindari paparan panas ekstrem, dan mengaktifkan fitur pengisian daya optimal. Selain itu, kebersihan bodi dan layar perlu dijaga menggunakan kain lembut tanpa menyemprotkan cairan secara langsung atau memakai benda tajam.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:22:58.228Z"
-  },
-  "efba473019b3": {
-    "teks": "Pemilihan antara iPhone 18 Pro dan iPhone 18 Pro Max perlu disesuaikan dengan kebutuhan serta kenyamanan harian pengguna. iPhone 18 Pro dengan layar 6,3 inci dan bobot 211 gram lebih ideal bagi mereka yang menyukai ponsel ringkas serta mudah dioperasikan satu tangan. Sementara itu, iPhone 18 Pro Max berlayar 6,9 inci menyajikan tampilan visual lebih luas untuk kegiatan seperti menonton, mengedit video, dan bermain game.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:23:11.328Z"
-  },
-  "596697de9c7c": {
-    "teks": "Pembalap Indonesia Muhammad Kiandra Ramadhipa meraih posisi kedua pada balapan kedua seri pamungkas Kejuaraan Dunia Moto3 Junior FIM 2026 di Sirkuit Misano. Hasil tersebut membaik setelah ia merosot ke peringkat sepuluh pada balapan pertama akibat mengabaikan penalti. Penampilan ini menempatkannya di peringkat kelima klasemen akhir dengan 139 poin, sekaligus membuka peluangnya berkompetisi di Moto3 mulai musim 2028.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:23:27.232Z"
-  },
-  "4181872cab9e": {
-    "teks": "Lampu indikator pada router Netgear memberikan informasi penting mengenai status daya, koneksi internet, lalu lintas Wi-Fi, hingga port perangkat. Memahami arti warna dan pola kedipan lampu membantu pengguna mengatasi masalah teknis serta memastikan jaringan bekerja dengan baik. Perangkat mesh Wi-Fi seperti Orbi juga menggunakan pendekatan serupa dengan indikator lampu yang lebih minimalis.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:23:41.112Z"
-  },
-  "add6b88a5f28": {
-    "teks": "Titik oranye pada layar Samsung Galaxy Watch berfungsi sebagai penanda pemberitahuan yang belum dibaca, sedangkan warna merah menandakan pesan mendesak. Indikator ini dapat dimatikan melalui menu pengaturan jam maupun aplikasi Wearable di ponsel yang terhubung. Demi menghemat ruang layar, jam pintar ini juga menampilkan berbagai ikon lain di bagian atas dan bawah layar untuk memberi tahu status koneksi, penguncian, pemutaran musik, serta panggilan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:23:55.700Z"
-  },
-  "e0b87c0a3c83": {
-    "teks": "Penunjuk laser berdaya tinggi dapat membutakan atau merusak kamera pengawas karena paparan cahaya dan panasnya mampu memicu piksel mati pada sensor. Namun, merusak kamera secara permanen sangat sulit dilakukan sebab memerlukan sorotan yang stabil dalam waktu lama serta kamera bertipe lama. Saat ini, kamera modern makin sulit dilumpuhkan, terlebih jika dipasang di posisi tinggi, menggunakan cakupan ganda, atau dilengkapi sistem deteksi cahaya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:24:12.064Z"
-  },
-  "eaac4411f59b": {
-    "teks": "Google kini membuka akses situs SynthID Detector bagi masyarakat umum untuk mendeteksi penanda buatan AI pada berkas gambar, video, atau audio. Alat ini bekerja dengan memindai tanda air tersembunyi dari model buatan Google maupun mitranya seperti OpenAI, NVIDIA, dan Kakao. Meski dapat menghindari salah deteksi, pemindaiannya terbatas pada model yang bermitra saja dan pengguna dibatasi sekitar sepuluh kali pemeriksaan harian.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T01:24:27.777Z"
-  },
   "f7584360cd21": {
     "teks": "Samsung mulai menyalurkan pembaruan sistem One UI 9 berbasis Android 17 ke delapan perangkat Galaxy tambahan. Sementara itu, pemesanan awal iPhone Duo sebagai ponsel lipat perdana Apple langsung habis terjual hingga jadwal pengirimannya terdorong mundur. Di sisi lain, bocoran tampilan Samsung Galaxy S27 Ultra menunjukkan perubahan pada ketebalan bingkai layar dan modul kamera belakang.",
     "penyedia": "gemini",
@@ -1531,5 +1468,40 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-11-01T14:30:57.420Z"
+  },
+  "1bac7c741069": {
+    "teks": "Samsung Galaxy A36 5G dan Redmi Note 15 Pro 5G menjadi dua opsi ponsel menarik di kisaran harga Rp5 juta. Samsung mengunggulkan layar Super AMOLED 6,7 inci, kamera berstabilisasi optik, serta dukungan pembaruan sistem keamanan jangka panjang. Sementara itu, Redmi menawarkan layar 1,5K 6,83 inci, kamera 200 MP, baterai besar, dan perlindungan air serta debu. Pembeli disarankan mengecek harga resmi terbaru sebelum menentukan pilihan sesuai kebutuhan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T01:30:40.558Z"
+  },
+  "25a84c943028": {
+    "teks": "Pembaruan sistem iOS 27 membuat sejumlah pengguna iPhone mengeluhkan penyusutan ruang penyimpanan secara signifikan hingga 15 GB. Fitur Apple Intelligence disinyalir menjadi pemicunya lantaran harus mengunduh data AI langsung ke dalam perangkat. Kapasitas memori tersebut dilaporkan tetap terpakai meski fitur telah dinonaktifkan, walaupun Apple sendiri belum memberikan konfirmasi resmi terkait lonjakan ini.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T01:30:58.230Z"
+  },
+  "1532e5c972c3": {
+    "teks": "Persib Bandung berhasil mengalahkan Isenmulang Kalteng FC dengan skor 4-0 pada pertandingan lanjutan BRI Super League 2026-2027. Laga tersebut berlangsung di Stadion Si Jalak Harupat, Kabupaten Bandung, Jawa Barat, pada Minggu (1/11/2026). Kemenangan Persib diwarnai oleh gol yang dicetak oleh Luka Menalo dan Mariano Ezequiel Peralta Bauer.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T01:31:17.066Z"
+  },
+  "b0f12a8ec785": {
+    "teks": "Hakim federal memutuskan bahwa perusahaan xAI harus menghadapi gugatan hukum yang diajukan oleh NAACP terkait operasional pusat data di Memphis, Tennessee. Gugatan tersebut menuduh xAI melanggar Undang-Undang Udara Bersih karena mengoperasikan turbin gas tanpa izin resmi. Pihak xAI sebelumnya meminta agar gugatan itu dibatalkan dengan alasan turbin mereka bersifat seluler, namun hakim menilai pembangkit listrik tersebut tidak memenuhi kriteria pengecualian izin.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T01:31:28.399Z"
+  },
+  "c9ab46b32710": {
+    "teks": "Proyek prekuel Portal buatan Valve yang sempat batal, F-Stop, kini dapat dimainkan oleh publik berkat upaya komunitas. Versi tersebut terwujud setelah data kode sumber dan aset game ini bocor serta digabungkan dari berbagai kebocoran data Steam sebelumnya. Meskipun belum rampung seutuhnya dan masih kekurangan beberapa tekstur serta dialog, game ini sudah cukup stabil untuk memperlihatkan mekanisme kamera khasnya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T01:31:36.272Z"
   }
 }
