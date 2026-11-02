@@ -1,74 +1,4 @@
 {
-  "d87fbfc57647": {
-    "teks": "Apple diperkirakan merilis deretan produk baru setiap hari Jumat selama empat pekan berturut-turut, mulai 23 Oktober hingga 13 November 2026. Rangkaian peluncuran ini mencakup iPhone Duo, HomePod mini 2, Apple HomeView, serta Apple TV 4K generasi keempat. Selain itu, sejumlah perangkat Mac dan iPad mini 8 diprediksi hadir pada awal November, meski beberapa di antaranya masih menunggu konfirmasi resmi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T08:22:07.984Z"
-  },
-  "bbfa636a6734": {
-    "teks": "Penggunaan fitur penghemat baterai secara terus-menerus pada ponsel pintar dapat memengaruhi kinerja dan kenyamanan pengguna. Mode ini membatasi performa perangkat, seperti menurunkan refresh rate layar sehingga pergerakan animasi dan gim terasa kurang mulus. Selain itu, sistem juga membatasi aktivitas aplikasi di latar belakang, termasuk sinkronisasi data dan pembaruan pesan instan. Dampak pembatasan tersebut bervariasi tergantung pada merek, sistem operasi, serta pengaturan ponsel.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T08:22:44.481Z"
-  },
-  "b1635b9ab8db": {
-    "teks": "Startup kesehatan asal India, Even Healthcare, meraih pendanaan sebesar 50 juta dolar AS yang dipimpin Khosla Ventures untuk memperluas jaringan rumah sakit miliknya. Perusahaan ini berupaya mengubah sistem medis dengan menerapkan gaji tetap bagi dokter guna mencegah tindakan yang tidak perlu. Meski masih mengalami kerugian dan sempat memangkas jumlah karyawan, Even Healthcare memilih untuk terus berinvestasi pada ekspansi dan kualitas layanan pasien.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T08:22:58.939Z"
-  },
-  "57c81b3b8db6": {
-    "teks": "Seorang penulis memutuskan menghapus Instagram setelah menyadari obsesinya mencari validasi media sosial saat berlibur di Sri Lanka. Setelah hampir satu tahun tanpa aplikasi tersebut, ia berhasil menikmati kembali kehidupan pribadinya yang lebih tenang tanpa memikirkan tanggapan orang lain. Ia kini dapat mengalihkan energinya untuk membaca dan menyelesaikan novel pertamanya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T08:23:13.695Z"
-  },
-  "294bde61e74d": {
-    "teks": "Konsol Nintendo Entertainment System yang dirilis sejak 1985 memiliki beragam gim klasik yang tetap menarik untuk dimainkan hingga tamat. Pemilihan sepuluh permainan terbaik ini berfokus pada daya tarik tantangan, eksplorasi, dan mekanisme gim, bukan sekadar nilai nostalgia. Judul populer seperti Super Mario Bros 3, Ninja Gaiden, dan The Legend of Zelda menyajikan variasi genre serta pengalaman bermain yang beragam.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T13:02:12.565Z"
-  },
-  "ac7b759b8f6f": {
-    "teks": "Ponsel pintar dapat dimanfaatkan untuk mendeteksi keberadaan kamera tersembunyi di area penginapan. Pemeriksaan dilakukan melalui pengamatan visual, pantulan cahaya senter di ruang gelap, serta pemindaian jaringan Wi-Fi maupun Bluetooth menggunakan aplikasi pendukung. Meski demikian, kemampuan ponsel memiliki keterbatasan dan tidak menjamin seluruh perangkat pengintai terdeteksi. Bila menemukan hal mencurigakan, tamu diimbau segera mendokumentasikannya dan melapor kepada pengelola penginapan atau platform pemesanan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T13:03:04.699Z"
-  },
-  "c2ced7e7825b": {
-    "teks": "Pengembang AI Anthropic berencana mengalokasikan lima persen sahamnya ke dana kebaikan publik menjelang pencatatan di bursa saham. Langkah ini bertujuan meredam kekhawatiran masyarakat atas dampak kecerdasan buatan terhadap ketidakstabilan tenaga kerja dan lingkungan. Melalui dana tersebut, pembuat chatbot Claude ini akan menyalurkan donasi nirlaba atau bantuan langsung kepada publik, dengan porsi saham yang bertambah seiring peningkatan nilai perusahaan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T13:03:21.132Z"
-  },
-  "a1f535f5e972": {
-    "teks": "Wyze meluncurkan timbangan pintar Ultra BodyScan Plus seharga 149 dolar AS dengan layar yang kini dipindahkan ke bagian pegangan tarik. Perangkat ini mampu mengukur lebih dari 50 metrik kesehatan tubuh tanpa memungut biaya berlangganan. Selain itu, timbangan tersebut dapat menyimpan data hingga delapan pengguna dan menyinkronkan informasi ke berbagai aplikasi kesehatan melalui Wi-Fi atau Bluetooth.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T13:03:38.646Z"
-  },
-  "7492bc28d547": {
-    "teks": "Pengadilan Tinggi membatalkan gugatan senilai sekitar 340 juta poundsterling terhadap Uber yang diajukan ribuan pengemudi taksi hitam London dan dua mantan perusahaan sewa. Kasus ini ditolak karena diajukan melampaui batas waktu enam tahun, tanpa mempertimbangkan tuduhan bahwa Uber menyesatkan otoritas saat meraih izin operasi pada 2012. Uber menyambut senang keputusan tersebut, sementara perwakilan penggugat mengaku sangat kecewa dan sedang mempertimbangkan langkah hukum selanjutnya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T13:04:06.457Z"
-  },
-  "737ede9d9eb9": {
-    "teks": "Apple memperketat pedoman pengembang dengan melarang aplikasi berbasis kecerdasan buatan yang membuat konten ofensif serta aplikasi yang menyembunyikan fitur nudification saat peninjauan. Aturan baru ini mewajibkan pengembang menyaring materi berbahaya, menyediakan fitur pelaporan, dan melarang keras praktik manipulasi fungsi aplikasi. Selain itu, Apple menegaskan kembali larangan terhadap aplikasi yang mempromosikan perdagangan manusia serta eksploitasi anak.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T13:04:23.664Z"
-  },
   "1b18f9d69b31": {
     "teks": "Kementerian Komunikasi dan Digital resmi membuka Bali Tech Week 2026 di Sanur guna memperkuat kolaborasi, investasi, serta pemanfaatan ekonomi digital bagi masyarakat. Menteri Komunikasi dan Digital menyampaikan bahwa pencapaian skala pasar digital nasional perlu diarahkan pada peningkatan produktivitas melalui tiga pilar transformasi, yaitu terhubung, tumbuh, dan terjaga. Fokus tersebut mencakup perluasan konektivitas yang merata, pengembangan ekosistem digital dan talenta, serta pelindungan keamanan data dan masyarakat secara konsisten.",
     "penyedia": "gemini",
@@ -1510,5 +1440,61 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-11-02T08:00:32.357Z"
+  },
+  "16a2f7f16e22": {
+    "teks": "Perusahaan robotika AiMOGA mendulang sekitar 10 ribu calon konsumen global untuk robot humanoid Mobo saat acara peluncurannya di Wuhu, Tiongkok. Dalam ajang tersebut, produsen ini juga memperagakan kebolehan Mobo serta memperkenalkan berbagai tipe robot pendukung layanan publik. Guna memperkuat rantai produksi dan ekspansi internasional, AiMOGA bersinergi dengan manufaktur Chery serta menargetkan pembangunan 300 pusat pengalaman global.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T17:26:59.848Z"
+  },
+  "a9af539ebe34": {
+    "teks": "Pengguna baru GoPay Games dapat memperoleh promo cashback Rp20.000 dalam pembelian Roblox Gift Card hingga 31 Desember 2026. Penawaran ini berlaku satu kali dengan syarat transaksi minimal Rp40.000 menggunakan opsi pembayaran GoPay yang sesuai. Pembeli wajib menekan tombol promo saat transaksi sebelum menukarkan kode hadiah di situs resmi Roblox.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T17:27:18.068Z"
+  },
+  "c93cfb971d7a": {
+    "teks": "Adopsi transaksi digital secara global mengalami peningkatan signifikan, khususnya di kalangan anak muda yang terbiasa menggunakan aplikasi pada ponsel pintar. Kepraktisan layanan keuangan ini memudahkan aktivitas harian, tetapi berpotensi memicu perilaku konsumtif. Oleh karena itu, pemahaman literasi keuangan digital penting dimiliki agar generasi muda dapat mewaspadai risiko penipuan, menjaga keamanan data, dan mengelola keuangan dengan bijak.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T17:27:34.665Z"
+  },
+  "4d905d92d62e": {
+    "teks": "Pembalap Mercedes, Andrea Kimi Antonelli, mengunci gelar juara dunia Formula 1 2026 setelah finis di posisi ketiga pada seri GP Meksiko. Hasil tersebut membuat raihan 380 poin miliknya tidak lagi terkejar oleh pesaing lain walau musim balap masih menyisakan empat putaran. Pencapaian ini sekaligus menobatkan Antonelli sebagai juara dunia F1 termuda sepanjang sejarah serta pembalap asal Italia ketiga yang meraih predikat tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T17:27:55.804Z"
+  },
+  "909cb1cec82b": {
+    "teks": "SpaceX dilaporkan berdiskusi untuk mengakuisisi atau mengakses jaringan Boost Mobile demi mengembangkan Starlink menjadi operator seluler utama. Namun, SpaceX kemungkinan memerlukan izin dari T-Mobile dan AT&T yang saat ini menyokong jaringan Boost Mobile. Rencana ini memperkuat upaya SpaceX menggabungkan konstelasi satelit dengan jaringan darat, setelah sebelumnya membeli lisensi spektrum serta menjajaki akses ke setidaknya 80.000 menara seluler di AS.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T17:28:10.629Z"
+  },
+  "2507b5d5eb00": {
+    "teks": "Google mengintegrasikan AI Gemini ke dalam Gmail dan Workspace untuk memproses tugas otomatis seperti merangkum surel. Google mengklaim tidak melatih model AI dasarnya dari surel pribadi pengguna, tetapi pemrosesan data tetap berjalan saat fitur tersebut aktif. Pengguna yang khawatir mengenai privasi dapat mematikan fitur pintar melalui pengaturan, walaupun tindakan ini turut mematikan fungsi pemeriksa ejaan dan tata bahasa.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T17:28:37.091Z"
+  },
+  "9233f8bfd339": {
+    "teks": "Peluncuran robot rumah pintar Apple dilaporkan tertunda hingga paling cepat tahun depan atau 2028 karena pengembangan perangkat lunak belum siap. Perangkat berkode J595 ini dirancang memiliki layar 9 inci pada lengan robotik untuk mempermudah panggilan FaceTime dan otomatisasi tugas rumah tangga. Robot yang diperkirakan akan dinamai HomeView Ultra tersebut kemungkinan dipasarkan seharga sekitar 1.000 dolar AS atau lebih.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T17:29:18.232Z"
+  },
+  "d96c5fa569c1": {
+    "teks": "Kelompok aktivis internasional bernama Capytistas berencana memublikasikan ratusan alamat rumah dan ribuan catatan pribadi milik para miliarder, termasuk Elon Musk. Mereka mengumpulkan data tersebut melalui penelusuran dokumen properti dan pengadilan guna menentang konsentrasi kekuasaan politik serta kekayaan ekstrem. Strategi penyebaran data pribadi ini dilakukan untuk mengikis privasi para elite sekaligus memicu aksi protes publik di kediaman mereka.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T17:29:47.363Z"
   }
 }

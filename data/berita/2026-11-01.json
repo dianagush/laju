@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-11-01",
-  "diperbarui": "2026-11-02T08:00:17.446Z",
+  "diperbarui": "2026-11-02T17:26:36.440Z",
   "berita": [
     {
       "id": "9dedd866f1cf",
@@ -894,10 +894,12 @@
       "kanal": "wired",
       "lajur": "global",
       "terbit": "2026-11-01T12:00:00.000Z",
-      "cuplikan": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+      "cuplikan": "The Chromagraph Camera app costs $13 and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
       "gambar": "https://media.wired.com/photos/6ae4d8cd63df19eea97af1ce/master/pass/GettyImages-2247231598.jpg",
       "kategoriSumber": [
-        "Gear / Gear News and Events"
+        "Gear",
+        "Gear / Gear News and Events",
+        "Gear / Products / Apps"
       ]
     },
     {
