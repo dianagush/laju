@@ -1,46 +1,4 @@
 {
-  "f7584360cd21": {
-    "teks": "Samsung mulai menyalurkan pembaruan sistem One UI 9 berbasis Android 17 ke delapan perangkat Galaxy tambahan. Sementara itu, pemesanan awal iPhone Duo sebagai ponsel lipat perdana Apple langsung habis terjual hingga jadwal pengirimannya terdorong mundur. Di sisi lain, bocoran tampilan Samsung Galaxy S27 Ultra menunjukkan perubahan pada ketebalan bingkai layar dan modul kamera belakang.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T04:21:53.937Z"
-  },
-  "5d7e47a8e53c": {
-    "teks": "Sebuah aplikasi WhatsApp tiruan di Google Play Store buatan pengembang Agment Assets sallu tercatat telah diunduh lebih dari 500 ribu kali. Penipuan ini menyusup melalui pencarian bersponsor dan menggunakan fitur Early Access untuk mematikan ulasan publik. Google dilaporkan belum menarik aplikasi palsu yang telah beredar lebih dari sebulan tersebut, sehingga pengguna Android diimbau makin berhati-hati.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T04:22:09.628Z"
-  },
-  "cf7b65a6f70c": {
-    "teks": "OpenAI memperbarui ekstensi ChatGPT untuk Chrome agar dapat mengakses tab peramban yang sedang aktif guna membantu menyelesaikan berbagai tugas. Pembaruan ini memungkinkan chatbot membandingkan produk, mengisi formulir, hingga mengatur jadwal tanpa pengguna perlu berpindah aplikasi. Fitur yang juga mendukung peramban berbasis Chromium ini kini dapat diakses oleh seluruh pengguna secara gratis maupun berbayar.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T04:22:18.320Z"
-  },
-  "cb30aab5899b": {
-    "teks": "OpenAI berencana mendemonstrasikan robot humanoid pada tahun 2027 dan kini gencar merekrut tenaga ahli untuk mengembangkan kecerdasan serta perangkat kerasnya. CEO Sam Altman menyatakan bahwa tantangan terbesar adalah menciptakan sistem mandiri, bukan sekadar bentuk fisiknya. Perusahaan ini menargetkan robot serbaguna untuk membantu pekerja terampil dalam jangka pendek serta menjadi robot pribadi di masa depan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T04:22:26.896Z"
-  },
-  "bec807856c71": {
-    "teks": "Perusahaan kecerdasan buatan Anthropic berencana mendedikasikan sebagian sahamnya untuk membentuk dana kebantuan publik di tengah persiapan penawaran umum perdana saham. Dana tersebut diproyeksikan untuk membantu organisasi nirlaba serta mengatasi dampak teknologi kecerdasan buatan terhadap pasar tenaga kerja. Kebijakan ini muncul di tengah sorotan ketat terkait potensi risiko teknologi tersebut terhadap keselamatan dan masyarakat.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T04:22:34.808Z"
-  },
-  "bed335628600": {
-    "teks": "Pertumbuhan ekonomi China meningkat pada kuartal ketiga berkat lonjakan ekspor yang didorong oleh sektor kecerdasan buatan, yang berhasil mengimbangi lemahnya tingkat konsumsi domestik. Kendati demikian, perekonomian negara tersebut masih terbebani oleh kemerosotan sektor properti yang berlanjut serta ketegangan perdagangan global. Pemerintah China sebelumnya juga telah meluncurkan berbagai langkah dukungan untuk mendongkrak perekonomian di tengah tantangan yang ada.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-19T04:22:42.679Z"
-  },
   "d87fbfc57647": {
     "teks": "Apple diperkirakan merilis deretan produk baru setiap hari Jumat selama empat pekan berturut-turut, mulai 23 Oktober hingga 13 November 2026. Rangkaian peluncuran ini mencakup iPhone Duo, HomePod mini 2, Apple HomeView, serta Apple TV 4K generasi keempat. Selain itu, sejumlah perangkat Mac dan iPad mini 8 diprediksi hadir pada awal November, meski beberapa di antaranya masih menunggu konfirmasi resmi.",
     "penyedia": "gemini",
@@ -1517,5 +1475,33 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-11-02T04:00:40.322Z"
+  },
+  "4526da3d0830": {
+    "teks": "Penumpukan berkas tak terpakai di folder Download sering kali membuat kapasitas penyimpanan ponsel cepat penuh. Pengguna Android disarankan membersihkannya menggunakan aplikasi pengelola berkas dengan mengurutkan dokumen sesuai ukuran, nama, atau tanggal. Memeriksa format dan memprioritaskan penghapusan berkas besar seperti video atau arsip ZIP efektif menambah ruang memori tanpa kehilangan data penting.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T07:37:18.863Z"
+  },
+  "9de5779945bc": {
+    "teks": "Meta bekerja sama dengan perusahaan robotika Fourier dalam merancang robot humanoid pembantu aktivitas rumah tangga bernama Max. Menggunakan komputasi NVIDIA Jetson Thor, versi awal robot ini dilengkapi layar ekspresi wajah dan tangan khusus pemegang benda kecil. Pengembangan generasi berikutnya, Max 2, turut disiapkan dengan fitur tambahan seperti proyektor dan sensor pendeteksi tangga. Namun, tanggal peluncuran komersial maupun harga robot tersebut belum diumumkan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T07:37:35.663Z"
+  },
+  "5c86be980bc7": {
+    "teks": "Wakil Menteri Komunikasi dan Digital Nezar Patria menyatakan bahwa Indonesia tidak perlu berambisi mengembangkan model kecerdasan buatan atau AI tercanggih di dunia. Sebagai gantinya, Indonesia dapat mengambil peran global dengan mengoptimalkan penerapan AI yang sudah ada untuk meningkatkan pelayanan pemerintah dan produktivitas ekonomi. Agar tidak sekadar menjadi konsumen, Indonesia perlu memperkuat daya tawar, membangun infrastruktur dalam negeri, serta memaksimalkan potensi mineral kritis dan pasar domestik.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T07:37:43.912Z"
+  },
+  "43a73db34b49": {
+    "teks": "Tim Yamaha memutuskan untuk tidak ikut ambil bagian dalam seri balap MotoGP Qatar yang dijadwalkan pada November mendatang di Sirkuit Lusail. Keputusan pembatalan tersebut diambil karena masalah keamanan akibat eskalasi konflik di Timur Tengah. Langkah ini membuat tim utama dan tim satelit Yamaha, beserta keempat pembalap mereka, dipastikan absen pada seri kedua puluh tersebut.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-02T07:37:52.873Z"
   }
 }
