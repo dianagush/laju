@@ -1,7 +1,89 @@
 {
   "tanggal": "2026-11-03",
-  "diperbarui": "2026-11-03T07:50:10.245Z",
+  "diperbarui": "2026-11-03T08:20:19.851Z",
   "berita": [
+    {
+      "id": "5d7e006ff9ec",
+      "judul": "EssilorLuxottica dan Meta Bawa Kacamata AI ke Pasar Indonesia",
+      "tautan": "https://ameera.republika.co.id/berita/tnx2z6328/essilorluxottica-dan-meta-bawa-kacamata-ai-ke-pasar-indonesia",
+      "sumber": "Republika",
+      "kanal": "republika-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-03T08:16:18.000Z",
+      "cuplikan": "EssilorLuxottica S.A. bersama Meta Platforms meluncurkan kacamata berbasis teknologi Artificial Inteligence (AI) di Indonesia melalui peluncuran Ray-Ban Meta dan Oakley Meta. Kedua jenama ini hadir resmi di...",
+      "gambar": "https://static.republika.co.id/uploads/images/detailnews/essilorluxottica-bersama-meta-memperkuat-kemitraan-strategis-dengan-memperkenalkan-ray-ban_261103151606-455.jpeg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "851e19cb8e5f",
+      "judul": "TikTok bakal Jadi Super App, Bisa Apa Saja?",
+      "tautan": "https://www.liputan6.com/tekno/read/8326911/tiktok-bakal-jadi-super-app-bisa-apa-saja",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-03T08:13:37.000Z",
+      "cuplikan": "TikTok akan bertransformasi menjadi Super App, memungkinkan pengguna melakukan banyak hal selain unggah video dan belanja.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Xv8tT2EAsV8ukzpeHQPpCNXTenw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4359787/original/028392900_1678902457-mariia-shalabaieva-5NZJLNuBYyA-unsplash.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "30f668a27daa",
+      "judul": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "tautan": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-11-03T08:01:00.000Z",
+      "cuplikan": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "gambar": "",
+      "kategoriSumber": [
+        "Venture",
+        "UK"
+      ]
+    },
+    {
+      "id": "55f146168197",
+      "judul": "Persib Bisa Cetak Sejarah di Australia, Satu Poin Lagi untuk Amankan Tiket 16 Besar ACL 2",
+      "tautan": "https://www.viva.co.id/bola/1940672-persib-bisa-cetak-sejarah-di-australia-satu-poin-lagi-untuk-amankan-tiket-16-besar-acl-2",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-03T07:58:00.000Z",
+      "cuplikan": "Persib Bandung berpeluang mengunci tiket ke babak 16 besar AFC Champions League Two (ACL 2) 2026/2027 saat bertandang ke markas Melbourne Victory. Maung Bandung hanya mem",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/03/6ae978e425ea0-persib-bandung_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "d275b64a81bf",
+      "judul": "Piala Asia 2027 Resmi Diundur, Ini Keuntungan dan Tantangan bagi Timnas Indonesia",
+      "tautan": "https://www.viva.co.id/bola/1940680-piala-asia-2027-resmi-diundur-ini-keuntungan-dan-tantangan-bagi-timnas-indonesia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-03T07:52:00.000Z",
+      "cuplikan": "Penundaan Piala Asia 2027 di Arab Saudi membawa dampak langsung bagi persiapan Timnas Indonesia. Keputusan Konfederasi Sepak Bola Asia (AFC) menggeser jadwal turnamen dar",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/21/6ad85b7b2785c-timnas-indonesia_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "3ce20302128e",
+      "judul": "Cabang olahraga Dayung tidak dilombakan dalam SEA Games 2027 Malaysia",
+      "tautan": "https://www.antaranews.com/berita/5828727/cabang-olahraga-dayung-tidak-dilombakan-dalam-sea-games-2027-malaysia",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-11-03T07:49:28.000Z",
+      "cuplikan": "Pengurus Besar Persatuan Olahraga Dayung Seluruh Indonesia (PB PODSI) mengumumkan cabang olahraga dayung tidak akan ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/09/24/Tim-dayung-double-scull-putra-Indonesia-gagal-raih-medali-240926-fzn-4.jpg"
+    },
     {
       "id": "ccf5830a02d4",
       "judul": "Daftar pemain asing klub Super League di I.League Cup 2026/2027",
@@ -1501,6 +1583,22 @@
         "Venture",
         "fine-tuning",
         "Sequoia"
+      ]
+    },
+    {
+      "id": "5fde059d3dcb",
+      "judul": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
+      "tautan": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+      "sumber": "The Guardian",
+      "kanal": "guardian-tech",
+      "lajur": "global",
+      "terbit": "2026-11-02T23:07:49.000Z",
+      "cuplikan": "Result for the company, which earned $30.71bn and exceeded analysts’ expectations, bucked downward trend for tech firms Apple Inc posted stronger-than-expected revenue in the fiscal third quarter, giving John Ternus, the new CEO, an upbeat…",
+      "gambar": "https://i.guim.co.uk/img/media/239025535869a7cdf1697204f229df889ccc49d5/369_0_3690_2952/master/3690.jpg?width=140&quality=85&auto=format&fit=max&s=1bcbf16e99e63941661ddae02eaae046",
+      "kategoriSumber": [
+        "Apple",
+        "Quarterly results",
+        "Technology"
       ]
     },
     {

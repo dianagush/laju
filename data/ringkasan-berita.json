@@ -1,46 +1,4 @@
 {
-  "3c2efdf74a3a": {
-    "teks": "Ponsel Android dan iPhone tetap dapat digunakan meskipun tombol daya fisiknya rusak. Pengguna Android bisa mengaktifkan Accessibility Menu pada pengaturan aksesibilitas untuk menjalankan beragam fungsi tombol secara virtual di layar. Sementara itu, pengguna iPhone dapat memanfaatkan fitur AssistiveTouch untuk menghadirkan pintasan tombol melayang yang menggantikan peran komponen fisik tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T08:12:02.630Z"
-  },
-  "4ef765712d6b": {
-    "teks": "Kementerian Komunikasi dan Digital menetapkan tarif spektrum frekuensi yang terjangkau demi mendorong operator memperluas infrastruktur jaringan 5G di Indonesia. Kebijakan tersebut bertujuan memberi ruang investasi yang memadai bagi industri sekaligus menjaga keberlanjutan usahanya. Langkah ini diharapkan mampu mempercepat pemerataan akses konektivitas digital dengan tetap menyeimbangkan kepentingan publik dan finansial operator.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T08:12:17.218Z"
-  },
-  "adc9614cf24a": {
-    "teks": "Pemerintah Amerika Serikat menghentikan penggunaan teknologi kecerdasan buatan asal Tiongkok, DeepSeek, di seluruh instansi sipil federal. Departemen Keamanan Dalam Negeri memerintahkan penghapusan sistem tersebut sejalan dengan langkah Gedung Putih memperketat persaingan teknologi demi keamanan nasional. Pemblokiran ini berlangsung di tengah pesatnya popularitas DeepSeek karena efisiensi biayanya, serta adanya tuduhan peniruan model milik pengembang Amerika Serikat.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T08:13:09.749Z"
-  },
-  "90844118f4d9": {
-    "teks": "Gelandang sekaligus kapten Persib Bandung, Marc Klok, berkeinginan menyelesaikan kariernya di klub tersebut seiring kontraknya yang akan usai pada akhir musim 2026/2027. Meski tim pelatih masih membutuhkan tenaganya, ia kini menantikan kepastian negosiasi perpanjangan kontrak dari manajemen Persib. Selain Klok, terdapat sepuluh pemain utama Maung Bandung lainnya yang masa baktinya juga bakal berakhir pada pertengahan tahun 2027.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T08:14:04.120Z"
-  },
-  "582e7d53b6ba": {
-    "teks": "Jepang meluncurkan misi MMX menggunakan roket H3 menuju Phobos, bulan terbesar milik Mars. Proyek internasional ini bertujuan mengambil sampel material dan membawanya kembali ke Bumi pada 2031. Hasil analisis sampel tersebut diharapkan dapat mengungkap asal-usul Phobos serta memberi wawasan baru mengenai pembentukan Tata Surya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T08:14:21.817Z"
-  },
-  "ca656d75d619": {
-    "teks": "Perusahaan keamanan siber asal Estonia, Blackwall, berhasil meraih pendanaan senilai 100 juta dolar AS hingga valuasinya melonjak menjadi 2,2 miliar dolar AS. Alat keamanan yang dikembangkannya membantu penyedia layanan hosting dan cloud menangani lonjakan lalu lintas bot berbahaya serta AI agent. Mengusung skema kemitraan, penyedia layanan dapat mematok harga dan merek sendiri untuk ditawarkan kepada pelanggan. Dana tersebut akan digunakan untuk ekspansi operasional global dan mengembangkan alat keamanan baru.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T08:14:39.235Z"
-  },
   "b14ae9ce3e30": {
     "teks": "Paparan sinar laser berdaya tinggi di acara musik atau klub malam dapat merusak sensor kamera ponsel. Sorotan langsung ke lensa berisiko memicu gangguan visual hingga kerusakan permanen pada kamera iPhone maupun Android. Mengingat penyelenggara tidak selalu mematuhi regulasi keselamatan, pengguna diimbau lebih berhati-hati agar ponsel tidak terkena sorotan laser.",
     "penyedia": "gemini",
@@ -1482,5 +1440,26 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-11-03T07:50:57.498Z"
+  },
+  "5d7e006ff9ec": {
+    "teks": "EssilorLuxottica dan Meta resmi memboyong lini kacamata pintar berteknologi AI, yaitu Ray-Ban Meta dan Oakley Meta, ke pasar Indonesia mulai 11 November 2026. Perangkat ini menawarkan kemudahan hands-free untuk berbagai aktivitas harian seperti memutar musik hingga mengabadikan momen lewat kamera 12 MP. Hadir dalam beberapa tipe, koleksi kacamata tersebut dijual dengan kisaran harga Rp8,999 juta hingga Rp10,999 juta.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T08:20:41.101Z"
+  },
+  "851e19cb8e5f": {
+    "teks": "TikTok bertransformasi menjadi super app dengan menghadirkan berbagai layanan baru di luar fungsi media sosial. Platform tersebut kini melengkapi fiturnya melalui panduan restoran, pemesanan perjalanan, transaksi keuangan, hub olahraga, serta hiburan interaktif dan musik. Langkah integrasi ini dilakukan untuk membangun ekosistem digital mandiri sekaligus menantang dominasi perusahaan teknologi raksasa dunia.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T08:21:00.726Z"
+  },
+  "30f668a27daa": {
+    "teks": "Mantan investor modal ventura Yvonne Bajela meluncurkan dana investasi pertamanya bernama Evertrue dengan perolehan modal sebesar 17 juta dolar AS. Perusahaan baru ini berfokus menyalurkan investasi tahap awal bagi startup sektor AI dan fintech di Inggris serta Eropa. Evertrue menargetkan pendanaan untuk setidaknya 20 perusahaan dalam tiga tahun mendatang dengan dukungan dari beberapa investor institusional.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T08:21:16.857Z"
   }
 }
