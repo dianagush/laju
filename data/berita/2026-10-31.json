@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-10-31",
-  "diperbarui": "2026-11-03T08:20:19.851Z",
+  "diperbarui": "2026-11-03T16:07:41.827Z",
   "berita": [
     {
       "id": "adcd7871fac6",
@@ -908,7 +908,7 @@
       "kanal": "wired",
       "lajur": "global",
       "terbit": "2026-10-31T12:00:00.000Z",
-      "cuplikan": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "cuplikan": "Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
       "gambar": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
       "kategoriSumber": [
         "Security",
