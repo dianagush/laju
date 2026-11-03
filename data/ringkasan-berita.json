@@ -1,39 +1,4 @@
 {
-  "723b96c58238": {
-    "teks": "SSD portabel Samsung P7 berteknologi USB4 dijadwalkan meluncur di Indonesia pada awal November 2026 dengan kisaran harga Rp5.991.000 hingga Rp49.785.000. Perangkat penyimpanan ini menawarkan kecepatan baca hingga 4.000 MB/s serta ketahanan terhadap guncangan dan benturan. SSD yang kompatibel dengan berbagai perangkat elektronik ini dirancang untuk mendukung kebutuhan transfer data berkapasitas besar, seperti pemrosesan konten berbasis AI dan gim berspesifikasi tinggi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T04:12:55.559Z"
-  },
-  "32bb22db31b7": {
-    "teks": "Pemerintah mematok target kecepatan internet hingga 100 Mbps pada 2029 yang disertai pemerataan jangkauan layanan di seluruh wilayah. Guna mewujudkan hal tersebut, Kementerian Komunikasi dan Digital menyiapkan sejumlah strategi, mulai dari pemanfaatan teknologi baru hingga sinergi dengan sektor kelistrikan untuk menjangkau daerah pelosok. Pencapaian target konektivitas ini juga memerlukan kerja sama yang kuat antara pihak pemerintah dan industri telekomunikasi nasional.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T04:13:04.077Z"
-  },
-  "18a3d95d886d": {
-    "teks": "Pemesanan awal ponsel lipat pertama Apple, iPhone Duo, langsung ludes terjual dan memicu lonjakan estimasi pengiriman hingga awal tahun depan. Kendati demikian, sejumlah konsumen di Jepang dan Amerika Serikat melaporkan bahwa jadwal pengiriman perangkat tersebut mendadak dimajukan lebih awal oleh sistem. Hingga kini, pihak produsen belum memberikan keterangan resmi mengenai perubahan jadwal pengiriman yang dialami para pemesan secara daring tersebut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T04:13:14.401Z"
-  },
-  "ad17c7d67642": {
-    "teks": "Kiper Timnas Indonesia, Emil Audero, tampil penuh saat memperkuat Rayo Vallecano menghadapi Getafe dalam lanjutan Liga Spanyol yang berakhir imbang 1-1. Walau sempat kebobolan satu gol, performa kiper berusia 29 tahun itu dinilai positif dan masuk dalam tiga besar pemain dengan rating tertinggi di skuadnya berdasarkan data platform statistik. Sejak bergabung lewat skema peminjaman pada awal musim, Audero terus berupaya mempertahankan posisinya sebagai penjaga gawang utama.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T04:13:22.325Z"
-  },
-  "d71bd3427ddc": {
-    "teks": "Baseus meluncurkan kamera keamanan luar ruangan baru yang dilengkapi lampu sorot bermotor untuk mengikuti target bergerak dan meningkatkan kualitas rekaman malam hari. Perangkat ini memadukan kamera tetap dan kamera yang dapat berputar 360 derajat untuk memantau area secara menyeluruh. Kamera pintar tersebut juga menggunakan analisis berbasis kecerdasan buatan guna mengirimkan pemberitahuan gerakan secara spesifik.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T04:13:30.885Z"
-  },
   "3c2efdf74a3a": {
     "teks": "Ponsel Android dan iPhone tetap dapat digunakan meskipun tombol daya fisiknya rusak. Pengguna Android bisa mengaktifkan Accessibility Menu pada pengaturan aksesibilitas untuk menjalankan beragam fungsi tombol secara virtual di layar. Sementara itu, pengguna iPhone dapat memanfaatkan fitur AssistiveTouch untuk menghadirkan pintasan tombol melayang yang menggantikan peran komponen fisik tersebut.",
     "penyedia": "gemini",
@@ -1475,5 +1440,26 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-11-03T01:21:55.305Z"
+  },
+  "116442e8bedc": {
+    "teks": "Indikator titik hijau dan biru pada layar ponsel Samsung hadir sebagai fitur privasi yang menandai aktifnya kamera maupun mikrofon. Selain itu, Meta tengah merancang robot humanoid bernama Max guna membantu menyelesaikan berbagai pekerjaan rumah tangga. Sementara pada lini ponsel terbaru Apple, keunggulan performa iPhone 18 Pro dan Pro Max berada pada tingkat seimbang, sehingga keputusan pembeli kini lebih bergantung pada preferensi ukuran layar serta daya tahan baterai.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T04:20:42.870Z"
+  },
+  "99e389ee4799": {
+    "teks": "Samsung dikabarkan akan menerapkan kembali teknologi kamera bawah layar pada Galaxy Z Fold9 untuk menyaingi iPhone Duo. Fitur yang sempat diganti dengan kamera berlubang pada generasi terdahulu ini diperkirakan hadir bersama pembaruan komponen internal. Meskipun bocoran mengenai target ketebalan perangkat juga beredar, seluruh informasi tersebut masih berupa rumor karena belum ada konfirmasi resmi dari Samsung.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T04:20:58.806Z"
+  },
+  "2eceda6c8e26": {
+    "teks": "PSMS Medan menyatakan kesiapannya untuk melakoni laga pembuka League Cup melawan Persija Jakarta di Stadion Utama Sumatera Utara. Pelatih Eko Purdjianto bakal memaksimalkan rotasi pemain guna menyiasati padatnya jadwal bertanding, dengan kekuatan tambahan dari penyerang Javier Siverio Toro. Selain itu, pemain Rangga Muslim menegaskan seluruh anggota tim bertekad meraih hasil terbaik saat bertanding di hadapan pendukung sendiri.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T04:21:15.430Z"
   }
 }
