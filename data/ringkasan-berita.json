@@ -1,53 +1,4 @@
 {
-  "1b18f9d69b31": {
-    "teks": "Kementerian Komunikasi dan Digital resmi membuka Bali Tech Week 2026 di Sanur guna memperkuat kolaborasi, investasi, serta pemanfaatan ekonomi digital bagi masyarakat. Menteri Komunikasi dan Digital menyampaikan bahwa pencapaian skala pasar digital nasional perlu diarahkan pada peningkatan produktivitas melalui tiga pilar transformasi, yaitu terhubung, tumbuh, dan terjaga. Fokus tersebut mencakup perluasan konektivitas yang merata, pengembangan ekosistem digital dan talenta, serta pelindungan keamanan data dan masyarakat secara konsisten.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T01:12:54.938Z"
-  },
-  "5fff6c0ceac5": {
-    "teks": "Keberhasilan transformasi digital nasional tidak hanya bergantung pada luasnya konektivitas, melainkan juga pada kemampuan menghadirkan lingkungan digital yang aman untuk membangun kepercayaan publik. Kementerian Komunikasi dan Digital menerapkan prinsip Terhubung, Tumbuh, dan Terjaga guna memastikan pertumbuhan ekonomi sejalan dengan perlindungan masyarakat dari berbagai risiko. Pemerintah juga mengeluarkan regulasi pelindungan anak yang membatasi akses akun pada platform berisiko tinggi guna mendorong penyedia layanan meningkatkan standar keamanan mereka.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T01:13:03.226Z"
-  },
-  "a1e3588930d7": {
-    "teks": "Kehadiran iPhone Air memicu produsen Android meluncurkan berbagai ponsel berbodi tipis sebagai alternatif di berbagai segmen harga. Galaxy S25 Edge hadir di kelas premium dengan spesifikasi tinggi, sementara Infinix Hot 60 Pro Plus dan Tecno Spark Slim menyasar kelas menengah dan bawah. Meskipun menawarkan desain ramping dengan keunggulan masing-masing, permintaan pasar untuk perangkat super tipis tersebut terpantau melemah.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T01:13:14.461Z"
-  },
-  "059ab707bb91": {
-    "teks": "Ponsel berkapasitas baterai jumbo 10.000 mAh sangat dibutuhkan oleh pengemudi ojek online, traveler, serta pekerja lapangan untuk mengurangi frekuensi pengisian daya. Beberapa pilihan perangkat di pasar Indonesia meliputi REDMI Note 17 Pro Max 5G dan OPPO A7 Pro Max 5G yang menawarkan spesifikasi modern serta teknologi pengisian cepat. REDMI hadir dengan harga mulai dari Rp7.499.000, sementara kedua ponsel tersebut dirancang untuk menunjang aktivitas navigasi dan komunikasi sepanjang hari.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T01:13:22.373Z"
-  },
-  "292580429c9b": {
-    "teks": "Amazon bekerja sama dengan X-energy dan American Electric Power untuk membiayai pembangunan fasilitas tenaga nuklir baru di Indiana. Pabrik tersebut direncanakan untuk menggantikan bekas pembangkit listrik tenaga batu bara guna memasok energi bebas karbon bagi jaringan listrik regional dan pusat data Amazon. Proyek ini menargetkan pembangunan dua belas reaktor modular kecil canggih, meskipun jadwal pembangunan maupun operasionalnya belum diumumkan. Kerja sama ini menjadi proyek nuklir kedua antara Amazon dan X-energy.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T01:13:32.738Z"
-  },
-  "cb189ef8e524": {
-    "teks": "Fitur putar otomatis pada Android Auto sering kali langsung menyalakan musik atau siniar saat ponsel terhubung ke kendaraan. Pengguna dapat mengatasi masalah ini dengan menonaktifkan tombol fitur mulai musik otomatis di menu pengaturan perangkat. Jika pemutaran tetap terjadi, menghapus memori Bluetooth kendaraan atau memeriksa perangkat lain yang terhubung dapat menjadi alternatif solusi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T01:13:42.419Z"
-  },
-  "b0fb4c056719": {
-    "teks": "Perusahaan infrastruktur AI Nscale dan Anthropic dikabarkan tengah mendekati kesepakatan komputasi senilai $45 miliar untuk kedua kalinya. Perundingan tersebut masih berlangsung dan rinciannya masih berpotensi berubah. Nilai investasi yang sangat besar ini sempat memicu kekhawatiran sebagian investor terkait potensi keuntungan, namun Anthropic tetap melanjutkan kerja sama tersebut. Di sisi lain, kedua perusahaan juga sama-sama berencana untuk melakukan penawaran umum perdana.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-20T01:13:51.592Z"
-  },
   "723b96c58238": {
     "teks": "SSD portabel Samsung P7 berteknologi USB4 dijadwalkan meluncur di Indonesia pada awal November 2026 dengan kisaran harga Rp5.991.000 hingga Rp49.785.000. Perangkat penyimpanan ini menawarkan kecepatan baca hingga 4.000 MB/s serta ketahanan terhadap guncangan dan benturan. SSD yang kompatibel dengan berbagai perangkat elektronik ini dirancang untuk mendukung kebutuhan transfer data berkapasitas besar, seperti pemrosesan konten berbasis AI dan gim berspesifikasi tinggi.",
     "penyedia": "gemini",
@@ -1496,5 +1447,33 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-11-02T17:29:47.363Z"
+  },
+  "668ca4284bcd": {
+    "teks": "Pengguna dapat memindahkan riwayat percakapan WhatsApp ke ponsel baru, baik untuk sistem operasi yang sama maupun berbeda, melalui fitur transfer langsung atau pencadangan. Sebelum memulai, pastikan kedua perangkat menggunakan nomor telepon serupa, memiliki baterai dan penyimpanan yang cukup, serta terhubung ke koneksi internet stabil. Pengguna juga disarankan tidak menghapus data atau meriset ponsel lama hingga seluruh isi obrolan berhasil dipulihkan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T01:21:08.172Z"
+  },
+  "e74d2ebd7a2a": {
+    "teks": "Vivo Y32 5G dan Redmi 12 5G sama-sama mengusung chipset Snapdragon 4 Gen 2 untuk mendukung konektivitas 5G harian. Vivo mengandalkan ketahanan bodi bersertifikasi IP68 dan IP69 serta penyegaran layar 120Hz. Sementara itu, Redmi 12 5G menawarkan tampilan visual lebih tajam dengan layar beresolusi Full HD+. Hingga kini, harga resmi Vivo Y32 5G di Indonesia masih belum dirilis.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T01:21:24.162Z"
+  },
+  "dceed86711bb": {
+    "teks": "Jay Idzes tampil penuh selama 90 menit setelah pulih dari cedera otot paha, tetapi Sassuolo takluk 2-4 dari Fiorentina pada pekan kesepuluh Serie A. Dua gol Armand Lauriente tidak mampu menyelamatkan tuan rumah dari empat gol balasan tim tamu. Kekalahan ini memperpanjang tren negatif Sassuolo yang gagal menang di lima laga terakhir dan telah kebobolan 16 gol dalam empat pertandingan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T01:21:40.318Z"
+  },
+  "993570a5e9b2": {
+    "teks": "Serangan siber melanda sistem pendingin supermarket di tujuh negara Eropa hingga menyebabkan suhu kulkas dan pembeku meningkat tajam secara mendadak. Akibat peretasan tersebut, pengelola toko terpaksa menarik serta membuang sejumlah produk makanan segar yang rusak. Insiden yang memicu dugaan sabotase ini mirip dengan serangan serupa yang merugikan ritel di Prancis bulan lalu.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T01:21:55.305Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-11-02",
-  "diperbarui": "2026-11-02T17:26:36.440Z",
+  "diperbarui": "2026-11-03T01:20:25.201Z",
   "berita": [
     {
       "id": "6254e951c6a2",
@@ -74,7 +74,8 @@
       "kategoriSumber": [
         "Space",
         "EchoStar",
-        "cellular networks",
+        "Elon Musk",
+        "SpaceX",
         "Starlink"
       ]
     },
@@ -103,7 +104,7 @@
       "kanal": "guardian-tech",
       "lajur": "global",
       "terbit": "2026-11-02T16:39:20.000Z",
-      "cuplikan": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of…",
+      "cuplikan": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops Who is hacking Europe’s supermarket fridges and freezers, and why? Supermarket chains in at least seven European countries…",
       "gambar": "https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=140&quality=85&auto=format&fit=max&s=bd257e87d40e0fdc3ad4b8c235a0da6b",
       "kategoriSumber": [
         "Sweden",
@@ -143,11 +144,11 @@
       "cuplikan": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
       "gambar": "",
       "kategoriSumber": [
-        "Startups",
         "AI",
+        "Startups",
+        "behavioral analysis",
         "Exclusive",
         "predictive analytics",
-        "behavioral analysis",
         "world models"
       ]
     },
@@ -164,7 +165,8 @@
       "kategoriSumber": [
         "AI",
         "Elon Musk",
-        "Grok"
+        "Grok",
+        "In Brief"
       ]
     },
     {
@@ -227,6 +229,22 @@
       ]
     },
     {
+      "id": "3327074e4a4a",
+      "judul": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
+      "tautan": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
+      "sumber": "Ars Technica",
+      "kanal": "ars",
+      "lajur": "global",
+      "terbit": "2026-11-02T15:57:24.000Z",
+      "cuplikan": "There was plenty of drama on and off the track for Formula 1 this weekend.",
+      "gambar": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135-1152x648.jpg",
+      "kategoriSumber": [
+        "Cars",
+        "F1",
+        "Formula 1"
+      ]
+    },
+    {
       "id": "ca5234cd9e90",
       "judul": "Pemain Tersubur Pegadaian Championship Ancam Persija Jakarta di League Cup",
       "tautan": "https://www.liputan6.com/bola/read/8327016/pemain-tersubur-pegadaian-championship-ancam-persija-jakarta-di-league-cup",
@@ -271,6 +289,20 @@
         "Company Reports",
         "San Francisco (Calif)",
         "Stocks and Bonds"
+      ]
+    },
+    {
+      "id": "eff4ce532f80",
+      "judul": "Delapan Negara Ambil Bagian, Superliga Junior 2026 Diikuti 707 Atlet Muda",
+      "tautan": "https://sports.okezone.com/read/2026/11/03/40/3251722/delapan-negara-ambil-bagian-superliga-junior-2026-diikuti-707-atlet-muda",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-11-02T15:45:22.000Z",
+      "cuplikan": "Delapan Negara Ambil Bagian, Superliga Junior 2026 Diikuti 707 Atlet Muda",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/11/03/40/3251722/superliga_junior_2026-z9vU_large.jpeg",
+      "kategoriSumber": [
+        "Netting"
       ]
     },
     {
