@@ -1461,5 +1461,26 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-11-03T04:21:15.430Z"
+  },
+  "4b5d4324d8c5": {
+    "teks": "Ponsel lipat pertama Apple, iPhone Duo, langsung habis terjual sejak diluncurkan pada akhir Oktober sehingga pihak manajemen belum dapat memastikan kapan stok kembali seimbang dengan permintaan. Di tengah tingginya minat konsumen, perusahaan berkomitmen mengganti sejumlah unit yang dilaporkan mengalami keretakan pada bagian dalam layar. Selain itu, masalah keterbatasan pasokan chip dan kenaikan biaya memori diperkirakan masih terus memengaruhi produksi perangkat Apple hingga tahun depan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T07:50:41.216Z"
+  },
+  "430daf97512f": {
+    "teks": "Kementerian Komunikasi dan Digital menyoroti risiko anak-anak terpapar kekerasan berulang akibat sistem rekomendasi algoritma media sosial yang membaca durasi tonton pengguna. Untuk mengatasi masalah tersebut, pemerintah mendorong peningkatan tanggung jawab penyedia platform digital melalui regulasi PP TUNAS guna meringankan beban pengawasan yang selama ini hanya dibebankan kepada orang tua.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T07:50:49.327Z"
+  },
+  "0e5b1d74afc9": {
+    "teks": "Teknologi kecerdasan buatan Audio Intelligence pada perangkat Apple Watch kini memasuki tahap uji coba beta bagi pengembang. Fitur baru ini menghadirkan kemampuan mengenali suara penting, mengidentifikasi lagu, serta merekam percakapan melalui fungsi Live Rewind dan Siri Recaps. Seluruh pemrosesan audio dirancang dengan memperhatikan privasi pengguna melalui sistem keamanan perangkat dan enkripsi data yang terhubung ke iPhone.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-03T07:50:57.498Z"
   }
 }
