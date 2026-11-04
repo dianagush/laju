@@ -1,7 +1,394 @@
 {
   "tanggal": "2026-11-04",
-  "diperbarui": "2026-11-04T04:19:42.110Z",
+  "diperbarui": "2026-11-04T07:27:22.119Z",
   "berita": [
+    {
+      "id": "bb0043ca5f7b",
+      "judul": "KOI soroti absennya panjat tebing di SEA Games 2027",
+      "tautan": "https://www.antaranews.com/berita/5831043/koi-soroti-absennya-panjat-tebing-di-sea-games-2027",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T07:18:13.000Z",
+      "cuplikan": "Komite Olimpiade Indonesia (KOI) menyoroti absennya sejumlah cabang olahraga unggulan Indonesia, termasuk panjat tebing ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/11/04/IMG_20261104_140630.jpg"
+    },
+    {
+      "id": "ca7c268c38ce",
+      "judul": "Melbourne Victory vs Persib Sudah Mulai, Dapatkan Link Live Streaming ACL 2",
+      "tautan": "https://www.liputan6.com/bola/read/8327752/melbourne-victory-vs-persib-sudah-mulai-dapatkan-link-live-streaming-acl-2",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T07:15:15.000Z",
+      "cuplikan": "Duel Melbourne Victory vs Persib Bandung pada ACL 2 bisa ditonton lewat Vision+.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/bHdSHx_TdmY-GAcNvPBH0EgJVhc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350260/original/075923800_1789605853-persib_1.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "fae93d3dd0d8",
+      "judul": "Pakar Siber ICSF Minta Regulasi Diperkuat Hadapi Ancaman Spionase Digital",
+      "tautan": "https://www.jawapos.com/teknologi/2611040336/pakar-siber-icsf-minta-regulasi-diperkuat-hadapi-ancaman-spionase-digital",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T07:10:29.000Z",
+      "cuplikan": "Ketua Indonesia Cyber Security Forum (ICSF) Ardi Sutedja mengatakan praktik spionase kini tidak lagi mengandalkan pengumpulan dokumen fisik tapi makin kompleks",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2025/05/15/Screenshot-2025-05-15-131353-3625289544.png"
+    },
+    {
+      "id": "0afd5d22e842",
+      "judul": "Ratusan Aplikasi AI Buat Konten Deepfake Lolos di App Store",
+      "tautan": "https://www.liputan6.com/tekno/read/8327141/ratusan-aplikasi-ai-buat-konten-deepfake-lolos-di-app-store",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T07:08:36.000Z",
+      "cuplikan": "Menyamar sebagai aplikasi layanan kebutuhan sehari-hari, ratusan aplikasi AI berhasil mengelabui App Store.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/O-0jzVwky6NIOd7a0XzGyz86tfM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5420855/original/004036200_1763814357-Apple_Umumkan_45_Finalis_App_Store_Awards_2025__A_Space_for_the_Unbound_Jadi_Wakil_Indonesia.png",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "08c5ad0d979c",
+      "judul": "Laporan ITU: Pengguna Internet Global Tembus 6,3 Miliar pada 2026",
+      "tautan": "https://ototekno.okezone.com/read/2026/11/04/16/3252032/laporan-itu-pengguna-internet-global-tembus-6-3-miliar-pada-2026",
+      "sumber": "Okezone",
+      "kanal": "okezone-techno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T07:07:43.000Z",
+      "cuplikan": "Laporan itu menyebutkan bahwa masih ada 2 miliar orang di dunia yang belum terhubung dengan internet.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/11/04/16/3252032/ilustrasi-4KEg_large.jpg",
+      "kategoriSumber": [
+        "Techno"
+      ]
+    },
+    {
+      "id": "d52e98d31a41",
+      "judul": "Lauren Price ditantang Kotaskova pertahankan gelar WBC",
+      "tautan": "https://www.antaranews.com/berita/5830975/lauren-price-ditantang-kotaskova-pertahankan-gelar-wbc",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T06:57:08.000Z",
+      "cuplikan": "Juara dunia tinju kelas welter putri (66,6 kg) World Boxing Council (WBC) Lauren Price akan mempertahankan gelarnya ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/11/04/IMG_20261104_134342.jpg"
+    },
+    {
+      "id": "0d6ad1f94e8d",
+      "judul": "Sam Altman Sebut AI Kini Lampaui Ilmuwan Terbaik dan Mampu Kerjakan Pekerjaan Profesional",
+      "tautan": "https://www.jawapos.com/teknologi/2611040332/sam-altman-sebut-ai-kini-lampaui-ilmuwan-terbaik-dan-mampu-kerjakan-pekerjaan-profesional",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T06:56:22.000Z",
+      "cuplikan": "CEO OpenAI Sam Altman menyebut model kecerdasan buatan (AI) kini pada umumnya lebih pintar daripada ilmuwan terbaik dan mampu mengerjakan berbagai tugas profesional.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/11/04/ilustrasi-kecerdasan-buatan-ai-yang-semakin-berkembang-anadolu-ajansi-5emLk.webp"
+    },
+    {
+      "id": "a5a070bbc284",
+      "judul": "LIMS Jadi Sorotan Kasus Penyadapan, Benarkah HP Bisa Dipantau Tanpa Aplikasi Tambahan?",
+      "tautan": "https://www.viva.co.id/gaya-hidup/digilife/1940972-lims-jadi-sorotan-kasus-penyadapan-benarkah-hp-bisa-dipantau-tanpa-aplikasi-tambahan",
+      "sumber": "VIVA",
+      "kanal": "viva-digital",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T06:54:00.000Z",
+      "cuplikan": "LIMS menjadi sorotan dalam kasus dugaan penyadapan di Indonesia. Kenali cara kerja sistem ini, apakah HP bisa dipantau tanpa aplikasi tambahan, dan langkah keamanan.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2020/06/18/5eeac54665aed-ilustrasi-penyadapan_665_374.jpeg",
+      "kategoriSumber": [
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "31a901e475e9",
+      "judul": "DeepSeek Kembangkan Super-Agent, Persaingan AI Tiongkok Bergeser ke Penerapan Nyata",
+      "tautan": "https://www.jawapos.com/teknologi/2611040330/deepseek-kembangkan-super-agent-persaingan-ai-tiongkok-bergeser-ke-penerapan-nyata",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T06:50:59.000Z",
+      "cuplikan": "DeepSeek mengembangkan Super-Agent, sistem kecerdasan buatan yang dirancang untuk menjalankan berbagai tugas secara bersamaan dengan lebih sedikit campur tangan manusia.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/11/04/logo-deepseek-tampil-pada-layar-ponsel-dengan-tulisan-ai-agent-di-latar-belakang-menandai-pengembangan-teknologi-agen-kecerdasan-buatan-global-times-urubj.webp"
+    },
+    {
+      "id": "80412c636c4b",
+      "judul": "Pacheco pertaruhkan gelar WBC Silver lawan raja KO Fulghum",
+      "tautan": "https://www.antaranews.com/berita/5830959/pacheco-pertaruhkan-gelar-wbc-silver-lawan-raja-ko-fulghum",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T06:45:28.000Z",
+      "cuplikan": "Juara kelas menengah super (76,2 kg) WBC Silver Diego Pacheco akan mempertahankan gelarnya melawan petinju dengan 13 ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/11/04/IMG_20261104_125202.jpg"
+    },
+    {
+      "id": "03996bf1ca71",
+      "judul": "Google Bikin Aturan Baru, Siswa Tak Bisa Pakai Search Jika Sekolah Tolak AI",
+      "tautan": "https://www.jawapos.com/teknologi/2611040324/google-bikin-aturan-baru-siswa-tak-bisa-pakai-search-jika-sekolah-tolak-ai",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T06:32:06.000Z",
+      "cuplikan": "Google memperbarui kebijakan penggunaan AI di sekolah, siswa K-12 tidak dapat akses Google Search tanpa izin administrator.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2024/01/24/bar-621033_1920-2688272367.jpg"
+    },
+    {
+      "id": "96fc0907935d",
+      "judul": "Traffic dari Google Menurun, Reddit Mulai Pasang Iklan di Hasil Pencarian",
+      "tautan": "https://www.jawapos.com/teknologi/2611040323/traffic-dari-google-menurun-reddit-mulai-pasang-iklan-di-hasil-pencarian",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T06:29:23.000Z",
+      "cuplikan": "Reddit mulai menguji iklan di hasil pencarian untuk tingkatkan pendapatan di tengah penurunan traffic.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/11/04/reddit-mulai-menguji-penempatan-iklan-di-hasil-pencarian-platformnya-dok-reddit-PttBm.webp"
+    },
+    {
+      "id": "524fd3feb8a7",
+      "judul": "Kisah Pahit Debut Megawati Hangestri, Cuma Sumbang 7 Poin saat Hyundai Hillstate Dilibas IBK Altos 0-3",
+      "tautan": "https://sports.okezone.com/read/2026/11/04/43/3252019/kisah-pahit-debut-megawati-hangestri-cuma-sumbang-7-poin-saat-hyundai-hillstate-dilibas-ibk-altos-0-3",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T06:21:24.000Z",
+      "cuplikan": "Kisah Pahit Debut Megawati Hangestri, Cuma Sumbang 7 Poin saat Hyundai Hillstate Dilibas IBK Altos 0-3",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/11/04/43/3252019/megawati_hangestri-GUgY_large.jpg",
+      "kategoriSumber": [
+        "Sport Lain"
+      ]
+    },
+    {
+      "id": "3987a701b022",
+      "judul": "Persebaya Dipermalukan Kendal Tornado, Bonek Mengamuk Lagi, Bernardo Tavares Diminta Out",
+      "tautan": "https://enamplus.liputan6.com/bola/read/8328072/persebaya-dipermalukan-kendal-tornado-bonek-mengamuk-lagi-bernardo-tavares-diminta-out",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T06:02:12.000Z",
+      "cuplikan": "Kekecewaan Bonek terhadap performa Persebaya Surabaya semakin memuncak. Setelah Bajul Ijo secara mengejutkan kalah 2-3 dari Kendal Tornado FC, klub kasta kedua, dalam babak penyisihan grup I League Cup 2026/2027, puluhan suporter…",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/eQiWWziBpWymida-HqXkEHFgz6A=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9389628/original/097025300_1793764481-20261104_bonek-protes-persebaya-kalah-451258.png",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "4801f30d8e46",
+      "judul": "William Saliba Pulih, Mikel Arteta Dilema Pikirkan Lini Belakang",
+      "tautan": "https://www.liputan6.com/bola/read/8327281/william-saliba-pulih-mikel-arteta-dilema-pikirkan-lini-belakang",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T06:00:44.000Z",
+      "cuplikan": "William Saliba kembali berlatih bersama Arsenal setelah pemulihan cedera berjalan positif. Kondisinya memberi Mikel Arteta dilema baru di lini belakang.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/SzWHB8fvmVCyrllEOXF3Qjd0sU8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4205411/original/010465700_1666852674-000_32H823R.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "72f08cf99c70",
+      "judul": "Reaksi Media Vietnam usai Calvin Verdonk Raih Man of the Match Liga Champions, Sebut Pencapaian Bersejarah di ASEAN",
+      "tautan": "https://www.viva.co.id/bola/1940962-reaksi-media-vietnam-usai-calvin-verdonk-raih-man-of-the-match-liga-champions-sebut-pencapaian-bersejarah-di-asean",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T05:53:36.000Z",
+      "cuplikan": "Media Vietnam soroti Calvin Verdonk usai pemain Timnas Indonesia itu meraih Man of the Match UEFA saat Lille imbang 0-0 melawan Bodo/Glimt di Liga Champions.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/04/6aeac7c6e7ed2-calvin-verdonk_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "eef4457044e0",
+      "judul": "Takut Dibantai Persib Lagi, Melbourne Victory Lupakan Derby di Liga Australia",
+      "tautan": "https://www.viva.co.id/bola/1940959-takut-dibantai-persib-lagi-melbourne-victory-lupakan-derby-di-liga-australia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T05:43:45.000Z",
+      "cuplikan": "Melbourne Victory tidak ingin kehilangan konsentrasi saat menghadapi Persib Bandung dalam lanjutan AFC Champions League Two (ACL 2) 2026/2027. Bahkan, mereka memilih meng",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/31/6ae59009bdd14-persib-vs-melbourne_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "3edb8e8839d8",
+      "judul": "Samsung Galaxy A58 Siap Rilis Lebih Cepat, Fitur Ini Kalahkan Galaxy S27",
+      "tautan": "https://www.liputan6.com/tekno/read/8327672/samsung-galaxy-a58-siap-rilis-lebih-cepat-fitur-ini-kalahkan-galaxy-s27",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T05:21:28.000Z",
+      "cuplikan": "Bocoran terbaru Samsung Galaxy A58 menunjukkan perangkat ini sudah mengantongi sertifikasi 3C dari Tiongkok.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/IBF4oh3_pEGWYHOiWL1eK8XK-gY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9320643/original/057037700_1786360572-galaxy-s26-ultra-15.webp",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "a404dc5117f6",
+      "judul": "Alwi Farhan tekuk Nishimoto, melaju ke 16 besar Korea Open",
+      "tautan": "https://www.antaranews.com/berita/5830807/alwi-farhan-tekuk-nishimoto-melaju-ke-16-besar-korea-open",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T05:19:25.000Z",
+      "cuplikan": "Tunggal putra Indonesia Alwi Farhan melaju ke babak 16 besar Korea Open 2026 setelah mengalahkan wakil Jepang Kenta ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/23/IMG-20261023-WA0412.jpg"
+    },
+    {
+      "id": "e741d785b845",
+      "judul": "Hasil 32 Besar Korea Open 2026: Alwi Farhan dan Mutiara Ayu Puspitasari Lolos ke 16 Besar!",
+      "tautan": "https://sports.okezone.com/read/2026/11/04/40/3252008/hasil-32-besar-korea-open-2026-alwi-farhan-dan-mutiara-ayu-puspitasari-lolos-ke-16-besar",
+      "sumber": "Okezone",
+      "kanal": "okezone-sports",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T05:16:17.000Z",
+      "cuplikan": "Dua wakil Indonesia lolos ke 16 besar Korea Open 2026, yakni Alwi Farhan dan Mutiara Ayu Puspitasari.",
+      "gambar": "https://img.okezone.com/okz/400/content/2026/11/04/40/3252008/alwi_farhan_lolos_ke_16_besar_korea_open_2026_inabadminton-yP1N_large.jpg",
+      "kategoriSumber": [
+        "Netting"
+      ]
+    },
+    {
+      "id": "3a2e18a67a58",
+      "judul": "Mutiara balas dua kekalahan dari Kim Joo Eun di Korea Open 2026",
+      "tautan": "https://www.antaranews.com/berita/5830795/mutiara-balas-dua-kekalahan-dari-kim-joo-eun-di-korea-open-2026",
+      "sumber": "ANTARA",
+      "kanal": "antara-bulutangkis",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T05:14:35.000Z",
+      "cuplikan": "Tunggal putri Indonesia Mutiara Ayu Puspitasari membalas dua kekalahan sebelumnya dari wakil tuan rumah Kim Joo Eun ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/10/21/Mutia-atur.jpg.jpeg"
+    },
+    {
+      "id": "4a233969a6f5",
+      "judul": "Delapan ribu lebih atlet bakal ramaikan Porprov VIII Kaltim",
+      "tautan": "https://www.antaranews.com/berita/5830763/delapan-ribu-lebih-atlet-bakal-ramaikan-porprov-viii-kaltim",
+      "sumber": "ANTARA",
+      "kanal": "antara-aneka",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T04:50:41.000Z",
+      "cuplikan": "Sebanyak 8.709 atlet dari 10 kabupaten/kota di Kalimantan Timur dijadwalkan mengikuti Pekan Olahraga Provinsi (Porprov) ...",
+      "gambar": "https://img.antaranews.com/cache/800x533/2026/11/04/IMG_5729.jpeg"
+    },
+    {
+      "id": "a007c586a31a",
+      "judul": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "tautan": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "sumber": "TechCrunch",
+      "kanal": "techcrunch",
+      "lajur": "global",
+      "terbit": "2026-11-04T04:45:00.000Z",
+      "cuplikan": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+      "gambar": "",
+      "kategoriSumber": [
+        "Apps",
+        "India",
+        "microdramas",
+        "NBCUniversal"
+      ]
+    },
+    {
+      "id": "d1e08d8b0218",
+      "judul": "Democrats Sweep Republicans in Nearly Every Race That Matters",
+      "tautan": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
+      "sumber": "WIRED",
+      "kanal": "wired",
+      "lajur": "global",
+      "terbit": "2026-11-04T04:42:46.000Z",
+      "cuplikan": "With massive upsets in deep red states and stunning wins in Texas, Democrats have redrawn the political map—and decisively taken the House and Senate.",
+      "gambar": "https://media.wired.com/photos/6ae8e5568f654d90749164d0/master/pass/GettyImages-2303174995.jpg",
+      "kategoriSumber": [
+        "Politics"
+      ]
+    },
+    {
+      "id": "d742e0f28f81",
+      "judul": "Jelang Melbourne Victory Vs Persib, Giovanni Savarese Puji Militansi Bobotoh",
+      "tautan": "https://www.viva.co.id/bola/1940946-jelang-melbourne-victory-vs-persib-giovanni-savarese-puji-militansi-bobotoh",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T04:41:12.000Z",
+      "cuplikan": "Pelatih Melbourne Victory Giovanni Savarese puji militansi Bobotoh jelang lawan Persib di ACL Two 2026-2027 dan berharap suporternya penuhi AAMI Park.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/15/69183ba17c9bf-suporter-persib_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "836151800d33",
+      "judul": "Chelsea Incar Alex Scott, Legenda The Blues Ungkap Satu Hal yang Harus Dilakukan",
+      "tautan": "https://www.liputan6.com/bola/read/8327775/chelsea-incar-alex-scott-legenda-the-blues-ungkap-satu-hal-yang-harus-dilakukan",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T04:30:26.000Z",
+      "cuplikan": "Gus Poyet mengingatkan Chelsea untuk menentukan masa depan para gelandangnya sebelum merekrut Alex Scott dari Bournemouth pada Januari 2027.",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/5ghjvDQVVwMBbtgR0ubO8j-9IEU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371236/original/020726800_1791778869-Perfect_afternoon_in_wolverhampton....______afcb__1_.jpg",
+      "kategoriSumber": [
+        "Bola"
+      ]
+    },
+    {
+      "id": "9adb2c5e4e60",
+      "judul": "Skenario Persib Raih Tiket 16 Besar ACL 2 di Australia",
+      "tautan": "https://www.viva.co.id/bola/1940911-skenario-persib-raih-tiket-16-besar-acl-2-di-australia",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T04:30:00.000Z",
+      "cuplikan": "Persib Bandung berpeluang mengunci tiket ke babak 16 besar AFC Champions League 2 (ACL 2) 2026/2027 saat menghadapi Melbourne Victory. Maung Bandung hanya membutuhkan sat",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/03/6ae978e425ea0-persib-bandung_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "05d9e3ef6918",
+      "judul": "Top 3 Tekno: 4 Fitur Baru WhatsApp Grup Terpopuler",
+      "tautan": "https://www.liputan6.com/tekno/read/8327900/top-3-tekno-4-fitur-baru-whatsapp-grup-terpopuler",
+      "sumber": "Liputan6",
+      "kanal": "liputan6-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T04:27:41.000Z",
+      "cuplikan": "Pembaruan WhatsApp Grup dirancang untuk membantu pengguna mengelola percakapan grup yang semakin ramai.",
+      "gambar": "https://cdn0-production-images-kly.akamaized.net/Nv8PhaQsE_5vyVcMa0r3ThbO8VU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1251739/original/043628600_1464788670-02062016-hukum-leftgrup.jpg",
+      "kategoriSumber": [
+        "Tekno"
+      ]
+    },
+    {
+      "id": "81ebcd83ac87",
+      "judul": "Skenario Persib Bandung Kunci Tiket 16 Besar ACL 2, Cukup Imbang Lawan Melbourne Victory?",
+      "tautan": "https://www.viva.co.id/bola/1940941-skenario-persib-bandung-kunci-tiket-16-besar-acl-2-cukup-imbang-lawan-melbourne-victory",
+      "sumber": "VIVA",
+      "kanal": "viva-bola",
+      "lajur": "olahraga",
+      "terbit": "2026-11-04T04:23:52.000Z",
+      "cuplikan": "Persib Bandung berpeluang amankan tiket 16 besar AFC Champions League 2 2026-2027 saat bersua Melbourne Victory. Simak skenario dan hitung-hitungan poinnya.",
+      "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/01/6ae727dd500e8-pemain-persib-bandung-mariano-peralta-dan-beckham-putra_gemini_665_374.jpg",
+      "kategoriSumber": [
+        "bola"
+      ]
+    },
+    {
+      "id": "4a6aca469a5f",
+      "judul": "Wamen Komdigi Tegaskan Daerah Tak Perlu Tunggu Infrastruktur Canggih untuk Transformasi Digital",
+      "tautan": "https://www.jawapos.com/teknologi/2611040261/wamen-komdigi-tegaskan-daerah-tak-perlu-tunggu-infrastruktur-canggih-untuk-transformasi-digital",
+      "sumber": "Jawa Pos",
+      "kanal": "jawapos-tekno",
+      "lajur": "tekno",
+      "terbit": "2026-11-04T04:22:23.000Z",
+      "cuplikan": "Wamen Nezar Patria dorong pemerintah daerah untuk berinovasi dengan teknologi sesuai kebutuhan masyarakat, tanpa menunggu infrastruktur canggih.",
+      "gambar": "https://cdn-assets.jawapos.com/images/1/2026/05/13/wakil-menteri-komunikasi-dan-digital-nezar-patria-menerima-kunjungan-pengurus-pewarta-foto-indonesia-pfi-di-kantor-kementerian-komunikasi-dan-digital-jakarta-selasa-1252026-didik-setiawan-pewarta-foto-indonesia-shsje.webp"
+    },
     {
       "id": "d132a3f41c97",
       "judul": "I.League Cup 2026/27 Resmi Bergulir, 38 Klub Berebut Gelar dan VAR Jadi Sorotan",
