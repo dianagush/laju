@@ -1,25 +1,4 @@
 {
-  "a0eab379116c": {
-    "teks": "Advan Indonesia menyampaikan permohonan maaf atas kelirunya gambar pada boks ponsel Advan X1 Neo. Bagian belakang kemasan menampilkan desain kamera punch-hole, padahal unit aslinya memakai waterdrop notch. Perbaikan ilustrasi tersebut sudah dilakukan dan akan diterapkan pada proses cetak boks selanjutnya.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T08:08:09.010Z"
-  },
-  "c3cb65ad8af1": {
-    "teks": "OpenAI meluncurkan fitur obrolan terkunci pada ChatGPT yang memungkinkan pengguna menyembunyikan riwayat percakapan sensitif. Akses ke obrolan khusus ini memerlukan PIN 4 digit atau pemindaian biometrik pada perangkat seluler. Fitur yang dirilis secara bertahap ini tidak menggunakan enkripsi end-to-end, serta akan menghapus obrolan secara permanen jika pengguna mereset PIN.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T11:40:28.230Z"
-  },
-  "b84510dac388": {
-    "teks": "Samsung dikabarkan sedang menyiapkan pembaruan antarmuka One UI 10 berbasis Android 18 yang membawa perubahan besar pada perangkat Galaxy. Selain peningkatan tampilan serta potensi pemanfaatan fitur grafis baru dari Android 18, muncul pula isu perubahan nama antarmuka menjadi Galaxy OS. Meski demikian, seluruh kabar mengenai fitur maupun pergantian nama tersebut masih sebatas rumor karena belum dikonfirmasi secara resmi oleh Samsung.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T11:40:54.962Z"
-  },
   "36cbb56336d6": {
     "teks": "Pasar ponsel papan atas diramaikan oleh kehadiran iPhone 18 Pro Max dan OPPO Find X10 Pro Max yang mengandalkan keunggulan kamera masing-masing. iPhone 18 Pro Max hadir dengan tiga kamera 48 megapiksel berdiafragma variabel dan sudah dipasarkan secara resmi di Indonesia. Sementara itu, OPPO Find X10 Pro Max mengusung tiga kamera belakang beresolusi 200 megapiksel dan baru diperkenalkan secara global dengan harga kisaran Rp24 hingga Rp29 juta di Singapura.",
     "penyedia": "gemini",
@@ -1447,5 +1426,26 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-11-04T07:27:50.677Z"
+  },
+  "5758ce81fb09": {
+    "teks": "Mantan Kapolri Listyo Sigit Prabowo bersama dua perwira Polri ditetapkan sebagai tersangka dalam kasus dugaan penyadapan ilegal terhadap Presiden Prabowo Subianto serta sejumlah tokoh. Penyelidikan mengungkap penyalahgunaan fasilitas Lawful Interception Management System milik kepolisian tanpa prosedur sah dari tahun 2025 hingga 2026. Selain itu, terdapat indikasi instruksi penghapusan berkas elektronik hasil pemantauan tersebut pada Oktober 2026.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-04T15:44:48.035Z"
+  },
+  "39970e34cbaf": {
+    "teks": "Persib Bandung dipastikan lolos ke babak 16 besar AFC Champions League Two 2026/2027 usai mengalahkan Melbourne Victory 2-1. Hasil tersebut mengokohkan posisi skuad asuhan Igor Tolic di puncak Grup E dengan rekor sempurna 12 poin dari empat laga. Meski masih menyisakan dua pertandingan melawan FC Seoul dan The Cong-Viettel, perolehan angka Persib sudah tidak dapat terkejar oleh para pesaingnya.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-04T15:45:21.205Z"
+  },
+  "954137d8d070": {
+    "teks": "TechCrunch Founder Summit akan diselenggarakan di SoWa Power Station, Boston, untuk mempertemukan para pendiri startup dan investor dalam berbagai sesi pembelajaran praktis. Acara sehari ini menghadirkan panggung utama, diskusi meja bundar terfokus, kompetisi siniar langsung, serta fasilitas jejaring bagi para peserta. Pertemuan tersebut dirancang untuk membantu para pelaku bisnis mendiskusikan strategi pengembangan perusahaan, pendanaan, hingga pengelolaan tim secara langsung.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-04T15:46:41.858Z"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-11-04T07:27:23.482Z",
+  "diperbarui": "2026-11-04T15:44:03.144Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -334,6 +334,94 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401878757/manchester-city-nottingham-forest"
+        },
+        {
+          "id": "401879244",
+          "liga": "eng.1",
+          "mulai": "2026-11-08T14:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Brighton",
+            "namaLengkap": "Brighton & Hove Albion",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/331.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Brentford",
+            "namaLengkap": "Brentford",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879244/brentford-brighton-hove-albion"
+        },
+        {
+          "id": "401879243",
+          "liga": "eng.1",
+          "mulai": "2026-11-08T14:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "C Palace",
+            "namaLengkap": "Crystal Palace",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/384.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Liverpool",
+            "namaLengkap": "Liverpool",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879243/liverpool-crystal-palace"
+        },
+        {
+          "id": "401878759",
+          "liga": "eng.1",
+          "mulai": "2026-11-08T14:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Ipswich",
+            "namaLengkap": "Ipswich Town",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/373.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Bournemouth",
+            "namaLengkap": "AFC Bournemouth",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/349.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401878759/afc-bournemouth-ipswich-town"
+        },
+        {
+          "id": "401879239",
+          "liga": "eng.1",
+          "mulai": "2026-11-08T14:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Sunderland",
+            "namaLengkap": "Sunderland",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/366.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Chelsea",
+            "namaLengkap": "Chelsea",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879239/chelsea-sunderland"
         }
       ]
     },
@@ -669,6 +757,50 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401882808/real-madrid-valencia"
+        },
+        {
+          "id": "401882814",
+          "liga": "esp.1",
+          "mulai": "2026-11-08T13:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Elche",
+            "namaLengkap": "Elche",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3751.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Betis",
+            "namaLengkap": "Real Betis",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/244.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882814/real-betis-elche"
+        },
+        {
+          "id": "401882810",
+          "liga": "esp.1",
+          "mulai": "2026-11-08T15:15:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Real Sociedad",
+            "namaLengkap": "Real Sociedad",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/89.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Rayo",
+            "namaLengkap": "Rayo Vallecano",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/101.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882810/rayo-vallecano-real-sociedad"
         }
       ]
     },
@@ -1158,6 +1290,72 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401874803/sassuolo-as-roma"
+        },
+        {
+          "id": "401874810",
+          "liga": "ita.1",
+          "mulai": "2026-11-08T11:30:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Napoli",
+            "namaLengkap": "Napoli",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/114.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Lazio",
+            "namaLengkap": "Lazio",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/112.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874810/lazio-napoli"
+        },
+        {
+          "id": "401875018",
+          "liga": "ita.1",
+          "mulai": "2026-11-08T14:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Genoa",
+            "namaLengkap": "Genoa",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3263.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Milan",
+            "namaLengkap": "AC Milan",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401875018/ac-milan-genoa"
+        },
+        {
+          "id": "401874800",
+          "liga": "ita.1",
+          "mulai": "2026-11-08T14:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Monza",
+            "namaLengkap": "Monza",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4007.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Atalanta",
+            "namaLengkap": "Atalanta",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874800/atalanta-monza"
         }
       ]
     },
@@ -1493,6 +1691,28 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401884743/werder-bremen-vfb-stuttgart"
+        },
+        {
+          "id": "401884738",
+          "liga": "ger.1",
+          "mulai": "2026-11-08T14:30:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Cologne",
+            "namaLengkap": "FC Cologne",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/122.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Leverkusen",
+            "namaLengkap": "Bayer Leverkusen",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/131.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401884738/bayer-leverkusen-fc-cologne"
         }
       ]
     },
@@ -1722,7 +1942,7 @@
         {
           "id": "401876411",
           "liga": "fra.1",
-          "mulai": "2026-11-07T16:15:00.000Z",
+          "mulai": "2026-11-07T18:00:00.000Z",
           "status": "pra",
           "detail": "Scheduled",
           "tuanRumah": {
@@ -1744,7 +1964,7 @@
         {
           "id": "401876407",
           "liga": "fra.1",
-          "mulai": "2026-11-07T19:45:00.000Z",
+          "mulai": "2026-11-07T20:05:00.000Z",
           "status": "pra",
           "detail": "Scheduled",
           "tuanRumah": {
@@ -1762,6 +1982,28 @@
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401876407/troyes-paris-saint-germain"
+        },
+        {
+          "id": "401876406",
+          "liga": "fra.1",
+          "mulai": "2026-11-08T14:00:00.000Z",
+          "status": "pra",
+          "detail": "Scheduled",
+          "tuanRumah": {
+            "nama": "Rennes",
+            "namaLengkap": "Stade Rennais",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/169.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tamu": {
+            "nama": "Lille",
+            "namaLengkap": "Lille",
+            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/166.png&w=48&h=48",
+            "skor": 0,
+            "menang": false
+          },
+          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876406/lille-stade-rennais"
         }
       ]
     }
