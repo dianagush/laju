@@ -1,102 +1,4 @@
 {
-  "1e4bce090520": {
-    "teks": "Badan Siber dan Sandi Negara mengingatkan potensi ancaman teknologi komputasi kuantum yang dapat membobol sistem enkripsi kriptografi secara cepat. Peretas berisiko menerapkan strategi mencuri data terenkripsi sekarang untuk dibuka di masa depan saat teknologi tersebut makin berkembang. Oleh karena itu, kesiapan nasional dan kerja sama antarlembaga diperlukan untuk menjaga keamanan ruang siber Indonesia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:38:56.251Z"
-  },
-  "c2a4fb42a4d0": {
-    "teks": "Ponsel Samsung terdahulu tetap mempunyai nilai ekonomi yang ditentukan oleh umur, kondisi fisik, seri perangkat, serta cara penjualannya. Penjualan secara langsung di pasaran umumnya mendatangkan keuntungan finansial yang lebih besar dibandingkan mengikuti program tukar tambah. Walaupun demikian, besaran harga tersebut bukanlah patokan resmi karena sangat bergantung pada keadaan unit serta kebijakan masing-masing penjual.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:39:05.327Z"
-  },
-  "ba1a3e353be6": {
-    "teks": "Meta menghentikan sementara fungsi berbagi percakapan pada platform AI Muse menyusul temuan celah keamanan oleh firma Claroc. Penyelidikan tersebut mendapati ribuan tautan percakapan yang memuat data pribadi dan dokumen internal dapat diakses publik akibat kelemahan struktur URL subdomain. Menanggapi temuan ini, pihak Meta langsung menangguhkan fitur tersebut untuk melakukan peninjauan dan evaluasi sistem lebih lanjut.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:39:13.402Z"
-  },
-  "7e2714c3be9d": {
-    "teks": "Vivo resmi meluncurkan ponsel vivo V80 Lite 5G di Indonesia dengan kapasitas baterai jumbo 10.000 mAh yang dibalut bodi tipis berkat teknologi BlueVolt Battery. Perangkat yang hadir dalam tiga pilihan warna dan dua kapasitas penyimpanan ini juga dilengkapi fitur reverse charging serta jaminan kesehatan baterai jangka panjang. Selama masa promosi, pembelian smartphone ini menawarkan berbagai potongan harga dan cashback menarik bagi para konsumen.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:39:21.876Z"
-  },
-  "c408b89fc3c5": {
-    "teks": "Pelatih Persija Jakarta, Shin Tae-yong, yakin timnya mampu mengakhiri catatan buruk saat menjamu Arema FC di Stadion Patriot Candrabhaga, Bekasi. Ia telah mengevaluasi kelemahan tim dari laga sebelumnya dan meminta anak asuhnya mewaspadai serangan balik lawan. Selain itu, ia menyayangkan timnya belum bisa bertanding di stadion kandang sendiri di Jakarta untuk memberikan pengalaman terbaik bagi suporter.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:39:29.934Z"
-  },
-  "7f6bb9c0aa50": {
-    "teks": "Google menghadirkan fitur kecerdasan personal ke asisten Gemini pada Android Auto dan kendaraan dengan sistem Google bawaan. Pembaruan ini memungkinkan pengguna mengakses informasi pribadi dari berbagai aplikasi Google melalui perintah suara saat berkendara. Fitur opsional tersebut mulai diluncurkan hari ini untuk pengguna Android Auto dan akan segera menyusul untuk mobil dengan sistem Google bawaan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:39:37.745Z"
-  },
-  "9dabda8095fb": {
-    "teks": "Elon Musk menyatakan bahwa rencana penggabungan antara Tesla dan SpaceX sedang dipertimbangkan secara aktif. Komite khusus dari kedua perusahaan telah dibentuk untuk membahas potensi tersebut, meskipun belum ada jaminan kesepakatan yang akan tercapai. Keputusan akhir terkait rencana merger ini nantinya harus mendapatkan persetujuan dari para pemegang saham.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:39:45.628Z"
-  },
-  "b9aeb77ac64c": {
-    "teks": "Hakim federal memutuskan untuk menghentikan gugatan hukum yang diajukan Ann Altman terhadap saudaranya, CEO OpenAI Sam Altman. Pengadilan mengambil tindakan tersebut bukan berdasarkan substansi perkara, melainkan karena penggugat menolak menjalani pemeriksaan medis independen yang telah diwajibkan. Sebelumnya, Ann menuduh CEO OpenAI tersebut melakukan pelecehan seksual saat mereka masih anak-anak, namun tuduhan yang telah dibantah keras oleh pihak keluarga tersebut kini resmi dihentikan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:39:54.331Z"
-  },
-  "64dd9d868771": {
-    "teks": "OpenAI meluncurkan fitur baru yang memungkinkan pengguna melindungi percakapan sensitif di ChatGPT menggunakan kode PIN empat digit atau sistem autentikasi ponsel. Obrolan yang dikunci akan disembunyikan dari riwayat reguler dan dikelompokkan dalam proyek khusus, meski fitur ini tidak menyediakan enkripsi ujung-ke-ujung. Fitur tersebut kini sedang digulirkan secara bertahap untuk akun gratis maupun berbayar, sementara pengaturan penyimpanan dan pelatihan data tetap tidak berubah.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T01:40:02.291Z"
-  },
-  "88bbae6e8962": {
-    "teks": "Apple dijadwalkan menggelar acara peluncuran bertema \"Pro and Tell\" di Los Angeles pada 28 Oktober mendatang. Kegiatan ini diperkirakan berfokus pada pembaruan lini komputer dan tablet, seperti MacBook layar sentuh berpanel OLED dengan cip M5 Pro dan M5 Max. Selain itu, iPad mini berlayar OLED serta jajaran Mac bertenaga cip M6 juga berpotensi diperkenalkan, meskipun kepastian detailnya masih menunggu pengumuman resmi.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T04:08:14.016Z"
-  },
-  "165a4efafae8": {
-    "teks": "Penggunaan CCTV WiFi memudahkan pengawasan rumah secara langsung melalui ponsel tanpa instalasi kabel yang rumit. Beberapa aspek penting dalam memilih perangkat ini meliputi resolusi tinggi, sudut pandang luas, fitur audio dua arah, serta kapasitas penyimpanan yang memadai. Berbagai produk seperti BARDI, Ezviz C6N, EYESEC, dan Lenovo Bridio C64 menawarkan keunggulan fitur sesuai kebutuhan ruang dalam maupun luar rumah.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T04:08:28.839Z"
-  },
-  "24b7d8334750": {
-    "teks": "SpaceX dan Tesla telah membentuk komite khusus untuk mengkaji rencana penggabungan kedua perusahaan secara lebih konkret. Elon Musk mendukung gagasan ini, tetapi tidak terlibat langsung dalam perundingan guna menghindari konflik kepentingan. Kepastian merger masih bergantung pada hasil pembahasan serta persetujuan separuh pemegang saham Tesla. Penggabungan tersebut berpotensi menyatukan lini bisnis otomotif, teknologi antariksa, dan kecerdasan buatan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T04:08:45.063Z"
-  },
-  "5835509f2b03": {
-    "teks": "Nubia Neo 5 GT 5G dan Tecno Pova 8 Pro 5G bersaing di pasar ponsel gaming Indonesia dengan layar AMOLED 144Hz serta chipset MediaTek Dimensity 7400 series. Nubia mengandalkan kipas pendingin internal, pemicu bahu, dan pengisian cepat 80W dengan kapasitas baterai 6.210 mAh. Di sisi lain, Tecno menawarkan baterai lebih besar 6.500 mAh dengan pengisian cepat 45W. Pemilihan di antara keduanya bergantung pada kebutuhan pengguna akan sistem pendingin aktif atau kapasitas baterai yang lebih besar.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T04:08:53.289Z"
-  },
-  "c7ea95b008ec": {
-    "teks": "Atlet para atletik Indonesia, Karisma Evi Tiarani, sukses mempersembahkan medali emas kelima bagi Kontingen Merah-Putih pada ajang Asian Para Games Aichi-Nagoya 2026. Tampil di Stadion Atletik Nagoya City Mizuho, Jepang, Evi menjadi yang tercepat pada nomor lari 100 meter putri T63 dengan catatan waktu 14,59 detik. Selain meraih podium tertinggi, ia juga berhasil memecahkan rekor dunia miliknya sendiri yang sebelumnya tercatat 14,64 detik.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-21T04:09:01.767Z"
-  },
   "a0eab379116c": {
     "teks": "Advan Indonesia menyampaikan permohonan maaf atas kelirunya gambar pada boks ponsel Advan X1 Neo. Bagian belakang kemasan menampilkan desain kamera punch-hole, padahal unit aslinya memakai waterdrop notch. Perbaikan ilustrasi tersebut sudah dilakukan dan akan diterapkan pada proses cetak boks selanjutnya.",
     "penyedia": "gemini",
@@ -1517,5 +1419,26 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-11-04T01:22:35.797Z"
+  },
+  "149c16c583c3": {
+    "teks": "Pemanfaatan kecerdasan buatan (AI) dalam dunia pendidikan memberikan kemudahan akses informasi dan mempercepat proses belajar. Namun, penggunaan tanpa batasan berisiko membuat siswa bergantung pada teknologi sehingga menurunkan kemandirian dan kemampuan berpikir kritis. Untuk mengatasi tantangan tersebut, tenaga pengajar dan lembaga pendidikan menerapkan pengawasan serta panduan etika agar pemanfaatan AI tetap efisien dan bijak.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-04T04:20:03.574Z"
+  },
+  "8bbd1cfe2f45": {
+    "teks": "Babak penyisihan turnamen Mobile Legends: Bang Bang Professional League Indonesia musim kedelapan belas resmi dimulai dengan mempertemukan empat tim dalam dua pertandingan penentu. Alter Ego dijadwalkan melawan ONIC pada sesi siang, sementara Bigetron by Vitality akan berhadapan dengan EVOS pada malam hari. Tim yang kalah dalam rangkaian laga pembuka tersebut harus langsung gugur dari kompetisi.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-04T04:20:49.190Z"
+  },
+  "6ffb6a095c18": {
+    "teks": "Lawful Interception Management System (LIMS) adalah sistem terpusat yang berintegrasi dengan infrastruktur operator telekomunikasi untuk mengelola pemantauan komunikasi tanpa harus meretas perangkat target. Teknologi ini bekerja melalui tingkat jaringan dengan mengidentifikasi parameter komunikasi dan mengumpulkan dua jenis data, yaitu metadata aktivitas serta isi komunikasi. Kasus penyadapan yang melibatkan nomor telepon Presiden Prabowo terjadi karena nomor tersebut diduga dimasukkan ke server LIMS tanpa melalui proses verifikasi yang sah.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-04T04:20:57.532Z"
   }
 }
