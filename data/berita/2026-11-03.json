@@ -1,6 +1,6 @@
 {
   "tanggal": "2026-11-03",
-  "diperbarui": "2026-11-04T15:44:01.901Z",
+  "diperbarui": "2026-11-05T07:52:28.290Z",
   "berita": [
     {
       "id": "2139ef77ebee",
@@ -2187,7 +2187,8 @@
         "United States Defense and Military Forces",
         "Military Bases and Installations",
         "Europe",
-        "France"
+        "France",
+        "internal-eafs"
       ]
     },
     {
@@ -4497,7 +4498,7 @@
       "sumber": "The New York Times",
       "kanal": "nyt-tech",
       "lajur": "global",
-      "terbit": "2026-11-02T18:01:24.000Z",
+      "terbit": "2026-11-02T18:01:25.000Z",
       "cuplikan": "The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.",
       "gambar": "https://static01.nyt.com/images/2026/10/29/business/00anthropic-compute/00anthropic-compute-mediumSquareAt3X.jpg",
       "kategoriSumber": [
