@@ -1,46 +1,4 @@
 {
-  "132d4b4a504a": {
-    "teks": "Kementerian Komunikasi dan Digital menegaskan bahwa jawaban chatbot AI bukan merupakan pernyataan resmi maupun bukti kebijakan pemerintah. Klarifikasi ini diberikan merespons isu pembatasan konten yang dikaitkan dengan AI, sebab teknologi tersebut dapat mengalami halusinasi dan memberikan informasi yang tidak akurat. Komdigi pun mengimbau masyarakat agar kritis memverifikasi informasi dari AI, serta meminta platform digital meningkatkan transparansi algoritma dan pelabelan konten.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T11:31:04.522Z"
-  },
-  "46ea223ab9bf": {
-    "teks": "Anthropic mengajukan proposal aturan keselamatan yang mengizinkan hakim federal AS menghentikan perilisan model AI berbahaya. Intervensi pemerintah hanya berlaku pada kasus serangan siber, senjata biologis, atau lepas kendali yang melampaui ambang batas kerugian finansial maupun korban jiwa. Evaluator independen bertugas memeriksa laboratorium dan melaporkan bahaya mendesak kepada Departemen Perdagangan AS. Namun, rancangan ini menuai sorotan akibat potensi konflik kepentingan serta batasan kriteria risiko yang ketat.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T11:31:37.843Z"
-  },
-  "88fc173bb564": {
-    "teks": "Arema FC memutus kontrak pelatih Marcos Santos setelah mengalami kekalahan 1-5 dari Persija Jakarta. Langkah ini ditempuh manajemen menyusul tren buruk klub yang gagal memetik kemenangan dalam lima laga beruntun. General Manager Yusrinal Fitriandi menegaskan bahwa pemecatan tersebut bertujuan memberikan penyegaran taktis, dengan tetap menuntaskan seluruh hak kontrak juru taktik asal Brasil itu secara profesional.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T11:31:53.529Z"
-  },
-  "3a2f269655bd": {
-    "teks": "Pasangan ganda campuran Indonesia, Amri Syahnawi dan Nita Violina Marwah, berhasil melaju ke perempat final French Open 2026. Mereka mengalahkan wakil Taiwan, Ye Hong Wei dan Nicole Gonzales Chan, dua gim langsung dengan skor 21-14, 21-12 pada babak 16 besar. Selanjutnya, Amri/Nita dijadwalkan menghadapi ganda campuran asal China, Feng Yanzhe dan Huang Dongping.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T11:32:09.066Z"
-  },
-  "be059f72c96a": {
-    "teks": "Perusahaan rintisan Warhound meraih pendanaan 200 juta dolar AS untuk menciptakan anjing kerja rekayasa genetika bagi Amerika Serikat. Melalui metode kloning dan penyuntingan gen, perusahaan bertujuan menghilangkan masalah kesehatan serta meningkatkan kemampuan penciuman. Anjing-anjing ini juga akan dibekali pelindung tubuh canggih dari Anduril, dengan kelahiran pertama ditargetkan pada awal 2027.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T11:32:24.842Z"
-  },
-  "64f5d8ef45eb": {
-    "teks": "Oura kembali menggugat Ultrahuman dan produsen lokal SVTronics di pengadilan Texas atas dugaan pelanggaran dua hak paten pada cincin pintar Ring Pro. Oura mengklaim desain dan komponen internal produk tersebut masih melanggar kekayaan intelektualnya, sehingga menuntut ganti rugi serta pelarangan penjualan di Amerika Serikat. Menanggapi tuduhan ini, Ultrahuman menegaskan akan melawan gugatan tersebut dan tetap menjual produknya di pasar AS.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T11:32:53.842Z"
-  },
   "c1b9edc239d9": {
     "teks": "Pengguna dapat meningkatkan responsivitas iPhone lama tanpa perlu langsung membeli ponsel baru melalui beberapa penyesuaian pengaturan. Langkah yang bisa diambil meliputi pembersihan ruang penyimpanan, pembatasan aktivitas latar belakang aplikasi, dan penyederhanaan efek visual antarmuka. Selain itu, kesehatan baterai perlu diperiksa untuk diganti bila perlu, atau perangkat dapat dipulihkan ke setelan awal setelah data dicadangkan.",
     "penyedia": "gemini",
@@ -1419,5 +1377,26 @@
     "model": "gemini-3.5-flash-lite",
     "dari": "artikel",
     "dibuat": "2026-11-06T07:55:35.112Z"
+  },
+  "91c57e87c63a": {
+    "teks": "Langkah Indonesia di Korea Open 2026 terhenti setelah dua wakil terakhirnya tersingkir di perempat final. Anthony Sinisuka Ginting menyerah dari Jason Gunawan melalui tiga gim, sedangkan Ni Kadek Dhinda Pratiwi kalah dua gim langsung dari Akane Yamaguchi. Hasil tersebut memastikan Indonesia tanpa perwakilan di babak semifinal sekaligus mengubur asa membawa pulang gelar dari Yeosu.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T15:53:17.908Z"
+  },
+  "b66ac9a8c0a1": {
+    "teks": "Ketua Umum PSSI Erick Thohir menyampaikan belasungkawa atas meninggalnya penyerang CD Tenerife, Jesus de Miguel, akibat benturan keras dengan kiper FC Andorra. Insiden tragis dalam pertandingan kasta kedua Liga Spanyol tersebut membuat laga dihentikan dan De Miguel dilarikan ke rumah sakit sebelum akhirnya wafat. Erick menegaskan bahwa keselamatan serta nilai kemanusiaan antarpesepak bola harus selalu diutamakan di atas kemenangan pertandingan.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T15:53:44.566Z"
+  },
+  "f592bd5c2f9c": {
+    "teks": "Netflix mengumumkan serial prekuel live-action baru berjudul Other Worlds: A Stranger Things Adventure yang dijadwalkan rilis pada 2028. Berlatar di Marion, Nevada pada 1955, kisah ini berlangsung sebelum peristiwa dalam serial utama dan pertunjukan teaternya. Proyek yang menghadirkan latar serta karakter baru tersebut digarap oleh Kate Trefry sebagai showrunner, Joe Wright selaku sutradara tiga episode awal, dan Duffer Brothers sebagai produser eksekutif.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T15:54:44.893Z"
   }
 }
