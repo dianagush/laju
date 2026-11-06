@@ -1,46 +1,4 @@
 {
-  "9146e08d5a07": {
-    "teks": "Penyebab ponsel Android terjangkau memiliki bingkai layar lebih tebal ketimbang tipe premium terletak pada penggunaan panel kaku yang membutuhkan ruang konektor. Sementara itu, bocoran Oppo Reno X mengungkap spesifikasi HP berlayar lebar dengan kapasitas baterai besar dan kamera beresolusi tinggi. Di Indonesia, perkembangan kecerdasan buatan berpotensi menciptakan lapangan kerja baru yang membutuhkan kesiapan serta peningkatan keterampilan sumber daya manusia.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T05:59:27.978Z"
-  },
-  "ffb7c4a81d02": {
-    "teks": "iBox Indonesia resmi merilis daftar harga dan promo untuk iPhone Duo yang hadir dalam varian penyimpanan 256GB hingga 2TB. Banderol resmi ponsel lipat Apple berbalut warna Star White dan Night Sky ini tercatat lebih tinggi dibandingkan perkiraan awal. Perangkat tersebut mulai tersedia pada 30 Oktober 2026 dengan tawaran skema cicilan bulanan serta beragam potongan harga aksesori dan bonus poin selama masa pemesanan awal.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T05:59:43.578Z"
-  },
-  "609d824ee51c": {
-    "teks": "Harga resmi ponsel lipat pertama Apple, iPhone Duo, di Indonesia dijual mulai Rp45,678 juta hingga Rp75,999 juta. Pemesanan gawai berkapasitas 256GB hingga 2TB ini dibuka mulai Jumat (23/10) sebelum dijual perdana pada 30 Oktober. Mengusung chip A20 Pro dan sistem operasi iOS 27, gawai khusus eSIM ini dilengkapi layar dalam 7,6 inci serta layar luar 5,4 inci.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T05:59:59.121Z"
-  },
-  "776c9248af5b": {
-    "teks": "Pemesanan awal ponsel lipat iPhone Duo di Indonesia telah dibuka oleh sejumlah distributor resmi sejak 23 Oktober 2026 sebelum penjualan resminya dimulai pada 30 Oktober. Perangkat ini hadir dalam dua pilihan warna dengan opsi kapasitas penyimpanan hingga 2 TB. Selain itu, iPhone Duo mengusung layar OLED 7,6 inci di bagian dalam dan 5,4 inci di luar yang mendukung refresh rate 120 Hz.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T06:00:13.934Z"
-  },
-  "bce9da56411f": {
-    "teks": "Posisi Michael Carrick sebagai pelatih Manchester United berada dalam tekanan setelah kekalahan telak dari Como, dengan laga kontra Bournemouth menjadi penentunya. Kepala perekrutan Christopher Vivell dilaporkan mengincar Julian Nagelsmann sebagai kandidat pengganti. Selain itu, manajemen klub juga mempertimbangkan empat nama lain, yaitu Antonio Conte, Eddie Howe, Kieran McKenna, dan Unai Emery.",
-    "penyedia": "gemini",
-    "model": "gemini-3.6-flash",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T06:00:29.839Z"
-  },
-  "771f8b81cd83": {
-    "teks": "Meta mencapai kesepakatan dengan Mark Zuckerberg untuk mengantisipasi potensi pajak kekayaan khusus di California. Berdasarkan kesepakatan tersebut, Zuckerberg berkomitmen untuk tetap tinggal di negara bagian tersebut selama delapan tahun ke depan. Sebagai imbalannya, perusahaan akan menerbitkan saham baru agar ia dapat membayar kewajiban pajak tanpa harus kehilangan kendali atas perusahaan.",
-    "penyedia": "gemini",
-    "model": "gemini-3.5-flash-lite",
-    "dari": "artikel",
-    "dibuat": "2026-10-23T06:00:46.588Z"
-  },
   "132d4b4a504a": {
     "teks": "Kementerian Komunikasi dan Digital menegaskan bahwa jawaban chatbot AI bukan merupakan pernyataan resmi maupun bukti kebijakan pemerintah. Klarifikasi ini diberikan merespons isu pembatasan konten yang dikaitkan dengan AI, sebab teknologi tersebut dapat mengalami halusinasi dan memberikan informasi yang tidak akurat. Komdigi pun mengimbau masyarakat agar kritis memverifikasi informasi dari AI, serta meminta platform digital meningkatkan transparansi algoritma dan pelabelan konten.",
     "penyedia": "gemini",
@@ -1412,5 +1370,54 @@
     "model": "gemini-3.6-flash",
     "dari": "artikel",
     "dibuat": "2026-11-05T16:29:57.547Z"
+  },
+  "2e03cf334db6": {
+    "teks": "realme merilis gawai terbarunya, realme C01, di Indonesia pada 6 November 2026 untuk menunjang penggunaan harian. Ponsel pintar ini mengusung baterai berkapasitas 6500 mAh, dapur pacu UNISOC T7250, serta layar 6,8 inci dengan refresh rate 120Hz. Selain dibekali ketahanan bodi berstandar militer dan sertifikasi IP64, perangkat berfitur NFC ini sudah resmi dipasarkan secara daring maupun luring.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T07:54:13.518Z"
+  },
+  "2ec1ab41f158": {
+    "teks": "Isu penyadapan melalui Lawful Interception Management System pada jaringan operator mendorong pakar keamanan siber menyarankan penggunaan aplikasi komunikasi terenkripsi dan pembaruan perangkat secara rutin. Penyadapan jaringan ini mampu merekam percakapan telepon biasa beserta metadatanya tanpa menginfeksi ponsel target. Sementara itu, Apple tengah menguji pembaruan iOS 27.3 Beta yang menghadirkan tampilan baru pada peramban Safari, aplikasi Health, serta peningkatan asisten digital Siri AI.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T07:54:30.062Z"
+  },
+  "30a898cbe25e": {
+    "teks": "Xiaomi resmi menjadwalkan pembagian pembaruan HyperOS 4 secara bertahap untuk lini ponsel Xiaomi, Redmi, dan POCO hingga Desember 2026. Pembaruan sistem operasi ini menawarkan penyegaran antarmuka, efisiensi performa, serta fitur kecerdasan buatan Xiaomi HyperAI pada perangkat tertentu. Peluncuran global tersebut dilaksanakan dalam beberapa gelombang tergantung wilayah maupun model ponsel, dengan mengutamakan deretan perangkat terbaru.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T07:54:47.037Z"
+  },
+  "10cbea4dfe54": {
+    "teks": "Marc Marquez memilih tidak terburu-buru mengunci gelar juara dunia MotoGP 2026 pada balapan di Qatar. Kendati berada di puncak klasemen, pembalap Ducati Lenovo ini menganggap sirkuit tersebut bukan favoritnya karena pernah mengalami kesulitan di sana. Namun, Marquez tetap berbekal catatan baik musim lalu ketika ia sukses memenangi Sprint Race dan balapan utama.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T07:55:04.910Z"
+  },
+  "1b2cd34996e1": {
+    "teks": "Pembalap Honda Team Asia, Veda Ega Pratama, merasa optimis menghadapi Moto3 Qatar 2026 di Sirkuit Internasional Lusail. Kepercayaan diri pembalap ini meningkat setelah meraih posisi kedua pada seri balapan di Malaysia. Selain menyukai trek tersebut, Veda juga berbekal hasil bagus dari pengalamannya bertanding di sana saat berkompetisi di Asia Talent Cup.",
+    "penyedia": "gemini",
+    "model": "gemini-3.6-flash",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T07:55:19.187Z"
+  },
+  "6053cf3db6bf": {
+    "teks": "The New York Times Company dilaporkan sedang melakukan negosiasi eksklusif untuk mengambil alih platform film Letterboxd dengan nilai 330 juta dolar AS. Platform pencinta film tersebut mengalami pertumbuhan pesat dengan pencapaian 28 juta pengguna pada bulan April lalu, dan sebagian besar penggunanya berusia di bawah 35 tahun. Sebelum negosiasi ini, Letterboxd sempat diminati oleh beberapa pihak lain termasuk studio film A24 dan Sony.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T07:55:27.187Z"
+  },
+  "01af2f668ade": {
+    "teks": "Airbnb berencana meluncurkan agen perjalanan berbasis kecerdasan buatan pada paruh pertama tahun 2027. Fitur baru tersebut dirancang khusus dengan antarmuka visual yang menampilkan foto, peta, dan perbandingan, berbeda dari chatbot konvensional berbasis teks. Perusahaan menyebut teknologi ini akan membantu pengguna merencanakan perjalanan serta menangani berbagai kebutuhan layanan selama perjalanan berlangsung.",
+    "penyedia": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "dari": "artikel",
+    "dibuat": "2026-11-06T07:55:35.112Z"
   }
 }

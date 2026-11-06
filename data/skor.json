@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-11-05T16:24:49.927Z",
+  "diperbarui": "2026-11-06T07:53:10.217Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -895,50 +895,6 @@
     "ita.1": {
       "nama": "Serie A",
       "laga": [
-        {
-          "id": "401874976",
-          "liga": "ita.1",
-          "mulai": "2026-10-29T17:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Frosinone",
-            "namaLengkap": "Frosinone",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4057.png&w=48&h=48",
-            "skor": 5,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Lecce",
-            "namaLengkap": "Lecce",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/113.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874976/lecce-frosinone"
-        },
-        {
-          "id": "401874969",
-          "liga": "ita.1",
-          "mulai": "2026-10-29T19:45:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Fiorentina",
-            "namaLengkap": "Fiorentina",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/109.png&w=48&h=48",
-            "skor": 2,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Atalanta",
-            "namaLengkap": "Atalanta",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/105.png&w=48&h=48",
-            "skor": 2,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401874969/atalanta-fiorentina"
-        },
         {
           "id": "401874798",
           "liga": "ita.1",
