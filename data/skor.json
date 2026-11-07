@@ -1,5 +1,5 @@
 {
-  "diperbarui": "2026-11-06T15:52:26.543Z",
+  "diperbarui": "2026-11-07T07:01:53.922Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
@@ -229,20 +229,20 @@
           "id": "401879242",
           "liga": "eng.1",
           "mulai": "2026-11-06T20:00:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Everton",
             "namaLengkap": "Everton",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/368.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
+            "skor": 3,
+            "menang": true
           },
           "tamu": {
             "nama": "Coventry",
             "namaLengkap": "Coventry City",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/388.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401879242/coventry-city-everton"
@@ -451,28 +451,6 @@
       "nama": "LaLiga",
       "laga": [
         {
-          "id": "401882817",
-          "liga": "esp.1",
-          "mulai": "2026-10-30T20:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Villarreal",
-            "namaLengkap": "Villarreal",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/102.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Espanyol",
-            "namaLengkap": "Espanyol",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/88.png&w=48&h=48",
-            "skor": 1,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882817/espanyol-villarreal"
-        },
-        {
           "id": "401882820",
           "liga": "esp.1",
           "mulai": "2026-10-31T13:00:00.000Z",
@@ -674,8 +652,8 @@
           "id": "401882809",
           "liga": "esp.1",
           "mulai": "2026-11-06T20:00:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Sevilla",
             "namaLengkap": "Sevilla",
@@ -1119,20 +1097,20 @@
           "id": "401874815",
           "liga": "ita.1",
           "mulai": "2026-11-06T19:45:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Venezia",
             "namaLengkap": "Venezia",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17530.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
+            "skor": 2,
+            "menang": true
           },
           "tamu": {
             "nama": "Udinese",
             "namaLengkap": "Udinese",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/118.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401874815/udinese-venezia"
@@ -1341,28 +1319,6 @@
       "nama": "Bundesliga",
       "laga": [
         {
-          "id": "401884746",
-          "liga": "ger.1",
-          "mulai": "2026-10-30T19:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Elversberg",
-            "namaLengkap": "SV Elversberg",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10388.png&w=48&h=48",
-            "skor": 4,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Mainz",
-            "namaLengkap": "Mainz",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2950.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401884746/mainz-sv-elversberg"
-        },
-        {
           "id": "401884753",
           "liga": "ger.1",
           "mulai": "2026-10-31T14:30:00.000Z",
@@ -1542,20 +1498,20 @@
           "id": "401884739",
           "liga": "ger.1",
           "mulai": "2026-11-06T19:30:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Hamburg",
             "namaLengkap": "Hamburg SV",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/127.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
+            "skor": 3,
+            "menang": true
           },
           "tamu": {
             "nama": "Gladbach",
             "namaLengkap": "Borussia Mönchengladbach",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/268.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401884739/borussia-monchengladbach-hamburg-sv"
@@ -1742,72 +1698,6 @@
       "nama": "Ligue 1",
       "laga": [
         {
-          "id": "401876421",
-          "liga": "fra.1",
-          "mulai": "2026-10-30T18:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Le Havre AC",
-            "namaLengkap": "Le Havre AC",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3236.png&w=48&h=48",
-            "skor": 1,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "PSG",
-            "namaLengkap": "Paris Saint-Germain",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&w=48&h=48",
-            "skor": 5,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876421/paris-saint-germain-le-havre-ac"
-        },
-        {
-          "id": "401876416",
-          "liga": "fra.1",
-          "mulai": "2026-10-30T18:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Nice",
-            "namaLengkap": "Nice",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2502.png&w=48&h=48",
-            "skor": 5,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Rennes",
-            "namaLengkap": "Stade Rennais",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/169.png&w=48&h=48",
-            "skor": 2,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876416/stade-rennais-nice"
-        },
-        {
-          "id": "401876420",
-          "liga": "fra.1",
-          "mulai": "2026-10-30T20:05:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Lille",
-            "namaLengkap": "Lille",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/166.png&w=48&h=48",
-            "skor": 1,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Lens",
-            "namaLengkap": "Lens",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/175.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401876420/lens-lille"
-        },
-        {
           "id": "401876413",
           "liga": "fra.1",
           "mulai": "2026-10-31T19:45:00.000Z",
@@ -1943,20 +1833,20 @@
           "id": "401876405",
           "liga": "fra.1",
           "mulai": "2026-11-06T19:45:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "selesai",
+          "detail": "FT",
           "tuanRumah": {
             "nama": "Toulouse",
             "namaLengkap": "Toulouse",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/179.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
+            "skor": 3,
+            "menang": true
           },
           "tamu": {
             "nama": "Strasbourg",
             "namaLengkap": "Strasbourg",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/180.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tautan": "https://www.espn.com/soccer/match/_/gameId/401876405/strasbourg-toulouse"
