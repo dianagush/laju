@@ -1,32 +1,10 @@
 {
-  "diperbarui": "2026-11-07T07:01:53.922Z",
+  "diperbarui": "2026-11-07T13:55:35.287Z",
   "sumber": "ESPN",
   "liga": {
     "eng.1": {
       "nama": "Liga Inggris",
       "laga": [
-        {
-          "id": "401879248",
-          "liga": "eng.1",
-          "mulai": "2026-10-31T12:30:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Chelsea",
-            "namaLengkap": "Chelsea",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tamu": {
-            "nama": "Man Utd",
-            "namaLengkap": "Manchester United",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401879248/manchester-united-chelsea"
-        },
         {
           "id": "401879251",
           "liga": "eng.1",
@@ -251,8 +229,8 @@
           "id": "401878758",
           "liga": "eng.1",
           "mulai": "2026-11-07T12:30:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "berlangsung",
+          "detail": "63'",
           "tuanRumah": {
             "nama": "Leeds",
             "namaLengkap": "Leeds United",
@@ -267,7 +245,7 @@
             "skor": 0,
             "menang": false
           },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401878758/tottenham-hotspur-leeds-united"
+          "tautan": ""
         },
         {
           "id": "401878760",
@@ -450,28 +428,6 @@
     "esp.1": {
       "nama": "LaLiga",
       "laga": [
-        {
-          "id": "401882820",
-          "liga": "esp.1",
-          "mulai": "2026-10-31T13:00:00.000Z",
-          "status": "selesai",
-          "detail": "FT",
-          "tuanRumah": {
-            "nama": "Levante",
-            "namaLengkap": "Levante",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1538.png&w=48&h=48",
-            "skor": 0,
-            "menang": false
-          },
-          "tamu": {
-            "nama": "Atlético",
-            "namaLengkap": "Atlético Madrid",
-            "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&w=48&h=48",
-            "skor": 2,
-            "menang": true
-          },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882820/atletico-madrid-levante"
-        },
         {
           "id": "401882818",
           "liga": "esp.1",
@@ -674,13 +630,13 @@
           "id": "401882812",
           "liga": "esp.1",
           "mulai": "2026-11-07T13:00:00.000Z",
-          "status": "pra",
-          "detail": "Scheduled",
+          "status": "berlangsung",
+          "detail": "HT",
           "tuanRumah": {
             "nama": "Málaga",
             "namaLengkap": "Málaga",
             "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/99.png&w=48&h=48",
-            "skor": 0,
+            "skor": 1,
             "menang": false
           },
           "tamu": {
@@ -690,7 +646,7 @@
             "skor": 0,
             "menang": false
           },
-          "tautan": "https://www.espn.com/soccer/match/_/gameId/401882812/racing-santander-malaga"
+          "tautan": ""
         },
         {
           "id": "401882813",
